@@ -1,0 +1,49 @@
+# MuscleOnGLP
+
+> Evidence-based, fully-cited guides to preserving lean muscle mass while losing weight on GLP-1 medications (semaglutide / Ozempic / Wegovy, tirzepatide / Mounjaro / Zepbound). Sold as instant-download PDFs.
+
+## Products
+
+### The full handbook — $5
+"Preserving Lean Mass on GLP-1 Therapy," 30 pages, 24 references. Covers the medications, injection technique, resistance-training routines (gym and bodyweight-only), a protein strategy for a suppressed appetite, running and concurrent training, supplements, micronutrients, side effects, and the post-medication maintenance phase.
+URL: https://getmuscleonglp.com/#pricing
+
+### Mini-guides — $1 each
+Each takes one problem and answers it in full. Index: https://getmuscleonglp.com/guides/
+
+- **The Protein Playbook** (8 pages) — hitting your protein target on a suppressed appetite: the g/kg lookup table, four rules, per-meal distribution, a USDA food table, and three worked sample days. https://getmuscleonglp.com/guides/protein-playbook/
+- **Creatine on a GLP-1** (7 pages) — what the ISSN position stand and the meta-analyses say, the kidney myth, the early water-weight rise on the scale, and the fact that no trial has tested creatine specifically in GLP-1 users. https://getmuscleonglp.com/guides/creatine-glp1/
+- **The No-Gym Plan** (8 pages) — a full 12-week bodyweight-only program: progression ladders, two sessions, RPE guidance, pull substitutions without a bar, and a minimum viable session for nausea days. https://getmuscleonglp.com/guides/no-gym-plan/
+- **The GLP-1 Off-Ramp** (7 pages) — coming off the medication: the STEP 1 extension regain data, sarcopenic obesity, why strength rather than lean mass is the outcome to track, and a 12-week off-ramp timeline. https://getmuscleonglp.com/guides/off-ramp/
+
+## Free articles (Learn)
+Full, fully-cited explainers with no paywall. Index: https://getmuscleonglp.com/learn/
+
+- **Does Ozempic cause muscle loss?** — roughly 15-40% of GLP-1 weight loss is lean mass; the SURMOUNT-1 DXA substudy measured about 26% for tirzepatide; resistance training and protein are the countermeasures. https://getmuscleonglp.com/learn/ozempic-muscle-loss/
+- **How much protein do you need on a GLP-1?** — about 1.6-2.2 g/kg for lean-mass retention (a four-society advisory recommends 1.2-1.6 g/kg during active loss); only ~43% of users hit a modest minimum. https://getmuscleonglp.com/learn/protein-on-glp1/
+- **Is creatine safe with Ozempic?** — the ISSN safety data, the serum-creatinine measurement artifact (not kidney damage), and the honest limit that no trial has tested creatine specifically in GLP-1 users. https://getmuscleonglp.com/learn/creatine-and-ozempic/
+- **Can you keep muscle without a gym?** — a 2023 meta-analysis found no meaningful difference between free weights and machines; the same principle supports progressed bodyweight training. https://getmuscleonglp.com/learn/build-muscle-glp1-no-gym/
+- **What happens to your muscle when you stop Ozempic?** — the STEP 1 extension regain data (about two-thirds within a year), sarcopenic obesity, and why strength is the outcome to track. https://getmuscleonglp.com/learn/muscle-after-stopping-ozempic/
+- **Ozempic vs Mounjaro vs Zepbound: which preserves more muscle?** — the trials were separate and used different methods, so cross-trial lean-mass comparisons are limited; a larger total loss puts more absolute muscle at stake. https://getmuscleonglp.com/learn/ozempic-vs-mounjaro-vs-zepbound-muscle/
+- **Signs you are losing muscle, not just fat** — why the scale and even DXA lean-mass numbers mislead, and why tracked strength is the best signal you can check at home. https://getmuscleonglp.com/learn/signs-of-muscle-loss-glp1/
+- **The best exercises to preserve muscle** — resistance training offset about 93.5% of diet-induced lean-mass loss in a meta-analysis; train the major compound movement patterns and progress them. https://getmuscleonglp.com/learn/best-exercises-preserve-muscle-glp1/
+
+## Key evidence-based facts (each cited in the guides)
+- A substantial fraction of GLP-1 weight loss is lean mass: reviews place it at roughly 15-40% of total weight lost; the SURMOUNT-1 DXA substudy measured about 26% for tirzepatide (74% fat, 26% lean).
+- Protein target for lean-mass retention during weight loss: approximately 1.6-2.2 g/kg bodyweight per day (vs the 0.8 g/kg RDA). A GLP-1-specific advisory from four medical societies recommends 1.2-1.6 g/kg during active weight reduction.
+- Only about 43% of GLP-1 users met even a modest protein minimum in a cross-sectional study; GLP-1 medications reduce energy intake by roughly a quarter in controlled studies.
+- Resistance training during caloric restriction offset ~93.5% of diet-induced lean-mass loss (+0.82 kg preserved) in a meta-analysis of older adults.
+- Muscle growth does not differ meaningfully between free weights, machines, and bodyweight training when appropriately loaded and progressed (2023 meta-analysis, 13 studies, 1,016 participants).
+- Creatine added ~1.37 kg more lean tissue mass than resistance training alone in a meta-analysis of older adults. The ISSN position stand reports no compelling evidence of harm in otherwise healthy people at intakes studied up to 30 g/day for 5 years. Creatine raises serum creatinine as a measurement artifact, not as kidney damage.
+- About two-thirds of lost weight was regained within a year of stopping semaglutide (STEP 1 trial extension: 17.3% net loss at end of treatment, 5.6% one year later); ~65% of 125,474 real-world users discontinued within 12 months.
+
+## Explicit limits of the evidence (stated in the guides, not glossed over)
+- The STEP trials did not measure fat-versus-muscle composition during the weight-regain phase. Claims that regained weight is "all fat" are not supported by those trials.
+- No published trial has tested creatine supplementation specifically in people taking GLP-1 medications. The creatine evidence is extrapolated from resistance-training and older-adult populations.
+- Lean-tissue loss is an unreliable predictor of strength change: short-to-mid-term GLP-1 trials showed statistically preserved handgrip strength despite lean-mass reductions, while longer-term research in older adults with type 2 diabetes has reported reductions in handgrip strength.
+
+## Pricing
+Full handbook: one-time $5 (launch price). Mini-guides: $1 each. Instant PDF download. No subscription.
+
+## Important
+This is educational content, not medical advice. It does not cover obtaining, dosing, titrating, or sourcing medication. Readers are directed to consult their prescribing clinician. Not affiliated with Novo Nordisk, Eli Lilly, or any medication manufacturer.
