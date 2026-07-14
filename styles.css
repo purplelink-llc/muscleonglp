@@ -169,6 +169,8 @@ img { max-width: 100%; display: block; }
 .price-card { max-width: 560px; margin: 44px auto 0; background: #fff; border: 2px solid var(--accent); border-radius: var(--radius-lg); box-shadow: var(--shadow-lg); overflow: hidden; }
 .price-top { background: var(--accent); color: #fff; padding: 26px 32px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
 .price-top h3 { color: #fff; font-size: 1.4rem; }
+.price-card-featured { box-shadow: 0 22px 55px rgba(47,111,94,.30); }
+.price-top .tag { display: inline-block; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; background: #fff; color: var(--accent); padding: 3px 10px; border-radius: 100px; margin-left: 10px; vertical-align: middle; }
 .price-top .p { display: flex; align-items: baseline; gap: 8px; }
 .price-top .now { font-size: 2.4rem; font-weight: 800; font-family: var(--font-display); }
 .price-top .was { opacity: .7; text-decoration: line-through; }

@@ -21,6 +21,18 @@ export const PRODUCTS = {
     title: "Preserving Lean Mass on GLP-1 Therapy",
     file: "preserving-lean-mass-on-glp1.pdf",
   },
+  // The Complete Pack: the main guide + all four companion guides merged into
+  // one 60-page PDF. A distinct product with its own Stripe Price and its own
+  // merged file, so it rides the exact same single-file download/webhook path
+  // as every other product (no multi-file fulfillment code). This is the
+  // headline "best value" tier — it lifts the typical order from the $5 main
+  // guide to the pack.
+  "complete-pack": {
+    envKey: "STRIPE_PRICE_COMPLETE_PACK",
+    successPath: "/success/complete-pack/",
+    title: "The Complete GLP-1 Muscle Pack",
+    file: "complete-pack.pdf",
+  },
   "protein-playbook": {
     envKey: "STRIPE_PRICE_PROTEIN_PLAYBOOK",
     successPath: "/success/protein-playbook/",
