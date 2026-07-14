@@ -32,18 +32,18 @@ export default async function handler(request) {
   }
   // Honor Do Not Track at the edge too.
   if (request.headers.get("dnt") === "1") {
-    return new Response("", { status: 204 });
+    return new Response(null, { status: 204 });
   }
   const ua = request.headers.get("user-agent") || "";
   if (BOT_RE.test(ua)) {
-    return new Response("", { status: 204 });
+    return new Response(null, { status: 204 });
   }
 
   let b;
   try {
     b = await request.json();
   } catch (_) {
-    return new Response("", { status: 204 });
+    return new Response(null, { status: 204 });
   }
 
   const type = clip(b.t || "pageview", 32);
@@ -68,5 +68,5 @@ export default async function handler(request) {
   } catch (_) {
     // Never let analytics failure surface to the visitor.
   }
-  return new Response("", { status: 204 });
+  return new Response(null, { status: 204 });
 }

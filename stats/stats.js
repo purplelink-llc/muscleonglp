@@ -43,13 +43,13 @@
           var v = d.byDay[day];
           return [day, v.pageviews, v.uniques, v.subscribes, v.checkoutClicks];
         });
-        html += table("By day", byDay, ["Day", "Views", "Uniques", "Signups", "Checkout clicks"]);
-        html += table("Top pages", (d.topPaths || []).map(function (x) { return [x.key, x.count]; }), ["Path", "Views"]);
-        html += table("Top referrers (channel)", (d.topReferrers || []).map(function (x) { return [x.key, x.count]; }), ["Referrer host", "Views"]);
-        html += table("UTM sources", (d.topUtm || []).map(function (x) { return [x.key, x.count]; }), ["utm_source", "Views"]);
+        html += table("Day by day", byDay, ["Day", "Views", "Visitors", "Signups", "Checkout clicks"]);
+        html += table("Most-viewed pages", (d.topPaths || []).map(function (x) { return [x.key, x.count]; }), ["Page", "Views"]);
+        html += table("Where visitors came from", (d.topReferrers || []).map(function (x) { return [x.key, x.count]; }), ["Site", "Views"]);
+        html += table("Campaign tags", (d.topUtm || []).map(function (x) { return [x.key, x.count]; }), ["utm_source", "Views"]);
         html += table("Checkout clicks by product", (d.checkoutByProduct || []).map(function (x) { return [x.key, x.count]; }), ["Product", "Clicks"]);
-        html += table("Signups by source", (d.subscribeBySource || []).map(function (x) { return [x.key, x.count]; }), ["Source", "Signups"]);
-        html += "<p class='guarantee' style='text-align:left;margin-top:24px'>Generated " + esc(d.generatedAt || "") + "</p>";
+        html += table("Signups by page", (d.subscribeBySource || []).map(function (x) { return [x.key, x.count]; }), ["Page", "Signups"]);
+        html += "<p class='guarantee' style='text-align:left;margin-top:24px'>Updated " + esc(d.generatedAt || "") + "</p>";
         out.innerHTML = html;
       })
       .catch(function (err) {
