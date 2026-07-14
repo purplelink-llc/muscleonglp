@@ -52,6 +52,7 @@
         return;
       }
 
+      if (window.mogTrack) window.mogTrack("checkout_click", product);
       setState("Opening checkout…", true);
       setStatus("Opening checkout…", false);
 

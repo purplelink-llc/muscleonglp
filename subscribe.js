@@ -54,6 +54,7 @@
           return resp.json();
         })
         .then(function () {
+          if (window.mogTrack) window.mogTrack("subscribe", source);
           // Replace the form with a thank-you + the free download.
           var thanks = document.createElement("div");
           thanks.className = "subscribe-thanks";
