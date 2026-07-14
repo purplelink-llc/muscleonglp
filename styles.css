@@ -170,6 +170,12 @@ img { max-width: 100%; display: block; }
 .price-top { background: var(--accent); color: #fff; padding: 26px 32px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
 .price-top h3 { color: #fff; font-size: 1.4rem; }
 .price-card-featured { box-shadow: 0 22px 55px rgba(47,111,94,.30); }
+.related-reading { margin: 44px 0; padding: 28px 32px; background: var(--bg-alt); border: 1px solid var(--line); border-radius: var(--radius); }
+.related-reading h2 { font-size: 1.15rem; margin-bottom: 14px; }
+.related-reading ul { list-style: none; display: grid; gap: 11px; }
+.related-reading li { display: flex; gap: 10px; align-items: baseline; }
+.related-reading li::before { content: "\2192"; color: var(--accent); font-weight: 700; flex: none; }
+.related-reading a { font-weight: 600; }
 .price-top .tag { display: inline-block; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; background: #fff; color: var(--accent); padding: 3px 10px; border-radius: 100px; margin-left: 10px; vertical-align: middle; }
 .price-top .p { display: flex; align-items: baseline; gap: 8px; }
 .price-top .now { font-size: 2.4rem; font-weight: 800; font-family: var(--font-display); }
