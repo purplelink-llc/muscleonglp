@@ -15,7 +15,7 @@
  */
 (function () {
   "use strict";
-  var TAG = ""; // <-- put your Amazon Associates tag here to go live
+  var TAG = "purplelinkpl-20"; // <-- put your Amazon Associates tag here to go live
 
   if (!TAG) return;
 
