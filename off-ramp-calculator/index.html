@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GLP-1 Weight Regain Calculator: What Happens After You Stop | MuscleOnGLP</title>
+<meta name="description" content="Free calculator: how much weight you're likely to regain after stopping a GLP-1, and how a gradual taper and preserved muscle change the trajectory. Anchored to the STEP 1 trial extension. Every figure cited.">
+<meta name="keywords" content="glp-1 weight regain calculator, weight regain after ozempic, stopping wegovy weight gain, mounjaro off-ramp, how much weight regain after glp-1, zepbound maintenance calculator">
+<link rel="canonical" href="https://getmuscleonglp.com/off-ramp-calculator/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="author" content="MuscleOnGLP">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="MuscleOnGLP">
+<meta property="og:title" content="GLP-1 Weight Regain Calculator: What Happens After You Stop">
+<meta property="og:description" content="How much weight you're likely to regain after stopping a GLP-1, and how a taper plus preserved muscle change the picture. Anchored to trial data.">
+<meta property="og:url" content="https://getmuscleonglp.com/off-ramp-calculator/">
+<meta property="og:image" content="https://getmuscleonglp.com/assets/og-card.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="GLP-1 Weight Regain Calculator">
+<meta name="twitter:description" content="Project your weight regain after stopping a GLP-1, and how a taper plus muscle change it. Based on trial data.">
+<meta name="twitter:image" content="https://getmuscleonglp.com/assets/og-card.png">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "GLP-1 Weight Regain Calculator",
+  "url": "https://getmuscleonglp.com/off-ramp-calculator/",
+  "applicationCategory": "HealthApplication",
+  "operatingSystem": "Any (web browser)",
+  "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+  "description": "Free calculator projecting weight regain after stopping a GLP-1 medication, anchored to the STEP 1 trial extension, with the effect of a gradual taper and preserved muscle."
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much weight do people regain after stopping a GLP-1?",
+      "acceptedAnswer": { "@type": "Answer", "text": "In the best-documented trial, the STEP 1 extension, participants regained about two-thirds of their lost weight within a year of stopping semaglutide: mean net weight loss fell from 17.3 percent at the end of treatment to 5.6 percent twelve months later. That is the trial-level expectation for a full stop with nothing replacing the medication's effect on appetite." }
+    },
+    {
+      "@type": "Question",
+      "name": "Does tapering off slowly reduce weight regain?",
+      "acceptedAnswer": { "@type": "Answer", "text": "There is no trial that isolates a taper schedule, so the calculator models a gradual taper as reducing regain relative to a cold stop, based on the principle that a slower return of appetite and continued lifestyle habits blunt rebound. Treat the taper and muscle lines as directional projections; the one trial-measured figure is the two-thirds regained after a full stop." }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does preserving muscle matter for regain?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Muscle is metabolically active tissue, so arriving at your exit with more of it means a higher resting metabolism and more reserve. The bigger risk is composition: if you regain fat while muscle stays low, you trend toward a sarcopenic-obesity pattern. The loss phase, while you are still on the medication, is when you have the most control over how much muscle you carry into maintenance." }
+    }
+  ]
+}
+</script>
+<link rel="icon" type="image/png" href="/assets/favicon.png">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-inner">
+    <a class="brand" href="/"><span class="brand-mark">M</span> MuscleOnGLP</a>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="/research/">Research</a>
+      <a href="/learn/">Learn</a>
+      <a href="/guides/">Mini-Guides</a>
+      <a href="/tools/">Calculators</a>
+      <a href="/#evidence">The Evidence</a>
+      <a class="btn btn-primary nav-cta" href="/#pricing">The Full Handbook</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<article>
+  <header class="article-hero">
+    <div class="wrap">
+      <p class="crumbs"><a href="/">Home</a><span>/</span>Weight-regain calculator</p>
+      <p class="article-eyebrow">Free tool</p>
+      <h1>GLP-1 weight-regain calculator</h1>
+      <p class="article-dek">What happens to your weight after you stop, and how a gradual taper and the muscle you kept change the trajectory. Anchored to the STEP 1 trial data, honest about what is measured and what is modeled.</p>
+    </div>
+  </header>
+
+  <section class="section" style="padding-top:20px">
+    <div class="wrap" style="max-width:820px">
+      <form id="calc" novalidate class="price-card price-card-featured" style="max-width:none;margin:0">
+        <div class="price-body" style="padding:26px 28px 30px">
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px">
+            <div>
+              <label for="weight" style="display:block;font-weight:650;margin-bottom:6px;font-size:0.9rem">Current weight</label>
+              <div style="display:flex;gap:8px">
+                <input id="weight" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 170" class="calc-in" style="flex:1 1 auto;min-width:0">
+                <select id="weightUnit" class="calc-in" style="flex:0 0 auto;width:auto"><option value="lb">lb</option><option value="kg">kg</option></select>
+              </div>
+            </div>
+            <div>
+              <label for="lost" style="display:block;font-weight:650;margin-bottom:6px;font-size:0.9rem">Weight lost so far (same unit)</label>
+              <input id="lost" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 40" class="calc-in">
+            </div>
+            <div>
+              <label for="plan" style="display:block;font-weight:650;margin-bottom:6px;font-size:0.9rem">Your exit plan</label>
+              <select id="plan" class="calc-in">
+                <option value="cold">Stop cold</option>
+                <option value="taper" selected>Gradual taper</option>
+                <option value="stay">Stay on a maintenance dose</option>
+              </select>
+            </div>
+            <div>
+              <label for="muscle" style="display:block;font-weight:650;margin-bottom:6px;font-size:0.9rem">Muscle preservation during loss</label>
+              <select id="muscle" class="calc-in">
+                <option value="yes" selected>Resistance training + enough protein</option>
+                <option value="no">Neither / minimal</option>
+              </select>
+            </div>
+          </div>
+          <button type="submit" class="btn btn-primary btn-lg" style="width:100%;justify-content:center;margin-top:20px">Project my regain</button>
+        </div>
+      </form>
+
+      <div id="out" hidden style="margin-top:26px">
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
+          <div class="calc-stat"><span class="calc-n" id="regain">—</span><span class="calc-l">Projected regain (12 mo)</span></div>
+          <div class="calc-stat"><span class="calc-n" id="wt12">—</span><span class="calc-l">Weight at 12 months</span></div>
+          <div class="calc-stat"><span class="calc-n" id="kept">—</span><span class="calc-l">Share of loss you keep</span></div>
+          <div class="calc-stat"><span class="calc-n" id="cold">—</span><span class="calc-l">Cold-stop baseline</span></div>
+        </div>
+        <p id="planNote" hidden class="calc-warn" style="background:var(--accent-light);color:var(--ink);border:none"></p>
+
+        <div id="chartWrap" style="margin-top:26px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px 18px">
+          <h3 style="margin:0 0 4px;font-size:1.1rem">Your weight over the next 12 months</h3>
+          <p style="margin:0 0 14px;color:var(--ink-soft);font-size:0.9rem">The red line is trial-measured (a full stop). The green line is your plan, modeled from it.</p>
+          <div id="chart"></div>
+          <div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:12px;font-size:0.85rem">
+            <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:3px;background:#c0392b;display:inline-block"></span> Cold stop, no muscle plan (~two-thirds regained)</span>
+            <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:3px;background:var(--accent);display:inline-block"></span> Your plan</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="article" style="margin-top:34px">
+        <h2>How this is calculated (and the research behind it)</h2>
+        <p><strong>The anchor is trial-measured.</strong> In the STEP 1 trial extension, people who stopped semaglutide regained about two-thirds of their lost weight within twelve months: mean net weight loss fell from 17.3 percent to 5.6 percent.<sup><a href="#ref-1">1</a></sup> That two-thirds figure is the red line, and it is what the best available trial shows for a full stop. Most people face this transition, since roughly 65 percent discontinue within a year.<sup><a href="#ref-2">2</a></sup></p>
+        <p><strong>The taper and muscle lines are modeled, not measured.</strong> No trial isolates a taper schedule or a muscle-preservation protocol against regain, so the calculator projects a gradual taper and preserved muscle as reducing regain relative to a cold stop. That direction is well supported in principle, a slower return of appetite, continued treatment, and more metabolically active muscle all blunt rebound, but the exact size of the effect is an estimate. Treat the green line as a direction you can influence, not a promise.</p>
+        <p><strong>Why muscle changes the picture.</strong> Reviews of GLP-1 body-composition data place lean mass at roughly 15 to 40 percent of total weight lost,<sup><a href="#ref-3">3</a></sup> and resistance training has been shown to offset most diet-induced lean loss.<sup><a href="#ref-5">5</a></sup> The regain risk is not only how many pounds return but their composition: regaining fat while muscle stays low trends toward sarcopenic obesity.<sup><a href="#ref-4">4</a></sup> Arriving at your exit with muscle intact is the variable you most control.</p>
+
+        <h2>Honest limits</h2>
+        <p>The two-thirds figure comes from one population (semaglutide, STEP 1) and your result may differ. The taper and muscle adjustments are illustrative projections, not trial outcomes, and the curve shape assumes regain is front-loaded and then plateaus. This is a planning tool to show the shape of the risk and the levers you hold, not a prediction of your body. Decisions about staying on, tapering, or stopping a GLP-1 belong to you and your prescriber.</p>
+      </div>
+
+      <div class="article-cta">
+        <p class="k">Go deeper</p>
+        <h3>The GLP-1 Off-Ramp</h3>
+        <p>This tool shows the risk. The $1 mini-guide is the exit plan: a twelve-week taper-and-maintenance protocol built to carry your muscle and your results through the transition most people never plan for.</p>
+        <a class="btn btn-primary btn-lg" href="/guides/off-ramp/">Get The GLP-1 Off-Ramp &mdash; $1 &rarr;</a>
+        <p class="cta-secondary">Want the full training, protein, and maintenance system? The complete <a href="/#pricing">$5 handbook</a> covers it end to end.</p>
+      </div>
+
+      <nav class="related-reading" aria-label="Related reading">
+        <h2>Related reading</h2>
+        <ul>
+          <li><a href="/learn/muscle-after-stopping-ozempic/">What happens to muscle when you stop</a></li>
+          <li><a href="/protein-calculator/">The muscle &amp; protein calculator</a></li>
+          <li><a href="/learn/glp1-muscle-loss-statistics/">GLP-1 muscle loss by the numbers</a></li>
+          <li><a href="/learn/signs-of-muscle-loss-glp1/">Signs you're losing muscle, not fat</a></li>
+        </ul>
+      </nav>
+      <div class="references" id="references">
+        <h2>References</h2>
+        <ol>
+          <li id="ref-1">Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. <em>Diabetes, Obesity &amp; Metabolism.</em> 2022. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9542252/">pmc.ncbi.nlm.nih.gov/articles/PMC9542252</a></li>
+          <li id="ref-2">Trends in 1-year persistence and adherence among initiators of weight-loss-indicated GLP-1 receptor agonists. 2024. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12948759/">pmc.ncbi.nlm.nih.gov/articles/PMC12948759</a></li>
+          <li id="ref-3">Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. <em>Diabetes, Obesity &amp; Metabolism.</em> 2024. <a href="https://doi.org/10.1111/dom.15728">doi.org/10.1111/dom.15728</a></li>
+          <li id="ref-4">Weight cycling and its effects on muscle mass, sarcopenia and sarcopenic obesity. 2025. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12534291/">pmc.ncbi.nlm.nih.gov/articles/PMC12534291</a></li>
+          <li id="ref-5">Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. <em>Nutrients.</em> 2018;10(4):423. <a href="https://www.mdpi.com/2072-6643/10/4/423">mdpi.com/2072-6643/10/4/423</a></li>
+        </ol>
+      </div>
+    </div>
+  </section>
+</article>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p class="foot-disclaimer">This calculator is educational and does not constitute medical advice. Its outputs are population-based projections, not measurements or predictions of your body, and it provides no dosing, titration, or sourcing guidance for any medication. Decisions about starting, continuing, tapering, or stopping a GLP-1 medication belong to you and your prescribing clinician. Consult a qualified healthcare provider before changing your medication, nutrition, or exercise program.</p>
+    <div class="foot-legal">
+      <span>&copy; 2026 MuscleOnGLP. All rights reserved.</span>
+      <span><a href="/terms/">Terms of Service</a></span>
+      <span>Not affiliated with Novo Nordisk, Eli Lilly, or any medication manufacturer.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="/off-ramp-calculator/calc.js"></script>
+<script src="/analytics.js"></script>
+</body>
+</html>
