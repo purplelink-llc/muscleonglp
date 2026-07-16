@@ -353,6 +353,8 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .rr-meta { font-size: 0.86rem; color: var(--ink-soft); margin: 0 0 12px; }
 .rr-item > p { font-size: 1.02rem; line-height: 1.65; color: var(--ink); margin: 0 0 10px; }
 .rr-why { color: var(--ink-soft); }
+.rr-action { color: var(--ink-soft); }
+.rr-action strong { color: var(--accent-dark); }
 .rr-source a { font-weight: 650; color: var(--accent-dark); }
 
 /* Learn hub cards */
