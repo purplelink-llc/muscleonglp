@@ -82,6 +82,7 @@ img { max-width: 100%; display: block; }
 .hero h1 { font-size: clamp(2.3rem, 5vw, 3.7rem); }
 .hero .lead { margin-top: 22px; }
 .hero-cta { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 34px; align-items: center; }
+.hero-cta.center { justify-content: center; }
 .hero-price { display: flex; align-items: baseline; gap: 8px; margin-top: 22px; }
 .hero-price .now { font-size: 2rem; font-weight: 800; font-family: var(--font-display); color: var(--ink); }
 .hero-price .was { font-size: 1.1rem; color: var(--ink-soft); text-decoration: line-through; }
