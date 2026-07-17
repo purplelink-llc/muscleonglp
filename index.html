@@ -49,12 +49,11 @@
 }
 </script>
 
-<!-- Structured data: Product with AggregateRating + Review. The ratings and
-     reviews below are REAL, verified customer reviews, shown on-page in the
-     #reviews section. Keep this schema in sync with those visible reviews. Do
-     NOT add or inflate any rating that is not backed by a genuine, displayed
-     review — fabricated review schema violates the FTC fake-reviews rule
-     (16 CFR Part 465) and can delist the domain. -->
+<!-- Structured data: Product. No aggregateRating or review data — this site
+     has never had a checkout conversion or subscriber, so any star rating or
+     review would be fabricated and violate the FTC fake-reviews rule
+     (16 CFR Part 465). Do not add rating/review fields back without genuine,
+     verifiable purchaser reviews to back them. -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,37 +69,7 @@
     "priceCurrency": "USD",
     "availability": "https://schema.org/InStock",
     "url": "https://getmuscleonglp.com/#pricing"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "bestRating": "5",
-    "worstRating": "1",
-    "reviewCount": "3"
-  },
-  "review": [
-    {
-      "@type": "Review",
-      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
-      "author": { "@type": "Person", "name": "Verified buyer" },
-      "name": "Helped Me Keep My Strength While Losing Weight",
-      "reviewBody": "I was worried that taking a GLP-1 medication would cause me to lose muscle along with fat. This guide completely changed how I approached training and nutrition. It breaks down protein intake, resistance training, recovery, and calorie management in a way that's practical rather than overly scientific. After following the recommendations for about three months, I maintained my strength on my main lifts while continuing to lose weight. If you're taking a GLP-1 and want to preserve, or even build, muscle, this is an excellent resource."
-    },
-    {
-      "@type": "Review",
-      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
-      "author": { "@type": "Person", "name": "Verified buyer" },
-      "name": "Clear, Evidence-Based, and Easy to Follow",
-      "reviewBody": "I've read countless articles about building muscle on GLP-1 medications, but most were either too simplistic or contradicted each other. This PDF brings everything together in one place with clear explanations and actionable advice. I especially appreciated that the recommendations are based on current research instead of hype. The training and nutrition examples made it easy to apply immediately. Well worth reading if you're serious about improving your body composition while using a GLP-1."
-    },
-    {
-      "@type": "Review",
-      "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5", "worstRating": "1" },
-      "author": { "@type": "Person", "name": "Verified buyer" },
-      "name": "Practical Advice Without the Filler",
-      "reviewBody": "This guide gets straight to the point. Instead of promising unrealistic results, it explains what actually matters for preserving and gaining muscle while on a GLP-1: progressive resistance training, adequate protein, recovery, and realistic expectations. The layout is clean, the information is easy to digest, and I found myself referring back to it several times. It's one of the most useful resources I've found on the topic, especially for beginners and intermediate lifters."
-    }
-  ]
+  }
 }
 </script>
 <script type="application/ld+json">
@@ -146,7 +115,6 @@
       <a href="/guides/">Mini-Guides</a>
       <a href="/tools/">Calculators</a>
       <a href="#evidence">The Evidence</a>
-      <a href="#reviews">Reviews</a>
       <a class="btn btn-primary nav-cta" href="#pricing">Get the Guide</a>
     </nav>
   </div>
@@ -286,40 +254,6 @@
       <img src="/assets/preview1.png" alt="Guide page showing how much GLP-1 weight loss is lean mass, with a comparison chart" loading="lazy">
       <img src="/assets/preview2.png" alt="Guide page showing the weight-regain timeline after stopping semaglutide" loading="lazy">
       <img src="/assets/preview3.png" alt="Guide page showing resistance-training routines and exercise alternatives" loading="lazy">
-    </div>
-  </div>
-</section>
-
-<!-- REVIEWS — real, verified customer reviews. Keep the visible text in sync
-     with the AggregateRating/Review JSON-LD in <head>: same ratings, same
-     wording, same count. Do not add cards here without a matching review
-     object above, and vice versa (FTC 16 CFR Part 465). -->
-<section class="section reviews" id="reviews">
-  <div class="wrap">
-    <div class="center rev-head">
-      <h2>What readers are saying</h2>
-      <div class="stars" aria-label="Rated 5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-      <div class="rev-score"><strong>5.0</strong> &middot; 3 verified reviews</div>
-    </div>
-    <div class="rev-grid">
-      <article class="rev-card">
-        <div class="stars" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-        <h3 class="rev-title">Helped Me Keep My Strength While Losing Weight</h3>
-        <blockquote>I was worried that taking a GLP-1 medication would cause me to lose muscle along with fat. This guide completely changed how I approached training and nutrition. It breaks down protein intake, resistance training, recovery, and calorie management in a way that's practical rather than overly scientific. After following the recommendations for about three months, I maintained my strength on my main lifts while continuing to lose weight. If you're taking a GLP-1 and want to preserve, or even build, muscle, this is an excellent resource.</blockquote>
-        <div class="rev-verified"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M20 6L9 17l-5-5"/></svg> Verified buyer</div>
-      </article>
-      <article class="rev-card">
-        <div class="stars" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-        <h3 class="rev-title">Clear, Evidence-Based, and Easy to Follow</h3>
-        <blockquote>I've read countless articles about building muscle on GLP-1 medications, but most were either too simplistic or contradicted each other. This PDF brings everything together in one place with clear explanations and actionable advice. I especially appreciated that the recommendations are based on current research instead of hype. The training and nutrition examples made it easy to apply immediately. Well worth reading if you're serious about improving your body composition while using a GLP-1.</blockquote>
-        <div class="rev-verified"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M20 6L9 17l-5-5"/></svg> Verified buyer</div>
-      </article>
-      <article class="rev-card">
-        <div class="stars" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
-        <h3 class="rev-title">Practical Advice Without the Filler</h3>
-        <blockquote>This guide gets straight to the point. Instead of promising unrealistic results, it explains what actually matters for preserving and gaining muscle while on a GLP-1: progressive resistance training, adequate protein, recovery, and realistic expectations. The layout is clean, the information is easy to digest, and I found myself referring back to it several times. It's one of the most useful resources I've found on the topic, especially for beginners and intermediate lifters.</blockquote>
-        <div class="rev-verified"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M20 6L9 17l-5-5"/></svg> Verified buyer</div>
-      </article>
     </div>
   </div>
 </section>
@@ -527,7 +461,6 @@
         </div>
         <div class="foot-col">
           <h4>Support</h4>
-          <a href="#reviews">Reviews</a>
           <a href="#faq">FAQ</a>
           <a href="mailto:ben@purplelink.llc">Contact</a>
         </div>
