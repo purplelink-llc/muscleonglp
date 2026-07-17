@@ -34,7 +34,7 @@
     # inline scripts). Mirrors purplelink's policy. Relaxes muscleonglp's strict
     # script-src; the tradeoff was accepted to serve ads. Ads do not render until
     # getmuscleonglp.com is added + approved in the AdSense console.
-    Content-Security-Policy = "default-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://www.google.com https://www.gstatic.com; script-src 'self' 'unsafe-inline' https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://www.googletagservices.com https://tpc.googlesyndication.com; connect-src 'self' https://pagead2.googlesyndication.com; frame-src 'self' blob: https://googleads.g.doubleclick.net https://tpc.googlesyndication.com; object-src 'self' blob:"
+    Content-Security-Policy = "default-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data: https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://www.google.com https://www.gstatic.com https://www.google-analytics.com; script-src 'self' 'unsafe-inline' https://pagead2.googlesyndication.com https://googleads.g.doubleclick.net https://www.googletagservices.com https://tpc.googlesyndication.com https://www.googletagmanager.com; connect-src 'self' https://pagead2.googlesyndication.com https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://www.googletagmanager.com; frame-src 'self' blob: https://googleads.g.doubleclick.net https://tpc.googlesyndication.com; object-src 'self' blob:"
 
 [[headers]]
   for = "/assets/*"
