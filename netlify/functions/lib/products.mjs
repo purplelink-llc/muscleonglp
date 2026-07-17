@@ -57,6 +57,21 @@ export const PRODUCTS = {
     title: "The GLP-1 Off-Ramp",
     file: "glp1-off-ramp.pdf",
   },
+  // The "template tier" ($12-$19): printable/guided PDFs that fill the gap
+  // between the $9 Complete Pack and nothing above it. Same single-file
+  // download/webhook path as every other product.
+  "tracker": {
+    envKey: "STRIPE_PRICE_TRACKER",
+    successPath: "/success/tracker/",
+    title: "The Muscle-on-GLP-1 Tracker",
+    file: "muscle-on-glp1-tracker.pdf",
+  },
+  "workbook": {
+    envKey: "STRIPE_PRICE_WORKBOOK",
+    successPath: "/success/workbook/",
+    title: "The Muscle-on-GLP-1 Workbook",
+    file: "muscle-on-glp1-workbook.pdf",
+  },
 };
 
 /** Version of the Terms of Service buyers accept at checkout. */

@@ -2,3 +2,9 @@
 .DS_Store
 node_modules/
 *.log
+
+# Paid product masters + their generator. This repo is PUBLIC, so the purchasable
+# PDFs and the script that embeds their full text must never be committed. They
+# live only locally and in the private `guide-files` Netlify Blobs store, and the
+# site 404s /private/* as a second layer. Mirrors purplelink's kits-delivery/.
+private/
