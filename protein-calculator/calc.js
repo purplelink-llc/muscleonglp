@@ -18,6 +18,8 @@
     var age = num("age"), h = num("height"), w = num("weight"), g = num("goal");
     var sex = $("sex").value, hu = $("heightUnit").value, wu = $("weightUnit").value;
     var pal = parseFloat($("activity").value), pace = parseFloat($("pace").value); // kg/week
+    var meals = parseInt(($("meals") && $("meals").value) || "4", 10);
+    if (!(meals >= 3 && meals <= 5)) { meals = 4; }
     if (!(age > 0 && h > 0 && w > 0)) { $("out").hidden = true; return; }
 
     var kg = wu === "kg" ? w : w * LB;
@@ -37,7 +39,10 @@
     $("target").textContent = fmt(target) + " kcal";
     $("deficit").textContent = "−" + fmt(deficit) + " kcal";
     $("protein").textContent = pLow + "–" + pHigh + " g";
-    $("permeal").textContent = Math.round(pLow / 4) + "–" + Math.round(pHigh / 4) + " g";
+    $("permeal").textContent = Math.round(pLow / meals) + "–" + Math.round(pHigh / meals) + " g";
+    var permealLabel = $("permealLabel");
+    if (permealLabel) { permealLabel.textContent = "Protein / meal (×" + meals + ")"; }
+    drawPlan(meals, pLow, pHigh);
 
     if (goalKg > 0 && goalKg < kg) {
       var totalKg = kg - goalKg;
@@ -61,6 +66,31 @@
     } else { s.hidden = true; }
 
     $("out").hidden = false;
+  }
+
+  // Timed meal schedule. Even split of the daily protein range across the
+  // chosen number of meals, spread over a 12-hour window (8am to 8pm).
+  var SCHEDULES = {
+    3: [["Breakfast", "8:00 am"], ["Lunch", "1:00 pm"], ["Dinner", "6:00 pm"]],
+    4: [["Breakfast", "8:00 am"], ["Lunch", "12:00 pm"], ["Snack", "4:00 pm"], ["Dinner", "8:00 pm"]],
+    5: [["Breakfast", "8:00 am"], ["Mid-morning", "11:00 am"], ["Lunch", "2:00 pm"], ["Snack", "5:00 pm"], ["Dinner", "8:00 pm"]]
+  };
+
+  function drawPlan(meals, pLow, pHigh) {
+    var wrap = $("planWrap"), rows = $("planRows");
+    if (!wrap || !rows) { return; }
+    var sched = SCHEDULES[meals] || SCHEDULES[4];
+    var low = Math.round(pLow / meals), high = Math.round(pHigh / meals);
+    var html = "";
+    for (var i = 0; i < sched.length; i++) {
+      html += '<tr>' +
+        '<td style="padding:8px 10px;border-bottom:1px solid var(--line)">' + sched[i][0] + '</td>' +
+        '<td style="padding:8px 10px;border-bottom:1px solid var(--line);color:var(--ink-soft)">' + sched[i][1] + '</td>' +
+        '<td style="padding:8px 10px;border-bottom:1px solid var(--line);text-align:right;font-weight:650">' + low + '–' + high + ' g</td>' +
+        '</tr>';
+    }
+    rows.innerHTML = html;
+    wrap.hidden = false;
   }
 
   function drawChart(weeks, totalKg, pace, wu) {

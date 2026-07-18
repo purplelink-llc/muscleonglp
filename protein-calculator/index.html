@@ -50,6 +50,11 @@
       "@type": "Question",
       "name": "How much protein does it recommend, and of what type?",
       "acceptedAnswer": { "@type": "Answer", "text": "It applies the 1.6 to 2.2 g/kg of body weight range that lean-mass research supports during weight loss, split across four meals. Hit it from complete, leucine-rich sources; collagen is low in leucine and does little for muscle despite the label." }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I time meals when a GLP-1 has killed my appetite?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Spread your daily protein across three to five smaller meals rather than one or two large ones, because distributing protein through the day supports muscle better than loading it into a single meal. On a small appetite, eat protein first before other foods, front-load it earlier in the day when hunger is highest, lean on liquid sources like a shake or Greek yogurt on nausea days, and keep your largest meal away from the peak side-effect window after a dose. The calculator's meal planner shows the per-meal grams for the number of meals you choose." }
     }
   ]
 }
@@ -135,6 +140,14 @@
                 <option value="0.9">Aggressive (~2 lb/week)</option>
               </select>
             </div>
+            <div>
+              <label for="meals" style="display:block;font-weight:650;margin-bottom:6px;font-size:0.9rem">Meals per day</label>
+              <select id="meals" class="calc-in">
+                <option value="3">3 meals</option>
+                <option value="4" selected>4 meals</option>
+                <option value="5">5 meals</option>
+              </select>
+            </div>
           </div>
           <button type="submit" class="btn btn-primary btn-lg" style="width:100%;justify-content:center;margin-top:20px">Calculate</button>
         </div>
@@ -147,7 +160,7 @@
           <div class="calc-stat"><span class="calc-n" id="target">—</span><span class="calc-l">Calorie target</span></div>
           <div class="calc-stat"><span class="calc-n" id="deficit">—</span><span class="calc-l">Daily deficit</span></div>
           <div class="calc-stat"><span class="calc-n" id="protein">—</span><span class="calc-l">Protein / day</span></div>
-          <div class="calc-stat"><span class="calc-n" id="permeal">—</span><span class="calc-l">Protein / meal (×4)</span></div>
+          <div class="calc-stat"><span class="calc-n" id="permeal">—</span><span class="calc-l" id="permealLabel">Protein / meal (×4)</span></div>
           <div class="calc-stat" id="weeksRow" hidden><span class="calc-n" id="weeks">—</span><span class="calc-l">To reach goal</span></div>
         </div>
         <p id="safety" hidden class="calc-warn"></p>
@@ -162,6 +175,30 @@
             <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:3px;background:var(--accent);display:inline-block"></span> Muscle lost, with enough protein + training</span>
           </div>
         </div>
+
+        <div id="planWrap" hidden style="margin-top:26px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px 18px">
+          <h3 style="margin:0 0 4px;font-size:1.1rem">Small-appetite meal plan</h3>
+          <p style="margin:0 0 14px;color:var(--ink-soft);font-size:0.9rem">Your protein target split across the day, so no single meal has to be large.</p>
+          <table style="width:100%;border-collapse:collapse;font-size:0.95rem">
+            <thead>
+              <tr>
+                <th scope="col" style="text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);color:var(--ink-soft);font-weight:650;font-size:0.85rem">Meal</th>
+                <th scope="col" style="text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);color:var(--ink-soft);font-weight:650;font-size:0.85rem">Time</th>
+                <th scope="col" style="text-align:right;padding:8px 10px;border-bottom:1px solid var(--line);color:var(--ink-soft);font-weight:650;font-size:0.85rem">Protein</th>
+              </tr>
+            </thead>
+            <tbody id="planRows"></tbody>
+          </table>
+          <div style="margin-top:16px;padding-top:14px;border-top:1px solid var(--line)">
+            <p style="margin:0 0 8px;font-weight:650;font-size:0.9rem">Tactics for low-appetite days</p>
+            <ul style="margin:0;padding-left:20px;color:var(--ink-soft);font-size:0.9rem;line-height:1.55">
+              <li>Eat protein first, before other foods on the plate, so it lands even when you fill up fast.</li>
+              <li>Use a liquid protein source (a shake, Greek yogurt, or milk) on nausea or low-appetite days, when solids feel like too much.</li>
+              <li>Front-load protein earlier in the day, when appetite is usually highest.</li>
+              <li>Time your largest protein meal away from the peak side-effect window after a dose.</li>
+            </ul>
+          </div>
+        </div>
       </div>
 
       <div class="article" style="margin-top:34px">
@@ -170,6 +207,7 @@
         <p><strong>Total burn (TDEE).</strong> BMR is multiplied by a physical-activity factor (1.2 sedentary to 1.9 very active), the standard way to scale resting metabolism to real-world expenditure.<sup><a href="#ref-2">2</a></sup> Your calorie target is TDEE minus the deficit implied by your chosen pace.</p>
         <p><strong>Weight-loss trajectory.</strong> The pace-to-deficit conversion uses the classic estimate that about 7,700 kcal equals one kilogram of body weight (3,500 kcal per pound).<sup><a href="#ref-3">3</a></sup> This is a first approximation. Real loss slows over time as metabolism adapts, so a dynamic model predicts less than a straight line at the far end.<sup><a href="#ref-4">4</a></sup> Treat the timeline as a planning estimate, not a promise.</p>
         <p><strong>Protein target.</strong> The 1.6 to 2.2 g/kg range comes from lean-mass research, where benefit to fat-free mass leveled off near 1.6 g/kg.<sup><a href="#ref-5">5</a></sup> It is split across four meals because distribution matters more than any single dose.<sup><a href="#ref-6">6</a></sup></p>
+        <p><strong>Meal timing on a small appetite.</strong> The same distribution logic is why the meal planner lets you spread the target across three to five meals: dividing protein into moderate servings through the day supports muscle better than concentrating it in one or two large meals, which is hard to eat anyway when a GLP-1 has cut your hunger.<sup><a href="#ref-6">6</a></sup> On low-appetite days, eat protein first, front-load it earlier when hunger is highest, use liquid sources like a shake or Greek yogurt, and keep the biggest meal away from the peak side-effect window after a dose.</p>
         <p><strong>The two muscle lines.</strong> Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1.<sup><a href="#ref-7">7</a></sup> The red line models the higher end that occurs without countermeasures. The green line models the outcome with adequate protein and resistance training, using the finding that resistance training offset about 93.5 percent of the lean mass that caloric restriction alone would cost.<sup><a href="#ref-8">8</a></sup> These are illustrative projections from published ranges, not a measurement of your body.</p>
 
         <h2>Honest limits</h2>

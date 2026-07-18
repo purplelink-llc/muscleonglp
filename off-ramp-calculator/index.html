@@ -50,6 +50,11 @@
       "@type": "Question",
       "name": "Why does preserving muscle matter for regain?",
       "acceptedAnswer": { "@type": "Answer", "text": "Muscle is metabolically active tissue, so arriving at your exit with more of it means a higher resting metabolism and more reserve. The bigger risk is composition: if you regain fat while muscle stays low, you trend toward a sarcopenic-obesity pattern. The loss phase, while you are still on the medication, is when you have the most control over how much muscle you carry into maintenance." }
+    },
+    {
+      "@type": "Question",
+      "name": "What happens to muscle across the phases of a GLP-1 journey?",
+      "acceptedAnswer": { "@type": "Answer", "text": "There are four phases. In active loss, weight falls fast and composition is set, since without countermeasures roughly 15 to 40 percent of what you lose can be lean mass. The plateau is where weight settles. The off-ramp, whether a cold stop or a taper, is where appetite returns and most people regain about two-thirds of their lost weight within a year of stopping. Maintenance is the ending, and it splits by how much muscle you kept: preserve it during the loss phase and you carry a reserve into maintenance; lose it and weight can return as fat while muscle stays low, the pattern that trends toward sarcopenic obesity." }
     }
   ]
 }
@@ -141,11 +146,58 @@
         </div>
       </div>
 
+      <div id="phaseWrap" style="margin-top:26px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px 18px">
+        <h3 style="margin:0 0 4px;font-size:1.1rem">Muscle across the four phases</h3>
+        <p style="margin:0 0 14px;color:var(--ink-soft);font-size:0.9rem">One journey, two endings. Lines are shown as a percentage of your starting level. This is an illustrative diagram of the trajectory, not tied to the numbers above.</p>
+        <svg viewBox="0 0 720 400" width="100%" role="img" aria-labelledby="phaseTitle phaseDesc" style="max-width:100%;height:auto">
+          <title id="phaseTitle">The four phases of a GLP-1 journey and what happens to muscle in each</title>
+          <desc id="phaseDesc">A timeline across four phases: active loss, plateau, off-ramp or taper, and maintenance. Body weight falls during active loss and the plateau, then partly regains during the off-ramp and maintenance. Muscle held with adequate protein and resistance training stays near its starting level. Muscle without those countermeasures falls steadily and stays low, the pattern that trends toward sarcopenic obesity when fat returns.</desc>
+          <rect x="56" y="44" width="161" height="286" fill="#f8fafc"/>
+          <rect x="217" y="44" width="161" height="286" fill="#f1f5f9"/>
+          <rect x="378" y="44" width="161" height="286" fill="#f8fafc"/>
+          <rect x="539" y="44" width="161" height="286" fill="#eef2f7"/>
+          <line x1="217" y1="44" x2="217" y2="330" stroke="#e5e7eb" stroke-width="1"/>
+          <line x1="378" y1="44" x2="378" y2="330" stroke="#e5e7eb" stroke-width="1"/>
+          <line x1="539" y1="44" x2="539" y2="330" stroke="#e5e7eb" stroke-width="1"/>
+          <line x1="56" y1="54" x2="700" y2="54" stroke="#e5e7eb" stroke-width="1"/>
+          <line x1="56" y1="142" x2="700" y2="142" stroke="#e5e7eb" stroke-width="1"/>
+          <line x1="56" y1="230" x2="700" y2="230" stroke="#e5e7eb" stroke-width="1"/>
+          <line x1="56" y1="318" x2="700" y2="318" stroke="#e5e7eb" stroke-width="1"/>
+          <text x="48" y="58" text-anchor="end" font-size="11" fill="#6b7280">100%</text>
+          <text x="48" y="146" text-anchor="end" font-size="11" fill="#6b7280">90%</text>
+          <text x="48" y="234" text-anchor="end" font-size="11" fill="#6b7280">80%</text>
+          <text x="48" y="322" text-anchor="end" font-size="11" fill="#6b7280">70%</text>
+          <text x="136.5" y="18" text-anchor="middle" font-size="12.5" font-weight="650" fill="#374151">Active loss</text>
+          <text x="297.5" y="18" text-anchor="middle" font-size="12.5" font-weight="650" fill="#374151">Plateau</text>
+          <text x="458.5" y="18" text-anchor="middle" font-size="12.5" font-weight="650" fill="#374151">Off-ramp / taper</text>
+          <text x="619.5" y="18" text-anchor="middle" font-size="12.5" font-weight="650" fill="#374151">Maintenance</text>
+          <text x="136.5" y="34" text-anchor="middle" font-size="10.5" fill="#9ca3af">weight falls fast</text>
+          <text x="297.5" y="34" text-anchor="middle" font-size="10.5" fill="#9ca3af">weight settles</text>
+          <text x="458.5" y="34" text-anchor="middle" font-size="10.5" fill="#9ca3af">appetite returns</text>
+          <text x="619.5" y="34" text-anchor="middle" font-size="10.5" fill="#9ca3af">two endings</text>
+          <path d="M56 54 L217 168 L378 204 L539 151 L700 107" fill="none" stroke="#9ca3af" stroke-width="2" stroke-dasharray="5 4"/>
+          <path id="tlWithout" d="M56 54 L217 195 L378 239 L539 274 L700 300" fill="none" stroke="#c0392b" stroke-width="2.5"/>
+          <path id="tlWith" d="M56 54 L217 80 L378 89 L539 116 L700 89" fill="none" stroke="#2f6f5e" stroke-width="2.5"/>
+          <text x="224" y="70" text-anchor="start" font-size="11.5" font-weight="600" fill="#2f6f5e">Muscle, with protein + training</text>
+          <text x="224" y="214" text-anchor="start" font-size="11.5" font-weight="600" fill="#c0392b">Muscle, no countermeasures</text>
+          <text x="470" y="138" text-anchor="middle" font-size="11.5" font-weight="600" fill="#6b7280">Body weight</text>
+        </svg>
+        <div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:12px;font-size:0.85rem">
+          <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:0;border-top:2px dashed #9ca3af;display:inline-block"></span> Body weight (falls, then partly regains)</span>
+          <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:3px;background:var(--accent);display:inline-block"></span> Muscle held with protein + resistance training</span>
+          <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:3px;background:#c0392b;display:inline-block"></span> Muscle lost without countermeasures</span>
+        </div>
+        <p id="tlNote" style="margin:12px 0 0;color:var(--ink-soft);font-size:0.85rem">Two endings from the same start. Run the calculator above to see which muscle line your plan follows.</p>
+      </div>
+
       <div class="article" style="margin-top:34px">
         <h2>How this is calculated (and the research behind it)</h2>
         <p><strong>The anchor is trial-measured.</strong> In the STEP 1 trial extension, people who stopped semaglutide regained about two-thirds of their lost weight within twelve months: mean net weight loss fell from 17.3 percent to 5.6 percent.<sup><a href="#ref-1">1</a></sup> That two-thirds figure is the red line, and it is what the best available trial shows for a full stop. Most people face this transition, since roughly 65 percent discontinue within a year.<sup><a href="#ref-2">2</a></sup></p>
         <p><strong>The taper and muscle lines are modeled, not measured.</strong> No trial isolates a taper schedule or a muscle-preservation protocol against regain, so the calculator projects a gradual taper and preserved muscle as reducing regain relative to a cold stop. That direction is well supported in principle, a slower return of appetite, continued treatment, and more metabolically active muscle all blunt rebound, but the exact size of the effect is an estimate. Treat the green line as a direction you can influence, not a promise.</p>
         <p><strong>Why muscle changes the picture.</strong> Reviews of GLP-1 body-composition data place lean mass at roughly 15 to 40 percent of total weight lost,<sup><a href="#ref-3">3</a></sup> and resistance training has been shown to offset most diet-induced lean loss.<sup><a href="#ref-5">5</a></sup> The regain risk is not only how many pounds return but their composition: regaining fat while muscle stays low trends toward sarcopenic obesity.<sup><a href="#ref-4">4</a></sup> Arriving at your exit with muscle intact is the variable you most control.</p>
+
+        <h2>The four phases, and where muscle decides the ending</h2>
+        <p>The diagram above traces the journey in four phases. During <strong>active loss</strong> the medication suppresses appetite and weight falls fast, and this is when composition is set, because without countermeasures roughly 15 to 40 percent of what you lose can be lean mass.<sup><a href="#ref-3">3</a></sup> The <strong>plateau</strong> is where weight settles. The <strong>off-ramp</strong>, whether a cold stop or a gradual taper, is where appetite returns: in the STEP 1 trial extension people regained about two-thirds of their lost weight within a year of stopping semaglutide, and since roughly 65 percent of users discontinue within twelve months, most people reach this phase.<sup><a href="#ref-1">1</a></sup><sup><a href="#ref-2">2</a></sup> <strong>Maintenance</strong> is the ending, and it splits in two. If you preserved muscle on the way down, you arrive with more metabolically active tissue and more reserve. If you did not, weight can return as fat while muscle stays low, the pattern that trends toward sarcopenic obesity.<sup><a href="#ref-4">4</a></sup> The muscle you build during the loss phase is the reserve you spend later.</p>
 
         <h2>Honest limits</h2>
         <p>The two-thirds figure comes from one population (semaglutide, STEP 1) and your result may differ. The taper and muscle adjustments are illustrative projections, not trial outcomes, and the curve shape assumes regain is front-loaded and then plateaus. This is a planning tool to show the shape of the risk and the levers you hold, not a prediction of your body. Decisions about staying on, tapering, or stopping a GLP-1 belong to you and your prescriber.</p>

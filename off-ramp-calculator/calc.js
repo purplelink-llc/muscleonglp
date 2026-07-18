@@ -44,7 +44,24 @@
     note.hidden = false;
 
     drawChart(cur, totalRegain, coldRegain, unit);
+    highlightPhase(muscle);
     $("out").hidden = false;
+  }
+
+  // Reflect the muscle-preservation choice onto the illustrative phase timeline:
+  // emphasize the ending the plan follows, dim the other. Additive and optional;
+  // the timeline renders on its own before any submit.
+  function highlightPhase(muscle) {
+    var withLine = $("tlWith"), withoutLine = $("tlWithout"), note = $("tlNote");
+    if (withLine && withoutLine) {
+      withLine.setAttribute("opacity", muscle === "yes" ? "1" : "0.3");
+      withoutLine.setAttribute("opacity", muscle === "yes" ? "0.3" : "1");
+    }
+    if (note) {
+      note.textContent = muscle === "yes"
+        ? "Your plan follows the upper muscle line: the reserve you carry into maintenance."
+        : "Your plan follows the lower muscle line: less reserve, and higher sarcopenic-obesity risk as fat returns.";
+    }
   }
 
   function drawChart(cur, totalRegain, coldRegain, unit) {
