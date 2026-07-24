@@ -485,3 +485,15 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .cite-status { font-size: 0.88rem; color: var(--accent-dark); font-weight: 650; }
 .cite-note { font-size: 0.9rem; margin-top: 16px !important; }
 @media (prefers-color-scheme: dark) { .cite-copy textarea { background: #172420; } }
+
+/* Survey form */
+.sv-q { border: 0; padding: 0 0 20px; margin: 0 0 20px; border-bottom: 1px solid var(--line); }
+.sv-q:last-of-type { border-bottom: 0; }
+.sv-q legend { font-weight: 700; color: var(--ink); font-size: 1rem; line-height: 1.45; margin-bottom: 12px; padding: 0; }
+.sv-opt { font-weight: 550; font-size: 0.82rem; color: var(--ink-soft); text-transform: uppercase; letter-spacing: 0.05em; margin-left: 6px; }
+.sv-q label { display: flex; align-items: flex-start; gap: 10px; padding: 9px 12px; margin-bottom: 4px; border-radius: 10px; cursor: pointer; color: var(--ink); line-height: 1.5; transition: background .14s ease; }
+.sv-q label:hover { background: var(--bg-alt); }
+.sv-q input[type="radio"] { flex: none; margin-top: 5px; accent-color: var(--accent); width: 17px; height: 17px; }
+.sv-q input[type="radio"]:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.sv-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+@media (prefers-reduced-motion: reduce) { .sv-q label { transition: none; } }

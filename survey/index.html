@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The GLP-1 muscle survey — MuscleOnGLP</title>
+<meta name="description" content="An anonymous, eight-question survey on what GLP-1 users actually do about muscle: protein, resistance training, and whether a clinician ever raised it.">
+<meta name="robots" content="noindex, follow">
+<link rel="icon" type="image/png" href="/assets/favicon.png">
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="nav">
+  <div class="wrap nav-inner">
+    <a class="brand" href="/"><img class="brand-logo" src="/assets/logo.png" alt="" width="32" height="32"> MuscleOnGLP</a>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="/research/">Research</a>
+      <a href="/learn/">Learn</a>
+      <a href="/guides/">Mini-Guides</a>
+      <a href="/tools/">Calculators</a>
+      <a class="btn btn-primary nav-cta" href="/#pricing">The Full Handbook</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<article>
+  <header class="article-hero">
+    <div class="wrap">
+      <p class="crumbs"><a href="/">Home</a><span>/</span>Survey</p>
+      <p class="article-eyebrow">Anonymous &middot; about two minutes</p>
+      <h1>The GLP-1 muscle survey</h1>
+      <p class="article-dek">There is good trial data on how much lean mass people lose on a GLP-1. There is almost no data on what people actually <em>do</em> about it. We are trying to fix that, and we will publish whatever we find.</p>
+    </div>
+  </header>
+
+  <section class="section" style="padding-top:16px">
+    <div class="wrap" style="max-width:720px">
+
+      <div class="key-takeaways">
+        <h2>Before you start</h2>
+        <ul>
+          <li><strong>It is completely anonymous.</strong> We do not ask for your name or email, and there is nowhere to type free text, so you cannot accidentally send us anything identifying.</li>
+          <li><strong>We do not store your IP address.</strong> We keep only a one-way daily hash of it, purely so one person cannot submit fifty times. It cannot be reversed or linked across days.</li>
+          <li><strong>Nothing here is medical advice</strong>, and no answer you give changes anything about your care. If a question does not apply, skip it.</li>
+          <li><strong>We will publish the aggregate</strong>, including the results that do not flatter us, with the sample size, the dates, and the limitations stated plainly.</li>
+        </ul>
+      </div>
+
+      <form id="survey" class="price-card price-card-featured" style="max-width:none;margin:26px 0 0" novalidate>
+        <div class="price-body" style="padding:26px 28px 30px">
+
+          <fieldset class="sv-q">
+            <legend>1. Which medication are you currently taking?</legend>
+            <label><input type="radio" name="med" value="semaglutide"> Semaglutide (Ozempic or Wegovy)</label>
+            <label><input type="radio" name="med" value="tirzepatide"> Tirzepatide (Mounjaro or Zepbound)</label>
+            <label><input type="radio" name="med" value="other-glp1"> Another GLP-1</label>
+            <label><input type="radio" name="med" value="not-taking"> Not currently taking one</label>
+          </fieldset>
+
+          <fieldset class="sv-q">
+            <legend>2. How long have you been on it?</legend>
+            <label><input type="radio" name="duration" value="lt3"> Less than 3 months</label>
+            <label><input type="radio" name="duration" value="3to6"> 3 to 6 months</label>
+            <label><input type="radio" name="duration" value="6to12"> 6 to 12 months</label>
+            <label><input type="radio" name="duration" value="gt12"> More than 12 months</label>
+            <label><input type="radio" name="duration" value="na"> Not applicable</label>
+          </fieldset>
+
+          <fieldset class="sv-q">
+            <legend>3. Do you currently do resistance training (weights, bands, or bodyweight)?</legend>
+            <label><input type="radio" name="training" value="never"> Never or almost never</label>
+            <label><input type="radio" name="training" value="1to2"> 1 to 2 times a week</label>
+            <label><input type="radio" name="training" value="3plus"> 3 or more times a week</label>
+          </fieldset>
+
+          <fieldset class="sv-q">
+            <legend>4. Do you track your protein intake?</legend>
+            <label><input type="radio" name="tracks" value="no"> No</label>
+            <label><input type="radio" name="tracks" value="roughly"> Roughly, in my head</label>
+            <label><input type="radio" name="tracks" value="to-target"> Yes, to a specific target</label>
+          </fieldset>
+
+          <fieldset class="sv-q">
+            <legend>5. Roughly how much protein do you eat per day? <span class="sv-opt">Optional</span></legend>
+            <label><input type="radio" name="grams" value="lt60"> Under 60 g</label>
+            <label><input type="radio" name="grams" value="60to90"> 60 to 90 g</label>
+            <label><input type="radio" name="grams" value="90to120"> 90 to 120 g</label>
+            <label><input type="radio" name="grams" value="120plus"> More than 120 g</label>
+            <label><input type="radio" name="grams" value="dont-know"> I don't know</label>
+          </fieldset>
+
+          <fieldset class="sv-q">
+            <legend>6. Has any clinician ever raised muscle loss with you?</legend>
+            <label><input type="radio" name="clinician" value="unprompted"> Yes, they brought it up</label>
+            <label><input type="radio" name="clinician" value="i-asked"> Yes, but only because I asked</label>
+            <label><input type="radio" name="clinician" value="no"> No</label>
+          </fieldset>
+
+          <fieldset class="sv-q">
+            <legend>7. Have you stopped, or do you plan to stop?</legend>
+            <label><input type="radio" name="stopping" value="stopped"> I have already stopped</label>
+            <label><input type="radio" name="stopping" value="within-year"> I plan to within a year</label>
+            <label><input type="radio" name="stopping" value="no-plan"> No plan to stop</label>
+            <label><input type="radio" name="stopping" value="unsure"> Unsure</label>
+          </fieldset>
+
+          <fieldset class="sv-q">
+            <legend>8. If you have stopped, did you notice a change in strength? <span class="sv-opt">Optional</span></legend>
+            <label><input type="radio" name="strength" value="weaker"> Yes, I felt weaker</label>
+            <label><input type="radio" name="strength" value="no-change"> No change</label>
+            <label><input type="radio" name="strength" value="stronger"> I felt stronger</label>
+            <label><input type="radio" name="strength" value="not-tracked"> I did not track it</label>
+            <label><input type="radio" name="strength" value="na"> Have not stopped</label>
+          </fieldset>
+
+          <p class="sv-hp" aria-hidden="true"><label>Leave this field empty<input type="text" name="hp" tabindex="-1" autocomplete="off"></label></p>
+
+          <button type="submit" class="btn btn-primary btn-lg" style="width:100%;justify-content:center;margin-top:8px">Submit my answers</button>
+          <p class="subscribe-status" id="sv-status" role="status" aria-live="polite" style="margin-top:12px"></p>
+        </div>
+      </form>
+
+      <div class="article" style="margin-top:34px">
+        <h2>What we will do with this</h2>
+        <p>We will publish the aggregate on this site, free for anyone to cite, with the sample size, the collection dates, and how people were recruited. We will state plainly that the sample is self-selected and self-reported, which means it describes the people who answered and not every GLP-1 user in the world.</p>
+        <p>We will not publish until enough people have responded to describe the result honestly. A survey of forty people presented as a finding is worse than no survey, and it cannot be walked back afterwards.</p>
+        <p>If you want the results when they land, the <a href="/#free">weekly research digest</a> is the place we will announce them. That signup is entirely separate from this survey, and the two are never joined up.</p>
+        <p>Questions about how this is run: <a href="mailto:ben@purplelink.llc">ben@purplelink.llc</a>. How we source and correct everything we publish is set out in our <a href="/editorial-policy/">editorial policy</a>, and what we collect is in our <a href="/privacy/">privacy policy</a>.</p>
+      </div>
+
+    </div>
+  </section>
+</article>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p class="foot-disclaimer">This survey is for research and educational purposes and does not constitute medical advice. It provides no dosing, titration, or sourcing guidance for any medication. Consult your prescribing clinician about your own care.</p>
+    <div class="foot-legal">
+      <span>&copy; 2026 MuscleOnGLP. All rights reserved.</span>
+      <span><a href="/terms/">Terms of Service</a></span>
+      <span><a href="/about/">About</a></span>
+      <span><a href="/contact/">Contact</a></span>
+      <span><a href="/editorial-policy/">Editorial policy</a></span>
+      <span><a href="/privacy/">Privacy</a></span>
+      <span>Not affiliated with Novo Nordisk, Eli Lilly, or any medication manufacturer.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="/survey.js"></script>
+<script src="/analytics.js"></script>
+</body>
+</html>
