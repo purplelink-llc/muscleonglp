@@ -106,8 +106,21 @@ export default async function handler(request) {
   if (resp.status === 400 && /exist|already|subscribed|duplicate/i.test(JSON.stringify(data))) {
     return jsonResponse(200, { ok: true, status: "already_subscribed" });
   }
-  return jsonResponse(502, {
-    error: "provider_error",
-    detail: code || "Could not subscribe right now. Please try again.",
-  });
+
+  // Never surface the provider's raw code to a visitor. subscribe.js renders
+  // `detail` verbatim, so passing `code` through put strings like
+  // "subscriber_blocked" in front of real people, which reads as broken and
+  // gives them nothing to act on. Map what we know, stay vague otherwise, and
+  // keep the raw code server-side for debugging.
+  console.warn("subscribe: provider rejected", { status: resp.status, code });
+
+  let detail = "Something went wrong on our side. Please try again in a moment.";
+  if (/blocked|denied|spam/i.test(code)) {
+    detail = "We could not accept that address. If it is a work or forwarding address, try a personal one.";
+  } else if (/invalid|malformed|format/i.test(code)) {
+    detail = "That email address does not look right. Please check it and try again.";
+  } else if (/limit|throttl|rate/i.test(code)) {
+    detail = "Too many attempts just now. Please try again in a few minutes.";
+  }
+  return jsonResponse(502, { error: "provider_error", detail });
 }
