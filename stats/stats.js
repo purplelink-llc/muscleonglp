@@ -37,18 +37,20 @@
         html += "<div class='stats-card'><span class='n'>" + (t.pageviews || 0) + "</span><span>pageviews</span></div>";
         html += "<div class='stats-card'><span class='n'>" + (t.subscribes || 0) + "</span><span>signups</span></div>";
         html += "<div class='stats-card'><span class='n'>" + (t.checkoutClicks || 0) + "</span><span>checkout clicks</span></div>";
+        html += "<div class='stats-card'><span class='n'>" + (t.calcRuns || 0) + "</span><span>calculator runs</span></div>";
         html += "<div class='stats-card'><span class='n'>" + cvr + "%</span><span>signup rate</span></div>";
         html += "</div>";
         var byDay = Object.keys(d.byDay || {}).sort().reverse().map(function (day) {
           var v = d.byDay[day];
-          return [day, v.pageviews, v.uniques, v.subscribes, v.checkoutClicks];
+          return [day, v.pageviews, v.uniques, v.subscribes, v.checkoutClicks, v.calcRuns || 0];
         });
-        html += table("Day by day", byDay, ["Day", "Views", "Visitors", "Signups", "Checkout clicks"]);
+        html += table("Day by day", byDay, ["Day", "Views", "Visitors", "Signups", "Checkout clicks", "Calculator runs"]);
         html += table("Most-viewed pages", (d.topPaths || []).map(function (x) { return [x.key, x.count]; }), ["Page", "Views"]);
         html += table("Where visitors came from", (d.topReferrers || []).map(function (x) { return [x.key, x.count]; }), ["Site", "Views"]);
         html += table("Campaign tags", (d.topUtm || []).map(function (x) { return [x.key, x.count]; }), ["utm_source", "Views"]);
         html += table("Checkout clicks by product", (d.checkoutByProduct || []).map(function (x) { return [x.key, x.count]; }), ["Product", "Clicks"]);
         html += table("Signups by page", (d.subscribeBySource || []).map(function (x) { return [x.key, x.count]; }), ["Page", "Signups"]);
+        html += table("Calculator runs", (d.calcByTool || []).map(function (x) { return [x.key, x.count]; }), ["Calculator", "Runs"]);
         html += "<p class='guarantee' style='text-align:left;margin-top:24px'>Updated " + esc(d.generatedAt || "") + "</p>";
         out.innerHTML = html;
       })

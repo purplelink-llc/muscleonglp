@@ -25,6 +25,13 @@ function json(status, body) {
   });
 }
 
+// Fallback label for a calc_use event that arrived without a meta tag, so an
+// older cached calc.js still lands in a named bucket rather than "unknown".
+function pathToTool(path) {
+  const m = /\/([a-z0-9-]+)-calculator\//i.exec(path || "");
+  return m ? m[1] : "unknown";
+}
+
 function bump(obj, key, n = 1) {
   if (!key) return;
   obj[key] = (obj[key] || 0) + n;
@@ -55,13 +62,14 @@ export default async function handler(request) {
   const now = Date.now();
   const summary = {
     rangeDays: days,
-    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, events: 0 },
+    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, calcRuns: 0, events: 0 },
     byPath: {},
     byReferrer: {},
     byUtm: {},
     checkoutByProduct: {},
     subscribeBySource: {},
-    byDay: {},          // day -> { pageviews, uniques, subscribes, checkoutClicks }
+    calcByTool: {},
+    byDay: {},          // day -> { pageviews, uniques, subscribes, checkoutClicks, calcRuns }
   };
   const uniquesPerDay = {}; // day -> Set(vid)
 
@@ -74,7 +82,7 @@ export default async function handler(request) {
       continue;
     }
     const blobs = (listing && listing.blobs) || [];
-    if (!summary.byDay[day]) summary.byDay[day] = { pageviews: 0, uniques: 0, subscribes: 0, checkoutClicks: 0 };
+    if (!summary.byDay[day]) summary.byDay[day] = { pageviews: 0, uniques: 0, subscribes: 0, checkoutClicks: 0, calcRuns: 0 };
     if (!uniquesPerDay[day]) uniquesPerDay[day] = new Set();
 
     for (const b of blobs) {
@@ -102,6 +110,11 @@ export default async function handler(request) {
         summary.totals.checkoutClicks++;
         summary.byDay[day].checkoutClicks++;
         bump(summary.checkoutByProduct, rec.meta || "unknown");
+      } else if (rec.type === "calc_use") {
+        // A calculator was actually run, as opposed to its page being viewed.
+        summary.totals.calcRuns++;
+        summary.byDay[day].calcRuns++;
+        bump(summary.calcByTool, rec.meta || pathToTool(rec.path));
       }
     }
     summary.byDay[day].uniques = uniquesPerDay[day].size;
@@ -115,6 +128,7 @@ export default async function handler(request) {
     topUtm: topN(summary.byUtm),
     checkoutByProduct: topN(summary.checkoutByProduct),
     subscribeBySource: topN(summary.subscribeBySource),
+    calcByTool: topN(summary.calcByTool),
     byDay: Object.fromEntries(Object.entries(summary.byDay).sort()),
   });
 }

@@ -64,5 +64,10 @@
     $("out").hidden = false;
   }
 
-  form.addEventListener("submit", function (e) { e.preventDefault(); compute(); });
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    compute();
+    // Records a real use, not just a pageview: only a deliberate submit counts.
+    if (window.mogTrack) window.mogTrack("calc_use", "muscle-loss");
+  });
 })();

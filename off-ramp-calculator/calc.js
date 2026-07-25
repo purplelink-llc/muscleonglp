@@ -100,5 +100,11 @@
       xl + '</svg>';
   }
 
-  form.addEventListener("submit", function (e) { e.preventDefault(); compute(); });
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    compute();
+    // Only a deliberate submit counts. The timeline renders on load, so
+    // counting that would inflate use with visitors who never touched it.
+    if (window.mogTrack) window.mogTrack("calc_use", "off-ramp");
+  });
 })();
