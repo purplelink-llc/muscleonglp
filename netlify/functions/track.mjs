@@ -63,6 +63,23 @@ export default async function handler(request) {
 
   const rec = { type, path, refHost, utm, meta, vid, ts: Date.now() };
 
+  // ── TEMPORARY DIAGNOSTIC, expires 2026-08-05 ──────────────────────────────
+  // Search Console reports 0 search clicks for this domain over 28 days while
+  // this beacon recorded ~130 visits, 79% of them direct and 96% single-page.
+  // The stored fields cannot tell a real browser from automation, so for one
+  // week we also keep the user-agent.
+  //
+  // The window is enforced here rather than by remembering to delete this
+  // code: once the date passes, the field simply stops being written, so a
+  // forgotten cleanup cannot leave it collecting indefinitely. The UA is
+  // weakly identifying, which is why it is time-boxed and scoped to this site.
+  // Do Not Track and the bot filter above still apply first.
+  const UA_LOG_UNTIL = Date.parse("2026-08-05T00:00:00Z");
+  if (Date.now() < UA_LOG_UNTIL) {
+    rec.ua = clip(ua, 180);
+  }
+  // ── end temporary diagnostic ──────────────────────────────────────────────
+
   try {
     await getStore("analytics").setJSON(`ev/${day}/${Date.now()}-${randomUUID().slice(0, 8)}`, rec);
   } catch (_) {
