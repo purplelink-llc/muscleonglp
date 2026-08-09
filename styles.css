@@ -476,6 +476,12 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .calc-in:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(47,111,94,.15); }
 .calc-stat { background: var(--accent-light); border-radius: 12px; padding: 14px 16px; display: flex; flex-direction: column; gap: 3px; }
 .calc-n { font-family: var(--font-display); font-size: 1.4rem; font-weight: 800; color: var(--accent); line-height: 1.1; }
+/* Empty-value placeholder. The dash lives in CSS rather than in the markup so
+   the span is genuinely empty until calc.js writes a result: a screen reader
+   then announces nothing instead of "em dash", and the em-dash count in the
+   HTML reflects prose rather than UI glyphs. calc.js sets textContent, which
+   removes :empty, so the real value replaces the dash automatically. */
+.calc-n:empty::before { content: "\2014"; color: var(--ink-soft); }
 .calc-l { font-size: var(--fs-meta); color: var(--ink-soft); }
 .calc-warn { margin-top: 16px; padding: 12px 16px; background: #fef3f2; border: 1px solid #f3c9c3; border-radius: 10px; color: #8a2a20; font-size: var(--fs-body); }
 
