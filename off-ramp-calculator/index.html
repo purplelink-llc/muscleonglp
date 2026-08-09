@@ -96,18 +96,18 @@
         <div class="price-body" style="padding:26px 28px 30px">
           <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px">
             <div>
-              <label for="weight" style="display:block;font-weight:650;margin-bottom:6px;font-size:0.9rem">Current weight</label>
+              <label for="weight" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Current weight</label>
               <div style="display:flex;gap:8px">
                 <input id="weight" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 170" class="calc-in" style="flex:1 1 auto;min-width:0">
                 <select id="weightUnit" class="calc-in" style="flex:0 0 auto;width:auto"><option value="lb">lb</option><option value="kg">kg</option></select>
               </div>
             </div>
             <div>
-              <label for="lost" style="display:block;font-weight:650;margin-bottom:6px;font-size:0.9rem">Weight lost so far (same unit)</label>
+              <label for="lost" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Weight lost so far (same unit)</label>
               <input id="lost" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 40" class="calc-in">
             </div>
             <div>
-              <label for="plan" style="display:block;font-weight:650;margin-bottom:6px;font-size:0.9rem">Your exit plan</label>
+              <label for="plan" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Your exit plan</label>
               <select id="plan" class="calc-in">
                 <option value="cold">Stop cold</option>
                 <option value="taper" selected>Gradual taper</option>
@@ -115,7 +115,7 @@
               </select>
             </div>
             <div>
-              <label for="muscle" style="display:block;font-weight:650;margin-bottom:6px;font-size:0.9rem">Muscle preservation during loss</label>
+              <label for="muscle" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Muscle preservation during loss</label>
               <select id="muscle" class="calc-in">
                 <option value="yes" selected>Resistance training + enough protein</option>
                 <option value="no">Neither / minimal</option>
@@ -136,10 +136,10 @@
         <p id="planNote" hidden class="calc-warn" style="background:var(--accent-light);color:var(--ink);border:none"></p>
 
         <div id="chartWrap" style="margin-top:26px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px 18px">
-          <h3 style="margin:0 0 4px;font-size:1.1rem">Your weight over the next 12 months</h3>
-          <p style="margin:0 0 14px;color:var(--ink-soft);font-size:0.9rem">The red line is trial-measured (a full stop). The green line is your plan, modeled from it.</p>
+          <h3 style="margin:0 0 4px;font-size:var(--fs-head)">Your weight over the next 12 months</h3>
+          <p style="margin:0 0 14px;color:var(--ink-soft);font-size:var(--fs-body)">The red line is trial-measured (a full stop). The green line is your plan, modeled from it.</p>
           <div id="chart"></div>
-          <div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:12px;font-size:0.85rem">
+          <div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:12px;font-size:var(--fs-meta)">
             <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:3px;background:#c0392b;display:inline-block"></span> Cold stop, no muscle plan (~two-thirds regained)</span>
             <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:3px;background:var(--accent);display:inline-block"></span> Your plan</span>
           </div>
@@ -156,8 +156,8 @@
       </div>
 
       <div id="phaseWrap" style="margin-top:26px;background:#fff;border:1px solid var(--line);border-radius:16px;padding:20px 18px">
-        <h3 style="margin:0 0 4px;font-size:1.1rem">Muscle across the four phases</h3>
-        <p style="margin:0 0 14px;color:var(--ink-soft);font-size:0.9rem">One journey, two endings. Lines are shown as a percentage of your starting level. This is an illustrative diagram of the trajectory, not tied to the numbers above.</p>
+        <h3 style="margin:0 0 4px;font-size:var(--fs-head)">Muscle across the four phases</h3>
+        <p style="margin:0 0 14px;color:var(--ink-soft);font-size:var(--fs-body)">One journey, two endings. Lines are shown as a percentage of your starting level. This is an illustrative diagram of the trajectory, not tied to the numbers above.</p>
         <svg viewBox="0 0 720 400" width="100%" role="img" aria-labelledby="phaseTitle phaseDesc" style="max-width:100%;height:auto">
           <title id="phaseTitle">The four phases of a GLP-1 journey and what happens to muscle in each</title>
           <desc id="phaseDesc">A timeline across four phases: active loss, plateau, off-ramp or taper, and maintenance. Body weight falls during active loss and the plateau, then partly regains during the off-ramp and maintenance. Muscle held with adequate protein and resistance training stays near its starting level. Muscle without those countermeasures falls steadily and stays low, the pattern that trends toward sarcopenic obesity when fat returns.</desc>
@@ -191,12 +191,12 @@
           <text x="224" y="214" text-anchor="start" font-size="11.5" font-weight="600" fill="#c0392b">Muscle, no countermeasures</text>
           <text x="470" y="138" text-anchor="middle" font-size="11.5" font-weight="600" fill="#6b7280">Body weight</text>
         </svg>
-        <div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:12px;font-size:0.85rem">
+        <div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:12px;font-size:var(--fs-meta)">
           <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:0;border-top:2px dashed #9ca3af;display:inline-block"></span> Body weight (falls, then partly regains)</span>
           <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:3px;background:var(--accent);display:inline-block"></span> Muscle held with protein + resistance training</span>
           <span style="display:inline-flex;align-items:center;gap:6px"><span style="width:20px;height:3px;background:#c0392b;display:inline-block"></span> Muscle lost without countermeasures</span>
         </div>
-        <p id="tlNote" style="margin:12px 0 0;color:var(--ink-soft);font-size:0.85rem">Two endings from the same start. Run the calculator above to see which muscle line your plan follows.</p>
+        <p id="tlNote" style="margin:12px 0 0;color:var(--ink-soft);font-size:var(--fs-meta)">Two endings from the same start. Run the calculator above to see which muscle line your plan follows.</p>
       </div>
 
       <div class="article" style="margin-top:34px">
