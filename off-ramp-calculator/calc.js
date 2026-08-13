@@ -12,10 +12,18 @@
   var PLAN = { cold: 0.67, taper: 0.55, stay: 0.12 };
   var MUSCLE = { yes: 0.8, no: 1.0 };         // preserved muscle blunts regain (illustrative)
   var TAU = 4;                                // months; regain is front-loaded
+  var HORIZON = 12;                           // months; the figure PLAN[] describes
+  // Normalising by the curve's value at the horizon matters. Without it,
+  // 1 - e^(-12/4) = 0.950, so the curve delivered only 95% of PLAN[plan] at month
+  // 12 while the headline "+X lb" printed the full asymptote. The two numbers on
+  // screen disagreed: +34 lb regained but 232 lb at 12 months, off a 200 lb start.
+  // It also meant a cold stop reproduced 63.7% rather than the ~two-thirds at 12
+  // months that Wilding 2022 actually measured. Now month 12 lands exactly on it.
+  var SETTLE = 1 - Math.exp(-HORIZON / TAU);
 
   function num(id) { var v = parseFloat($(id).value); return isFinite(v) ? v : NaN; }
   function fmt(n) { return Math.round(n).toLocaleString(); }
-  function regainByMonth(total, t) { return total * (1 - Math.exp(-t / TAU)); }
+  function regainByMonth(total, t) { return total * (1 - Math.exp(-t / TAU)) / SETTLE; }
 
   function compute() {
     var cur = num("weight"), lost = num("lost");

@@ -91,14 +91,6 @@
         <div class="price-body" style="padding:26px 28px 30px">
           <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px">
             <div>
-              <label for="sex" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Sex</label>
-              <select id="sex" class="calc-in"><option value="female">Female</option><option value="male">Male</option></select>
-            </div>
-            <div>
-              <label for="age" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Age</label>
-              <input id="age" type="number" inputmode="numeric" min="1" step="1" placeholder="e.g. 45" class="calc-in">
-            </div>
-            <div>
               <label for="weight" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Current weight</label>
               <div style="display:flex;gap:8px">
                 <input id="weight" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 210" class="calc-in" style="flex:1 1 auto;min-width:0">
@@ -186,6 +178,16 @@
         <p class="cta-secondary">Want your calorie and protein numbers first? Use the free <a href="/protein-calculator/">muscle &amp; weight-loss calculator</a>.</p>
       </div>
 
+      <aside class="gear" aria-labelledby="gear-h">
+        <h2 id="gear-h">Gear for the two levers above</h2>
+        <p class="gear-disclosure">Optional products for the protein and training settings this estimator responds to. As an Amazon Associate, we earn from qualifying purchases.</p>
+        <ul class="gear-list">
+          <li><a href="https://www.amazon.com/s?k=optimum+nutrition+gold+standard+whey" target="_blank" rel="sponsored nofollow noopener">Whey protein powder</a> is how most people reach the 1.6 g/kg setting on a suppressed appetite. Optimum Nutrition Gold Standard is the most widely sold version; any whey isolate does the same job.</li>
+          <li><a href="https://www.amazon.com/s?k=creatine+monohydrate+powder" target="_blank" rel="sponsored nofollow noopener">Creatine monohydrate</a> is the one supplement beyond protein with strong evidence for holding lean mass while you train. Three to five grams a day.</li>
+          <li><a href="https://www.amazon.com/s?k=resistance+bands+set" target="_blank" rel="sponsored nofollow noopener">Resistance bands</a> cover the training input, which the model above treats as the larger of the two levers.</li>
+        </ul>
+      </aside>
+
       <nav class="related-reading" aria-label="Related reading">
         <h2>Related reading</h2>
         <ul>
@@ -227,5 +229,6 @@
 <script src="/muscle-loss-calculator/calc.js"></script>
 <script src="/subscribe.js" defer></script>
 <script src="/analytics.js"></script>
+<script src="/affiliate.js" defer></script>
 </body>
 </html>
