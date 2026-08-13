@@ -527,6 +527,17 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .inline-capture .subscribe-form .btn { padding: 12px 22px; font-size: 0.95rem; }
 .inline-capture .subscribe-thanks { justify-items: start; margin-top: 16px; }
 
+/* Article tables. There were no table styles anywhere in this file, so the one
+   existing table (best-protein-for-muscle-on-glp1) carried its own inline
+   border and padding on every single cell to compensate. Scoped to .article so
+   nothing else on the site inherits it. .table-scroll keeps a wide table
+   scrolling inside its own box instead of pushing the page sideways on a phone. */
+.table-scroll { overflow-x: auto; margin: 1.4rem 0; -webkit-overflow-scrolling: touch; }
+.article table { border-collapse: collapse; width: 100%; min-width: 460px; font-size: var(--fs-body); }
+.article th { text-align: left; font-weight: 700; color: var(--ink); padding: 10px 14px; border-bottom: 2px solid var(--line); }
+.article td { padding: 10px 14px; border-bottom: 1px solid var(--line); color: var(--ink-soft); vertical-align: top; }
+.article tbody tr:last-child td { border-bottom: 0; }
+
 /* Affiliate gear blocks. These carried no styling at all until now, so the
    heading inherited .article h2 at ~1.9rem and the disclosure read as one more
    body paragraph. Setting the block apart matters beyond looks: the FTC asks
