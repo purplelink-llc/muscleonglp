@@ -9,6 +9,12 @@
   --ink-soft: #45524c;
   --bg: #ffffff;
   --bg-alt: #f4f8f6;
+  /* Form-field surface. Fields used to hardcode background:#fff while their
+     text stayed var(--ink), so in dark mode every value a visitor typed was
+     #e8efec on #ffffff: 1.17:1, i.e. invisible. The dark block below carefully
+     re-backgrounded the cards and missed every input. A token means the two
+     themes can no longer drift apart the way they silently did for a month. */
+  --field-bg: #ffffff;
   --line: #dde7e3;
   --gold: #e0a63c;
   --radius: 16px;
@@ -249,7 +255,7 @@ img { max-width: 100%; display: block; }
 .related-reading a { font-weight: 600; }
 .capture { background: var(--accent-light); }
 .subscribe-form { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 26px; }
-.subscribe-form input[type="email"] { flex: 1 1 280px; min-width: 0; padding: 15px 20px; font: inherit; font-size: 0.95rem; border: 1.5px solid var(--line); border-radius: 100px; background: #fff; color: var(--ink); }
+.subscribe-form input[type="email"] { flex: 1 1 280px; min-width: 0; padding: 15px 20px; font: inherit; font-size: 0.95rem; border: 1.5px solid var(--line); border-radius: 100px; background: var(--field-bg); color: var(--ink); }
 .subscribe-form input[type="email"]:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(47,111,94,.18); }
 .subscribe-form .btn { flex: 0 0 auto; }
 .subscribe-form .subscribe-status { flex: 1 1 100%; margin: 4px 0 0; min-height: 1.1em; font-size: 0.95rem; color: var(--ink-soft); }
@@ -452,6 +458,7 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
   :root {
     --ink: #e8efec; --ink-soft: #a7b6b0; --bg: #101613; --bg-alt: #172420;
     --line: #26352f; --accent-light: #1c2c27;
+    --field-bg: #101613;
   }
   body { background: var(--bg); }
   .nav { background: rgba(16,22,19,.82); }
@@ -459,6 +466,7 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
   .hero { background: radial-gradient(1200px 500px at 80% -10%, #16302a 0%, rgba(22,48,42,0) 60%), linear-gradient(180deg, #121a17 0%, #101613 100%); }
   .hero-cover, .hero-badge, .hero-page { border-color: var(--line); }
   .hero-badge, .hero-page, .feature, .rev-card, .price-card, details[open], .social-card, .lr-card { background: #172420; }
+  .guide-card { background: #172420; }
   .cite, .problem-card, details { background: #172420; }
   .preview-strip img { background: #fff; }
   .price-card { border-color: var(--accent-bright); }
@@ -474,7 +482,7 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 }
 
 /* Protein/weight-loss calculator */
-.calc-in { width: 100%; box-sizing: border-box; padding: 12px 14px; font: inherit; font-size: 0.95rem; border: 1.5px solid var(--line); border-radius: 10px; background: #fff; color: var(--ink); }
+.calc-in { width: 100%; box-sizing: border-box; padding: 12px 14px; font: inherit; font-size: 0.95rem; border: 1.5px solid var(--line); border-radius: 10px; background: var(--field-bg); color: var(--ink); }
 .calc-in:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(47,111,94,.15); }
 .calc-stat { background: var(--accent-light); border-radius: 12px; padding: 14px 16px; display: flex; flex-direction: column; gap: 3px; }
 .calc-n { font-family: var(--font-display); font-size: 1.4rem; font-weight: 800; color: var(--accent); line-height: 1.1; }
@@ -498,7 +506,7 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .stat-hash { font-weight: 700; color: var(--accent); }
 .cite-copy { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
 .cite-copy label { flex-basis: 100%; font-size: 0.8rem; font-weight: 650; color: var(--ink); text-transform: uppercase; letter-spacing: 0.05em; }
-.cite-copy textarea { flex: 1 1 320px; min-width: 0; font-family: inherit; font-size: 0.95rem; line-height: 1.5; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px; background: #fff; color: var(--ink); resize: vertical; }
+.cite-copy textarea { flex: 1 1 320px; min-width: 0; font-family: inherit; font-size: 0.95rem; line-height: 1.5; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--field-bg); color: var(--ink); resize: vertical; }
 .cite-status { font-size: 0.95rem; color: var(--accent-dark); font-weight: 650; }
 .cite-note { font-size: 0.95rem; margin-top: 16px !important; }
 @media (prefers-color-scheme: dark) { .cite-copy textarea { background: #172420; } }
@@ -550,3 +558,9 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .gear-list li { color: var(--ink-soft); font-size: var(--fs-body); line-height: 1.6; }
 .gear-list a { font-weight: 600; }
 @media (prefers-color-scheme: dark) { .inline-capture .subscribe-form input[type="email"] { background: #172420; } }
+
+/* Placeholders are body text for contrast purposes. The browser default grey
+   sits near 2.8:1 on the dark field surface, so it is set explicitly. */
+.calc-in::placeholder,
+.subscribe-form input[type="email"]::placeholder,
+.cite-copy textarea::placeholder { color: var(--ink-soft); opacity: 1; }
