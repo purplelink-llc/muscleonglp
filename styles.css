@@ -506,7 +506,7 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
      because #out is hidden until the form is submitted, so it had no box to
      measure. The results being the least readable thing on the page is the
      worst version of this bug. */
-  .calc-n,
+  .calc-stat .calc-n, .stat-row .stat-hash, .cite-status,
   .learn-card .lc-kicker, .learn-card .lc-more, .article-meta .badge-cited,
   .article-cta .k, .lr-card .lr-week, .lr-card .lr-more,
   .btn-ghost, .hero-price .tag, .hero-stat-n,
