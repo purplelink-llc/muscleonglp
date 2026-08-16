@@ -533,7 +533,7 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
    meal-plan table sat near 1.2:1 on white. Pinning the text with the surface
    keeps the pair consistent. */
 .chart-card { margin-top: 26px; background: #fff; border: 1px solid #dde7e3; border-radius: 16px; padding: 20px 18px; color: #1b2420; }
-.chart-card h3, .chart-card h4, .chart-card p, .chart-card th, .chart-card td, .chart-card strong, .chart-card span { color: inherit; }
+.chart-card h3, .chart-card h4, .chart-card p, .chart-card li, .chart-card th, .chart-card td, .chart-card strong, .chart-card span { color: inherit; }
 
 .calc-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 16px; }
 /* A field that carries its own unit selector cannot share a 126px column:
