@@ -84,9 +84,9 @@
     var html = "";
     for (var i = 0; i < sched.length; i++) {
       html += '<tr>' +
-        '<td style="padding:8px 10px;border-bottom:1px solid var(--line)">' + sched[i][0] + '</td>' +
-        '<td style="padding:8px 10px;border-bottom:1px solid var(--line);color:var(--ink-soft)">' + sched[i][1] + '</td>' +
-        '<td style="padding:8px 10px;border-bottom:1px solid var(--line);text-align:right;font-weight:650">' + low + '–' + high + ' g</td>' +
+        '<td style="padding:8px 10px;border-bottom:1px solid #dde7e3">' + sched[i][0] + '</td>' +
+        '<td style="padding:8px 10px;border-bottom:1px solid #dde7e3;color:#45524c">' + sched[i][1] + '</td>' +
+        '<td style="padding:8px 10px;border-bottom:1px solid #dde7e3;text-align:right;font-weight:650">' + low + '–' + high + ' g</td>' +
         '</tr>';
     }
     rows.innerHTML = html;

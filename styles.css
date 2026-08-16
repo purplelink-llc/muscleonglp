@@ -474,6 +474,27 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
   /* .gear sits outside .article, so without this it keeps the light-mode
      --accent and lands at 2.7:1 on the dark --bg-alt panel. */
   .article a, .references a, .gear-list a { color: var(--accent-bright); }
+  /* --accent (#2f6f5e) does double duty: it is a surface colour for filled
+     buttons and badges, and a text colour for eyebrows, kickers and links. As a
+     surface it is fine. As text on a dark ground it lands at 2.47 to 2.8:1,
+     which fails AA on every page of the site. --accent-bright exists for
+     exactly this case and was only ever wired to .article a. Text uses are
+     switched here; surfaces deliberately keep --accent so white-on-accent
+     buttons do not get worse. */
+  a, footer a, .eyebrow, .article-eyebrow, .badge-cited, .lc-kicker, .lc-more,
+  .gc-kicker, .lr-week, .lr-more, .rev-verified, .cta-secondary a,
+  .fyp-progress-label, .crumbs a:hover { color: var(--accent-bright); }
+  /* The nav CTA is a filled button, but .nav-links a set its text to the muted
+     --ink-soft, leaving grey-on-green at 2.8:1 rather than the intended white. */
+  .nav-cta, .nav-links a.btn-primary { color: #fff; }
+  /* These lost to their own definitions, which are two-class selectors such as
+     .learn-card .lc-kicker. Matched at equal specificity rather than reached for
+     with !important. .price-top .tag is deliberately absent: it sits on a white
+     pill, where --accent is already 5.9:1. */
+  .learn-card .lc-kicker, .learn-card .lc-more, .article-meta .badge-cited,
+  .article-cta .k, .lr-card .lr-week, .lr-card .lr-more,
+  .btn-ghost, .hero-price .tag, .hero-stat-n,
+  .hero-badge .n, .stats-card .n { color: var(--accent-bright); }
   .key-takeaways h2 { color: var(--accent-bright); }
   .rr-preprint { color: var(--accent-bright); }
   .rr-source a { color: var(--accent-bright); }
@@ -482,6 +503,28 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 }
 
 /* Protein/weight-loss calculator */
+/* Calculator input grid. This was an inline minmax(200px,1fr), which at a
+   267px-wide card on a phone resolves to a single column: eight fields in one
+   stack, 750px of form, and the Calculate button 1.6 screens below the fold.
+   A visitor landing from a phone saw no field at all above the fold and no
+   button without scrolling. 120px lets two columns fit that same 267px, which
+   halves the form height. It stays auto-fit, so wider screens keep expanding. */
+/* Chart and table cards stay light in both themes on purpose: the SVG the
+   calculators draw hardcodes #6b7280 axis labels, #e5e7eb gridlines and
+   #9ca3af series strokes, none of which read on a dark surface. What was
+   wrong is that the card pinned its background to #fff but let its text keep
+   following --ink, so in dark mode the phase-timeline heading and the
+   meal-plan table sat near 1.2:1 on white. Pinning the text with the surface
+   keeps the pair consistent. */
+.chart-card { margin-top: 26px; background: #fff; border: 1px solid #dde7e3; border-radius: 16px; padding: 20px 18px; color: #1b2420; }
+.chart-card h3, .chart-card h4, .chart-card p, .chart-card th, .chart-card td, .chart-card strong, .chart-card span { color: inherit; }
+
+.calc-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 16px; }
+/* A field that carries its own unit selector cannot share a 126px column:
+   the number input was left 50px wide, too narrow to read a 3-digit weight.
+   Those span the full row; the plain one-control fields still sit two-up. */
+.calc-grid > .calc-field-wide { grid-column: 1 / -1; }
+
 .calc-in { width: 100%; box-sizing: border-box; padding: 12px 14px; font: inherit; font-size: 0.95rem; border: 1.5px solid var(--line); border-radius: 10px; background: var(--field-bg); color: var(--ink); }
 .calc-in:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(47,111,94,.15); }
 .calc-stat { background: var(--accent-light); border-radius: 12px; padding: 14px 16px; display: flex; flex-direction: column; gap: 3px; }
