@@ -86,6 +86,12 @@ img { max-width: 100%; display: block; }
 .nav-links { display: flex; align-items: center; gap: 18px; flex-shrink: 0; min-width: 0; }
 .nav-links a { color: var(--ink-soft); font-weight: 550; font-size: 0.95rem; white-space: nowrap; }
 .nav-links a:hover { color: var(--accent); text-decoration: none; }
+/* The nav CTA is a filled accent button, but the rule above set every nav link
+   to --ink-soft, which landed dark grey on green at 1.39:1 in light mode and
+   2.8:1 in dark. It needs the button's white in both themes, so it is fixed
+   here rather than inside the dark block. */
+.nav-links a.nav-cta, .nav-links a.btn-primary { color: #fff; }
+.nav-links a.nav-cta:hover { color: #fff; }
 .nav-cta { padding: 9px 16px; font-size: 0.95rem; flex-shrink: 0; }
 /* Below the desktop breakpoint the links used to be hidden outright, which left
    phones and tablets with no site navigation at all. Instead, wrap them onto a
@@ -369,6 +375,10 @@ details p { padding: 0 0 20px; color: var(--ink-soft); }
 .finalcta .btn-primary:hover { background: #f0f7f4; }
 
 /* Footer */
+/* The footer keeps a dark ground in both themes, so --accent links sit at
+   2.8:1 there even in light mode. This is not a dark-mode-only problem and so
+   is not fixed in the dark block. */
+footer a { color: var(--accent-bright); }
 footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0.95rem; }
 .foot-grid { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px; }
 .foot-brand { max-width: 320px; }
@@ -481,12 +491,11 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
      exactly this case and was only ever wired to .article a. Text uses are
      switched here; surfaces deliberately keep --accent so white-on-accent
      buttons do not get worse. */
-  a, footer a, .eyebrow, .article-eyebrow, .badge-cited, .lc-kicker, .lc-more,
+  a, .eyebrow, .article-eyebrow, .badge-cited, .lc-kicker, .lc-more,
   .gc-kicker, .lr-week, .lr-more, .rev-verified, .cta-secondary a,
   .fyp-progress-label, .crumbs a:hover { color: var(--accent-bright); }
   /* The nav CTA is a filled button, but .nav-links a set its text to the muted
      --ink-soft, leaving grey-on-green at 2.8:1 rather than the intended white. */
-  .nav-cta, .nav-links a.btn-primary { color: #fff; }
   /* These lost to their own definitions, which are two-class selectors such as
      .learn-card .lc-kicker. Matched at equal specificity rather than reached for
      with !important. .price-top .tag is deliberately absent: it sits on a white
