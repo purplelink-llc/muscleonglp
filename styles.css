@@ -500,6 +500,13 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
      .learn-card .lc-kicker. Matched at equal specificity rather than reached for
      with !important. .price-top .tag is deliberately absent: it sits on a white
      pill, where --accent is already 5.9:1. */
+  /* .calc-n is every calculator's answer: the kcal, gram and pound figures.
+     It is --accent on the --accent-light stat tile, which in dark mode is
+     2.47:1 against a 3:1 bar for large bold text. Earlier sweeps missed it
+     because #out is hidden until the form is submitted, so it had no box to
+     measure. The results being the least readable thing on the page is the
+     worst version of this bug. */
+  .calc-n,
   .learn-card .lc-kicker, .learn-card .lc-more, .article-meta .badge-cited,
   .article-cta .k, .lr-card .lr-week, .lr-card .lr-more,
   .btn-ghost, .hero-price .tag, .hero-stat-n,
