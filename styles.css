@@ -390,6 +390,25 @@ details p { padding: 0 0 20px; color: var(--ink-soft); }
 .finalcta .lead { color: #d9ece6; margin: 18px auto 30px; }
 .finalcta .btn-primary { background: #fff; color: var(--accent); box-shadow: 0 10px 30px rgba(0,0,0,.2); }
 .finalcta .btn-primary:hover { background: #f0f7f4; }
+/* .finalcta paints itself with the accent gradient in BOTH themes, so anything
+   inside it is on a fixed dark-green ground and must not follow either theme's
+   text tokens. It set color:#fff and then styled h2, .lead and .btn-primary
+   individually, which left two things behind:
+
+     .guarantee kept --ink-soft   -> 1.39:1 in light, 2.8:1 in dark
+     plain links kept the accent  -> 1.0:1 in light. The same green as the
+                                     background, i.e. invisible.
+
+   That second one is the "Terms of Service" link in the checkout block on all
+   six paid guide pages, next to the box a customer has to tick to agree to
+   them. Both predate the token split; the split moved the dark case from
+   1.0:1 to 1.82:1 without making either pass.
+
+   #d9ece6 is the colour .lead already uses here and clears 4.5:1 against the
+   lighter end of the gradient, which is the worst case. */
+.finalcta .guarantee { color: #d9ece6; }
+.finalcta a:not(.btn) { color: #fff; text-decoration: underline; text-underline-offset: 2px; }
+.finalcta a:not(.btn):hover { color: #fff; }
 
 /* Footer */
 /* The footer keeps a dark ground in both themes, so --accent links sit at
