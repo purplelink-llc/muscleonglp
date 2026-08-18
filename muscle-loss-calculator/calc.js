@@ -81,10 +81,55 @@
     $("out").hidden = false;
   }
 
+  // ── live calculation ──────────────────────────────────────────────────────
+  // This used to be submit-gated: nothing appeared until you filled every field
+  // and pressed the button. Over the week to 2026-08-18 that converted 1 of 40
+  // visits, against 60 to 79 percent on the Purplelink tools measured by the
+  // same beacon. The tool was not broken; it asked for four answers on faith
+  // before showing anything, and most arrivals come from a Reddit link rather
+  // than a search with intent behind it. So it now computes as you type.
+  //
+  // The fields are seeded with the values that were already the placeholders,
+  // so a result is on screen immediately. That result describes an example
+  // person, not the visitor, and saying so is not optional on a health tool:
+  // EXAMPLE_NOTE stays visible until the first edit, then goes away for good.
+  var SEED = {
+      weight: '210',
+      weightUnit: 'lb',
+      goal: '170',
+      med: 'sema',
+      protein: 'mid',
+      training: 'some'
+  };
+  var touched = false;
+
+  function seed() {
+    Object.keys(SEED).forEach(function (id) {
+      var el = $(id);
+      if (el && !el.value) { el.value = SEED[id]; }
+    });
+  }
+
+  function markTouched() {
+    if (touched) return;
+    touched = true;
+    var n = $("exampleNote");
+    if (n) { n.hidden = true; }
+    // Fires once, on the first deliberate edit. Not on load: counting the seeded
+    // render would make calc_use a synonym for pageviews and destroy the metric.
+    if (window.mogTrack) window.mogTrack("calc_use", "muscle-loss");
+  }
+
+  seed();
+  compute();
+
+  form.addEventListener("input", function () { markTouched(); compute(); });
+  form.addEventListener("change", function () { markTouched(); compute(); });
+
+  // The button is gone, but Enter in a text field still submits a form.
   form.addEventListener("submit", function (e) {
     e.preventDefault();
+    markTouched();
     compute();
-    // Records a real use, not just a pageview: only a deliberate submit counts.
-    if (window.mogTrack) window.mogTrack("calc_use", "muscle-loss");
   });
 })();

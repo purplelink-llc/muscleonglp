@@ -538,6 +538,14 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .chart-card { margin-top: 26px; background: #fff; border: 1px solid #dde7e3; border-radius: 16px; padding: 20px 18px; color: #1b2420; }
 .chart-card h3, .chart-card h4, .chart-card p, .chart-card li, .chart-card th, .chart-card td, .chart-card strong, .chart-card span { color: inherit; }
 
+/* Shown while the calculators are displaying their seeded example values,
+   hidden for good on the visitor's first edit. The tools now compute live,
+   so something is always on screen; this is what stops that something from
+   reading as the visitor's own numbers before they have entered any. */
+.calc-example-note { margin: 20px 0 0; padding: 12px 14px; background: var(--bg-alt);
+  border: 1px dashed var(--line); border-radius: 10px; color: var(--ink-soft);
+  font-size: var(--fs-meta); line-height: 1.5; text-align: center; }
+
 .calc-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 16px; }
 /* A field that carries its own unit selector cannot share a 126px column:
    the number input was left 50px wide, too narrow to read a 3-digit weight.

@@ -108,11 +108,54 @@
       xl + '</svg>';
   }
 
+  // ── live calculation ──────────────────────────────────────────────────────
+  // This used to be submit-gated: nothing appeared until you filled every field
+  // and pressed the button. Over the week to 2026-08-18 that converted 1 of 40
+  // visits, against 60 to 79 percent on the Purplelink tools measured by the
+  // same beacon. The tool was not broken; it asked for four answers on faith
+  // before showing anything, and most arrivals come from a Reddit link rather
+  // than a search with intent behind it. So it now computes as you type.
+  //
+  // The fields are seeded with the values that were already the placeholders,
+  // so a result is on screen immediately. That result describes an example
+  // person, not the visitor, and saying so is not optional on a health tool:
+  // EXAMPLE_NOTE stays visible until the first edit, then goes away for good.
+  var SEED = {
+      weight: '170',
+      weightUnit: 'lb',
+      lost: '40',
+      plan: 'taper',
+      muscle: 'no'
+  };
+  var touched = false;
+
+  function seed() {
+    Object.keys(SEED).forEach(function (id) {
+      var el = $(id);
+      if (el && !el.value) { el.value = SEED[id]; }
+    });
+  }
+
+  function markTouched() {
+    if (touched) return;
+    touched = true;
+    var n = $("exampleNote");
+    if (n) { n.hidden = true; }
+    // Fires once, on the first deliberate edit. Not on load: counting the seeded
+    // render would make calc_use a synonym for pageviews and destroy the metric.
+    if (window.mogTrack) window.mogTrack("calc_use", "off-ramp");
+  }
+
+  seed();
+  compute();
+
+  form.addEventListener("input", function () { markTouched(); compute(); });
+  form.addEventListener("change", function () { markTouched(); compute(); });
+
+  // The button is gone, but Enter in a text field still submits a form.
   form.addEventListener("submit", function (e) {
     e.preventDefault();
+    markTouched();
     compute();
-    // Only a deliberate submit counts. The timeline renders on load, so
-    // counting that would inflate use with visitors who never touched it.
-    if (window.mogTrack) window.mogTrack("calc_use", "off-ramp");
   });
 })();
