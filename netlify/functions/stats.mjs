@@ -66,7 +66,7 @@ export default async function handler(request) {
     byPath: {},
     byReferrer: {},
     byUtm: {},
-    checkoutByProduct: {},
+    checkoutByProduct: {}, checkoutByPath: {},
     subscribeBySource: {},
     calcByTool: {},
     byDay: {},          // day -> { pageviews, uniques, subscribes, checkoutClicks, calcRuns }
@@ -110,6 +110,10 @@ export default async function handler(request) {
         summary.totals.checkoutClicks++;
         summary.byDay[day].checkoutClicks++;
         bump(summary.checkoutByProduct, rec.meta || "unknown");
+        // See the purplelink copy of this file: the dashboard's checkout-rate
+        // denominator is a hand-maintained list of pages with a buy button, and
+        // recording the path is what makes that list auditable.
+        bump(summary.checkoutByPath, rec.path || "unknown");
       } else if (rec.type === "calc_use") {
         // A calculator was actually run, as opposed to its page being viewed.
         summary.totals.calcRuns++;
@@ -127,6 +131,7 @@ export default async function handler(request) {
     topReferrers: topN(summary.byReferrer),
     topUtm: topN(summary.byUtm),
     checkoutByProduct: topN(summary.checkoutByProduct),
+    checkoutByPath: topN(summary.checkoutByPath),
     subscribeBySource: topN(summary.subscribeBySource),
     calcByTool: topN(summary.calcByTool),
     byDay: Object.fromEntries(Object.entries(summary.byDay).sort()),
