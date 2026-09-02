@@ -72,6 +72,12 @@ export const PRODUCTS = {
     title: "The Muscle-on-GLP-1 Workbook",
     file: "muscle-on-glp1-workbook.pdf",
   },
+  "research-review-2026-08": {
+    envKey: "STRIPE_PRICE_RESEARCH_REVIEW_2026_08",
+    successPath: "/success/research-review-2026-08/",
+    title: "GLP-1 & Muscle: Research Review, August 2026",
+    file: "research-review-2026-08.pdf",
+  },
 };
 
 /** Version of the Terms of Service buyers accept at checkout. */
