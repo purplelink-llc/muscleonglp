@@ -127,7 +127,12 @@ export default async function handler(request) {
   return json(200, {
     generatedAt: new Date().toISOString(),
     totals: summary.totals,
-    topPaths: topN(summary.byPath),
+    // Full path list, not the default top-N. The dashboard derives its
+    // checkout rate by summing views of pages that carry a buy button,
+    // and truncation silently zeroed any product page outside the top
+    // slice -- which is precisely the low-traffic product pages the
+    // metric exists to measure. Both sites are well under 200 pages.
+    topPaths: topN(summary.byPath, 200),
     topReferrers: topN(summary.byReferrer),
     topUtm: topN(summary.byUtm),
     checkoutByProduct: topN(summary.checkoutByProduct),
