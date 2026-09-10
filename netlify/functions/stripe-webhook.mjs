@@ -32,7 +32,7 @@
 
 import { createHmac, timingSafeEqual } from "node:crypto";
 import { getStore } from "@netlify/blobs";
-import { PRODUCTS, TERMS_VERSION, TOS_STORE, tosKey, downloadUrl } from "./lib/products.mjs";
+import { PRODUCTS, TERMS_VERSION, TOS_STORE, tosKey, downloadUrl, bonusDownloadUrl } from "./lib/products.mjs";
 
 const RESEND_API_URL = "https://api.resend.com/emails";
 // Resend verifies domains exactly: `purplelink.llc` is verified, the
@@ -115,7 +115,13 @@ async function sendEmail({ to, subject, html, text }) {
   }
 }
 
-function downloadEmailHtml(title, url) {
+function downloadEmailHtml(title, url, bonus) {
+  const bonusBlock = bonus
+    ? `<p style="margin:28px 0 4px;padding:16px;background:#f4f8f6;border-radius:12px">
+    <strong>Your free bonus:</strong> ${bonus.title}<br>
+    <a href="${bonus.url}" style="color:#2f6f5e;font-weight:600">Download your free bonus &rarr;</a>
+  </p>`
+    : "";
   return `<div style="font-family:-apple-system,sans-serif;max-width:520px;margin:0 auto;color:#1b2420">
   <h2 style="color:#2f6f5e">Thanks for your purchase</h2>
   <p>Your guide, <strong>${title}</strong>, is ready to download.</p>
@@ -123,6 +129,7 @@ function downloadEmailHtml(title, url) {
     <a href="${url}" style="background:#2f6f5e;color:#fff;padding:14px 28px;border-radius:100px;text-decoration:none;font-weight:600">Download the PDF</a>
   </p>
   <p style="font-size:14px;color:#45524c">If the button doesn't work, copy this link into your browser: ${url}</p>
+  ${bonusBlock}
   <p style="font-size:13px;color:#8a9993;margin-top:32px">This guide is educational and does not constitute medical advice. Consult your prescribing clinician before beginning a new exercise or nutrition program.</p>
   <p style="font-size:13px;color:#8a9993">Trouble downloading? Reply to this email and we'll help.</p>
 </div>`;
@@ -231,12 +238,16 @@ export default async function handler(request) {
   }
 
   const link = downloadUrl(session.id);
+  const bonusEntry = entry.bonus ? PRODUCTS[entry.bonus] : null;
+  const bonus = bonusEntry ? { title: bonusEntry.title, url: bonusDownloadUrl(session.id) } : null;
 
   const customerResult = await sendEmail({
     to: buyerEmail,
     subject: `Your guide: ${entry.title}`,
-    html: downloadEmailHtml(entry.title, link),
-    text: `Thanks for your purchase. Download ${entry.title} here: ${link}`,
+    html: downloadEmailHtml(entry.title, link, bonus),
+    text: `Thanks for your purchase. Download ${entry.title} here: ${link}${
+      bonus ? `\n\nYour free bonus, ${bonus.title}, is here: ${bonus.url}` : ""
+    }`,
   });
 
   // Best-effort sale notification — never let a failure here affect the

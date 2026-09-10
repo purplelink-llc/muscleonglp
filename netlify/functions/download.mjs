@@ -82,10 +82,23 @@ export default async function handler(request) {
     return fail(404, "unknown_product", "We could not identify which guide this order is for. Contact ben@purplelink.llc.");
   }
 
+  // ?bonus=1 asks for the order's free gift instead of the main file. It is
+  // still gated by the same paid + terms-accepted checks above — a bonus
+  // isn't reachable without having actually bought something.
+  const wantsBonus = new URL(request.url).searchParams.get("bonus") === "1";
+  let file = product;
+  if (wantsBonus) {
+    const bonus = product.bonus ? PRODUCTS[product.bonus] : null;
+    if (!bonus) {
+      return fail(404, "no_bonus", "This order does not include a bonus download.");
+    }
+    file = bonus;
+  }
+
   let bytes;
   try {
-    const blob = await getStore(FILE_STORE).get(product.file, { type: "arrayBuffer" });
-    if (!blob) throw new Error(`missing blob ${product.file}`);
+    const blob = await getStore(FILE_STORE).get(file.file, { type: "arrayBuffer" });
+    if (!blob) throw new Error(`missing blob ${file.file}`);
     bytes = new Uint8Array(blob);
   } catch (err) {
     return fail(500, "file_unavailable", "The file is temporarily unavailable. Contact ben@purplelink.llc.");
@@ -95,7 +108,7 @@ export default async function handler(request) {
     status: 200,
     headers: {
       "Content-Type": "application/pdf",
-      "Content-Disposition": `attachment; filename="${product.file}"`,
+      "Content-Disposition": `attachment; filename="${file.file}"`,
       "Content-Length": String(bytes.length),
       "Cache-Control": "private, no-store",
       "X-Content-Type-Options": "nosniff",

@@ -11,6 +11,14 @@
  * at all. Upload with:
  *   netlify blobs:set guide-files <file> --input private/<file>
  *
+ * `bonus`, where present, is another key in this same map: the free gift that
+ * ships with this product (2026-09-10 promo). It rides the existing
+ * single-file plumbing rather than new multi-file fulfillment — download.mjs
+ * streams `PRODUCTS[bonus].file` instead of the main file when the request
+ * carries `&bonus=1`, so a bonus is just a second link to the same endpoint.
+ * Omit `bonus` for a product that shouldn't offer one (Complete Pack already
+ * contains everything else here, so it gets none).
+ *
  * This lives in lib/ rather than beside the functions because every top-level
  * file in the functions directory is deployed as its own endpoint.
  */
@@ -20,13 +28,15 @@ export const PRODUCTS = {
     successPath: "/success/",
     title: "Preserving Lean Mass on GLP-1 Therapy",
     file: "preserving-lean-mass-on-glp1.pdf",
+    bonus: "protein-playbook",
   },
   // The Complete Pack: the main guide + all four companion guides merged into
   // one 60-page PDF. A distinct product with its own Stripe Price and its own
   // merged file, so it rides the exact same single-file download/webhook path
   // as every other product (no multi-file fulfillment code). This is the
   // headline "best value" tier — it lifts the typical order from the $5 main
-  // guide to the pack.
+  // guide to the pack. No `bonus`: the Protein Playbook is already one of the
+  // five guides inside it.
   "complete-pack": {
     envKey: "STRIPE_PRICE_COMPLETE_PACK",
     successPath: "/success/complete-pack/",
@@ -38,24 +48,30 @@ export const PRODUCTS = {
     successPath: "/success/protein-playbook/",
     title: "The Protein Playbook",
     file: "protein-playbook.pdf",
+    // Can't give itself away, so this is the one product with a different
+    // bonus than the rest.
+    bonus: "creatine-glp1",
   },
   "creatine-glp1": {
     envKey: "STRIPE_PRICE_CREATINE_GLP1",
     successPath: "/success/creatine-glp1/",
     title: "Creatine on a GLP-1",
     file: "creatine-on-glp1.pdf",
+    bonus: "protein-playbook",
   },
   "no-gym-plan": {
     envKey: "STRIPE_PRICE_NO_GYM_PLAN",
     successPath: "/success/no-gym-plan/",
     title: "The No-Gym Plan",
     file: "no-gym-plan.pdf",
+    bonus: "protein-playbook",
   },
   "off-ramp": {
     envKey: "STRIPE_PRICE_OFF_RAMP",
     successPath: "/success/off-ramp/",
     title: "The GLP-1 Off-Ramp",
     file: "glp1-off-ramp.pdf",
+    bonus: "protein-playbook",
   },
   // The "template tier" ($12-$19): printable/guided PDFs that fill the gap
   // between the $9 Complete Pack and nothing above it. Same single-file
@@ -65,12 +81,14 @@ export const PRODUCTS = {
     successPath: "/success/tracker/",
     title: "The Muscle-on-GLP-1 Tracker",
     file: "muscle-on-glp1-tracker.pdf",
+    bonus: "protein-playbook",
   },
   "workbook": {
     envKey: "STRIPE_PRICE_WORKBOOK",
     successPath: "/success/workbook/",
     title: "The Muscle-on-GLP-1 Workbook",
     file: "muscle-on-glp1-workbook.pdf",
+    bonus: "protein-playbook",
   },
   "research-review-2026-08": {
     envKey: "STRIPE_PRICE_RESEARCH_REVIEW_2026_08",
@@ -120,4 +138,9 @@ export function siteOrigin() {
 /** The only URL from which a purchased PDF can be obtained. */
 export function downloadUrl(sessionId) {
   return `${siteOrigin()}/.netlify/functions/download?session_id=${encodeURIComponent(sessionId)}`;
+}
+
+/** Same endpoint, requesting the order's free bonus file instead of the main one. */
+export function bonusDownloadUrl(sessionId) {
+  return `${downloadUrl(sessionId)}&bonus=1`;
 }
