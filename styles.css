@@ -314,6 +314,10 @@ img { max-width: 100%; display: block; }
    at ~6.3:1. */
 .bonus-gift .tag { display: inline-block; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; background: var(--gold); color: #3d2a06; padding: 3px 10px; border-radius: 100px; margin-right: 6px; vertical-align: middle; }
 .bonus-gift .bg-was { text-decoration: line-through; opacity: .65; margin: 0 3px; }
+.bonus-gift .bg-until { display: inline-block; color: var(--ink-soft); font-size: 0.84rem; }
+/* checkout.js sets [hidden] once the promo date passes; make sure no display
+   rule here outranks that. */
+.bonus-gift[hidden] { display: none; }
 .bonus-gift .bg-free { font-weight: 800; color: var(--accent-text-strong); }
 /* Success-page delivery of that same bonus, once it's actually been paid for. */
 .bonus-box { margin-top: 24px; padding: 22px 24px; background: var(--accent-light); border: 1.5px dashed var(--accent); border-radius: var(--radius); }

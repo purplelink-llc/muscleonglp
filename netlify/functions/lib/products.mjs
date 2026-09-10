@@ -35,13 +35,17 @@ export const PRODUCTS = {
   // merged file, so it rides the exact same single-file download/webhook path
   // as every other product (no multi-file fulfillment code). This is the
   // headline "best value" tier — it lifts the typical order from the $5 main
-  // guide to the pack. No `bonus`: the Protein Playbook is already one of the
-  // five guides inside it.
+  // guide to the pack. Its bonus has to be something NOT already inside it:
+  // the Protein Playbook (every other product's gift) is one of its own five
+  // guides, so the pack gets the monthly research review instead. Without a
+  // bonus the pack was strictly worse than buying à la carte under this promo
+  // ($8 for the same five guides), which made the "best value" badge false.
   "complete-pack": {
     envKey: "STRIPE_PRICE_COMPLETE_PACK",
     successPath: "/success/complete-pack/",
     title: "The Complete GLP-1 Muscle Pack",
     file: "complete-pack.pdf",
+    bonus: "research-review-2026-08",
   },
   "protein-playbook": {
     envKey: "STRIPE_PRICE_PROTEIN_PLAYBOOK",
@@ -98,6 +102,21 @@ export const PRODUCTS = {
     bonus: "protein-playbook",
   },
 };
+
+/**
+ * When the free-gift promo stops being advertised.
+ *
+ * "Limited time" with no end date is an urgency claim we could never actually
+ * honour, so the offer carries a real date and the front end hides itself once
+ * it passes (see the promo block in checkout.js, which mirrors this date — keep
+ * the two in step).
+ *
+ * The BACKEND deliberately keeps granting bonuses after this date. Over-
+ * delivering to someone who bought just after the cutoff is harmless; failing
+ * to deliver a gift a buyer saw advertised is not. Never make this a gate on
+ * `bonus` resolution in download.mjs.
+ */
+export const PROMO_ENDS = "2026-09-30";
 
 /** Version of the Terms of Service buyers accept at checkout. */
 export const TERMS_VERSION = "1.0 (effective 2026-07-10)";

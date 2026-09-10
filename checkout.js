@@ -11,6 +11,29 @@
 // Session without accept_terms, and records the agreement before the buyer can
 // reach a payment page. Errors surface inline rather than through a blocking
 // window.alert(), which used to freeze the page until dismissed.
+// Free-gift promo expiry.
+//
+// The offer is advertised as "Limited time ... through September 30", so it has
+// to actually stop being advertised. Left to a human to remember, a dated
+// urgency claim rots into a false one; this removes the pre-purchase teaser the
+// moment the date passes. Keep PROMO_ENDS in step with lib/products.mjs.
+//
+// This hides ONLY .bonus-gift (the pitch). It deliberately leaves .bonus-box
+// alone: that is the delivery of a gift someone already paid for, and the
+// backend keeps honouring bonuses past the date. Over-delivering after the
+// cutoff is fine; withdrawing a gift a buyer was shown is not.
+(function () {
+  var PROMO_ENDS = "2026-09-30";
+  var blocks = document.querySelectorAll(".bonus-gift");
+  if (!blocks.length) return;
+  // Compare against the end of the final day, in the visitor's own timezone.
+  var cutoff = new Date(PROMO_ENDS + "T23:59:59");
+  if (isNaN(cutoff.getTime()) || Date.now() <= cutoff.getTime()) return;
+  Array.prototype.forEach.call(blocks, function (el) {
+    el.hidden = true;
+  });
+})();
+
 (function () {
   var buttons = document.querySelectorAll("[data-checkout]");
   if (!buttons.length) return;
