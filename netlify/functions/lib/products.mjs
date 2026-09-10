@@ -95,6 +95,7 @@ export const PRODUCTS = {
     successPath: "/success/research-review-2026-08/",
     title: "GLP-1 & Muscle: Research Review, August 2026",
     file: "research-review-2026-08.pdf",
+    bonus: "protein-playbook",
   },
 };
 
