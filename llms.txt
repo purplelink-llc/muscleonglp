@@ -8,10 +8,10 @@
 "Preserving Lean Mass on GLP-1 Therapy," 30 pages, 24 references. Covers the medications, injection technique, resistance-training routines (gym and bodyweight-only), a protein strategy for a suppressed appetite, running and concurrent training, supplements, micronutrients, side effects, and the post-medication maintenance phase.
 URL: https://getmuscleonglp.com/#pricing
 
-### Mini-guides — $5 each
+### Mini-guides — the Protein Playbook is free for your email; the others are $5
 Each takes one problem and answers it in full. Index: https://getmuscleonglp.com/guides/
 
-- **The Protein Playbook** (8 pages) — hitting your protein target on a suppressed appetite: the g/kg lookup table, four rules, per-meal distribution, a USDA food table, and three worked sample days. https://getmuscleonglp.com/guides/protein-playbook/
+- **The Protein Playbook** (8 pages, free for your email) — hitting your protein target on a suppressed appetite: the g/kg lookup table, four rules, per-meal distribution, a USDA food table, and three worked sample days. https://getmuscleonglp.com/guides/protein-playbook/
 - **Creatine on a GLP-1** (7 pages) — what the ISSN position stand and the meta-analyses say, the kidney myth, the early water-weight rise on the scale, and the fact that no trial has tested creatine specifically in GLP-1 users. https://getmuscleonglp.com/guides/creatine-glp1/
 - **The No-Gym Plan** (8 pages) — a full 12-week bodyweight-only program: progression ladders, two sessions, RPE guidance, pull substitutions without a bar, and a minimum viable session for nausea days. https://getmuscleonglp.com/guides/no-gym-plan/
 - **The GLP-1 Off-Ramp** (7 pages) — coming off the medication: the STEP 1 extension regain data, sarcopenic obesity, why strength rather than lean mass is the outcome to track, and a 12-week off-ramp timeline. https://getmuscleonglp.com/guides/off-ramp/
@@ -43,7 +43,7 @@ Full, fully-cited explainers with no paywall. Index: https://getmuscleonglp.com/
 - Lean-tissue loss is an unreliable predictor of strength change: short-to-mid-term GLP-1 trials showed statistically preserved handgrip strength despite lean-mass reductions, while longer-term research in older adults with type 2 diabetes has reported reductions in handgrip strength.
 
 ## Pricing
-Full handbook: one-time $19. Mini-guides: $5 each. Instant PDF download. No subscription.
+Full handbook: one-time $19. Mini-guides: $5 each, except The Protein Playbook, which is free in exchange for an email address. Instant PDF download. No subscription.
 
 ## Important
 This is educational content, not medical advice. It does not cover obtaining, dosing, titrating, or sourcing medication. Readers are directed to consult their prescribing clinician. Not affiliated with Novo Nordisk, Eli Lilly, or any medication manufacturer.

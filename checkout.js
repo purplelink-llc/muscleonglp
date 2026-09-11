@@ -3,14 +3,19 @@
 // Stripe Checkout URL.
 //
 // Supports any number of [data-checkout] buttons on one page (the /guides/
-// hub has one per product). Each button pairs with:
-//   - a required [data-terms] checkbox in the same container, and
-//   - a status element (#<data-status>, or the nearest .checkout-status).
+// hub has one per product). Each button pairs with a status element
+// (#<data-status>, or the nearest .checkout-status).
 //
-// The checkbox is the clickwrap: the function refuses to create a Checkout
-// Session without accept_terms, and records the agreement before the buyer can
-// reach a payment page. Errors surface inline rather than through a blocking
-// window.alert(), which used to freeze the page until dismissed.
+// Assent is a two-step button, not a checkbox. The first click turns the
+// button into "I agree to the Terms & medical disclaimer — continue", and the
+// second click is the agreement: it sends accept_terms and the function
+// records the acceptance before the buyer can reach a payment page. This
+// replaced a required checkbox above the button (2026-09-11): people clicked
+// Buy without noticing it, the click did nothing visible, and the button read
+// as broken — a click nobody could see was our single biggest funnel leak.
+// The agreement text is now ON the thing they click, so nothing is hidden and
+// the button always responds. Errors surface inline, never via window.alert().
+
 // Free-gift promo expiry.
 //
 // The offer is advertised as "Limited time ... through September 30", so it has
@@ -48,16 +53,21 @@
     var product = btn.dataset.product || "muscleonglp-guide";
     var originalLabel = btn.textContent;
     var scope = btn.parentNode;
-    var terms = scope && scope.querySelector("[data-terms]");
+    var agreed = false;
     var statusEl =
       (btn.dataset.status && document.getElementById(btn.dataset.status)) ||
       (scope && scope.querySelector(".checkout-status"));
 
-    function setStatus(msg, isError) {
+    // kind: "error" | "busy" (spinner) | "note" (plain)
+    function setStatus(msg, kind) {
       if (!statusEl) return;
-      statusEl.innerHTML = isError
-        ? '<span class="checkout-err">' + escapeHtml(msg) + "</span>"
-        : '<span class="checkout-spinner" aria-hidden="true"></span>' + escapeHtml(msg);
+      if (kind === "error") {
+        statusEl.innerHTML = '<span class="checkout-err">' + escapeHtml(msg) + "</span>";
+      } else if (kind === "busy") {
+        statusEl.innerHTML = '<span class="checkout-spinner" aria-hidden="true"></span>' + escapeHtml(msg);
+      } else {
+        statusEl.textContent = msg;
+      }
     }
 
     function setState(label, disabled) {
@@ -69,15 +79,22 @@
       event.preventDefault();
       if (btn.getAttribute("aria-disabled") === "true") return;
 
-      if (!terms || !terms.checked) {
-        setStatus("Please accept the Terms of Service to continue.", true);
-        if (terms) terms.focus();
+      if (!agreed) {
+        // Step one: the click is intent. Count it, then make the next click
+        // the agreement itself. (Tracking here rather than after assent is
+        // deliberate: the old flow only counted clicks that had also found
+        // the checkbox, so the dashboard under-read real buyer intent.)
+        agreed = true;
+        if (window.mogTrack) window.mogTrack("checkout_click", product);
+        setState("I agree to the Terms & medical disclaimer \u2014 continue \u2192", false);
+        setStatus("One more click. That button now confirms you accept the Terms of Service and the medical disclaimer.", "note");
+        btn.classList.add("btn-agree");
         return;
       }
 
-      if (window.mogTrack) window.mogTrack("checkout_click", product);
+      if (window.mogTrack) window.mogTrack("checkout_confirm", product);
       setState("Opening checkout…", true);
-      setStatus("Opening checkout…", false);
+      setStatus("Opening checkout…", "busy");
 
       fetch("/.netlify/functions/checkout", {
         method: "POST",
@@ -93,18 +110,14 @@
           window.location.assign(data.url);
         })
         .catch(function (err) {
+          agreed = false;
+          btn.classList.remove("btn-agree");
           setState(originalLabel, false);
           var msg = (err && err.detail) || "Could not start checkout. Please try again.";
-          setStatus(msg, true);
+          setStatus(msg, "error");
         });
     });
 
-    // Clear a stale "please accept the terms" message once they do.
-    if (terms) {
-      terms.addEventListener("change", function () {
-        if (terms.checked && statusEl) statusEl.innerHTML = "";
-      });
-    }
   }
 
   Array.prototype.forEach.call(buttons, wire);

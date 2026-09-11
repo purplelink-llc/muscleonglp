@@ -5,9 +5,12 @@
  *   body: { email: "you@example.com", source?: "home" | "article:slug" | ... }
  *
  * Subscribes the address to the Buttondown list so we own the audience instead
- * of renting it from social. The free cheat sheet is the incentive; the browser
- * reveals its download link on a 200 (the PDF is a public asset, so there is no
- * gating to do here). Buttondown's own welcome email can also deliver the link.
+ * of renting it from social. The incentive is the Protein Playbook — a real
+ * $5 guide, not a one-pager (the one-pager got zero signups in two months).
+ * It lives in the private Blobs store, so on success we mint a signed,
+ * expiring link (lib/products.mjs) and return it for the browser to reveal.
+ * The same link is stored as subscriber metadata `magnet_url`, so the
+ * Buttondown welcome email can carry it too ({{ subscriber.metadata.magnet_url }}).
  *
  * Required env var (per-site):
  *   BUTTONDOWN_API_KEY   From buttondown.email -> Settings -> API. Server-side
@@ -20,6 +23,7 @@
 
 import { createHash } from "node:crypto";
 import { getStore } from "@netlify/blobs";
+import { magnetToken, magnetDownloadUrl } from "./lib/products.mjs";
 
 const BUTTONDOWN_API = "https://api.buttondown.email/v1/subscribers";
 const SUBSCRIBE_DAILY_LIMIT = 40;
@@ -77,6 +81,12 @@ export default async function handler(request) {
     return jsonResponse(500, { error: "misconfigured", detail: "Set BUTTONDOWN_API_KEY on this site." });
   }
 
+  const secret = Netlify.env.get("MAGNET_SIGNING_SECRET");
+  if (!secret) {
+    return jsonResponse(500, { error: "misconfigured", detail: "Set MAGNET_SIGNING_SECRET on this site." });
+  }
+  const magnetUrl = magnetDownloadUrl(magnetToken(email, secret));
+
   let resp, data;
   try {
     resp = await fetch(BUTTONDOWN_API, {
@@ -87,8 +97,9 @@ export default async function handler(request) {
       },
       body: JSON.stringify({
         email_address: email,
-        tags: ["cheat-sheet", source],
+        tags: ["protein-playbook", source],
         referrer_url: "https://getmuscleonglp.com/",
+        metadata: { magnet_url: magnetUrl },
       }),
     });
     data = await resp.json().catch(() => ({}));
@@ -100,11 +111,12 @@ export default async function handler(request) {
   // style code when the address exists; that is a success from the visitor's
   // point of view, so we don't surface it as an error.
   if (resp.ok) {
-    return jsonResponse(200, { ok: true, status: "subscribed" });
+    return jsonResponse(200, { ok: true, status: "subscribed", download: magnetUrl });
   }
   const code = (data && (data.code || data.detail || "")) + "";
   if (resp.status === 400 && /exist|already|subscribed|duplicate/i.test(JSON.stringify(data))) {
-    return jsonResponse(200, { ok: true, status: "already_subscribed" });
+    // Already on the list: still hand over the guide — they asked for it.
+    return jsonResponse(200, { ok: true, status: "already_subscribed", download: magnetUrl });
   }
 
   // Never surface the provider's raw code to a visitor. subscribe.js renders

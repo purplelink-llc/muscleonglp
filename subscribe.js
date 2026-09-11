@@ -11,7 +11,6 @@
   var forms = document.querySelectorAll("[data-subscribe]");
   if (!forms.length) return;
 
-  var CHEATSHEET = "/assets/glp1-muscle-cheatsheet.pdf";
 
   function escapeHtml(s) {
     return String(s).replace(/[&<>"']/g, function (c) {
@@ -53,14 +52,17 @@
           if (!resp.ok) return resp.json().then(function (p) { throw p; });
           return resp.json();
         })
-        .then(function () {
+        .then(function (data) {
           if (window.mogTrack) window.mogTrack("subscribe", source);
+          var link = data && data.download;
           // Replace the form with a thank-you + the free download.
           var thanks = document.createElement("div");
           thanks.className = "subscribe-thanks";
           thanks.innerHTML =
-            "<p><strong>You're in.</strong> Your free cheat sheet is ready, and the research digest lands in your inbox.</p>" +
-            '<a class="btn btn-primary btn-lg" href="' + CHEATSHEET + '" download>Download the cheat sheet &rarr;</a>';
+            "<p><strong>You're in.</strong> The Protein Playbook is ready below, and a copy of this link is on its way to your inbox with the weekly research digest.</p>" +
+            (link
+              ? '<a class="btn btn-primary btn-lg" href="' + escapeHtml(link) + '">Download The Protein Playbook &rarr;</a>'
+              : "<p>Your download link is on its way to your inbox.</p>");
           form.parentNode.replaceChild(thanks, form);
         })
         .catch(function (err) {

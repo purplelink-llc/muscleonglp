@@ -324,6 +324,12 @@ img { max-width: 100%; display: block; }
 .bonus-box-label { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; color: var(--accent-text-strong); margin-bottom: 6px; }
 .bonus-box-title { font-weight: 700; font-size: 1.05rem; margin-bottom: 16px; }
 .checkout-status { text-align: center; margin-top: 14px; min-height: 1.3em; font-size: 0.95rem; color: var(--ink-soft); }
+/* Two-step assent (checkout.js): the first click relabels the button as the
+   agreement itself. A darker fill marks the changed state so the second click
+   is a deliberate one, not a double-tap. */
+.btn-agree { background: var(--accent-dark); }
+.tos-note { text-align: center; margin-top: 10px; font-size: 0.8rem; color: var(--ink-soft); }
+.gc-body .tos-note { margin-top: 6px; font-size: 0.74rem; }
 /* #a3372c is 6.7:1 on the light theme's white card, but the dark-mode price
    card sits on #172420, where that same red drops to ~2.4:1 — the "please
    accept the Terms" message a buyer sees after clicking Buy without ticking

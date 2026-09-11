@@ -23,7 +23,7 @@
  */
 
 import { getStore } from "@netlify/blobs";
-import { PRODUCTS, TOS_STORE, FILE_STORE, tosKey } from "./lib/products.mjs";
+import { PRODUCTS, TOS_STORE, FILE_STORE, tosKey, MAGNET_PRODUCT, verifyMagnetToken } from "./lib/products.mjs";
 
 const STRIPE_API = "https://api.stripe.com/v1";
 
@@ -39,7 +39,41 @@ export default async function handler(request) {
     return fail(405, "method_not_allowed");
   }
 
-  const sessionId = new URL(request.url).searchParams.get("session_id") || "";
+  const params = new URL(request.url).searchParams;
+
+  // Email lead magnet: a signed, expiring token instead of a paid session.
+  // Nothing was bought, so there is no Stripe or terms record to check — the
+  // token IS the authorisation. Same private store, same headers.
+  const magnet = params.get("magnet");
+  if (magnet !== null) {
+    const secret = Netlify.env.get("MAGNET_SIGNING_SECRET");
+    if (!secret) return fail(500, "misconfigured", "MAGNET_SIGNING_SECRET not set.");
+    if (!verifyMagnetToken(magnet, secret)) {
+      return fail(403, "magnet_invalid",
+        "That download link is invalid or has expired. Enter your email again on getmuscleonglp.com for a fresh one.");
+    }
+    const entry = PRODUCTS[MAGNET_PRODUCT];
+    let mbytes;
+    try {
+      const blob = await getStore(FILE_STORE).get(entry.file, { type: "arrayBuffer" });
+      if (!blob) throw new Error(`missing blob ${entry.file}`);
+      mbytes = new Uint8Array(blob);
+    } catch (_) {
+      return fail(500, "file_unavailable", "The file is temporarily unavailable. Contact ben@purplelink.llc.");
+    }
+    return new Response(mbytes, {
+      status: 200,
+      headers: {
+        "Content-Type": "application/pdf",
+        "Content-Disposition": `attachment; filename="${entry.file}"`,
+        "Content-Length": String(mbytes.length),
+        "Cache-Control": "private, no-store",
+        "X-Content-Type-Options": "nosniff",
+      },
+    });
+  }
+
+  const sessionId = params.get("session_id") || "";
   // Guard the path we interpolate into the Stripe URL.
   if (!/^cs_[A-Za-z0-9_]{10,200}$/.test(sessionId)) {
     return fail(400, "bad_session_id", "Missing or malformed session_id.");
@@ -85,7 +119,7 @@ export default async function handler(request) {
   // ?bonus=1 asks for the order's free gift instead of the main file. It is
   // still gated by the same paid + terms-accepted checks above — a bonus
   // isn't reachable without having actually bought something.
-  const wantsBonus = new URL(request.url).searchParams.get("bonus") === "1";
+  const wantsBonus = params.get("bonus") === "1";
   let file = product;
   if (wantsBonus) {
     const bonus = product.bonus ? PRODUCTS[product.bonus] : null;
