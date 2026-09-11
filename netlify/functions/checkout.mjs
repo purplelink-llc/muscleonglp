@@ -58,7 +58,6 @@ const ALLOWED_ORIGINS = new Set([
 ]);
 const FALLBACK_ORIGIN = "https://muscleonglp.netlify.app";
 
-const IDEMPOTENCY_WINDOW_MS = 5 * 60 * 1000;
 const CHECKOUT_DAILY_LIMIT = 25;
 
 async function checkoutRateLimited(clientIp) {
@@ -101,10 +100,6 @@ export default async function handler(request) {
     request.headers.get("x-forwarded-for") ||
     "unknown";
 
-  if (await checkoutRateLimited(clientIp)) {
-    return jsonResponse(429, { error: "rate_limited" });
-  }
-
   let body;
   try {
     body = await request.json();
@@ -124,6 +119,14 @@ export default async function handler(request) {
     });
   }
 
+  // Rate-limit AFTER validation, so junk POSTs (bad product, no terms) don't
+  // burn the day's quota for every real buyer sharing that IP. The limit is
+  // per-IP and Netlify Blobs has no atomic increment, so treat it as a brake
+  // on abuse, not a precise counter.
+  if (await checkoutRateLimited(clientIp)) {
+    return jsonResponse(429, { error: "rate_limited" });
+  }
+
   const secretKey = Netlify.env.get("STRIPE_SECRET_KEY");
   const priceId = Netlify.env.get(entry.envKey);
   if (!secretKey || !priceId) {
@@ -139,10 +142,14 @@ export default async function handler(request) {
     ? requestOrigin
     : (configuredOrigin || FALLBACK_ORIGIN).replace(/\/+$/, "");
 
-  const timeBucket = Math.floor(Date.now() / IDEMPOTENCY_WINDOW_MS);
-  const idempotencyKey = createHash("sha256")
-    .update(`${clientIp}:${product}:${timeBucket}`)
-    .digest("hex");
+  // No Idempotency-Key. It used to be sha256(ip:product:5-minute bucket),
+  // which has nothing unique to the buyer in it: two people behind one
+  // carrier/campus/office NAT asking for the same product in the same five
+  // minutes got the SAME Checkout Session back — so whoever paid it, the
+  // other one's link worked too, and the stored terms acceptance belonged to
+  // whichever of them clicked last (reproduced 2026-09-10: two calls, one
+  // session id). Double-click protection is already the button disabling
+  // itself client-side; a fresh session per request is the correct default.
 
   const params = {
     mode: "payment",
@@ -163,7 +170,6 @@ export default async function handler(request) {
       headers: {
         Authorization: `Bearer ${secretKey}`,
         "Content-Type": "application/x-www-form-urlencoded",
-        "Idempotency-Key": idempotencyKey,
       },
       body: formEncode(params),
     });

@@ -185,8 +185,21 @@ export default async function handler(request) {
 
   const entry = product ? PRODUCTS[product] : null;
 
-  // Unknown or absent product: never guess which file to send. Tell the buyer
-  // a human is on it, and make sure the operator actually is.
+  // This Stripe account also serves purplelink.llc, and Stripe fans every
+  // checkout.session.completed out to BOTH endpoints. A purplelink sale
+  // (product metadata like "moderntex") therefore arrives here signed and
+  // valid — and until 2026-09-11 fell into the "unknown product" branch
+  // below, which emailed the buyer "Your MuscleOnGLP purchase … we hit a
+  // snag" for a purchase they made on a different site, and paged the
+  // operator. purplelink's webhook has ignored foreign products since day
+  // one; this is the mirror. A product key we don't recognise that is NOT
+  // empty is simply not ours: acknowledge and do nothing.
+  if (product && !entry) {
+    return jsonResponse(200, { received: true, ignored: "foreign_product", product });
+  }
+
+  // No product metadata at all: never guess which file to send. Tell the
+  // buyer a human is on it, and make sure the operator actually is.
   if (!entry) {
     const buyerResult = await sendEmail({
       to: buyerEmail,
