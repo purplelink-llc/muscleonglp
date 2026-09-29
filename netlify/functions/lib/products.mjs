@@ -99,6 +99,18 @@ export const PRODUCTS = {
     file: "muscle-on-glp1-workbook.pdf",
     bonus: "creatine-glp1",
   },
+  // The tracker as a spreadsheet: the same four measures with the arithmetic
+  // done (protein range from body weight, days on target, a strength index vs
+  // week 1, charts). Priced inline (`amount`/`name`, Checkout price_data), so it
+  // needs no Stripe dashboard Price. `type` is the file's MIME type for download.mjs.
+  "tracker-sheet": {
+    amount: 1200,
+    name: "The Muscle-on-GLP-1 Tracker, spreadsheet edition",
+    successPath: "/success/tracker-sheet/",
+    title: "The Muscle-on-GLP-1 Tracker, spreadsheet edition",
+    file: "muscle-on-glp1-tracker.xlsx",
+    type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  },
   "research-review-2026-08": {
     envKey: "STRIPE_PRICE_RESEARCH_REVIEW_2026_08",
     successPath: "/success/research-review-2026-08/",

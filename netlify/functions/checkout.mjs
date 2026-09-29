@@ -128,8 +128,8 @@ export default async function handler(request) {
   }
 
   const secretKey = Netlify.env.get("STRIPE_SECRET_KEY");
-  const priceId = Netlify.env.get(entry.envKey);
-  if (!secretKey || !priceId) {
+  const priceId = entry.amount ? null : Netlify.env.get(entry.envKey);
+  if (!secretKey || (!entry.amount && !priceId)) {
     return jsonResponse(500, {
       error: "misconfigured",
       detail: `Set STRIPE_SECRET_KEY and ${entry.envKey} on this site.`,
@@ -154,7 +154,13 @@ export default async function handler(request) {
   const params = {
     mode: "payment",
     "payment_method_types[0]": "card",
-    "line_items[0][price]": priceId,
+    ...(entry.amount
+      ? {
+          "line_items[0][price_data][currency]": "usd",
+          "line_items[0][price_data][unit_amount]": String(entry.amount),
+          "line_items[0][price_data][product_data][name]": entry.name,
+        }
+      : { "line_items[0][price]": priceId }),
     "line_items[0][quantity]": "1",
     success_url: `${origin}${entry.successPath}?session_id={CHECKOUT_SESSION_ID}`,
     cancel_url: `${origin}/`,

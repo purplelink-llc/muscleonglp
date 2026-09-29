@@ -64,7 +64,7 @@ export default async function handler(request) {
     return new Response(mbytes, {
       status: 200,
       headers: {
-        "Content-Type": "application/pdf",
+        "Content-Type": entry.type || "application/pdf",
         "Content-Disposition": `attachment; filename="${entry.file}"`,
         "Content-Length": String(mbytes.length),
         "Cache-Control": "private, no-store",
@@ -141,7 +141,7 @@ export default async function handler(request) {
   return new Response(bytes, {
     status: 200,
     headers: {
-      "Content-Type": "application/pdf",
+      "Content-Type": file.type || "application/pdf",
       "Content-Disposition": `attachment; filename="${file.file}"`,
       "Content-Length": String(bytes.length),
       "Cache-Control": "private, no-store",
