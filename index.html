@@ -29,6 +29,8 @@
 <link rel="icon" type="image/png" href="/assets/favicon.png">
 <link rel="apple-touch-icon" href="/assets/favicon.png">
 <link rel="stylesheet" href="/styles.css">
+<link rel="stylesheet" href="/motion.css">
+<script src="/motion.js" defer></script>
 
 <script type="application/ld+json">
 {
@@ -648,18 +650,6 @@
   </div>
 </footer>
 
-<script>
-// Reveal-on-scroll, gated on reduced-motion via CSS. Progressive enhancement only.
-(function () {
-  if (!('IntersectionObserver' in window)) return;
-  var els = document.querySelectorAll('.section, .hero-grid');
-  els.forEach(function (el) { el.classList.add('reveal'); });
-  var io = new IntersectionObserver(function (entries) {
-    entries.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
-  }, { threshold: 0.08 });
-  els.forEach(function (el) { io.observe(el); });
-})();
-</script>
 <script src="/analytics.js"></script>
 <script src="/checkout.js"></script>
 <script src="/subscribe.js"></script>
