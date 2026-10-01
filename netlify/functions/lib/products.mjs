@@ -118,6 +118,12 @@ export const PRODUCTS = {
     file: "research-review-2026-08.pdf",
     bonus: "creatine-glp1",
   },
+  "research-review-2026-09": {
+    envKey: "STRIPE_PRICE_RESEARCH_REVIEW_2026_09",
+    successPath: "/success/research-review-2026-09/",
+    title: "GLP-1 & Muscle: Research Review, September 2026",
+    file: "research-review-2026-09.pdf",
+  },
 };
 
 /**
