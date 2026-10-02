@@ -3,27 +3,27 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GLP-1 Protein and Calorie Calculator: Ozempic and Wegovy</title>
-<meta name="description" content="Free calculator: your BMR, TDEE, calorie target and daily protein target on a GLP-1, plus a chart of how much muscle you keep with versus without training.">
-<meta name="keywords" content="glp-1 calculator, tdee calculator ozempic, protein calculator wegovy, calorie deficit mounjaro, muscle loss calculator, zepbound weight loss calculator, mifflin st jeor">
+<title>GLP-1 Calorie and Protein Calculator: Ozempic, Wegovy</title>
+<meta name="description" content="Free GLP-1 calorie and protein calculator for women and men on Ozempic, Wegovy, Mounjaro or Zepbound: calorie target, daily protein target and per-meal grams.">
+<meta name="keywords" content="glp-1 calorie calculator, calorie and protein calculator, glp-1 protein calculator, protein calculator for women on glp-1, tdee calculator ozempic, calorie deficit mounjaro, zepbound weight loss calculator, mifflin st jeor">
 <link rel="canonical" href="https://getmuscleonglp.com/protein-calculator/">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="author" content="MuscleOnGLP">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MuscleOnGLP">
-<meta property="og:title" content="GLP-1 Muscle &amp; Weight Loss Calculator">
+<meta property="og:title" content="GLP-1 Calorie and Protein Calculator">
 <meta property="og:description" content="BMR, TDEE, calorie and protein targets, plus a chart of how much muscle you keep with vs without enough protein and training. Based on published equations.">
 <meta property="og:url" content="https://getmuscleonglp.com/protein-calculator/">
 <meta property="og:image" content="https://getmuscleonglp.com/assets/og-card.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="GLP-1 Muscle &amp; Weight Loss Calculator">
+<meta name="twitter:title" content="GLP-1 Calorie and Protein Calculator">
 <meta name="twitter:description" content="BMR, TDEE, calorie and protein targets, plus a muscle-preservation chart. Based on published equations.">
 <meta name="twitter:image" content="https://getmuscleonglp.com/assets/og-card.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "GLP-1 Muscle & Weight Loss Calculator",
+  "name": "GLP-1 Calorie and Protein Calculator",
   "url": "https://getmuscleonglp.com/protein-calculator/",
   "applicationCategory": "HealthApplication",
   "operatingSystem": "Any (web browser)",
@@ -39,22 +39,50 @@
     {
       "@type": "Question",
       "name": "How does this calculator estimate my calories?",
-      "acceptedAnswer": { "@type": "Answer", "text": "It uses the Mifflin-St Jeor equation for basal metabolic rate (BMR), the most validated predictive equation for healthy adults, then multiplies by a physical-activity factor to estimate total daily energy expenditure (TDEE). Your calorie target is TDEE minus the deficit implied by your chosen pace of weight loss." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It uses the Mifflin-St Jeor equation for basal metabolic rate (BMR), the most validated predictive equation for healthy adults, then multiplies by a physical-activity factor to estimate total daily energy expenditure (TDEE). Your calorie target is TDEE minus the deficit implied by your chosen pace of weight loss."
+      }
     },
     {
       "@type": "Question",
       "name": "Why does the chart show two muscle lines?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Total weight loss is driven by the calorie deficit and is similar either way. What changes is the composition. Without enough protein and resistance training, a large share of the weight lost is muscle (reviews put lean mass at 15 to 40 percent of GLP-1 weight loss). With adequate protein and resistance training, most of that muscle is spared: a meta-analysis found resistance training offset roughly 93.5 percent of the lean mass that dieting alone would cost. The two lines make that difference visible." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Total weight loss is driven by the calorie deficit and is similar either way. What changes is the composition. Without enough protein and resistance training, a large share of the weight lost is muscle (reviews put lean mass at 15 to 40 percent of GLP-1 weight loss). With adequate protein and resistance training, most of that muscle is spared: a meta-analysis found resistance training offset roughly 93.5 percent of the lean mass that dieting alone would cost. The two lines make that difference visible."
+      }
     },
     {
       "@type": "Question",
       "name": "How much protein does it recommend, and of what type?",
-      "acceptedAnswer": { "@type": "Answer", "text": "It applies the 1.6 to 2.2 g/kg of body weight range that lean-mass research supports during weight loss, split across four meals. Hit it from complete, leucine-rich sources; collagen is low in leucine and does little for muscle despite the label." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It applies the 1.6 to 2.2 g/kg of body weight range that lean-mass research supports during weight loss, split across four meals. Hit it from complete, leucine-rich sources; collagen is low in leucine and does little for muscle despite the label."
+      }
     },
     {
       "@type": "Question",
       "name": "How should I time meals when a GLP-1 has killed my appetite?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Spread your daily protein across three to five smaller meals rather than one or two large ones, because distributing protein through the day supports muscle better than loading it into a single meal. On a small appetite, eat protein first before other foods, front-load it earlier in the day when hunger is highest, lean on liquid sources like a shake or Greek yogurt on nausea days, and keep your largest meal away from the peak side-effect window after a dose. The calculator's meal planner shows the per-meal grams for the number of meals you choose." }
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spread your daily protein across three to five smaller meals rather than one or two large ones, because distributing protein through the day supports muscle better than loading it into a single meal. On a small appetite, eat protein first before other foods, front-load it earlier in the day when hunger is highest, lean on liquid sources like a shake or Greek yogurt on nausea days, and keep your largest meal away from the peak side-effect window after a dose. The calculator's meal planner shows the per-meal grams for the number of meals you choose."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many calories should I eat on a GLP-1?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no single right number. The calculator estimates your maintenance calories (TDEE) from your sex, age, height, weight and activity level, then subtracts the deficit that matches the pace you pick, using the classic estimate of 7,700 kcal per kilogram of body weight. Change the pace and the target moves. It is a planning estimate: confirm the calorie floor with your clinician while on a GLP-1."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the calculator work for women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Choose your sex first: the Mifflin-St Jeor equation uses a different constant for women (minus 161) than for men (plus 5), so the calorie target differs. The protein target uses the same 1.6 to 2.2 g/kg range for everyone, scaled to body weight, and it can overestimate protein for people carrying more fat mass."
+      }
     }
   ]
 }
@@ -85,8 +113,8 @@
     <div class="wrap">
       <p class="crumbs"><a href="/">Home</a><span>/</span>Calculator</p>
       <p class="article-eyebrow">Free tool</p>
-      <h1>GLP-1 muscle &amp; weight-loss calculator</h1>
-      <p class="article-dek">Your calories, your protein target, and a projection of how much muscle you keep, with versus without enough protein and training. Built on published equations, not guesses.</p>
+      <h1>GLP-1 calorie and protein calculator</h1>
+      <p class="article-dek">Your calorie target, your daily protein target and per-meal grams, plus a projection of how much muscle you keep with versus without enough protein and training. Built on published equations, not guesses.</p>
     </div>
   </header>
 
@@ -221,6 +249,18 @@
 
         <h2>Honest limits</h2>
         <p>Every number here is an estimate. Predictive BMR equations carry error at the individual level, the 7,700 kcal rule overstates loss over months, and the muscle split is modeled from population ranges rather than a scan of you. A target scaled to total body weight is a starting point, not a prescription, and it can overestimate protein for people carrying more fat mass. Use this as a framework, and confirm the specifics with your clinician, especially the calorie floor while on a GLP-1.</p>
+      </div>
+
+      <div class="article">
+        <h2>Frequently asked</h2>
+        <div class="faq-list">
+          <details><summary>How many calories should I eat on a GLP-1?</summary><p>There is no single right number. The calculator estimates your maintenance calories (TDEE) from your sex, age, height, weight and activity level, then subtracts the deficit that matches the pace you pick, using the classic estimate of 7,700 kcal per kilogram of body weight. Change the pace and the target moves. It is a planning estimate: confirm the calorie floor with your clinician while on a GLP-1.</p></details>
+          <details><summary>How does this calculator estimate my calories?</summary><p>It uses the Mifflin-St Jeor equation for basal metabolic rate (BMR), the most validated predictive equation for healthy adults, then multiplies by a physical-activity factor to estimate total daily energy expenditure (TDEE). Your calorie target is TDEE minus the deficit implied by your chosen pace of weight loss.</p></details>
+          <details><summary>How much protein does it recommend, and of what type?</summary><p>It applies the 1.6 to 2.2 g/kg of body weight range that lean-mass research supports during weight loss, split across four meals. Hit it from complete, leucine-rich sources; collagen is low in leucine and does little for muscle despite the label.</p></details>
+          <details><summary>Does the calculator work for women?</summary><p>Yes. Choose your sex first: the Mifflin-St Jeor equation uses a different constant for women (minus 161) than for men (plus 5), so the calorie target differs. The protein target uses the same 1.6 to 2.2 g/kg range for everyone, scaled to body weight, and it can overestimate protein for people carrying more fat mass.</p></details>
+          <details><summary>How should I time meals when a GLP-1 has killed my appetite?</summary><p>Spread your daily protein across three to five smaller meals rather than one or two large ones, because distributing protein through the day supports muscle better than loading it into a single meal. On a small appetite, eat protein first before other foods, front-load it earlier in the day when hunger is highest, lean on liquid sources like a shake or Greek yogurt on nausea days, and keep your largest meal away from the peak side-effect window after a dose. The calculator's meal planner shows the per-meal grams for the number of meals you choose.</p></details>
+          <details><summary>Why does the chart show two muscle lines?</summary><p>Total weight loss is driven by the calorie deficit and is similar either way. What changes is the composition. Without enough protein and resistance training, a large share of the weight lost is muscle (reviews put lean mass at 15 to 40 percent of GLP-1 weight loss). With adequate protein and resistance training, most of that muscle is spared: a meta-analysis found resistance training offset roughly 93.5 percent of the lean mass that dieting alone would cost. The two lines make that difference visible.</p></details>
+        </div>
       </div>
 
       <div class="article-cta">
