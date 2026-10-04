@@ -498,6 +498,14 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .article-cta h3 { font-size: 1.4rem; margin: 8px 0 8px; }
 .article-cta p { color: var(--ink-soft); margin: 0 0 18px; font-size: 0.95rem; line-height: 1.6; }
 
+.calc-cta { max-width: 720px; margin: 0 auto 32px; background: var(--bg-alt); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 24px; }
+.calc-cta .k { font-size: 0.78rem; font-weight: 650; letter-spacing: 0.04em; text-transform: uppercase; color: var(--accent-text); margin: 0 0 4px; }
+.calc-cta h2 { font-size: 1.15rem; margin: 0 0 10px; }
+.calc-cta ul { margin: 0 0 10px; padding-left: 1.2em; }
+.calc-cta li { margin-bottom: 6px; line-height: 1.5; font-size: 0.95rem; color: var(--ink-soft); }
+.calc-cta li a { font-weight: 600; }
+.calc-cta-note { margin: 0; font-size: 0.82rem; color: var(--ink-soft); }
+
 .references { max-width: 720px; margin: 48px auto 0; }
 .references h2 { font-size: 1.4rem; margin-bottom: 16px; }
 .references ol { margin: 0; padding-left: 1.5em; }
