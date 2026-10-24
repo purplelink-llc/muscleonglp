@@ -54,6 +54,7 @@
 </script>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to main content</a>
 
 <header class="nav">
   <div class="wrap nav-inner">
@@ -69,7 +70,7 @@
   </div>
 </header>
 
-<main>
+<main id="main" tabindex="-1">
 <article>
   <header class="article-hero">
     <div class="wrap">
@@ -105,9 +106,9 @@
         <h2>Semaglutide: Ozempic and Wegovy</h2>
         <p>Same molecule, different labels, different indications, different ceilings. Ozempic is labeled for type 2 diabetes; Wegovy is labeled for chronic weight management and cardiovascular risk reduction. Their escalation schedules are not interchangeable, which is why the brand you were prescribed matters more than the ingredient.</p>
 
-        <div class="table-scroll">
+        <div class="table-scroll" tabindex="0" role="region" aria-label="Table, scrolls sideways on small screens">
         <table>
-          <thead><tr><th>Weeks</th><th>Ozempic</th><th>Wegovy (injection)</th></tr></thead>
+          <thead><tr><th scope="col">Weeks</th><th scope="col">Ozempic</th><th scope="col">Wegovy (injection)</th></tr></thead>
           <tbody>
             <tr><td>1&ndash;4</td><td>0.25 mg</td><td>0.25 mg</td></tr>
             <tr><td>5&ndash;8</td><td>0.5 mg</td><td>0.5 mg</td></tr>
@@ -125,9 +126,9 @@
         <h2>Tirzepatide: Mounjaro and Zepbound</h2>
         <p>Again one molecule, two labels: Mounjaro for type 2 diabetes, Zepbound for weight management and obstructive sleep apnea in adults with obesity. The escalation is the same shape for both.</p>
 
-        <div class="table-scroll">
+        <div class="table-scroll" tabindex="0" role="region" aria-label="Table, scrolls sideways on small screens">
         <table>
-          <thead><tr><th>Weeks</th><th>Dose</th><th>Note</th></tr></thead>
+          <thead><tr><th scope="col">Weeks</th><th scope="col">Dose</th><th scope="col">Note</th></tr></thead>
           <tbody>
             <tr><td>1&ndash;4</td><td>2.5 mg</td><td>Starting dose, not a treatment dose</td></tr>
             <tr><td>5&ndash;8</td><td>5 mg</td><td>First maintenance option</td></tr>
@@ -148,9 +149,9 @@
 
         <p>What can be reported honestly is what Lilly measured in the Phase 3 TRIUMPH-1 trial, under medical supervision, in people who were enrolled and monitored. Three doses were studied against placebo, with results at 80 weeks:</p>
 
-        <div class="table-scroll">
+        <div class="table-scroll" tabindex="0" role="region" aria-label="Table, scrolls sideways on small screens">
         <table>
-          <thead><tr><th>Trial arm</th><th>Weight loss at 80 weeks</th></tr></thead>
+          <thead><tr><th scope="col">Trial arm</th><th scope="col">Weight loss at 80 weeks</th></tr></thead>
           <tbody>
             <tr><td>Retatrutide 4 mg</td><td>19.0% (47.2 lb)</td></tr>
             <tr><td>Retatrutide 9 mg</td><td>25.9% (64.4 lb)</td></tr>
@@ -226,7 +227,7 @@
   </div>
 </footer>
 
-<script src="/analytics.js"></script>
+<script src="/analytics.js" defer></script>
 <script src="/subscribe.js"></script>
 </body>
 </html>
