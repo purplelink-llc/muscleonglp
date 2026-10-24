@@ -44,7 +44,7 @@
     {
       "@type": "Question",
       "name": "How does this estimator work?",
-      "acceptedAnswer": { "@type": "Answer", "text": "It starts from a published baseline share of lean mass for your medication (about 33 percent for semaglutide and other GLP-1s, about 26 percent for tirzepatide from the SURMOUNT-1 DXA substudy), then shifts the estimate toward the low or high end of the published range based on your protein habit and resistance training. The shift uses the finding that resistance training offset about 93.5 percent of the lean mass that dieting alone would cost (Sardeli 2018). It is an illustrative projection from population ranges, not a measurement of your body." }
+      "acceptedAnswer": { "@type": "Answer", "text": "It starts from a published baseline share of lean mass for your medication (about 33 percent for semaglutide and other GLP-1s, about 26 percent for tirzepatide from the SURMOUNT-1 DXA substudy), then shifts the estimate toward the low or high end of the published range based on your protein habit and resistance training. The shift uses the finding that resistance training offset about 93.5 percent of the lean mass that dieting alone would cost, a result from older adults who were not taking a GLP-1 (Sardeli 2018), so the best case is shown as a range. It is an illustrative projection from population ranges, not a measurement of your body." }
     },
     {
       "@type": "Question",
@@ -59,6 +59,7 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6407975157274256" crossorigin="anonymous"></script>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to main content</a>
 
 <header class="nav">
   <div class="wrap nav-inner">
@@ -74,7 +75,7 @@
   </div>
 </header>
 
-<main>
+<main id="main" tabindex="-1">
 <article>
   <header class="article-hero">
     <div class="wrap">
@@ -91,53 +92,60 @@
         <div class="price-body" style="padding:26px 28px 30px">
           <div class="calc-grid">
             <div class="calc-field-wide">
-              <label for="weight" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Current weight</label>
+              <label for="weight" class="calc-label">Current weight</label>
               <div style="display:flex;gap:8px">
-                <input id="weight" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 210" class="calc-in" style="flex:1 1 auto;min-width:0">
-                <select id="weightUnit" class="calc-in" style="flex:0 0 auto;width:auto"><option value="lb">lb</option><option value="kg">kg</option></select>
+                <input id="weight" name="weight" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 210" class="calc-in" autocomplete="off" style="flex:1 1 auto;min-width:0">
+                <select id="weightUnit" name="weightUnit" class="calc-in" style="flex:0 0 auto;width:auto"><option value="lb">lb</option><option value="kg">kg</option></select>
               </div>
             </div>
             <div>
-              <label for="goal" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Goal weight (optional, same unit)</label>
-              <input id="goal" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 170" class="calc-in">
+              <label for="goal" class="calc-label">Goal weight (optional, same unit)</label>
+              <input id="goal" name="goal" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 170" class="calc-in" autocomplete="off">
             </div>
             <div>
-              <label for="med" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Medication</label>
-              <select id="med" class="calc-in">
+              <label for="med" class="calc-label">Medication</label>
+              <select id="med" name="med" class="calc-in">
                 <option value="sema">Semaglutide (Ozempic / Wegovy)</option>
                 <option value="tirz">Tirzepatide (Mounjaro / Zepbound)</option>
                 <option value="other">Other GLP-1</option>
               </select>
             </div>
             <div>
-              <label for="protein" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Current protein habit</label>
-              <select id="protein" class="calc-in">
+              <label for="protein" class="calc-label">Current protein habit</label>
+              <select id="protein" name="protein" class="calc-in">
                 <option value="low">Under 0.8 g/kg</option>
-                <option value="mid" selected>Around 1.0 to 1.3 g/kg</option>
+                <option value="lowmid">0.8 to 1.0 g/kg</option>
+                <option value="mid" selected>1.0 to 1.3 g/kg</option>
+                <option value="midhigh">1.3 to 1.6 g/kg</option>
                 <option value="high">1.6+ g/kg target</option>
               </select>
+              <p class="calc-hint">g/kg is grams of protein a day divided by your weight in kg. The <a href="/protein-calculator/">protein calculator</a> shows your target in grams.</p>
             </div>
             <div>
-              <label for="training" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Resistance training</label>
-              <select id="training" class="calc-in">
+              <label for="training" class="calc-label">Resistance training</label>
+              <select id="training" name="training" class="calc-in">
                 <option value="none">0 days per week</option>
                 <option value="some" selected>1 to 2 days per week</option>
                 <option value="full">3+ days per week</option>
               </select>
             </div>
           </div>
+          <p id="calcError" class="field-error" role="alert" hidden></p>
           <p id="exampleNote" class="calc-example-note">These are example numbers. Change any field above and they update as you type.</p>
         </div>
       </form>
 
+      <p id="liveSummary" class="sr-only" role="status" aria-live="polite"></p>
       <div id="out" hidden style="margin-top:26px">
+        <p class="calc-caution"><strong>Illustrative projection, not a measurement or a diagnosis.</strong> It is built from published group averages, your body can differ, and it gives no medical or dosing advice. Confirm your plan with your clinician.</p>
+        <p id="exampleCaption" class="calc-example-note" style="margin:14px 0">Example person: 210 lb, goal 170 lb, semaglutide, protein around 1.0 to 1.3 g/kg, 1 to 2 training days a week. Change any field above to use your own numbers.</p>
         <div class="calc-stat" style="margin-bottom:14px">
           <span class="calc-n" id="youFrac"></span>
-          <span class="calc-l">Estimated share of your loss that is lean mass, at your current protein and training habits</span>
+          <span class="calc-l">Estimated share of your loss that is lean mass, at your current protein and training habits (a range, because the best-case figure is extrapolated, see below)</span>
         </div>
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px">
-          <div class="calc-stat"><span class="calc-n" id="withoutFrac"></span><span class="calc-l">Without countermeasures (low protein, no training)</span></div>
-          <div class="calc-stat"><span class="calc-n" id="withFrac"></span><span class="calc-l">With countermeasures (1.6+ g/kg, 3+ training days)</span></div>
+          <div class="calc-stat"><span class="calc-n" id="withoutFrac"></span><span class="calc-l">Without countermeasures (low protein, no training). The high end of the 15 to 40% range seen in GLP-1 trials.</span></div>
+          <div class="calc-stat"><span class="calc-n" id="withFrac"></span><span class="calc-l">With countermeasures (1.6+ g/kg, 3+ training days). Best case, from trials in non-GLP-1 populations: the low end is extrapolated from older adults dieting without a GLP-1; the high end is the lowest share seen in GLP-1 trials. Not measured in GLP-1 users who train.</span></div>
         </div>
         <div id="goalWrap" hidden style="margin-top:14px">
           <p style="margin:0 0 10px;color:var(--ink-soft);font-size:var(--fs-body)">If you lose <span id="totalLoss">&mdash;</span> to reach your goal, the approximate lean mass at risk is:</p>
@@ -147,13 +155,13 @@
             <div class="calc-stat"><span class="calc-n" id="withKg"></span><span class="calc-l">With countermeasures</span></div>
           </div>
         </div>
-        <p class="calc-warn">This is an illustrative projection built from published population ranges, not a scan or a measurement of your body, and not a diagnosis. Your real body composition can differ. It gives no dosing, titration, or sourcing guidance. Confirm your plan with your clinician.</p>
+        <p class="calc-warn">This is an illustrative projection built from published population ranges, not a scan or a measurement of your body, and not a diagnosis. Your real body composition can differ. It gives no medical or dosing advice. Confirm your plan with your clinician.</p>
 
         <aside class="inline-capture">
           <p><strong>The gap between those two numbers is the part you control.</strong> The free Protein Playbook has what closes it: the protein target, the food table, and the sample days. A short weekly digest of new research comes with it.</p>
           <form data-subscribe data-source="calc:muscle-loss" class="subscribe-form" novalidate>
-            <input type="email" data-email placeholder="you@example.com" aria-label="Email address" autocomplete="email" required>
-            <button type="submit" class="btn btn-primary">Send it to me</button>
+            <input type="email" name="email" data-email placeholder="you@example.com" aria-label="Email address" autocomplete="email" required>
+            <button type="submit" class="btn btn-primary">Email me the Protein Playbook</button>
             <p class="subscribe-status" role="status" aria-live="polite"></p>
           </form>
         </aside>
@@ -161,13 +169,14 @@
 
       <div class="article" style="margin-top:34px">
         <h2>How this is estimated (and the research behind it)</h2>
+        <p><strong>Lean mass, not only muscle.</strong> The research measures lean mass: everything that is not fat. That is mostly muscle, but it also includes water and organs. This page says lean mass when it means the measured figure and muscle when it means the everyday idea.</p>
         <p><strong>The baseline share.</strong> Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1 medication.<sup><a href="#ref-1">1</a></sup> Within that spread, the medication matters. The estimator uses a baseline of about 33 percent for semaglutide and other GLP-1s, and about 26 percent for tirzepatide, the value measured in the DXA substudy of the SURMOUNT-1 trial.<sup><a href="#ref-1">1</a>,<a href="#ref-4">4</a></sup></p>
-        <p><strong>Why two scenarios.</strong> The share of loss that is muscle is not fixed. Without enough protein and without resistance training, the estimate sits toward the high end of the published range. With both in place, it moves toward the low end. The size of that shift comes from a meta-analysis where resistance training offset about 93.5 percent of the lean mass that caloric restriction alone would cost.<sup><a href="#ref-2">2</a></sup></p>
-        <p><strong>Your current-habits estimate.</strong> The headline number scales between those two scenarios using your reported protein habit and resistance training. Protein and training both count, with training weighted as the primary driver because the offset in the research is a training effect. Protein enables it: benefit to fat-free mass leveled off near 1.6 g/kg of body weight, which is the target used here for the high-protein setting.<sup><a href="#ref-3">3</a></sup></p>
+        <p><strong>Why two scenarios.</strong> The share of loss that is muscle is not fixed. Without enough protein and without resistance training, the estimate sits at the high end of the published range, 40 percent for semaglutide. With both in place, it moves toward the low end. The size of that shift comes from a meta-analysis of older adults with obesity on caloric restriction, not GLP-1 users, where resistance training offset about 93.5 percent of the lean mass that dieting alone would cost.<sup><a href="#ref-2">2</a></sup> Applying 93.5 percent to a GLP-1 baseline gives about 2 percent, which is an extrapolation, so the best case is shown as a range: that 2 percent floor up to 15 percent, the lowest lean-mass share reported in GLP-1 trials.<sup><a href="#ref-1">1</a></sup> No trial has measured the 2 percent figure in people taking a GLP-1.</p>
+        <p><strong>Your current-habits estimate.</strong> The headline range scales between those scenarios using your reported protein habit and resistance training. The two calculators on this site use the same shared numbers for the no-plan case. Protein and training both count, with training weighted as the primary driver because the offset in the research is a training effect. Protein enables it: benefit to fat-free mass leveled off near 1.6 g/kg of body weight, which is the target used here for the high-protein setting.<sup><a href="#ref-3">3</a></sup></p>
         <p><strong>Lean mass at risk.</strong> If you enter a goal weight, the tool multiplies each scenario's lean-mass share by the total weight you plan to lose, giving an approximate range of lean mass at stake. This is a projection from population ranges, not a prediction of your specific outcome.</p>
 
         <h2>Honest limits</h2>
-        <p>Every number here is an estimate assembled from group averages. The 15 to 40 percent range is wide because trials differ in population, dose, and how body composition was measured, and DXA itself carries error. The 93.5 percent offset is a single meta-analytic figure that will not hold identically for every person or program. Your genetics, training quality, sleep, and starting body composition all move the real result. Treat this as a framework for a conversation with your clinician, not a measurement, a prediction, or medical advice.</p>
+        <p>Every number here is an estimate assembled from group averages. The 15 to 40 percent range is wide because trials differ in population, dose, and how body composition was measured, and DXA itself carries error. The 93.5 percent offset is a single meta-analytic figure from people who were not taking a GLP-1, and it will not hold identically for every person or program. Your genetics, training quality, sleep, and starting body composition all move the real result. Treat this as a framework for a conversation with your clinician, not a measurement, a prediction, or medical advice.</p>
       </div>
 
       <div class="article">
@@ -191,8 +200,8 @@
         <h2 id="gear-h">Gear for the two levers above</h2>
         <p class="gear-disclosure">Optional products for the protein and training settings this estimator responds to. As an Amazon Associate, we earn from qualifying purchases.</p>
         <ul class="gear-list">
-          <li><a href="https://www.amazon.com/s?k=optimum+nutrition+gold+standard+whey" target="_blank" rel="sponsored nofollow noopener">Whey protein powder</a> is how most people reach the 1.6 g/kg setting on a suppressed appetite. Optimum Nutrition Gold Standard is the most widely sold version; any whey isolate does the same job.</li>
-          <li><a href="https://www.amazon.com/s?k=creatine+monohydrate+powder" target="_blank" rel="sponsored nofollow noopener">Creatine monohydrate</a> is the one supplement beyond protein with strong evidence for holding lean mass while you train. Three to five grams a day.</li>
+          <li><a href="https://www.amazon.com/s?k=optimum+nutrition+gold+standard+whey" target="_blank" rel="sponsored nofollow noopener">Whey protein powder</a> is one way to reach the 1.6 g/kg setting when appetite is low. Any whey isolate does the same job.</li>
+          <li><a href="https://www.amazon.com/s?k=creatine+monohydrate+powder" target="_blank" rel="sponsored nofollow noopener">Creatine monohydrate</a> has the strongest evidence of the common supplements for adding lean mass alongside training, mostly in non-GLP-1 populations. Three to five grams a day.</li>
           <li><a href="https://www.amazon.com/s?k=resistance+bands+set" target="_blank" rel="sponsored nofollow noopener">Resistance bands</a> cover the training input, which the model above treats as the larger of the two levers.</li>
         </ul>
       </aside>
@@ -222,7 +231,7 @@
 
 <footer>
   <div class="wrap">
-    <p class="foot-disclaimer">This calculator is educational and does not constitute medical advice. Its outputs are population-based estimates, not measurements of your body, and it provides no dosing, titration, or sourcing guidance for any medication. Calorie and protein targets depend on your body composition, kidney health, and your clinician's judgment. Consult a qualified healthcare provider before changing your nutrition or exercise program, particularly while taking a GLP-1 medication.</p>
+    <p class="foot-disclaimer">This calculator is educational and does not constitute medical advice. Its outputs are population-based estimates, not measurements of your body, and it gives no medical or dosing advice. The split-dose calculator only does arithmetic on the prescription numbers you enter, so confirm any change with your prescriber or pharmacist. Calorie and protein targets depend on your body composition, kidney health, and your clinician's judgment. Consult a qualified healthcare provider before changing your nutrition or exercise program, particularly while taking a GLP-1 medication.</p>
     <div class="foot-legal">
       <span>&copy; 2026 MuscleOnGLP. All rights reserved.</span>
       <span><a href="/terms/">Terms of Service</a></span>
@@ -235,9 +244,10 @@
   </div>
 </footer>
 
+<script src="/glp1-model.js"></script>
 <script src="/muscle-loss-calculator/calc.js"></script>
 <script src="/subscribe.js" defer></script>
-<script src="/analytics.js"></script>
+<script src="/analytics.js" defer></script>
 <script src="/affiliate.js" defer></script>
 </body>
 </html>

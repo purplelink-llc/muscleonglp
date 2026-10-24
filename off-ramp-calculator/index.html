@@ -64,6 +64,7 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6407975157274256" crossorigin="anonymous"></script>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to main content</a>
 
 <header class="nav">
   <div class="wrap nav-inner">
@@ -79,7 +80,7 @@
   </div>
 </header>
 
-<main>
+<main id="main" tabindex="-1">
 <article>
   <header class="article-hero">
     <div class="wrap">
@@ -96,37 +97,41 @@
         <div class="price-body" style="padding:26px 28px 30px">
           <div class="calc-grid">
             <div class="calc-field-wide">
-              <label for="weight" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Current weight</label>
+              <label for="weight" class="calc-label">Current weight</label>
               <div style="display:flex;gap:8px">
-                <input id="weight" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 170" class="calc-in" style="flex:1 1 auto;min-width:0">
-                <select id="weightUnit" class="calc-in" style="flex:0 0 auto;width:auto"><option value="lb">lb</option><option value="kg">kg</option></select>
+                <input id="weight" name="weight" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 170" class="calc-in" autocomplete="off" style="flex:1 1 auto;min-width:0">
+                <select id="weightUnit" name="weightUnit" class="calc-in" style="flex:0 0 auto;width:auto"><option value="lb">lb</option><option value="kg">kg</option></select>
               </div>
             </div>
             <div>
-              <label for="lost" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Weight lost so far (same unit)</label>
-              <input id="lost" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 40" class="calc-in">
+              <label for="lost" class="calc-label">Weight lost so far (same unit)</label>
+              <input id="lost" name="lost" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 40" class="calc-in" autocomplete="off">
             </div>
             <div>
-              <label for="plan" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Your exit plan</label>
-              <select id="plan" class="calc-in">
+              <label for="plan" class="calc-label">Your exit plan</label>
+              <select id="plan" name="plan" class="calc-in">
                 <option value="cold">Stop cold</option>
                 <option value="taper" selected>Gradual taper</option>
                 <option value="stay">Stay on a maintenance dose</option>
               </select>
             </div>
             <div>
-              <label for="muscle" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Muscle preservation during loss</label>
-              <select id="muscle" class="calc-in">
+              <label for="muscle" class="calc-label">Muscle preservation during loss</label>
+              <select id="muscle" name="muscle" class="calc-in">
                 <option value="yes" selected>Resistance training + enough protein</option>
                 <option value="no">Neither / minimal</option>
               </select>
             </div>
           </div>
+          <p id="calcError" class="field-error" role="alert" hidden></p>
           <p id="exampleNote" class="calc-example-note">These are example numbers. Change any field above and they update as you type.</p>
         </div>
       </form>
 
+      <p id="liveSummary" class="sr-only" role="status" aria-live="polite"></p>
       <div id="out" hidden style="margin-top:26px">
+        <p class="calc-caution"><strong>Illustrative projection, not a prediction or medical advice.</strong> Only the 12-month cold-stop figure is trial-measured. Decisions about stopping or tapering belong to you and your prescriber.</p>
+        <p id="exampleCaption" class="calc-example-note" style="margin:14px 0">Example person: 170 lb, 40 lb lost, gradual taper. Change any field above to use your own numbers.</p>
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
           <div class="calc-stat"><span class="calc-n" id="regain"></span><span class="calc-l">Projected regain (12 mo)</span></div>
           <div class="calc-stat"><span class="calc-n" id="wt12"></span><span class="calc-l">Weight at 12 months</span></div>
@@ -136,7 +141,7 @@
         <p id="planNote" hidden class="calc-warn" style="background:var(--accent-light);color:var(--ink);border:none"></p>
 
         <div id="chartWrap" class="chart-card">
-          <h3 style="margin:0 0 4px;font-size:var(--fs-head)">Your weight over the next 12 months</h3>
+          <h2 style="margin:0 0 4px;font-size:var(--fs-head)">Your weight over the next 12 months</h2>
           <p style="margin:0 0 14px;color:#45524c;font-size:var(--fs-body)">The red line is trial-measured (a full stop). The green line is your plan, modeled from it.</p>
           <div id="chart"></div>
           <div style="display:flex;flex-wrap:wrap;gap:16px;margin-top:12px;font-size:var(--fs-meta)">
@@ -148,15 +153,15 @@
         <aside class="inline-capture">
           <p><strong>Which line you follow is decided before you stop, not after.</strong> The free Protein Playbook has the protein target and the meal system that hold muscle through the taper. A short weekly digest of new research comes with it.</p>
           <form data-subscribe data-source="calc:off-ramp" class="subscribe-form" novalidate>
-            <input type="email" data-email placeholder="you@example.com" aria-label="Email address" autocomplete="email" required>
-            <button type="submit" class="btn btn-primary">Send it to me</button>
+            <input type="email" name="email" data-email placeholder="you@example.com" aria-label="Email address" autocomplete="email" required>
+            <button type="submit" class="btn btn-primary">Email me the Protein Playbook</button>
             <p class="subscribe-status" role="status" aria-live="polite"></p>
           </form>
         </aside>
       </div>
 
       <div id="phaseWrap" class="chart-card">
-        <h3 style="margin:0 0 4px;font-size:var(--fs-head)">Muscle across the four phases</h3>
+        <h2 style="margin:0 0 4px;font-size:var(--fs-head)">Muscle across the four phases</h2>
         <p style="margin:0 0 14px;color:#45524c;font-size:var(--fs-body)">One journey, two endings. Lines are shown as a percentage of your starting level. This is an illustrative diagram of the trajectory, not tied to the numbers above.</p>
         <svg viewBox="0 0 720 400" width="100%" role="img" aria-labelledby="phaseTitle phaseDesc" style="max-width:100%;height:auto">
           <title id="phaseTitle">The four phases of a GLP-1 journey and what happens to muscle in each</title>
@@ -257,7 +262,7 @@
 
 <footer>
   <div class="wrap">
-    <p class="foot-disclaimer">This calculator is educational and does not constitute medical advice. Its outputs are population-based projections, not measurements or predictions of your body, and it provides no dosing, titration, or sourcing guidance for any medication. Decisions about starting, continuing, tapering, or stopping a GLP-1 medication belong to you and your prescribing clinician. Consult a qualified healthcare provider before changing your medication, nutrition, or exercise program.</p>
+    <p class="foot-disclaimer">This calculator is educational and does not constitute medical advice. Its outputs are population-based projections, not measurements or predictions of your body, and it gives no medical or dosing advice. The split-dose calculator only does arithmetic on the prescription numbers you enter, so confirm any change with your prescriber or pharmacist. Decisions about starting, continuing, tapering, or stopping a GLP-1 medication belong to you and your prescribing clinician. Consult a qualified healthcare provider before changing your medication, nutrition, or exercise program.</p>
     <div class="foot-legal">
       <span>&copy; 2026 MuscleOnGLP. All rights reserved.</span>
       <span><a href="/terms/">Terms of Service</a></span>
@@ -272,7 +277,7 @@
 
 <script src="/off-ramp-calculator/calc.js"></script>
 <script src="/subscribe.js" defer></script>
-<script src="/analytics.js"></script>
+<script src="/analytics.js" defer></script>
 <script src="/affiliate.js" defer></script>
 </body>
 </html>

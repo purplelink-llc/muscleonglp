@@ -25,11 +25,27 @@
   function fmt(n) { return Math.round(n).toLocaleString(); }
   function regainByMonth(total, t) { return total * (1 - Math.exp(-t / TAU)) / SETTLE; }
 
+  var LB = 0.453592, errBox = $("calcError"), liveBox = $("liveSummary"), liveTimer = null;
+  function showError(msg, ids) {
+    errBox.textContent = msg; errBox.hidden = false;
+    ["weight", "lost"].forEach(function (id) { if (ids.indexOf(id) >= 0) { $(id).setAttribute("aria-invalid", "true"); } else { $(id).removeAttribute("aria-invalid"); } });
+  }
+  function clearError() { errBox.hidden = true; errBox.textContent = ""; ["weight", "lost"].forEach(function (id) { $(id).removeAttribute("aria-invalid"); }); }
+  function announce(text) { clearTimeout(liveTimer); liveTimer = setTimeout(function () { liveBox.textContent = text; }, 500); }
+  function setUnitLimits() { var mx = $("weightUnit").value === "kg" ? "400" : "880"; $("weight").max = mx; $("lost").max = mx; }
+
   function compute() {
     var cur = num("weight"), lost = num("lost");
     var unit = $("weightUnit").value;
     var plan = $("plan").value, muscle = $("muscle").value;
-    if (!(cur > 0 && lost > 0)) { $("out").hidden = true; return; }
+    var maxW = unit === "kg" ? 400 : 880;
+    var bad = "", ids = [];
+    if (!(cur > 0)) { bad = "Enter your current weight as a number above 0."; ids = ["weight"]; }
+    else if (cur > maxW) { bad = "Weight must be " + maxW + " " + unit + " or less."; ids = ["weight"]; }
+    else if (!(lost > 0)) { bad = "Enter the weight you have lost so far, above 0."; ids = ["lost"]; }
+    else if (lost > maxW) { bad = "Weight lost must be " + maxW + " " + unit + " or less."; ids = ["lost"]; }
+    if (bad) { $("out").hidden = true; showError(bad, ids); announce(bad); return; }
+    clearError();
 
     var frac = Math.max(0.05, Math.min(0.9, PLAN[plan] * MUSCLE[muscle]));
     var totalRegain = lost * frac;            // asymptotic 12-month regain
@@ -54,6 +70,8 @@
     drawChart(cur, totalRegain, coldRegain, unit);
     highlightPhase(muscle);
     $("out").hidden = false;
+    announce("Projected regain over 12 months: " + $("regain").textContent + ", to " + $("wt12").textContent +
+      ". You keep " + $("kept").textContent + " of your loss. A cold stop would regain " + $("cold").textContent + ".");
   }
 
   // Reflect the muscle-preservation choice onto the illustrative phase timeline:
@@ -141,16 +159,36 @@
     touched = true;
     var n = $("exampleNote");
     if (n) { n.hidden = true; }
+    var c = $("exampleCaption");
+    if (c) { c.hidden = true; }
     // Fires once, on the first deliberate edit. Not on load: counting the seeded
     // render would make calc_use a synonym for pageviews and destroy the metric.
     if (window.mogTrack) window.mogTrack("calc_use", "off-ramp");
   }
 
+  var prevUnit = $("weightUnit").value;
   seed();
+  setUnitLimits();
+  prevUnit = $("weightUnit").value;
   compute();
+  clearTimeout(liveTimer);   // no announcement for the seeded example
 
   form.addEventListener("input", function () { markTouched(); compute(); });
-  form.addEventListener("change", function () { markTouched(); compute(); });
+  form.addEventListener("change", function (e) {
+    if (e.target && e.target.id === "weightUnit" && $("weightUnit").value !== prevUnit) {
+      var now = $("weightUnit").value;
+      ["weight", "lost"].forEach(function (f) {
+        var v = num(f);
+        if (v > 0) { $(f).value = String(Math.round((now === "kg" ? v * LB : v / LB) * 10) / 10); }
+      });
+      prevUnit = now; setUnitLimits();
+    }
+    markTouched(); compute();
+  });
+  form.addEventListener("focusin", function (e) {
+    var t = e.target;
+    if (t && t.tagName === "INPUT" && t.type === "number") { try { t.select(); } catch (err) { /* ignore */ } }
+  });
 
   // The button is gone, but Enter in a text field still submits a form.
   form.addEventListener("submit", function (e) {

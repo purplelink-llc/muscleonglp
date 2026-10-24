@@ -35,14 +35,28 @@
     return g;
   }
 
+  var errBox = $("calcError"), liveBox = $("liveSummary"), liveTimer = null;
+  function showError(msg) { errBox.textContent = msg; errBox.hidden = false; $("weekly").setAttribute("aria-invalid", "true"); }
+  function clearError() { errBox.hidden = true; errBox.textContent = ""; $("weekly").removeAttribute("aria-invalid"); }
+  function announce(text) { clearTimeout(liveTimer); liveTimer = setTimeout(function () { liveBox.textContent = text; }, 500); }
+
   function compute() {
     var weekly = num("weekly"), n = parseInt($("count").value, 10);
     var start = parseInt($("start").value, 10), med = $("med").value;
-    if (!(weekly > 0) || !(n >= 2)) { $("out").hidden = true; return; }
+    if (!(weekly > 0) || !(n >= 2)) {
+      $("out").hidden = true;
+      var m1 = "Enter the weekly dose in milligrams, a number above 0.";
+      showError(m1); announce(m1); return;
+    }
 
     var per = weekly / n;
     var shown = parseFloat(fmt(per));
-    if (!(shown > 0)) { $("out").hidden = true; return; }   // too small to show at three decimals
+    if (!(shown > 0)) {                                   // too small to show at three decimals
+      $("out").hidden = true;
+      var m2 = "That dose is too small to divide and show at three decimals of a milligram. Check the number.";
+      showError(m2); announce(m2); return;
+    }
+    clearError();
     var o = offsets(n), g = gaps(o), body = $("rows"), i, tr, td;
 
     $("perDose").textContent = fmt(per) + " mg";
@@ -70,8 +84,9 @@
         " mg). This calculator works in milligrams, not syringe units or milliliters.";
     }
 
-    $("labelNote").textContent = LABEL_NOTE[med];
+    $("labelNote").textContent = LABEL_NOTE[med] + (med === "tirz" ? " Single-dose Zepbound pens and vials hold one labeled dose and cannot be divided; only the multi-dose vial and KwikPen hold four." : "");
     $("out").hidden = false;
+    announce(fmt(per) + " mg per injection, " + n + " times a week, " + fmt(weekly) + " mg a week in total. " + (over ? $("maxWarn").textContent : "") + " This is arithmetic only, not a recommended schedule; confirm with your prescriber or pharmacist.");
   }
 
   var SEED = { weekly: "1", count: "2", start: "0", med: "sema" };
@@ -80,6 +95,7 @@
     if (touched) return;
     touched = true;
     var n = $("exampleNote"); if (n) { n.hidden = true; }
+    var c = $("exampleCaption"); if (c) { c.hidden = true; }
     // Once, on the first deliberate edit. Not on load: the seeded render would
     // make calc_use a synonym for pageviews.
     if (window.mogTrack) window.mogTrack("calc_use", "split-dose");
@@ -87,6 +103,11 @@
 
   Object.keys(SEED).forEach(function (id) { var el = $(id); if (el && !el.value) { el.value = SEED[id]; } });
   compute();
+  clearTimeout(liveTimer);   // no announcement for the seeded example
+  form.addEventListener("focusin", function (e) {
+    var t = e.target;
+    if (t && t.tagName === "INPUT" && t.type === "number") { try { t.select(); } catch (err) { /* ignore */ } }
+  });
   form.addEventListener("input", function () { markTouched(); compute(); });
   form.addEventListener("change", function () { markTouched(); compute(); });
   form.addEventListener("submit", function (e) { e.preventDefault(); compute(); });

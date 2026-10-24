@@ -69,7 +69,7 @@
       "name": "Does this convert milligrams to units or milliliters?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No, deliberately. It works in milligrams only. Converting to syringe units or milliliters for a vial depends on the concentration printed on that vial, and a mistake there is the dangerous kind. Ask your pharmacist or prescriber for that step."
+        "text": "No, deliberately. It works in milligrams only. Converting to syringe units or milliliters for a vial depends on the concentration printed on that vial, and a mistake there changes the dose you inject. Ask your pharmacist or prescriber for that step."
       }
     },
     {
@@ -87,6 +87,7 @@
 <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to main content</a>
 
 <header class="nav">
   <div class="wrap nav-inner">
@@ -102,7 +103,7 @@
   </div>
 </header>
 
-<main>
+<main id="main" tabindex="-1">
 <article>
   <header class="article-hero">
     <div class="wrap">
@@ -119,12 +120,12 @@
         <div class="price-body" style="padding:26px 28px 30px">
           <div class="calc-grid" style="grid-template-columns:repeat(auto-fit,minmax(170px,1fr))">
             <div>
-              <label for="weekly" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Weekly dose (mg)</label>
-              <input id="weekly" type="number" inputmode="decimal" min="0" step="0.01" placeholder="e.g. 1" class="calc-in">
+              <label for="weekly" class="calc-label">Weekly dose (mg)</label>
+              <input id="weekly" name="weekly" type="number" inputmode="decimal" min="0" step="0.01" placeholder="e.g. 1" class="calc-in" autocomplete="off">
             </div>
             <div>
-              <label for="count" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Injections per week</label>
-              <select id="count" class="calc-in">
+              <label for="count" class="calc-label">Injections per week</label>
+              <select id="count" name="count" class="calc-in">
                 <option value="2">2</option>
                 <option value="3">3</option>
                 <option value="4">4</option>
@@ -132,34 +133,38 @@
               </select>
             </div>
             <div>
-              <label for="start" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">First injection day</label>
-              <select id="start" class="calc-in">
+              <label for="start" class="calc-label">First injection day</label>
+              <select id="start" name="start" class="calc-in">
                 <option value="0">Monday</option><option value="1">Tuesday</option><option value="2">Wednesday</option>
                 <option value="3">Thursday</option><option value="4">Friday</option><option value="5">Saturday</option><option value="6">Sunday</option>
               </select>
             </div>
             <div class="calc-field-wide">
-              <label for="med" style="display:block;font-weight:650;margin-bottom:6px;font-size:var(--fs-body)">Medication</label>
-              <select id="med" class="calc-in">
+              <label for="med" class="calc-label">Medication</label>
+              <select id="med" name="med" class="calc-in">
                 <option value="sema">Semaglutide (Ozempic / Wegovy)</option>
                 <option value="tirz">Tirzepatide (Mounjaro / Zepbound)</option>
               </select>
             </div>
           </div>
+          <p id="calcError" class="field-error" role="alert" hidden></p>
           <p id="exampleNote" class="calc-example-note">These are example numbers. Enter the weekly dose your prescriber set; change any field and the schedule updates as you type.</p>
         </div>
       </form>
 
+      <p id="liveSummary" class="sr-only" role="status" aria-live="polite"></p>
       <div id="out" hidden style="margin-top:26px">
+        <p class="calc-caution"><strong>Arithmetic only. This is not medical or dosing advice.</strong> It divides the weekly dose you enter and recommends no dose or schedule. A split schedule is not the one on the label. Confirm any change with your prescriber or pharmacist.</p>
+        <p id="exampleCaption" class="calc-example-note" style="margin:14px 0 0">Example numbers: 1 mg a week split into 2 injections, semaglutide. Enter the weekly dose your prescriber set.</p>
         <p id="maxWarn" class="calc-warn" hidden></p>
         <div class="calc-stat" style="margin-bottom:14px">
           <span class="calc-n" id="perDose"></span>
           <span class="calc-l" id="perDoseLabel"></span>
         </div>
         <div class="article" style="margin-top:18px">
-          <div class="table-scroll" style="margin:0">
+          <div class="table-scroll" tabindex="0" role="region" aria-label="Table, scrolls sideways on small screens" style="margin:0">
             <table style="min-width:0">
-              <thead><tr><th>Day</th><th>Dose</th><th>Spacing</th></tr></thead>
+              <thead><tr><th scope="col">Day</th><th scope="col">Dose</th><th scope="col">Spacing</th></tr></thead>
               <tbody id="rows"></tbody>
             </table>
           </div>
@@ -173,7 +178,7 @@
         <h2>How this is calculated</h2>
         <p><strong>The dose.</strong> Each injection is the weekly total divided by the number of injections you pick, shown in milligrams to three decimals. Under the schedule the calculator adds the injections back up so you can see the weekly total is unchanged.</p>
         <p><strong>The days.</strong> Injections are spread as evenly as a seven-day week allows, counting from your first injection day. Two injections fall three and four days apart, three fall two, two and three days apart, and seven are daily.</p>
-        <p><strong>What it leaves out.</strong> It works in milligrams only. It does not convert to syringe units or milliliters, because for a vial that depends on the concentration printed on the label and a mistake there is the dangerous kind. It knows nothing about your device, your dose history or your prescriber's instructions.</p>
+        <p><strong>What it leaves out.</strong> It works in milligrams only. It does not convert to syringe units or milliliters, because for a vial that depends on the concentration printed on the label and a mistake there changes the dose you inject. It knows nothing about your device, your dose history or your prescriber's instructions.</p>
 
         <h2>What the labels say</h2>
         <p>The Ozempic label says to administer once weekly on the same day each week, at any time of day, with or without meals, and gives a half-life of approximately 1 week.<sup><a href="#ref-1">1</a></sup> The Zepbound label says once weekly, at any time of day, tells patients to take a missed dose within 4 days (96 hours) or skip it, and gives a half-life of approximately 5 to 6 days.<sup><a href="#ref-2">2</a></sup> The Zepbound label also lists single-dose pens and single-dose vials that each hold one labeled dose, and a multi-dose vial and KwikPen that hold four.<sup><a href="#ref-2">2</a></sup> The missed-dose rules above belong to once-weekly dosing; they do not carry over to a split schedule.</p>
@@ -191,7 +196,7 @@
           <details><summary>How do I split a weekly Ozempic or GLP-1 dose?</summary><p>Divide the weekly total your prescriber set by the number of injections, then space the injections as evenly as the week allows: two injections land on days 0 and 3 (for example Monday and Thursday). That is all this calculator does. Splitting is not the labeled schedule, so tell your prescriber before you change how you inject, and ask your pharmacist whether your pen or vial can deliver the smaller dose.</p></details>
           <details><summary>Is it safe to split a weekly GLP-1 dose into two injections?</summary><p>It has not been shown to be. The Ozempic and Zepbound labels specify one injection a week, and we know of no published trial of splitting a weekly dose into smaller injections, so there is no evidence that it is safer, better tolerated or more effective. If your prescriber chose a split schedule for you, follow their instructions. If you are thinking about it on your own, ask them first.</p></details>
           <details><summary>Does splitting change the total weekly dose?</summary><p>No. Two injections of half the weekly dose add up to the same total. The calculator shows that sum under the schedule, including when rounding to three decimals makes the total differ slightly.</p></details>
-          <details><summary>Does this convert milligrams to units or milliliters?</summary><p>No, deliberately. It works in milligrams only. Converting to syringe units or milliliters for a vial depends on the concentration printed on that vial, and a mistake there is the dangerous kind. Ask your pharmacist or prescriber for that step.</p></details>
+          <details><summary>Does this convert milligrams to units or milliliters?</summary><p>No, deliberately. It works in milligrams only. Converting to syringe units or milliliters for a vial depends on the concentration printed on that vial, and a mistake there changes the dose you inject. Ask your pharmacist or prescriber for that step.</p></details>
           <details><summary>Does it work for tirzepatide (Mounjaro, Zepbound)?</summary><p>The arithmetic is the same. The device is the catch: the Zepbound label lists single-dose pens and single-dose vials that each hold one labeled dose, so they cannot be divided, while its multi-dose vial and KwikPen hold four doses. Check your own product's label and ask your pharmacist.</p></details>
         </div>
       </div>
@@ -242,6 +247,6 @@
 
 <script src="/split-dose-calculator/calc.js"></script>
 <script src="/subscribe.js" defer></script>
-<script src="/analytics.js"></script>
+<script src="/analytics.js" defer></script>
 </body>
 </html>
