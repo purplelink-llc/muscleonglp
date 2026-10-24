@@ -35,11 +35,15 @@
     form.addEventListener("submit", function (event) {
       event.preventDefault();
       var email = (input && input.value ? input.value : "").trim();
-      if (!email || email.indexOf("@") === -1) {
-        setStatus("Please enter a valid email address.", true);
-        if (input) input.focus();
+      // Native validity (the form is novalidate, so no browser bubble) plus a dotted domain,
+      // which the HTML email type alone accepts without ("a@b").
+      var valid = email && input && input.checkValidity() && /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email);
+      if (!valid) {
+        setStatus("Please enter a valid email address, like you@example.com.", true);
+        if (input) { input.setAttribute("aria-invalid", "true"); input.focus(); }
         return;
       }
+      if (input) input.removeAttribute("aria-invalid");
       if (btn) { btn.textContent = "Sending…"; btn.setAttribute("aria-disabled", "true"); }
       setStatus("", false);
 

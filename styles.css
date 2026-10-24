@@ -33,6 +33,10 @@
   --accent-text-strong: #245546;
   --field-bg: #ffffff;
   --line: #dde7e3;
+  /* Control boundary (WCAG 1.4.11, 3:1). --line is a decorative hairline at 1.26:1
+     and was also the border of every input. Measured: #7a8a83 is 3.63:1 on white
+     and 3.39:1 on --bg-alt. Dark value is below. */
+  --field-line: #7a8a83;
   --gold: #e0a63c;
   --radius: 16px;
   --radius-lg: 24px;
@@ -55,7 +59,8 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; scroll-padding-top: 84px; scroll-padding-bottom: 88px; }
+@media (max-width: 1099px) { html { scroll-padding-top: 16px; } }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 
 body {
@@ -114,6 +119,9 @@ img { max-width: 100%; display: block; }
    phones and tablets with no site navigation at all. Instead, wrap them onto a
    second, horizontally scrollable row so every section stays reachable. */
 @media (max-width: 1099px) {
+  /* Two rows on a phone is about 100px of sticky bar; it covered focused fields and
+     anchor targets. Only the desktop one-row bar is sticky. */
+  .nav { position: static; }
   .nav-inner { flex-wrap: wrap; height: auto; padding: 10px 24px 8px; row-gap: 8px; }
   .nav-links { width: 100%; gap: 16px; overflow-x: auto; scrollbar-width: none; -ms-overflow-style: none; padding-bottom: 2px; }
   .nav-links::-webkit-scrollbar { display: none; }
@@ -278,8 +286,8 @@ img { max-width: 100%; display: block; }
 .related-reading a { font-weight: 600; }
 .capture { background: var(--accent-light); }
 .subscribe-form { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 26px; }
-.subscribe-form input[type="email"] { flex: 1 1 280px; min-width: 0; padding: 15px 20px; font: inherit; font-size: 0.95rem; border: 1.5px solid var(--line); border-radius: 100px; background: var(--field-bg); color: var(--ink); }
-.subscribe-form input[type="email"]:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(47,111,94,.18); }
+.subscribe-form input[type="email"] { flex: 1 1 280px; min-width: 0; padding: 15px 20px; font: inherit; font-size: 0.95rem; border: 1.5px solid var(--field-line); border-radius: 100px; background: var(--field-bg); color: var(--ink); }
+.subscribe-form input[type="email"]:focus { outline: none; border-color: var(--accent-text); box-shadow: 0 0 0 3px rgba(47,111,94,.18); }
 .subscribe-form .btn { flex: 0 0 auto; }
 .subscribe-form .subscribe-status { flex: 1 1 100%; margin: 4px 0 0; min-height: 1.1em; font-size: 0.95rem; color: var(--ink-soft); }
 .subscribe-thanks { margin-top: 26px; display: grid; gap: 18px; justify-items: center; }
@@ -304,21 +312,6 @@ img { max-width: 100%; display: block; }
 .price-body svg { flex: none; margin-top: 3px; color: var(--accent-text); }
 .price-body .btn { width: 100%; justify-content: center; }
 .guarantee { text-align: center; margin-top: 16px; font-size: 0.95rem; color: var(--ink-soft); }
-/* Free-gift promo (2026-09-10): sits between the terms checkbox and the buy
-   button, so the incentive is the last thing read before the click, not an
-   afterthought below it. Reuses --gold (the "Launch price" tag's color
-   elsewhere) for "Limited time" rather than introducing a new hue. */
-.bonus-gift { margin: 16px 0; padding: 12px 16px; text-align: center; background: var(--accent-light); border: 1.5px dashed var(--accent); border-radius: 12px; font-size: 0.92rem; }
-/* Dark brown on the gold pill, not white: white on --gold measures 2.17:1,
-   which fails AA at this size in BOTH themes. #3d2a06 keeps the gold identity
-   at ~6.3:1. */
-.bonus-gift .tag { display: inline-block; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; background: var(--gold); color: #3d2a06; padding: 3px 10px; border-radius: 100px; margin-right: 6px; vertical-align: middle; }
-.bonus-gift .bg-was { text-decoration: line-through; opacity: .65; margin: 0 3px; }
-.bonus-gift .bg-until { display: inline-block; color: var(--ink-soft); font-size: 0.84rem; }
-/* checkout.js sets [hidden] once the promo date passes; make sure no display
-   rule here outranks that. */
-.bonus-gift[hidden] { display: none; }
-.bonus-gift .bg-free { font-weight: 800; color: var(--accent-text-strong); }
 /* Success-page delivery of that same bonus, once it's actually been paid for. */
 .bonus-box { margin-top: 24px; padding: 22px 24px; background: var(--accent-light); border: 1.5px dashed var(--accent); border-radius: var(--radius); }
 .bonus-box-label { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; color: var(--accent-text-strong); margin-bottom: 6px; }
@@ -328,8 +321,8 @@ img { max-width: 100%; display: block; }
    agreement itself. A darker fill marks the changed state so the second click
    is a deliberate one, not a double-tap. */
 .btn-agree { background: var(--accent-dark); }
-.tos-note { text-align: center; margin-top: 10px; font-size: 0.8rem; color: var(--ink-soft); }
-.gc-body .tos-note { margin-top: 6px; font-size: 0.74rem; }
+.tos-note { text-align: center; margin-top: 10px; font-size: 0.875rem; color: var(--ink-soft); }
+.gc-body .tos-note { margin-top: 6px; font-size: 0.8rem; }
 /* #a3372c is 6.7:1 on the light theme's white card, but the dark-mode price
    card sits on #172420, where that same red drops to ~2.4:1 — the "please
    accept the Terms" message a buyer sees after clicking Buy without ticking
@@ -337,9 +330,6 @@ img { max-width: 100%; display: block; }
 .checkout-err { color: #a3372c; }
 @media (prefers-color-scheme: dark) {
   .checkout-err { color: #f87171; }
-  /* --accent-text-strong on the dark bonus panel lands at exactly 4.50:1 —
-     AA with zero margin, so any future tweak to either token breaks it. */
-  .bonus-gift .bg-free { color: #4ec49a; }
 }
 .checkout-spinner {
   display: inline-block; width: 13px; height: 13px; margin-right: 7px;
@@ -455,14 +445,16 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .foot-brand { max-width: 320px; }
 .foot-brand .brand { color: #fff; margin-bottom: 12px; }
 .foot-cols { display: flex; gap: 56px; flex-wrap: wrap; }
-.foot-col h4 { color: #fff; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 14px; font-family: var(--font); }
+.foot-col h3, .foot-col h4 { color: #fff; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 14px; font-family: var(--font); font-weight: 700; line-height: 1.3; }
 .foot-col a { display: block; color: #b9c7c1; margin-bottom: 9px; }
 .foot-col a:hover { color: #fff; }
 .foot-col a.foot-social { display: flex; align-items: center; gap: 9px; }
 .foot-social-icon { flex: none; color: #8a9993; transition: color .18s ease; }
 .foot-social:hover .foot-social-icon { color: var(--accent-bright); }
-.foot-legal { border-top: 1px solid rgba(255,255,255,.12); margin-top: 40px; padding-top: 22px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; font-size: 0.8rem; color: #8a9993; }
-.foot-disclaimer { max-width: 720px; font-size: 0.8rem; color: #8a9993; margin-top: 14px; line-height: 1.5; }
+.foot-legal { border-top: 1px solid rgba(255,255,255,.12); margin-top: 40px; padding-top: 22px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; font-size: 0.875rem; color: #b9c7c1; }
+/* The medical disclaimer is the text a reader most needs to see, so it is body-sized
+   and #b9c7c1 (9.5:1 on the footer), not the 12.8px #8a9993 it was. */
+.foot-disclaimer { max-width: 720px; font-size: 0.9rem; color: #b9c7c1; margin-top: 14px; line-height: 1.55; }
 
 /* Article / long-form (the /learn cluster). Deliberately NOT gated behind
    .reveal so the prose renders without JS, for crawlers and AI answer engines. */
@@ -542,6 +534,8 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
   :root {
     --ink: #e8efec; --ink-soft: #a7b6b0; --bg: #101613; --bg-alt: #172420;
     --line: #26352f; --accent-light: #1c2c27;
+    /* 3.46:1 on the #172420 card, about 4:1 on the #101613 field. */
+    --field-line: #66796f;
     --field-bg: #101613;
     --accent-text: #34a07f; --accent-text-strong: #34a07f;
   }
@@ -574,7 +568,7 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
    meal-plan table sat near 1.2:1 on white. Pinning the text with the surface
    keeps the pair consistent. */
 .chart-card { margin-top: 26px; background: #fff; border: 1px solid #dde7e3; border-radius: 16px; padding: 20px 18px; color: #1b2420; }
-.chart-card h3, .chart-card h4, .chart-card p, .chart-card li, .chart-card th, .chart-card td, .chart-card strong, .chart-card span { color: inherit; }
+.chart-card h2, .chart-card h3, .chart-card h4, .chart-card p, .chart-card li, .chart-card th, .chart-card td, .chart-card strong, .chart-card span { color: inherit; }
 
 /* Shown while the calculators are displaying their seeded example values,
    hidden for good on the visitor's first edit. The tools now compute live,
@@ -582,7 +576,7 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
    reading as the visitor's own numbers before they have entered any. */
 .calc-example-note { margin: 20px 0 0; padding: 12px 14px; background: var(--bg-alt);
   border: 1px dashed var(--line); border-radius: 10px; color: var(--ink-soft);
-  font-size: var(--fs-meta); line-height: 1.5; text-align: center; }
+  font-size: var(--fs-body); line-height: 1.5; text-align: center; }
 
 .calc-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 16px; }
 /* A field that carries its own unit selector cannot share a 126px column:
@@ -590,8 +584,8 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
    Those span the full row; the plain one-control fields still sit two-up. */
 .calc-grid > .calc-field-wide { grid-column: 1 / -1; }
 
-.calc-in { width: 100%; box-sizing: border-box; padding: 12px 14px; font: inherit; font-size: 0.95rem; border: 1.5px solid var(--line); border-radius: 10px; background: var(--field-bg); color: var(--ink); }
-.calc-in:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(47,111,94,.15); }
+.calc-in { width: 100%; box-sizing: border-box; padding: 12px 14px; font: inherit; font-size: 0.95rem; border: 1.5px solid var(--field-line); border-radius: 10px; background: var(--field-bg); color: var(--ink); }
+.calc-in:focus { outline: none; border-color: var(--accent-text); box-shadow: 0 0 0 3px rgba(47,111,94,.15); }
 .calc-stat { background: var(--accent-light); border-radius: 12px; padding: 14px 16px; display: flex; flex-direction: column; gap: 3px; }
 .calc-n { font-family: var(--font-display); font-size: 1.4rem; font-weight: 800; color: var(--accent-text); line-height: 1.1; }
 /* Empty-value placeholder. The dash lives in CSS rather than in the markup so
@@ -601,7 +595,8 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
    removes :empty, so the real value replaces the dash automatically. */
 .calc-n:empty::before { content: "\2014"; color: var(--ink-soft); }
 .calc-l { font-size: var(--fs-meta); color: var(--ink-soft); }
-.calc-warn { margin-top: 16px; padding: 12px 16px; background: #fef3f2; border: 1px solid #f3c9c3; border-radius: 10px; color: #8a2a20; font-size: var(--fs-body); }
+/* A caution, not an error: neutral surface with an amber edge. Red is kept for field errors. */
+.calc-warn { margin-top: 16px; padding: 12px 16px; background: var(--bg-alt); border: 1px solid var(--field-line); border-left: 4px solid #b7791f; border-radius: 10px; color: var(--ink); font-size: var(--fs-body); }
 
 /* Statistics page: per-stat permalinks + citation box (link-earning asset) */
 .stat-row { position: relative; }
@@ -614,7 +609,7 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .stat-hash { font-weight: 700; color: var(--accent-text); }
 .cite-copy { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
 .cite-copy label { flex-basis: 100%; font-size: 0.8rem; font-weight: 650; color: var(--ink); text-transform: uppercase; letter-spacing: 0.05em; }
-.cite-copy textarea { flex: 1 1 320px; min-width: 0; font-family: inherit; font-size: 0.95rem; line-height: 1.5; padding: 12px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--field-bg); color: var(--ink); resize: vertical; }
+.cite-copy textarea { flex: 1 1 320px; min-width: 0; font-family: inherit; font-size: 0.95rem; line-height: 1.5; padding: 12px 14px; border: 1px solid var(--field-line); border-radius: 10px; background: var(--field-bg); color: var(--ink); resize: vertical; }
 .cite-status { font-size: 0.95rem; color: var(--accent-text-strong); font-weight: 650; }
 .cite-note { font-size: 0.95rem; margin-top: 16px !important; }
 @media (prefers-color-scheme: dark) { .cite-copy textarea { background: #172420; } }
@@ -672,3 +667,38 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .calc-in::placeholder,
 .subscribe-form input[type="email"]::placeholder,
 .cite-copy textarea::placeholder { color: var(--ink-soft); opacity: 1; }
+
+
+/* ---- 2026-10-24 audit fixes ---- */
+
+/* Skip link: first focusable element on every page. */
+.skip-link { position: absolute; left: 12px; top: -64px; z-index: 100; padding: 10px 16px; background: var(--accent); color: #fff; font-weight: 650; border-radius: 8px; text-decoration: underline; }
+.skip-link:focus { top: 12px; }
+main:focus { outline: none; }
+
+/* Visually hidden, still announced. */
+.sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+
+/* Link identity should not rely on colour alone (WCAG 1.4.1). Buttons keep their own look. */
+main :is(p, li) a:not(.btn) { text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; }
+
+/* Calculator input feedback. Errors are plain, near the fields, and not red-on-pink alarm. */
+.field-error { margin: 14px 0 0; padding: 10px 14px; border-left: 4px solid #a3372c; background: var(--bg-alt); color: var(--ink); font-size: var(--fs-body); }
+.field-error[hidden] { display: none; }
+.calc-in[aria-invalid="true"] { border-color: #a3372c; border-width: 2px; }
+@media (prefers-color-scheme: dark) { .field-error { border-left-color: #f87171; } .calc-in[aria-invalid="true"] { border-color: #f87171; } }
+.calc-hint { margin: 6px 0 0; font-size: var(--fs-meta); color: var(--ink-soft); }
+.calc-note { margin: 14px 0 0; padding: 12px 16px; background: var(--bg-alt); border: 1px solid var(--line); border-radius: 10px; color: var(--ink); font-size: var(--fs-body); line-height: 1.55; }
+.calc-note strong { color: var(--ink); }
+.calc-caution { margin-top: 16px; padding: 12px 16px; background: var(--bg-alt); border: 1px solid var(--field-line); border-radius: 10px; color: var(--ink); font-size: var(--fs-body); line-height: 1.55; }
+.calc-l small { display: block; margin-top: 4px; font-size: var(--fs-meta); }
+.calc-label { display: block; font-weight: 650; margin-bottom: 6px; font-size: var(--fs-body); }
+
+/* Wide tables scroll inside their own box, reachable by keyboard, with an edge shadow as the hint. */
+.table-scroll { background: linear-gradient(to right, var(--bg) 30%, rgba(255,255,255,0)) left center / 28px 100% no-repeat local, linear-gradient(to left, var(--bg) 30%, rgba(255,255,255,0)) right center / 28px 100% no-repeat local, radial-gradient(farthest-side at 0 50%, rgba(0,0,0,.18), rgba(0,0,0,0)) left center / 10px 100% no-repeat scroll, radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.18), rgba(0,0,0,0)) right center / 10px 100% no-repeat scroll; }
+.table-scroll:focus-visible { outline: 3px solid var(--accent-text); outline-offset: 2px; }
+
+/* White-on-green button over the green final band loses the default ring. */
+.finalcta :focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
+.preview-strip img { height: auto; }
+.statband a { color: #fff; text-decoration: underline; text-underline-offset: 2px; }
