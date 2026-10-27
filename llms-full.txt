@@ -2129,6 +2129,123 @@ Not urgently. A meta-analysis of trials testing protein timing around resistance
 
 ---
 
+# Resting heart rate on a GLP-1: why it rises, and how to bring it down
+
+URL: https://getmuscleonglp.com/learn/glp1-resting-heart-rate/
+Updated: 2026-10-27
+
+Side effects on a GLP-1
+
+If your watch shows a higher resting heart rate since you started Ozempic, Wegovy, Mounjaro or Zepbound, you are not imagining it. Here is how large the rise is in the trials, why it happens, why it often eases after the dose-escalation months, and the habits with real evidence for bringing it back down.
+
+## Key takeaways
+
+- GLP-1 medications raise resting heart rate by about 1 to 4 beats per minute on average, per the Wegovy and Zepbound labels. [2] [4]
+
+- Across 12 randomized trials in people without diabetes, the pooled rise was 3.47 bpm over placebo: about 3.4 for injectable semaglutide and 2.1 for tirzepatide. [1]
+
+- For tirzepatide, the FDA found heart rate rose during the 20-week dose escalation and came down afterward. [3]
+
+- Endurance training and yoga lowered resting heart rate in a meta-analysis of 191 studies, by roughly the size of the GLP-1 effect. [5]
+
+- Alcohol raised sleeping heart rate by 1.4 to 8.7 bpm, depending on the dose, in 4,098 adults. [6]
+
+Resting heart rate is one of the first numbers people notice changing after they start semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), mostly because a smartwatch reports it every morning. A jump of a few beats can feel alarming when the scale is moving in the right direction and your heart rate is not. This guide separates the expected rise from the kind worth a call to your prescriber, and covers what you can do about it.
+
+It also connects to the reason this site exists. The same habit that does the most for resting heart rate, regular aerobic training, sits alongside the resistance training that protects muscle during GLP-1 weight loss. You do not have to choose between them.
+
+## How much GLP-1s raise resting heart rate
+
+The prescribing information is the most direct source. The Wegovy label reports mean increases in resting heart rate of 1 to 4 beats per minute (bpm) compared with placebo in adult weight-reduction trials. [2] The Zepbound label reports a mean increase of 1 to 3 bpm, against no increase on placebo. [4]
+
+A 2026 systematic review and network meta-analysis pooled 12 randomized trials (15,313 participants) in people with overweight or obesity but without diabetes. Across all GLP-1 medications, heart rate rose 3.47 bpm more than on placebo. The size of the rise differed by drug, and the authors described a potential dose-dependent pattern, with the 5 mg tirzepatide dose showing the smallest effect. [1]
+
+How much each GLP-1 medication raised heart rate over placebo in the pooled trials. [1]
+
+An average of a few beats hides a wider spread between people. The Wegovy label reports that, at some point during the trials, 26 percent of adults on the drug had a maximum rise of 20 bpm or more from baseline, against 16 percent on placebo. [2] For tirzepatide, the FDA review found a maximum rise of 20 bpm or more in 10 percent of patients versus 3.4 percent on placebo. [3] Those are single-visit maximums, not sustained changes, and the placebo numbers show that resting heart rate swings for everyone.
+
+## Why it happens
+
+GLP-1 receptors sit in the heart's own pacemaker tissue, the sinus node. In a 2024 study in pigs, GLP-1 raised heart rate even after the researchers blocked the nerves and adrenaline receptors that normally set the pace, which points to a direct action on the pacemaker cells themselves. [7] Other work points to shifts in the balance between the nervous system's "rest" and "alert" signals, and the two explanations are not mutually exclusive.
+
+The practical upshot is that the rise is a known drug effect, not a sign that something has gone wrong in most people. It is also why the labels ask prescribers to check heart rate at regular intervals. [2]
+
+## It often eases after dose escalation
+
+The rise is not necessarily permanent. In the FDA's review of the tirzepatide weight-loss trials, heart rate generally increased during the 20-week dose-escalation period and then came down over the remaining treatment period. [3] The 2026 meta-analysis found the same direction across drugs: longer treatment duration was linked to smaller heart-rate increases, although the authors labeled their subgroup findings exploratory. [1]
+
+The FDA review also counted episodes of sinus tachycardia (a heart rate above 100 bpm). They occurred in 5.1 percent of tirzepatide patients and 3.2 percent on placebo, rose with dose (1.9, 6.3 and 6.0 percent on 5, 10 and 15 mg), and were generally isolated and resolved on their own. Persistent tachycardia was rare and not meaningfully different between groups. [3]
+
+So if your resting heart rate climbed during the first months, give it the full escalation period before reading too much into it. Track the trend, not a single morning.
+
+## How to bring your resting heart rate down
+
+Your prescriber controls the drug and the dose. The habits below are the part you control, and each has measured evidence behind it. None has been tested specifically in people taking a GLP-1, so treat them as reasonable levers rather than a guaranteed offset.
+
+1. Do regular aerobic training. A meta-analysis of 191 controlled studies found that exercise lowered resting heart rate by about 3.3 bpm on average. Endurance training and yoga were the only types that lowered it significantly in both women and men, with yoga studies averaging a drop of about 5.2 to 5.5 bpm. Strength training on its own produced smaller changes. The drop was larger in people who started with a higher resting heart rate. [5] That 3 to 5 bpm range is roughly the size of the average GLP-1 effect, which makes aerobic work the most useful single habit here.
+
+This does not mean swapping your weights for cardio. Resistance training is still what protects muscle during GLP-1 weight loss, and the two combine well. Our guide to cardio vs. weights on a GLP-1 covers how to fit both into a week.
+
+2. Go easy on alcohol, especially in the evening. In a real-world study of 4,098 adults who wore heart-rate monitors, heart rate in the first three hours of sleep rose by 1.4 bpm after low alcohol intake, 4.0 bpm after moderate intake and 8.7 bpm after high intake, compared with the same people's alcohol-free nights. [6] If your watch reports resting heart rate from overnight data, drinking can push that number up on its own.
+
+Sleeping heart rate after alcohol, compared with the same people's alcohol-free nights. [6] For an 80 kg (176 lb) adult, 0.25 g/kg is 20 grams of alcohol, a little over one US standard drink of 14 grams. [8]
+
+3. Keep fluids up on side-effect days. Nausea, vomiting and diarrhea are the most common GLP-1 side effects, and the Wegovy label warns that they can cause dehydration. [2] When you lose fluid, your heart beats faster to keep blood pressure up, so a spike on a rough stomach day may be your fluid level talking rather than the drug alone. Our guide to high-protein foods for nausea days covers eating on those days.
+
+4. Measure it the same way every time. A resting heart rate from one sensor at one moment is noisy. Pick one method (your watch's overnight figure, or a reading taken seated after waking, before coffee and exercise) and compare weekly averages rather than single days. A trend over two or three weeks is what is worth bringing to your prescriber.
+
+## When to call your prescriber
+
+The Wegovy medication guide tells patients to contact their healthcare provider if they feel their heart racing or pounding in their chest and it lasts for several minutes. [2] The prescribing information also says that if a patient has a sustained increase in resting heart rate, the drug should be stopped. [2] That is a decision to make with your prescriber, not on your own, but it tells you a lasting rise is taken seriously.
+
+Bring your weekly averages to that conversation. "My resting heart rate went from 64 to 78 over six weeks and has stayed there" is far more useful than "my watch said 90 once." Chest pain, fainting, or severe shortness of breath with a fast heartbeat are reasons for emergency care, not a scheduled appointment.
+
+## What the evidence does not say
+
+A few honest limits. The exercise and alcohol studies above were not done in people taking a GLP-1, so we do not know whether training cancels the drug's effect one for one. The meta-analysis pooled trials with different doses and durations, and its findings on timing and dose are exploratory. [1] The mechanism work in pigs shows a plausible pathway, not proof of what happens in a person. [7] And the long-term heart outcomes of a few extra beats per minute on a GLP-1 are not settled by any of the studies here. Large cardiovascular outcome trials of these drugs exist, but they answer a different question from the one on this page.
+
+## The bottom line
+
+A rise of a few beats per minute is an expected, labeled effect of GLP-1 medications, and for tirzepatide it tends to peak during dose escalation and ease afterward. Regular aerobic training and less alcohol are the two habits with the clearest evidence for lowering resting heart rate, and both fit alongside the resistance training that protects your muscle. Track a weekly average, keep fluids up on side-effect days, and bring a lasting rise or a racing heart at rest to your prescriber.
+
+## Frequently asked
+
+**Q:** Does Ozempic or Wegovy raise your resting heart rate?
+
+Yes, slightly. The Wegovy prescribing information reports mean increases in resting heart rate of 1 to 4 beats per minute compared with placebo in adult weight-reduction trials. [2] A 2026 meta-analysis of 12 randomized trials estimated about 3.4 beats per minute more than placebo for injectable semaglutide in people without diabetes. [1]
+
+**Q:** How much does Zepbound or Mounjaro raise heart rate?
+
+The Zepbound prescribing information reports a mean increase of 1 to 3 beats per minute compared with no increase on placebo. [4] The FDA review of the trials found heart rate generally rose during the 20-week dose-escalation period and came down over the rest of treatment. [3]
+
+**Q:** When should I worry about my heart rate on a GLP-1?
+
+The Wegovy medication guide tells patients to contact their healthcare provider if they feel their heart racing or pounding in their chest for several minutes. The prescribing information also says a sustained increase in resting heart rate is a reason to stop the drug, which is a decision for your prescriber. [2] Chest pain, fainting or severe shortness of breath need emergency care.
+
+**Q:** How can I lower my resting heart rate while on a GLP-1?
+
+The best-studied habits are regular endurance training and yoga, which lowered resting heart rate in a meta-analysis of 191 studies, [5] and limiting alcohol, which raised sleeping heart rate by 1.4 to 8.7 beats per minute depending on the dose in a study of 4,098 adults. [6] Keeping up fluids on days of vomiting or diarrhea also matters, because GLP-1 side effects can cause dehydration. [2]
+
+## References
+
+- Zhang Y, Zhang C, Gong X, et al. Effect of glucagon-like peptide-1 receptor agonists on heart rate in non-diabetic individuals with overweight or obesity: a systematic review and pairwise and network meta-analysis of randomized controlled trials. European Journal of Medical Research. 2026;31:318. pmc.ncbi.nlm.nih.gov/articles/PMC12918571
+
+- Novo Nordisk. Wegovy (semaglutide) prescribing information and medication guide, section 5.9 Heart Rate Increase. Revised 06/2026. novo-pi.com/wegovy.pdf
+
+- U.S. Food and Drug Administration, Center for Drug Evaluation and Research. Zepbound (tirzepatide) summary review, NDA 217806. 2023. accessdata.fda.gov
+
+- Eli Lilly and Company. Zepbound (tirzepatide) prescribing information, Heart Rate Increase. Revised 8/2026. uspl.lilly.com/zepbound
+
+- Reimers AK, Knapp G, Reimers CD. Effects of exercise on the resting heart rate: a systematic review and meta-analysis of interventional studies. Journal of Clinical Medicine. 2018;7(12):503. pmc.ncbi.nlm.nih.gov/articles/PMC6306777
+
+- Pietilä J, Helander E, Korhonen I, et al. Acute effect of alcohol intake on cardiovascular autonomic regulation during the first hours of sleep in a large real-world sample of Finnish employees: observational study. JMIR Mental Health. 2018;5(1):e23. pmc.ncbi.nlm.nih.gov/articles/PMC5878366
+
+- Lubberding AF, Veedfald S, Achter JS, et al. Glucagon-like peptide-1 increases heart rate by a direct action on the sinus node. Cardiovascular Research. 2024;120(12):1427-1441. pubmed.ncbi.nlm.nih.gov/38832935
+
+- National Institute on Alcohol Abuse and Alcoholism. What is a standard drink? niaaa.nih.gov
+
+---
+
 # GLP-1s, rapid weight loss, and tendon or joint health: what's known
 
 URL: https://getmuscleonglp.com/learn/glp1-tendon-joint-injury-risk/
@@ -3318,6 +3435,8 @@ The Phase 2 obesity trial, published in the New England Journal of Medicine in 2
 Average weight loss by dose in the retatrutide phase 2 trial. [1] Compare it with semaglutide and tirzepatide in the GLP-1 weight loss calculator.
 
 More recent, larger numbers come from Eli Lilly's Phase 3 program. TRIUMPH-1, an 80-week trial of 2,339 adults with obesity and without diabetes, was published in the New England Journal of Medicine on September 29, 2026. Counting everyone who was randomized (the intention-to-treat analysis, which includes people who stopped the drug), mean weight change was −17.6 percent on 4 mg, −23.7 percent on 9 mg and −25.0 percent on 12 mg, against −3.9 percent on placebo. [8] Lilly's May 2026 topline release reported higher figures (about 28.3 percent on 12 mg) from a different analysis, and about 30.3 percent on 12 mg in a 104-week extension limited to participants with a starting BMI of 35 or higher. That extension figure does not appear in the published abstract. [2]
+
+Average weight change by dose in the published TRIUMPH-1 trial, drawn on the same scale as the phase 2 chart above. [8]
 
 Two things are worth flagging about the Phase 3 result. First, the published abstract reports weight, knee-pain and sleep-apnea outcomes, but no body-composition data. Second, retatrutide is still investigational: it has no FDA approval, and Lilly has said it plans to file in the first quarter of 2027. [9]
 
