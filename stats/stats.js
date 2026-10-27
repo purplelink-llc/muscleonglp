@@ -41,6 +41,8 @@
         html += "<div class='stats-card'><span class='n'>" + (t.affiliateClicks || 0) + "</span><span>Amazon clicks</span></div>";
         html += "<div class='stats-card'><span class='n'>" + (t.calcRuns || 0) + "</span><span>calculator runs</span></div>";
         html += "<div class='stats-card'><span class='n'>" + (t.calcShares || 0) + "</span><span>result links copied</span></div>";
+        html += "<div class='stats-card'><span class='n'>" + (t.calcPrints || 0) + "</span><span>results printed</span></div>";
+        html += "<div class='stats-card'><span class='n'>" + (t.calcEmails || 0) + "</span><span>results emailed to self</span></div>";
         html += "<div class='stats-card'><span class='n'>" + cvr + "%</span><span>signup rate</span></div>";
         html += "</div>";
         var byDay = Object.keys(d.byDay || {}).sort().reverse().map(function (day) {
