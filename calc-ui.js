@@ -185,6 +185,7 @@
   bar.innerHTML =
     '<button type="button" class="calc-share-b">Copy link to these results</button>' +
     '<button type="button" class="calc-share-b calc-print-b">Print for your appointment</button>' +
+    '<button type="button" class="calc-share-b calc-mail-b">Email to myself</button>' +
     '<span class="calc-share-s" role="status" aria-live="polite"></span>';
   var btn = bar.querySelector("button"), status = bar.querySelector("span");
   // A one-page printout (print CSS in styles.css drops the nav, ads, sign-up
@@ -192,6 +193,14 @@
   bar.querySelector(".calc-print-b").addEventListener("click", function () {
     if (window.mogTrack) window.mogTrack("calc_print", tool);
     window.print();
+  });
+  // Opens the visitor's own mail app with the results link in the body, so the
+  // numbers never pass through this site (phones also get this via share).
+  bar.querySelector(".calc-mail-b").addEventListener("click", function () {
+    if (window.mogTrack) window.mogTrack("calc_email", tool);
+    var h1 = document.querySelector("h1"), name = h1 ? h1.textContent.trim() : document.title;
+    location.href = "mailto:?subject=" + encodeURIComponent("My numbers: " + name) +
+      "&body=" + encodeURIComponent("My results from the " + name + ":\n" + stateUrl() + "\n");
   });
   var clearT = null;
   btn.addEventListener("click", function () {
