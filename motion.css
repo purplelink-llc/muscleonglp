@@ -135,10 +135,10 @@
 }
 
 @media (prefers-reduced-motion: no-preference) and (hover: hover) {
-  .feature, .guide-card, .learn-card, .lr-card, .social-card {
+  .feature, .guide-card, .learn-card, .lr-card {
     transition: transform 0.4s var(--ease), box-shadow 0.2s, border-color 0.2s;
   }
-  .feature:hover, .guide-card:hover, .learn-card:hover, .lr-card:hover, .social-card:hover {
+  .feature:hover, .guide-card:hover, .learn-card:hover, .lr-card:hover {
     transform: translateY(-5px);
   }
   .preview-strip img { transition: transform 0.5s var(--ease), box-shadow 0.25s; }
