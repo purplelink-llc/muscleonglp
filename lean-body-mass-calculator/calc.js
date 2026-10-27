@@ -1,5 +1,6 @@
 // Lean body mass calculator. LBM from height, weight and sex as the mean of the
-// Boer (1984) and Hume (1966) equations (both shown as a range), then the
+// Boer (1984) and Hume (1966) equations (both shown as a range), or a measured
+// value from a scan if one is entered, then the
 // lean mass a GLP-1 loss could take, from the shared model in /glp1-model.js
 // (the same no-plan and plan shares the muscle-loss calculator uses).
 (function () {
@@ -25,12 +26,26 @@
     }
     errBox.hidden = true;
     var a = boer(sex, kg, cm), b = hume(sex, kg, cm), lbm = (a + b) / 2;
+    // A measured lean mass (DEXA or InBody) replaces the equations when it is
+    // plausible: at least 30% of body weight and below it.
+    var sv = parseFloat($("scan").value), sk = sv > 0 ? (wu === "kg" ? sv : sv * LB) : NaN, scanned = false;
+    if (sk >= kg * 0.3 && sk < kg) {
+      $("lbmRange").textContent = "the equations estimate " + fmt(lbm);
+      lbm = sk; scanned = true;
+    } else {
+      $("lbmRange").textContent = sk > 0
+        ? "scan value ignored: it should be below your weight and above 30% of it"
+        : "Boer " + fmt(a) + ", Hume " + fmt(b);
+    }
+    $("lbmLabel").textContent = scanned ? "Lean body mass from your scan" : "Estimated lean body mass";
+    $("lbmCaution").innerHTML = scanned
+      ? "<strong>Using your scan.</strong> Scan lean mass counts organs, water and connective tissue as well as muscle, so it is larger than muscle alone. Compare scans from the same machine. This gives no medical advice."
+      : "<strong>An estimate from height and weight, not a measurement.</strong> The equations can misjudge lean mass at a high body mass index. A DEXA scan measures it, and you can enter that number above. This gives no medical advice.";
     $("lbm").textContent = fmt(lbm);
-    $("lbmRange").textContent = "Boer " + fmt(a) + ", Hume " + fmt(b);
     $("fatPct").textContent = Math.max(0, Math.round((1 - lbm / kg) * 100)) + "%";
 
     var goalKg = g > 0 ? (wu === "kg" ? g : g * LB) : NaN;
-    var summary = "Estimated lean body mass " + fmt(lbm) + ".";
+    var summary = (scanned ? "Lean body mass from your scan " : "Estimated lean body mass ") + fmt(lbm) + ".";
     if (goalKg > 0 && goalKg < kg) {
       var lossKg = kg - goalKg, no = M.noPlan(med), plan = M.plan(med);
       var noKg = lossKg * no, pLo = lossKg * plan[0], pHi = lossKg * plan[1];
@@ -67,7 +82,7 @@
   form.addEventListener("change", function (e) {
     var t = e.target;
     if (t.id === "weightUnit" && t.value !== prevW) {
-      ["weight", "goal"].forEach(function (id) { var v = parseFloat($(id).value); if (v > 0) $(id).value = String(Math.round((t.value === "kg" ? v * LB : v / LB) * 10) / 10); });
+      ["weight", "goal", "scan"].forEach(function (id) { var v = parseFloat($(id).value); if (v > 0) $(id).value = String(Math.round((t.value === "kg" ? v * LB : v / LB) * 10) / 10); });
       prevW = t.value;
     }
     if (t.id === "heightUnit" && t.value !== prevH) {
