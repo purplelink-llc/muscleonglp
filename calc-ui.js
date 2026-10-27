@@ -212,4 +212,36 @@
   });
   var body = form.querySelector(".price-body") || form;
   body.appendChild(bar);
+
+  // ---- 3. Results peek bar (phones). A calculator opts in with
+  // data-peek="id:Label,id:Label" on its form, naming result elements. On a
+  // phone the full results sit below a long form, so a bar pinned to the bottom
+  // shows those numbers while the form is on screen and the results are not.
+  // It repeats what the results already announce, so it is aria-hidden.
+  var spec = form.getAttribute("data-peek"), out = document.getElementById("out");
+  if (spec && out && "IntersectionObserver" in window) {
+    var items = spec.split(",").map(function (pair) { var p = pair.split(":"); return { id: p[0].trim(), label: (p[1] || "").trim() }; });
+    var peek = document.createElement("button");
+    peek.type = "button"; peek.className = "calc-peek"; peek.setAttribute("aria-hidden", "true"); peek.tabIndex = -1; peek.hidden = true;
+    document.body.appendChild(peek);
+    var formOn = false, outOn = false;
+    function render() {
+      var parts = items.map(function (it) {
+        var el = document.getElementById(it.id);
+        var v = el ? el.textContent.trim() : "";
+        return v ? '<span><b>' + v.replace(/</g, "&lt;") + '</b> ' + it.label.replace(/</g, "&lt;") + '</span>' : "";
+      }).filter(Boolean);
+      peek.innerHTML = parts.join("") + '<span class="calc-peek-go">See all &darr;</span>';
+      peek.hidden = !(formOn && !outOn && !out.hidden && parts.length);
+    }
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) { if (e.target === form) formOn = e.isIntersecting; else outOn = e.isIntersecting; });
+      render();
+    }, { threshold: 0.05 });
+    io.observe(form); io.observe(out);
+    form.addEventListener("input", function () { setTimeout(render, 60); });
+    form.addEventListener("change", function () { setTimeout(render, 60); });
+    peek.addEventListener("click", function () { out.scrollIntoView({ behavior: "smooth", block: "start" }); });
+    document.addEventListener("DOMContentLoaded", function () { setTimeout(render, 60); });
+  }
 })();
