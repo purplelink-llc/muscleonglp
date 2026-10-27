@@ -3188,6 +3188,8 @@ A dose-response meta-analysis of 49 studies identified roughly 1.6 g/kg per day 
 
 A GLP-1-specific nutrition advisory issued jointly by four medical societies recommends a somewhat more conservative 1.2 to 1.6 g/kg during active weight reduction. [2] Both figures reflect the same principle. If you are starting from a typical intake, the move from 0.8 to 1.2 g/kg matters far more than the argument over whether the ceiling is 1.6 or 2.2. Pick a number in this range, scale it to your body weight, and treat it as a floor.
 
+Three protein targets on one scale. [1,2] Get yours in grams with the calorie and protein calculator, or see it as meals in the sample day.
+
 One honest caveat: these targets are calculated from total body weight, which is how the underlying studies expressed them. [1] If you carry a large amount of fat mass, a target scaled to total weight can be higher than you can realistically eat. If your number looks impossible, use the lower 1.2 to 1.6 g/kg advisory range as your working goal and discuss it with your clinician or a registered dietitian.
 
 ## Why hitting it is hard on a GLP-1
