@@ -850,7 +850,7 @@ form#calc.pf { overflow: visible; }
    and the results, on white, with the page URL so the numbers can be checked.
    Everything that is not the reader's own numbers or the method is dropped. */
 @media print {
-  .nav, footer, .skip-link, .ad-slot, .adsbygoogle, .gear, .inline-capture, .calc-share, .pf-actions,
+  .nav, footer, .skip-link, .ad-slot, .adsbygoogle, .gear, .inline-capture, .calc-share, .pf-actions, .sr-timer-row,
   .related-reading, .faq-list, main .article, .article-cta, .references, .article-dek, .crumbs, .article-eyebrow, .calc-hint, .price-card-featured .seg-b[aria-checked="false"], .calc-example-note, .chart-card table + div { display: none !important; }
   body, .price-card, form#calc.price-card, .calc-stat, .pf-total, .chart-card { background: #fff !important; color: #000 !important; box-shadow: none !important; }
   .calc-n, .pf-big, .calc-l, .calc-label, h1, h2, p, li, td, th { color: #000 !important; }
@@ -906,6 +906,12 @@ form#calc.pf { overflow: visible; }
 .sr-track { position: relative; height: 12px; border-radius: 999px; background: var(--line); overflow: visible; }
 .sr-fill { position: absolute; left: 0; top: 0; bottom: 0; width: 0; border-radius: 999px; background: var(--accent); transition: width .35s cubic-bezier(.2,.8,.2,1); }
 .sr-mark { position: absolute; top: -4px; bottom: -4px; width: 2px; margin-left: -1px; background: var(--ink); }
+.sr-timer-row { grid-column: 1 / -1; }
+.sr-timer .calc-share-b { white-space: nowrap; }
+.sr-timer { display: flex; align-items: center; gap: 12px; margin-top: 10px; }
+.sr-timer-t { font-variant-numeric: tabular-nums; font-weight: 700; font-size: 1.25rem; color: var(--ink); min-width: 4.5ch; }
+.sr-timer.running .sr-timer-t { color: var(--accent-text-strong); }
+.sr-timer.counting .sr-timer-t { color: #b7791f; }
 .sr-verdict { margin: 10px 0 0; font-size: var(--fs-body); color: var(--ink); }
 .sr-verdict.sr-low { color: #b7791f; font-weight: 600; }
 .sr-row:has(.sr-low) .sr-fill { background: #b7791f; }

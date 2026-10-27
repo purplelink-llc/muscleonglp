@@ -130,7 +130,14 @@
             <div>
               <label for="chair" class="calc-label">Five chair stands (seconds)</label>
               <input id="chair" name="chair" type="number" inputmode="decimal" min="0" step="0.1" value="12" class="calc-in" autocomplete="off" aria-describedby="chairHint">
-              <p id="chairHint" class="calc-hint">Arms crossed, stand fully each time.</p>
+              <p id="chairHint" class="calc-hint">Arms crossed, stand fully each time. Or use the timer below.</p>
+            </div>
+            <div class="sr-timer-row">
+              <div class="sr-timer">
+                <button type="button" id="chairTimer" class="calc-share-b" aria-describedby="timerHint">Start the timer</button>
+                <span id="timerOut" class="sr-timer-t" aria-hidden="true">0.0 s</span>
+              </div>
+              <p id="timerHint" class="calc-hint">A 3-second countdown, then the clock runs. Press Stop as you sit for the fifth time (easier if someone else presses it), and the time fills in.</p>
             </div>
           </div>
           <p class="calc-example-note">Example numbers are filled in. Change any field and the results update as you type. Nothing you enter leaves your browser.</p>
