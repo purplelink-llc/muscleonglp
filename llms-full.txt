@@ -2604,7 +2604,7 @@ That has not been directly tested. Excess skin after major weight loss is well d
 # Does Ozempic cause muscle loss? What the research actually shows
 
 URL: https://getmuscleonglp.com/learn/ozempic-muscle-loss/
-Updated: 2026-10-02
+Updated: 2026-10-27
 
 GLP-1 & muscle
 
@@ -2631,6 +2631,8 @@ This is not a reason to avoid the medication. It is a reason to train and eat in
 Across the GLP-1 trials that measured body composition, reviews place lean mass at roughly 15 to 40 percent of total weight lost. [1] The single most useful data point comes from the SURMOUNT-1 DXA substudy, which used dual-energy X-ray absorptiometry to separate fat from lean tissue in people taking tirzepatide. About 74 percent of the weight lost was fat and about 26 percent was lean mass. [2]
 
 For context, the headline trials produced large losses: semaglutide 2.4 mg drove about 14.9 percent mean weight loss over 68 weeks in STEP 1, [5] and tirzepatide reached about 20.9 percent at its highest dose in SURMOUNT-1. [6] A quarter of a loss that large is a substantial amount of muscle. One routine-care preprint, which has not yet been peer reviewed, reported a greater lean-mass decline on tirzepatide than on semaglutide outside of trial conditions. [7]
+
+Where the weight goes, using the SURMOUNT-1 body-composition split and its 15 mg trial average. [1,2,6] Run your own numbers with the weight loss calculator and the muscle loss calculator.
 
 ## Why it happens
 
