@@ -2,54 +2,51 @@
 
 > Evidence-based, fully-cited guides to preserving lean muscle mass while losing weight on GLP-1 medications (semaglutide / Ozempic / Wegovy, tirzepatide / Mounjaro / Zepbound). Sold as instant-download PDFs.
 
-Full text of every free article and calculator, with citations: https://getmuscleonglp.com/llms-full.txt
+- [Full text of every free article and calculator, with citations](https://getmuscleonglp.com/llms-full.txt)
 
 ## Products
 
 ### The full handbook — $19
 "Preserving Lean Mass on GLP-1 Therapy," 30 pages, 24 references. Covers the medications, injection technique, resistance-training routines (gym and bodyweight-only), a protein strategy for a suppressed appetite, running and concurrent training, supplements, micronutrients, side effects, and the post-medication maintenance phase.
-URL: https://getmuscleonglp.com/#pricing
+- [Buy the handbook](https://getmuscleonglp.com/#pricing)
 
 ### Mini-guides — the Protein Playbook is free for your email; the others are $5
-Each takes one problem and answers it in full. Index: https://getmuscleonglp.com/guides/
+Each takes one problem and answers it in full. [Index](https://getmuscleonglp.com/guides/)
 
-- **The Protein Playbook** (8 pages, free for your email) — hitting your protein target on a suppressed appetite: the g/kg lookup table, four rules, per-meal distribution, a USDA food table, and three worked sample days. https://getmuscleonglp.com/guides/protein-playbook/
-- **Creatine on a GLP-1** (7 pages) — what the ISSN position stand and the meta-analyses say, the kidney myth, the early water-weight rise on the scale, and the fact that no trial has tested creatine specifically in GLP-1 users. https://getmuscleonglp.com/guides/creatine-glp1/
-- **The No-Gym Plan** (8 pages) — a full 12-week bodyweight-only program: progression ladders, two sessions, RPE guidance, pull substitutions without a bar, and a minimum viable session for nausea days. https://getmuscleonglp.com/guides/no-gym-plan/
-- **The GLP-1 Off-Ramp** (7 pages) — coming off the medication: the STEP 1 extension regain data, sarcopenic obesity, why strength rather than lean mass is the outcome to track, and a 12-week off-ramp timeline. https://getmuscleonglp.com/guides/off-ramp/
-
+- [The Protein Playbook](https://getmuscleonglp.com/guides/protein-playbook/): hitting your protein target on a suppressed appetite: the g/kg lookup table, four rules, per-meal distribution, a USDA food table, and three worked sample days.
+- [Creatine on a GLP-1](https://getmuscleonglp.com/guides/creatine-glp1/): what the ISSN position stand and the meta-analyses say, the kidney myth, the early water-weight rise on the scale, and the fact that no trial has tested creatine specifically in GLP-1 users.
+- [The No-Gym Plan](https://getmuscleonglp.com/guides/no-gym-plan/): a full 12-week bodyweight-only program: progression ladders, two sessions, RPE guidance, pull substitutions without a bar, and a minimum viable session for nausea days.
+- [The GLP-1 Off-Ramp](https://getmuscleonglp.com/guides/off-ramp/): coming off the medication: the STEP 1 extension regain data, sarcopenic obesity, why strength rather than lean mass is the outcome to track, and a 12-week off-ramp timeline.
 ## Free articles (Learn)
-Full, fully-cited explainers with no paywall. Index: https://getmuscleonglp.com/learn/
+Full, fully-cited explainers with no paywall. [Index](https://getmuscleonglp.com/learn/)
 
-- **Does Ozempic cause muscle loss?** — roughly 15-40% of GLP-1 weight loss is lean mass; the SURMOUNT-1 DXA substudy measured about 26% for tirzepatide; resistance training and protein are the countermeasures. https://getmuscleonglp.com/learn/ozempic-muscle-loss/
-- **How much protein do you need on a GLP-1?** — about 1.6-2.2 g/kg for lean-mass retention (a four-society advisory recommends 1.2-1.6 g/kg during active loss); only ~43% of users hit a modest minimum. https://getmuscleonglp.com/learn/protein-on-glp1/
-- **Is creatine safe with Ozempic?** — the ISSN safety data, the serum-creatinine measurement artifact (not kidney damage), and the honest limit that no trial has tested creatine specifically in GLP-1 users. https://getmuscleonglp.com/learn/creatine-and-ozempic/
-- **Can you keep muscle without a gym?** — a 2023 meta-analysis found no meaningful difference between free weights and machines; the same principle supports progressed bodyweight training. https://getmuscleonglp.com/learn/build-muscle-glp1-no-gym/
-- **What happens to your muscle when you stop Ozempic?** — the STEP 1 extension regain data (about two-thirds within a year), sarcopenic obesity, and why strength is the outcome to track. https://getmuscleonglp.com/learn/muscle-after-stopping-ozempic/
-- **Ozempic vs Mounjaro vs Zepbound: which preserves more muscle?** — the trials were separate and used different methods, so cross-trial lean-mass comparisons are limited; a larger total loss puts more absolute muscle at stake. https://getmuscleonglp.com/learn/ozempic-vs-mounjaro-vs-zepbound-muscle/
-- **Signs you are losing muscle, not just fat** — why the scale and even DXA lean-mass numbers mislead, and why tracked strength is the best signal you can check at home. https://getmuscleonglp.com/learn/signs-of-muscle-loss-glp1/
-- **The best exercises to preserve muscle** — resistance training offset about 93.5% of diet-induced lean-mass loss in a meta-analysis; train the major compound movement patterns and progress them. https://getmuscleonglp.com/learn/best-exercises-preserve-muscle-glp1/
-
-- **GLP-1 muscle loss by the numbers** — the lean-mass share, protein shortfall, persistence and regain figures in one place. https://getmuscleonglp.com/learn/glp1-muscle-loss-statistics/
-- **Can you build new muscle on a GLP-1?** — preserving versus gaining muscle during weight loss, and what training and protein make possible. https://getmuscleonglp.com/learn/build-new-muscle-on-glp1/
-- **Whey, plant, or collagen: the best protein on a GLP-1** — protein quality and leucine content for muscle retention when appetite is small. https://getmuscleonglp.com/learn/best-protein-for-muscle-on-glp1/
-- **Best protein shakes for GLP-1 users: a 5-point label checklist** — 25-30 g protein (about 2.5-3 g leucine) per serving, a complete source, a nausea-friendly format, and third-party testing. https://getmuscleonglp.com/learn/best-protein-shakes-glp1/
-- **Protein timing on a GLP-1** — per-meal distribution (about 25-30 g per meal) for people eating less. https://getmuscleonglp.com/learn/glp1-protein-timing-muscle/
-- **Retatrutide and muscle loss** — what the trial body-composition data shows so far for the investigational triple agonist. https://getmuscleonglp.com/learn/retatrutide-muscle-loss/
-- **GLP-1s and muscle loss in women over 50** — menopause, sarcopenia risk and bone. https://getmuscleonglp.com/learn/glp1-muscle-loss-women-over-50/
-- **GLP-1s, bone density and fracture risk** — the DXA and fracture evidence. https://getmuscleonglp.com/learn/glp1-bone-density-fracture-risk/
-- **Cardio vs. weights on a GLP-1** — why resistance training, not cardio alone, protects lean mass. https://getmuscleonglp.com/learn/cardio-vs-weights-glp1/
-- **Is a DEXA or InBody scan worth it on a GLP-1?** — what body-composition scans can and cannot tell you. https://getmuscleonglp.com/learn/dexa-inbody-scan-glp1/
-- **High-protein meals and shakes for nausea days** — protein that stays down on a GLP-1. https://getmuscleonglp.com/learn/glp1-high-protein-meals-nausea/
-
+- [Does Ozempic cause muscle loss?](https://getmuscleonglp.com/learn/ozempic-muscle-loss/): roughly 15-40% of GLP-1 weight loss is lean mass; the SURMOUNT-1 DXA substudy measured about 26% for tirzepatide; resistance training and protein are the countermeasures.
+- [How much protein do you need on a GLP-1?](https://getmuscleonglp.com/learn/protein-on-glp1/): about 1.6-2.2 g/kg for lean-mass retention (a four-society advisory recommends 1.2-1.6 g/kg during active loss); only ~43% of users hit a modest minimum.
+- [Is creatine safe with Ozempic?](https://getmuscleonglp.com/learn/creatine-and-ozempic/): the ISSN safety data, the serum-creatinine measurement artifact (not kidney damage), and the honest limit that no trial has tested creatine specifically in GLP-1 users.
+- [Can you keep muscle without a gym?](https://getmuscleonglp.com/learn/build-muscle-glp1-no-gym/): a 2023 meta-analysis found no meaningful difference between free weights and machines; the same principle supports progressed bodyweight training.
+- [What happens to your muscle when you stop Ozempic?](https://getmuscleonglp.com/learn/muscle-after-stopping-ozempic/): the STEP 1 extension regain data (about two-thirds within a year), sarcopenic obesity, and why strength is the outcome to track.
+- [Ozempic vs Mounjaro vs Zepbound: which preserves more muscle?](https://getmuscleonglp.com/learn/ozempic-vs-mounjaro-vs-zepbound-muscle/): the trials were separate and used different methods, so cross-trial lean-mass comparisons are limited; a larger total loss puts more absolute muscle at stake.
+- [Signs you are losing muscle, not just fat](https://getmuscleonglp.com/learn/signs-of-muscle-loss-glp1/): why the scale and even DXA lean-mass numbers mislead, and why tracked strength is the best signal you can check at home.
+- [The best exercises to preserve muscle](https://getmuscleonglp.com/learn/best-exercises-preserve-muscle-glp1/): resistance training offset about 93.5% of diet-induced lean-mass loss in a meta-analysis; train the major compound movement patterns and progress them.
+- [GLP-1 muscle loss by the numbers](https://getmuscleonglp.com/learn/glp1-muscle-loss-statistics/): the lean-mass share, protein shortfall, persistence and regain figures in one place.
+- [Can you build new muscle on a GLP-1?](https://getmuscleonglp.com/learn/build-new-muscle-on-glp1/): preserving versus gaining muscle during weight loss, and what training and protein make possible.
+- [Whey, plant, or collagen: the best protein on a GLP-1](https://getmuscleonglp.com/learn/best-protein-for-muscle-on-glp1/): protein quality and leucine content for muscle retention when appetite is small.
+- [Best protein shakes for GLP-1 users: a 5-point label checklist](https://getmuscleonglp.com/learn/best-protein-shakes-glp1/): 25-30 g protein (about 2.5-3 g leucine) per serving, a complete source, a nausea-friendly format, and third-party testing.
+- [How to fuel workouts on a GLP-1](https://getmuscleonglp.com/learn/fuel-workouts-glp1/): total daily protein beats timing (Schoenfeld 2013 meta-analysis), about 25-30 g protein after training, fluids, and the hypoglycemia caution with insulin or sulfonylureas.
+- [Protein timing on a GLP-1](https://getmuscleonglp.com/learn/glp1-protein-timing-muscle/): per-meal distribution (about 25-30 g per meal) for people eating less.
+- [Retatrutide and muscle loss](https://getmuscleonglp.com/learn/retatrutide-muscle-loss/): what the trial body-composition data shows so far for the investigational triple agonist.
+- [GLP-1s and muscle loss in women over 50](https://getmuscleonglp.com/learn/glp1-muscle-loss-women-over-50/): menopause, sarcopenia risk and bone.
+- [GLP-1s, bone density and fracture risk](https://getmuscleonglp.com/learn/glp1-bone-density-fracture-risk/): the DXA and fracture evidence.
+- [Cardio vs. weights on a GLP-1](https://getmuscleonglp.com/learn/cardio-vs-weights-glp1/): why resistance training, not cardio alone, protects lean mass.
+- [Is a DEXA or InBody scan worth it on a GLP-1?](https://getmuscleonglp.com/learn/dexa-inbody-scan-glp1/): what body-composition scans can and cannot tell you.
+- [High-protein meals and shakes for nausea days](https://getmuscleonglp.com/learn/glp1-high-protein-meals-nausea/): protein that stays down on a GLP-1.
 ## Free calculators
-Each runs in the browser, cites its sources on the page, and gives no dosing advice. Index: https://getmuscleonglp.com/tools/
+Each runs in the browser, cites its sources on the page, and gives no dosing advice. [Index](https://getmuscleonglp.com/tools/)
 
-- **GLP-1 weight loss calculator** — applies the average weight loss from each drug's main trial to your weight: Wegovy (semaglutide 2.4 mg) 14.9% over 68 weeks in STEP 1; Zepbound/Mounjaro (tirzepatide) 15.0%, 19.5% and 20.9% at 5, 10 and 15 mg over 72 weeks in SURMOUNT-1; semaglutide 1 mg and 2.4 mg with type 2 diabetes 7.0% and 9.6% in STEP 2. Also estimates the lean-mass share of the loss. https://getmuscleonglp.com/weight-loss-calculator/
-- **GLP-1 muscle loss calculator** — the share of GLP-1 weight loss likely to be lean mass, with versus without enough protein and resistance training. https://getmuscleonglp.com/muscle-loss-calculator/
-- **GLP-1 calorie and protein calculator** — calorie target, daily protein target and grams per meal. https://getmuscleonglp.com/protein-calculator/
-- **Weight-regain (off-ramp) calculator** — projected regain after stopping, from the STEP 1 extension. https://getmuscleonglp.com/off-ramp-calculator/
-
+- [GLP-1 weight loss calculator](https://getmuscleonglp.com/weight-loss-calculator/): applies the average weight loss from each drug's main trial to your weight: Wegovy (semaglutide 2.4 mg) 14.9% over 68 weeks in STEP 1; Zepbound/Mounjaro (tirzepatide) 15.0%, 19.5% and 20.9% at 5, 10 and 15 mg over 72 weeks in SURMOUNT-1; semaglutide 1 mg and 2.4 mg with type 2 diabetes 7.0% and 9.6% in STEP 2. Also estimates the lean-mass share of the loss.
+- [GLP-1 muscle loss calculator](https://getmuscleonglp.com/muscle-loss-calculator/): the share of GLP-1 weight loss likely to be lean mass, with versus without enough protein and resistance training.
+- [GLP-1 calorie and protein calculator](https://getmuscleonglp.com/protein-calculator/): calorie target, daily protein target and grams per meal.
+- [Weight-regain (off-ramp) calculator](https://getmuscleonglp.com/off-ramp-calculator/): projected regain after stopping, from the STEP 1 extension.
 ## Key evidence-based facts (each cited in the guides)
 - Average weight loss in the main trials: 14.9% on semaglutide 2.4 mg at 68 weeks (STEP 1, placebo 2.4%); 15.0-20.9% on tirzepatide 5-15 mg at 72 weeks (SURMOUNT-1, placebo 3.1%); 9.6% on semaglutide 2.4 mg in adults with type 2 diabetes (STEP 2). Individual results vary widely around these averages.
 - A substantial fraction of GLP-1 weight loss is lean mass: reviews place it at roughly 15-40% of total weight lost; the SURMOUNT-1 DXA substudy measured about 26% for tirzepatide (74% fat, 26% lean).
@@ -70,4 +67,4 @@ Full handbook: one-time $19. Mini-guides: $5 each, except The Protein Playbook, 
 
 ## Important
 This is educational content, not medical advice. It gives no medical or dosing advice and does not cover obtaining or sourcing medication. The split-dose calculator only does arithmetic on the prescription numbers a reader enters; readers are directed to confirm any change with their prescriber or pharmacist. Not affiliated with Novo Nordisk, Eli Lilly, or any medication manufacturer.
-Some content, including short-form video voiceovers and summaries, is generated or assembled with automated and AI tools; see https://getmuscleonglp.com/terms/ section 3 for the full disclosure.
+Some content, including summaries, illustrations and share images, is generated or assembled with automated and AI tools and checked before publishing; data charts are drawn from the cited figures. See the [editorial policy](https://getmuscleonglp.com/editorial-policy/) and [Terms of Service](https://getmuscleonglp.com/terms/) section 3.

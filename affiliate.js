@@ -60,13 +60,14 @@
     dumbbell: '<path d="M16 24h16" ' + P + '/><rect x="8" y="16" width="8" height="16" rx="2" ' + P + '/><rect x="32" y="16" width="8" height="16" rx="2" ' + P + '/><path d="M5 20v8M43 20v8" ' + P + '/>',
     scale: '<rect x="9" y="22" width="30" height="16" rx="3" ' + P + '/><path d="M13 22c0-6 5-10 11-10s11 4 11 10" ' + P + '/><rect x="19" y="27" width="10" height="6" rx="1" ' + P + '/>',
     shoe: '<path d="M7 33h34v4H7zM7 33l2-12h8l4 5h10c6 0 10 3 10 7" ' + P + '/>',
-    bowl: '<path d="M8 22h32c0 10-7 17-16 17S8 32 8 22z" ' + P + '/><path d="M16 16c2-3 4-3 6 0s4 3 6 0 4-3 6 0" ' + P + '/>'
+    bowl: '<path d="M8 22h32c0 10-7 17-16 17S8 32 8 22z" ' + P + '/><path d="M16 16c2-3 4-3 6 0s4 3 6 0 4-3 6 0" ' + P + '/>',
+    mat: '<circle cx="34" cy="20" r="8" ' + P + '/><circle cx="34" cy="20" r="3.5" ' + P + '/><path d="M34 28H8v8h28" ' + P + '/><path d="M42 20v12c0 2-2 4-6 4" ' + P + '/>'
   };
   // First match wins, so the specific words come before the general ones.
   var KINDS = [
     [/shaker/, "shaker"], [/ready-to-drink|rtd|shakes\b/, "carton"], [/packet|single-serve/, "packet"],
     [/capsule/, "capsules"], [/creatine/, "jar"], [/scale/, "scale"], [/band/, "bands"],
-    [/dumbbell|kettlebell|weight/, "dumbbell"], [/shoe/, "shoe"], [/pasta|lentil|chickpea/, "bowl"],
+    [/dumbbell|kettlebell|weight/, "dumbbell"], [/shoe/, "shoe"], [/pasta|lentil|chickpea/, "bowl"], [/\bmat\b/, "mat"],
     [/vitamin|b12|iron|calcium|magnesium|omega|supplement/, "bottle"], [/protein|whey|casein|powder/, "tub"]
   ];
   function kindOf(text) {
