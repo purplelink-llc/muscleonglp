@@ -4,8 +4,10 @@
 // and 30%).
 //
 // Sources, each cited on the calculator pages:
-//   HIGH_END 0.40, LOW_END 0.15: the 15 to 40% range of lean mass as a share of GLP-1
-//     weight loss in trial data (Neeland 2024).
+//   HIGH_END 0.40, LOW_END 0.15: the band spanned by the flagship DXA substudies
+//     (SURMOUNT-1 about 26%, STEP 1 near 40%) and the low end Neeland 2024 reports
+//     (about 15% or less). Neeland 2024 also reports 40 to 60% in some studies;
+//     the model does not go above 0.40.
 //   BASE_SEMA 0.33, BASE_TIRZ 0.26: central shares; tirzepatide from the SURMOUNT-1
 //     DXA substudy (via Neeland 2024).
 //   OFFSET 0.935: resistance training offset about 93.5% of diet-induced lean-mass

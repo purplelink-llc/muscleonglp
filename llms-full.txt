@@ -7,7 +7,7 @@
 # A beginner's resistance-training plan for GLP-1 users, with a gym
 
 URL: https://getmuscleonglp.com/learn/beginner-resistance-training-glp1/
-Updated: 2026-07-17
+Updated: 2026-10-27
 
 Training
 
@@ -23,7 +23,7 @@ You have a membership, but you have never lifted a weight in your life. That is 
 
 - Free weights and machines produced no meaningful difference in muscle growth across 13 studies and 1,016 participants, so starting on machines is a legitimate choice, not a compromise. [5]
 
-- Reviews of GLP-1 trial data place lean mass at roughly 15 to 40 percent of total weight lost, which is what makes starting a real program worth doing properly. [2]
+- Reviews of GLP-1 trial data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, which is what makes starting a real program worth doing properly. [2]
 
 Most advice aimed at GLP-1 users assumes one of two things: either you already lift and just need to adjust for a calorie deficit, or you have no gym access at all. Neither describes a large share of people starting semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound). A lot of people have a gym membership, sometimes a brand-new one bought alongside the prescription, and have simply never used one. That is not a smaller problem than not having equipment. It is a different one, made of unfamiliar machines, no idea what a "set" should feel like, and a body losing weight fast enough to make last week's plan feel wrong by next week.
 
@@ -31,7 +31,7 @@ This article is written for that person specifically. It assumes you can access 
 
 ## Why bother, when the medication is already working
 
-The scale is moving, so it can feel like the hard part is handled. It is not, entirely. Reviews of GLP-1 body-composition data place lean mass at roughly 15 to 40 percent of total weight lost, meaning a real share of what leaves your body is muscle, not fat. [2] In a meta-analysis of six randomized trials in older adults under caloric restriction, adding resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, about 0.82 kg of muscle preserved. [1] Nothing else studied comes close to that effect size, and you do not need to become a serious lifter to capture most of it. You need a simple, safe program you will actually repeat.
+The scale is moving, so it can feel like the hard part is handled. It is not, entirely. Reviews of GLP-1 body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, meaning a real share of what leaves your body is muscle, not fat. [2] In a meta-analysis of six randomized trials in older adults under caloric restriction, adding resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, about 0.82 kg of muscle preserved. [1] Nothing else studied comes close to that effect size, and you do not need to become a serious lifter to capture most of it. You need a simple, safe program you will actually repeat.
 
 ## Your first exercises: start with machines, and here is why that is not a lesser choice
 
@@ -140,7 +140,7 @@ One kind of training does most of the work of protecting your muscle. Here is wh
 
 - Cardio is compatible: sensible concurrent training does not compromise strength or muscle size. [11]
 
-On a GLP-1 medication like semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), the scale falls fast, but not all of what leaves is fat. Reviews of the trial data place lean mass at roughly 15 to 40 percent of total weight lost, [1] and the SURMOUNT-1 body-composition substudy measured about 26 percent of the weight lost on tirzepatide as lean tissue. [2] Some of that is the skeletal muscle that keeps you strong, mobile, and metabolically healthy.
+On a GLP-1 medication like semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), the scale falls fast, but not all of what leaves is fat. Reviews of the trial data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, [1] and the SURMOUNT-1 body-composition substudy measured about 26 percent of the weight lost on tirzepatide as lean tissue. [2] Some of that is the skeletal muscle that keeps you strong, mobile, and metabolically healthy.
 
 The good news is that the single most effective thing you can do about it is also the most straightforward: train. This article is about which exercises actually protect muscle, how often to do them, and where cardio and daily steps fit. It is a guide to the principles and the best movements, not a full program. Where you want the exact sets, reps, and week-by-week progression, the handbook picks up from here.
 
@@ -358,7 +358,7 @@ On a GLP-1, a protein shake often carries a whole meal's worth of muscle protect
 
 Short answer. The best protein shake on a GLP-1 is one you can finish that delivers 25 to 30 grams of complete protein. [1] Whey isolate meets that in one scoop. Clear whey and small ready-to-drink shakes are easier on nausea days. A third-party seal is your best evidence that the label matches the tub.
 
-The reason a shake matters more on a GLP-1 is arithmetic. Reviews of the trial data put lean mass (everything that is not fat, mostly muscle) at roughly 15 to 40 percent of the weight lost on these drugs. [5] Protein is one of the two levers with evidence for shrinking that share. However, a suppressed appetite makes protein the hardest nutrient to eat. A shake solves that by putting a full meal's protein into a few hundred milliliters.
+The reason a shake matters more on a GLP-1 is arithmetic. Reviews of the trial data put lean mass (everything that is not fat, mostly muscle) at anywhere from about 15 percent to 40 to 60 percent of the weight lost on these drugs, depending on the study. [5] Protein is one of the two levers with evidence for shrinking that share. However, a suppressed appetite makes protein the hardest nutrient to eat. A shake solves that by putting a full meal's protein into a few hundred milliliters.
 
 ## The 5-point label checklist
 
@@ -423,7 +423,7 @@ A joint advisory from four medical societies suggests 1.2 to 1.6 g/kg of body we
 # Can you keep muscle on a GLP-1 without a gym?
 
 URL: https://getmuscleonglp.com/learn/build-muscle-glp1-no-gym/
-Updated: 2026-07-10
+Updated: 2026-10-27
 
 GLP-1 & muscle
 
@@ -435,7 +435,7 @@ No membership, no barbell, and still enough stimulus to hold onto muscle. Here i
 
 - What drives growth is mechanical tension and effort near failure, not the equipment. Bodyweight training supplies both when you load it correctly. [5]
 
-- Reviews place lean mass at roughly 15 to 40 percent of GLP-1 weight lost, and resistance training offset about 93.5 percent of diet-induced lean-mass loss in a meta-analysis. [2] [3]
+- Reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of GLP-1 weight lost, and resistance training offset about 93.5 percent of diet-induced lean-mass loss in a meta-analysis. [2] [3]
 
 - You progress without a dumbbell by adding reps, slowing the tempo, or moving to a harder variation. [4]
 
@@ -453,7 +453,7 @@ The equipment is not the active ingredient. What drives muscle growth is enough 
 
 ## Why this matters more on a GLP-1
 
-Reviews of GLP-1 body-composition data place lean mass at roughly 15 to 40 percent of total weight lost. [2] That muscle is not handed back to you if you regain weight later; once it is gone, it has to be rebuilt the same slow way it is built under any other circumstance. So the muscle you defend now is the reserve you keep for later.
+Reviews of GLP-1 body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [2] That muscle is not handed back to you if you regain weight later; once it is gone, it has to be rebuilt the same slow way it is built under any other circumstance. So the muscle you defend now is the reserve you keep for later.
 
 Resistance training is the countermeasure with direct evidence behind it. In a meta-analysis of randomized trials in older adults under caloric restriction, adding resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, a difference of about 0.82 kg of preserved lean tissue versus dieting with no training. [3] Combine that with the free-weights-versus-machines finding above, and the takeaway is direct: the training is what protects your muscle, and the training does not require a gym.
 
@@ -651,7 +651,7 @@ Training on a GLP-1
 
 "Can't I just do cardio?" comes up constantly among people losing weight on semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound). It is a fair question. Cardio burns calories, it is easier to start than a lifting program, and running or cycling feels like it is obviously doing something. The honest answer is that cardio does quite a lot, and one specific thing it does not do well is protect the muscle you are trying to keep. This article looks at the actual randomized-trial evidence for what each type of exercise does to body composition, not just the general reputation each one carries.
 
-The stakes are not hypothetical. Reviews of GLP-1 trial data place lean mass at roughly 15 to 40 percent of total weight lost, [5] and the SURMOUNT-1 body-composition substudy measured about 26 percent of tirzepatide's weight loss as lean tissue. [6] Whatever training approach you pick is competing against that baseline.
+The stakes are not hypothetical. Reviews of GLP-1 trial data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, [5] and the SURMOUNT-1 body-composition substudy measured about 26 percent of tirzepatide's weight loss as lean tissue. [6] Whatever training approach you pick is competing against that baseline.
 
 ## What cardio actually does for body composition
 
@@ -740,7 +740,7 @@ Creatine is the second-most-proven supplement for muscle, and one of the most mi
 
 ## Key takeaways
 
-- A meaningful share of GLP-1 weight loss is lean mass: reviews place it at roughly 15 to 40 percent of total weight lost. [1]
+- A meaningful share of GLP-1 weight loss is lean mass: reviews place it at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [1]
 
 - The ISSN position stand found no compelling evidence of harm in otherwise healthy people at intakes studied up to 30 g/day for five years; typical maintenance sits around 3 to 5 g/day. [2]
 
@@ -750,7 +750,7 @@ Creatine is the second-most-proven supplement for muscle, and one of the most mi
 
 - Expect a small early rise in scale weight from intramuscular water, and know that no trial has tested creatine specifically in GLP-1 users. [2] [7]
 
-Creatine is one of the most studied supplements in existence, and one of the most misunderstood. If you are losing weight on a GLP-1 medication like semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), you have a specific reason to ask about it. A meaningful share of GLP-1 weight loss is lean mass, not fat: reviews of the body-composition data place lean mass at roughly 15 to 40 percent of total weight lost. [1] Creatine is one of the few supplements with real evidence for adding and keeping muscle, it is inexpensive, and it asks you to eat nothing, which counts for a lot on a suppressed appetite.
+Creatine is one of the most studied supplements in existence, and one of the most misunderstood. If you are losing weight on a GLP-1 medication like semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), you have a specific reason to ask about it. A meaningful share of GLP-1 weight loss is lean mass, not fat: reviews of the body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [1] Creatine is one of the few supplements with real evidence for adding and keeping muscle, it is inexpensive, and it asks you to eat nothing, which counts for a lot on a suppressed appetite.
 
 The short answer is that for otherwise healthy people, the safety record for creatine is among the strongest of any supplement on the shelf. The longer answer includes a myth worth dismantling, a scale quirk worth expecting, and one honest gap nobody can fill yet.
 
@@ -1250,7 +1250,7 @@ Neither the release nor the published abstract reports lean mass or muscle outco
 
 ## Why the dose is a muscle question too
 
-This site exists because of what comes off alongside the fat. Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1. [1] That share does not obviously get worse at a higher dose, but the arithmetic still moves: a bigger total loss means a bigger absolute amount of lean tissue in play. Twenty-eight percent of body weight is a great deal of tissue for that fraction to apply to.
+This site exists because of what comes off alongside the fat. Reviews of the trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1. [1] That share does not obviously get worse at a higher dose, but the arithmetic still moves: a bigger total loss means a bigger absolute amount of lean tissue in play. Twenty-eight percent of body weight is a great deal of tissue for that fraction to apply to.
 
 The practical reading is not that higher doses are dangerous to muscle. It is that protein intake and resistance training have to scale with whatever the medication is doing, and the faster it works, the less slack there is. Our muscle loss calculator shows how the countermeasures change the share, and the calorie and protein calculator gives you the daily number to aim at.
 
@@ -1291,7 +1291,7 @@ Most "Ozempic essentials" lists are about nausea and injections. This one is abo
 
 The links on this page go to Amazon search results. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. No brand paid to be listed, and nothing here is required: the habits matter, not the gear.
 
-Roughly 15 to 40 percent of the weight lost on a GLP-1 is lean mass. [1] Two levers have evidence for moving that toward the low end: enough protein and regular resistance training. [2,3] A third, tracking strength rather than only weight, tells you whether the first two are working.
+Depending on the study, anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1 is lean mass. [1] Two levers have evidence for moving that toward the low end: enough protein and regular resistance training. [2,3] A third, tracking strength rather than only weight, tells you whether the first two are working.
 
 ## Protein on a small appetite
 
@@ -1421,7 +1421,7 @@ Several small servings work better than one large meal when appetite is low. Abo
 # High-protein meals and shakes for GLP-1 nausea days
 
 URL: https://getmuscleonglp.com/learn/glp1-high-protein-meals-nausea/
-Updated: 2026-07-16
+Updated: 2026-10-27
 
 Nutrition
 
@@ -1445,7 +1445,7 @@ Those windows matter because they line up exactly with the appetite suppression 
 
 ## Why protein still matters on the days you can't stomach much
 
-A large share of GLP-1 weight loss is lean mass, not fat: reviews of the trial data put it at roughly 15 to 40 percent of total weight lost. [4] Protein is one of the two evidence-based levers that pushes that ratio back toward fat, alongside resistance training, and a dose-response meta-analysis found protein intake up to about 1.6 grams per kilogram of body weight per day kept improving muscle-related outcomes. [2] For the full target and how to calculate it for your weight, see our main protein article or run your number through the calorie and protein calculator. None of that changes on a nausea day. What changes is how you get there: fewer, smaller opportunities to eat, so each one needs to carry more protein per bite than usual.
+A large share of GLP-1 weight loss is lean mass, not fat: reviews of the trial data put it at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [4] Protein is one of the two evidence-based levers that pushes that ratio back toward fat, alongside resistance training, and a dose-response meta-analysis found protein intake up to about 1.6 grams per kilogram of body weight per day kept improving muscle-related outcomes. [2] For the full target and how to calculate it for your weight, see our main protein article or run your number through the calorie and protein calculator. None of that changes on a nausea day. What changes is how you get there: fewer, smaller opportunities to eat, so each one needs to carry more protein per bite than usual.
 
 ## What tends to be tolerable, and what doesn't
 
@@ -1520,7 +1520,7 @@ Yes. In a pooled analysis of the STEP 1 to 3 trials, 43.9 percent of people on s
 # Intermittent fasting on a GLP-1: does it make muscle loss worse?
 
 URL: https://getmuscleonglp.com/learn/glp1-intermittent-fasting-muscle/
-Updated: 2026-07-17
+Updated: 2026-10-27
 
 Nutrition
 
@@ -1552,7 +1552,7 @@ A separate, larger trial reinforces the "no clear penalty, but no clear benefit"
 
 ## Why a GLP-1 changes the calculation
 
-Both of the trials above controlled calorie intake deliberately, either through a prescribed target or a structured diet. A GLP-1 does not work that way. It suppresses appetite pharmacologically, which means the deficit it produces is not a chosen number, it is however much the drug leaves you wanting to eat. Lean mass already runs 15 to 40 percent of total weight lost across GLP-1 trials in general, [4] which tells you the appetite-suppression effect alone, with no fasting window added, already puts muscle at some risk.
+Both of the trials above controlled calorie intake deliberately, either through a prescribed target or a structured diet. A GLP-1 does not work that way. It suppresses appetite pharmacologically, which means the deficit it produces is not a chosen number, it is however much the drug leaves you wanting to eat. Lean mass already runs anywhere from about 15 percent to 40 to 60 percent of total weight lost across GLP-1 studies in general, [4] which tells you the appetite-suppression effect alone, with no fasting window added, already puts muscle at some risk.
 
 A 2025 clinical review focused specifically on combining GLP-1 receptor agonists with intermittent fasting states the concern directly: GLP-1RAs blunt early hunger signals in a way that can ease a person into a fasting window, but "appetite suppression can reduce overall protein and energy intake, which may contribute to lean-mass loss if not balanced with protein-rich meals and regular resistance exercise." [3] The same review notes that achieving adequate protein intake is already a challenge in real-world GLP-1 use, and that a restricted feeding window layered on top can further limit how much food, and therefore protein, a person is physically able to eat in a sitting. [3]
 
@@ -2001,7 +2001,7 @@ Citing these figures? A link to this page or the underlying study is appreciated
 # GLP-1s and muscle loss in women over 50: why menopause changes the math
 
 URL: https://getmuscleonglp.com/learn/glp1-muscle-loss-women-over-50/
-Updated: 2026-07-16
+Updated: 2026-10-27
 
 Women's health
 
@@ -2037,7 +2037,7 @@ That matters here because a GLP-1 medication creates exactly the conditions unde
 
 ## What GLP-1 trials show, and do not show, about women
 
-This is the honest limit at the center of this topic, and it is worth stating plainly before going further. The large GLP-1 trials that established the 15 to 40 percent lean-mass figure widely cited across this site [5], including the SURMOUNT-1 DXA substudy that measured about 26 percent of tirzepatide's weight loss as lean tissue, [6] report their body-composition results for the trial population as a whole. A 2025 systematic review and network meta-analysis pooling the GLP-1 body-composition literature likewise reports pooled lean-mass effects without a sex-stratified breakdown. [7] Menopausal status is essentially never reported as a variable at all. That is not unique to GLP-1 research; body-composition trials across many fields under-report sex-specific and menopause-specific subgroup results. But it means the precise, quantified answer to "how much worse is this for a postmenopausal woman" does not currently exist in the published literature.
+This is the honest limit at the center of this topic, and it is worth stating plainly before going further. The large GLP-1 trials behind the lean-mass figures cited across this site (anywhere from about 15 percent to 40 to 60 percent of weight lost, depending on the study) [5], including the SURMOUNT-1 DXA substudy that measured about 26 percent of tirzepatide's weight loss as lean tissue, [6] report their body-composition results for the trial population as a whole. A 2025 systematic review and network meta-analysis pooling the GLP-1 body-composition literature likewise reports pooled lean-mass effects without a sex-stratified breakdown. [7] Menopausal status is essentially never reported as a variable at all. That is not unique to GLP-1 research; body-composition trials across many fields under-report sex-specific and menopause-specific subgroup results. But it means the precise, quantified answer to "how much worse is this for a postmenopausal woman" does not currently exist in the published literature.
 
 One recent exception is instructive. The SEMALEAN study, a 2026 cohort of 106 adults with obesity on semaglutide that was 68.9 percent female, explicitly compared outcomes by sex. It found that the decrease in body weight, fat mass, and lean mass was significantly greater in women than in men, and the authors proposed that sex hormones, including estrogens, along with differences in fat distribution and appetite suppression, plausibly explain the gap. [8] That is a real, sex-stratified data point, and it points in the direction this article's hypothesis would predict: women losing more, not less. But it is one study, in a mixed-age population not specifically selected for menopausal status, and it measured lean mass, not muscle strength or function. It is evidence worth taking seriously, not evidence that settles the question.
 
@@ -2098,7 +2098,7 @@ The same two levers with the strongest evidence for anyone: resistance training 
 # Coming off a GLP-1 after 65: sarcopenia, falls, and why the plan changes
 
 URL: https://getmuscleonglp.com/learn/glp1-off-ramp-older-adults/
-Updated: 2026-07-17
+Updated: 2026-10-27
 
 Older adults
 
@@ -2124,7 +2124,7 @@ That is not a reason to avoid a GLP-1 later in life, and it is not a reason to p
 
 Sarcopenia, the age-related loss of muscle mass and function, is not a rare condition confined to frail nursing-home populations. A systematic review and meta-analysis pooling 151 studies and more than 690,000 participants found prevalence estimates for adults 60 and older ranging from about 10 percent using the strict EWGSOP2 criteria to about 27 percent using broader muscle-mass-only definitions, with severe sarcopenia affecting roughly 2 to 9 percent. [2] A separate, more specific concern, sarcopenic obesity, the coexistence of reduced muscle with excess body fat, is estimated to affect 10 to 20 percent of older adults and about 20 percent of older adults specifically seeking obesity treatment. [1] Sarcopenic obesity carries elevated cardiometabolic and frailty risk beyond what either low muscle or high fat carries alone. [9]
 
-None of that requires a GLP-1 to be true. It is the starting line a meaningful share of older adults are already standing on before a prescription is written. Reviews of GLP-1 trial data generally, across all ages, place lean mass at roughly 15 to 40 percent of total weight lost. [10] Losing that same percentage from a smaller muscle reserve to begin with is a different proposition than losing it from a larger one, even though no trial has directly quantified how much different.
+None of that requires a GLP-1 to be true. It is the starting line a meaningful share of older adults are already standing on before a prescription is written. Reviews of GLP-1 trial data generally, across all ages, place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [10] Losing that same percentage from a smaller muscle reserve to begin with is a different proposition than losing it from a larger one, even though no trial has directly quantified how much different.
 
 ## What the GLP-1 trials actually show about people 65 and older
 
@@ -2203,7 +2203,7 @@ Keep resistance training and a real protein target in place through the transiti
 # Protein timing on a GLP-1: does when you eat protein matter for muscle?
 
 URL: https://getmuscleonglp.com/learn/glp1-protein-timing-muscle/
-Updated: 2026-07-17
+Updated: 2026-10-27
 
 Nutrition
 
@@ -2225,7 +2225,7 @@ Our guide to how much protein you need on a GLP-1 covers the daily number: 1.6 t
 
 ## Three different questions, usually lumped together as "timing"
 
-"Protein timing" gets used loosely to mean at least three separate things, and they have different answers. First, distribution across the day: does spreading your total intake across several meals beat concentrating it into one or two. Second, the per-meal threshold: is there a minimum amount a single meal needs to supply before it meaningfully contributes to muscle protein synthesis. Third, the post-workout window: does protein specifically around a training session matter more than protein eaten at other times. Reviews of GLP-1 trial data place lean mass at roughly 15 to 40 percent of total weight lost, which is the backdrop that makes squeezing out every reasonable advantage worth doing carefully rather than by folklore. [6]
+"Protein timing" gets used loosely to mean at least three separate things, and they have different answers. First, distribution across the day: does spreading your total intake across several meals beat concentrating it into one or two. Second, the per-meal threshold: is there a minimum amount a single meal needs to supply before it meaningfully contributes to muscle protein synthesis. Third, the post-workout window: does protein specifically around a training session matter more than protein eaten at other times. Reviews of GLP-1 trial data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, which is the backdrop that makes squeezing out every reasonable advantage worth doing carefully rather than by folklore. [6]
 
 ## Does spreading protein across the day matter?
 
@@ -2516,7 +2516,7 @@ The same two levers with the strongest evidence for muscle also apply here: prog
 # Hitting your protein target on a GLP-1 as a vegetarian or vegan
 
 URL: https://getmuscleonglp.com/learn/glp1-vegan-vegetarian-protein/
-Updated: 2026-07-17
+Updated: 2026-10-27
 
 Nutrition
 
@@ -2536,7 +2536,7 @@ A suppressed appetite already makes protein the hardest macro to hit on a GLP-1.
 
 Two constraints stack on top of each other for a vegetarian or vegan on a GLP-1 medication. The first is universal: semaglutide (Ozempic, Wegovy) and tirzepatide (Mounjaro, Zepbound) cut overall food intake hard, and protein is usually the first thing to fall when appetite disappears. The second is specific to a plant-based diet: gram for gram, most plant foods carry less protein than meat, fish, eggs, or dairy, and much of what they do carry is lower quality for building and keeping muscle. Neither constraint is disqualifying on its own. Together, they mean a plant-based GLP-1 user has less room for error than most people reaching for a chicken breast or a whey shake.
 
-This matters because reviews of GLP-1 trial data place lean mass at roughly 15 to 40 percent of total weight lost, and protein is one of the two evidence-based levers, alongside resistance training, that pushes that ratio back toward fat. [6] This article is about closing the plant-protein gap with real foods and real numbers, not about switching diets.
+This matters because reviews of GLP-1 trial data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, and protein is one of the two evidence-based levers, alongside resistance training, that pushes that ratio back toward fat. [6] This article is about closing the plant-protein gap with real foods and real numbers, not about switching diets.
 
 ## Your target does not change
 
@@ -2629,7 +2629,7 @@ Soy foods (tofu, tempeh, edamame, soy milk) are the standout because soy protein
 # 5 at-home ways to tell if you're losing muscle on a GLP-1
 
 URL: https://getmuscleonglp.com/learn/home-tests-muscle-loss-glp1/
-Updated: 2026-07-16
+Updated: 2026-10-27
 
 Body composition
 
@@ -2649,7 +2649,7 @@ Body composition
 
 The advice you will find elsewhere on this site is simple: track what you can load, not just what the scale says. But "track what you can load" is a principle, not a routine, and if you have never done it, the practical question is what exactly to measure, how often, and what a bad trend actually looks like. This article turns that principle into a concrete, five-part protocol you can run at home with nothing more than a chair, a tape measure, and your phone.
 
-None of these five tests can diagnose sarcopenia on its own. Several are drawn from tools clinicians use for exactly that purpose, adapted here for someone tracking themselves rather than being assessed in a clinic, which matters because reviews of GLP-1 trials place lean mass at roughly 15 to 40 percent of total weight lost. [6] Used together and repeated over weeks, not days, these five tests give you a genuinely useful signal for whether the weight you are losing is coming disproportionately from muscle.
+None of these five tests can diagnose sarcopenia on its own. Several are drawn from tools clinicians use for exactly that purpose, adapted here for someone tracking themselves rather than being assessed in a clinic, which matters because reviews of GLP-1 trials place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [6] Used together and repeated over weeks, not days, these five tests give you a genuinely useful signal for whether the weight you are losing is coming disproportionately from muscle.
 
 ## Test 1: Grip strength
 
@@ -2766,7 +2766,7 @@ Here the honest answer is less satisfying than the confident one you will find e
 
 What exists is adjacent evidence. The broader weight-cycling literature raises a mechanistic concern that regained weight can be disproportionately fat, with incomplete recovery of lean mass across repeated cycles, trending toward a sarcopenic-obesity phenotype. [4] That literature is mixed rather than settled.
 
-So the argument for protecting muscle is not that regain is proven to be all fat. The argument is narrower and sturdier: muscle is hard to rebuild, easy to lose, and the loss phase is when you have the most control over the outcome. Reviews of GLP-1 body-composition data already place lean mass at roughly 15 to 40 percent of total weight lost. [3] Arriving at your exit with muscle intact is the one variable you can still influence.
+So the argument for protecting muscle is not that regain is proven to be all fat. The argument is narrower and sturdier: muscle is hard to rebuild, easy to lose, and the loss phase is when you have the most control over the outcome. Reviews of GLP-1 body-composition data already place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [3] Arriving at your exit with muscle intact is the one variable you can still influence.
 
 ## The failure mode has a name
 
@@ -2837,7 +2837,7 @@ No trial shows that. The STEP trials did not track fat-versus-muscle composition
 # "Ozempic body," "Ozempic face," and "Ozempic butt": how much is actually muscle loss?
 
 URL: https://getmuscleonglp.com/learn/ozempic-body-face-muscle/
-Updated: 2026-07-16
+Updated: 2026-10-27
 
 Body composition
 
@@ -2851,7 +2851,7 @@ These terms get treated as skin-deep cosmetic problems, and mostly they are. But
 
 - Gluteal ("Ozempic butt") changes are a mix of subcutaneous fat loss and genuine muscle reduction, since the glutes are a large muscle group. [2]
 
-- Across GLP-1 trials generally, reviews place lean mass at roughly 15 to 40 percent of total weight lost. [3]
+- Across GLP-1 trials generally, reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [3]
 
 - Resistance training during weight loss offset about 93.5 percent of diet-induced lean-mass loss in a meta-analysis, but it does not rebuild lost facial fat or skin elasticity. [4]
 
@@ -2871,7 +2871,7 @@ Slower weight loss gives skin more time to adapt: losing roughly one to two poun
 
 "Ozempic butt" describes flattening, sagging, or loss of definition in the gluteal region during GLP-1-driven weight loss. [2] Part of this is the same story as the face: the buttocks carry a thick layer of subcutaneous fat, and that fat is mobilized readily during a sustained calorie deficit, leaving skin that has not caught up.
 
-But the glutes are also one of the largest muscle groups in the body, and this is where the "it's just fat and skin" framing breaks down. Cleveland Clinic's obesity medicine team describes the mechanism plainly: when someone loses a significant amount of weight, there is a reduction in fat mass and a reduction in muscle mass together, because the body no longer needs to carry or power the previous frame. [2] That is a description of lean-mass loss, the same phenomenon covered in depth in our main article on GLP-1 and muscle loss. Reviews of GLP-1 trial data place lean mass at roughly 15 to 40 percent of total weight lost across the medications and populations studied, [3] and the best single data point, the SURMOUNT-1 DXA substudy in people taking tirzepatide, measured about 26 percent of total weight lost as lean tissue. [7] None of these substudies isolated the gluteal muscles specifically, so there is no published number for "percent of Ozempic butt that is muscle." What is published is that lean-mass loss is a real, quantified part of GLP-1 weight loss overall, and the glutes, as a large muscle group, are not exempt from it.
+But the glutes are also one of the largest muscle groups in the body, and this is where the "it's just fat and skin" framing breaks down. Cleveland Clinic's obesity medicine team describes the mechanism plainly: when someone loses a significant amount of weight, there is a reduction in fat mass and a reduction in muscle mass together, because the body no longer needs to carry or power the previous frame. [2] That is a description of lean-mass loss, the same phenomenon covered in depth in our main article on GLP-1 and muscle loss. Reviews of GLP-1 trial data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost across the medications and populations studied, [3] and the best single data point, the SURMOUNT-1 DXA substudy in people taking tirzepatide, measured about 26 percent of total weight lost as lean tissue. [7] None of these substudies isolated the gluteal muscles specifically, so there is no published number for "percent of Ozempic butt that is muscle." What is published is that lean-mass loss is a real, quantified part of GLP-1 weight loss overall, and the glutes, as a large muscle group, are not exempt from it.
 
 This is the part of "Ozempic butt" that training can actually reach. Fat loss and skin laxity in that area are not things a workout program reverses. Muscle volume is. For the fuller list of signs your body is losing lean mass, not just fat, and how to tell the difference at home without a DXA scan, see our dedicated article on that question.
 
@@ -2891,7 +2891,7 @@ Lean-mass loss, the part of "Ozempic butt" and "Ozempic body" that is genuinely 
 
 ## What the evidence does not say
 
-No published trial has measured facial, gluteal, or other localized muscle loss specifically on a GLP-1 medication; the lean-mass figures cited here (15 to 40 percent, and about 26 percent in the SURMOUNT-1 DXA substudy) are whole-body DXA measurements, not spot measurements of the face or glutes, and spot reduction of fat or targeted preservation of muscle in one specific area is not something the training literature supports as achievable beyond training that area's muscle directly. The topical-cream study cited above is small (33 participants, 29 completing), was not GLP-1-exclusive, and was not designed to isolate muscle from fat or skin effects. There is also no trial comparing "Ozempic face" or "Ozempic butt" severity between different GLP-1 medications, doses, or rates of weight loss; the rate-of-loss and skin-retraction relationship is drawn from the broader weight-loss and skin literature, not GLP-1-specific research. Nothing in this article is dosing, titration, or cosmetic-procedure guidance; questions about fillers, lifts, or medical rate of weight loss belong with a qualified clinician.
+No published trial has measured facial, gluteal, or other localized muscle loss specifically on a GLP-1 medication; the lean-mass figures cited here (anywhere from about 15 percent to 40 to 60 percent depending on the study, and about 26 percent in the SURMOUNT-1 DXA substudy) are whole-body DXA measurements, not spot measurements of the face or glutes, and spot reduction of fat or targeted preservation of muscle in one specific area is not something the training literature supports as achievable beyond training that area's muscle directly. The topical-cream study cited above is small (33 participants, 29 completing), was not GLP-1-exclusive, and was not designed to isolate muscle from fat or skin effects. There is also no trial comparing "Ozempic face" or "Ozempic butt" severity between different GLP-1 medications, doses, or rates of weight loss; the rate-of-loss and skin-retraction relationship is drawn from the broader weight-loss and skin literature, not GLP-1-specific research. Nothing in this article is dosing, titration, or cosmetic-procedure guidance; questions about fillers, lifts, or medical rate of weight loss belong with a qualified clinician.
 
 ## The bottom line
 
@@ -2905,7 +2905,7 @@ Mostly no. Ozempic face is primarily fat loss from facial fat compartments plus 
 
 **Q:** Is Ozempic butt fat loss or muscle loss?
 
-Both, in most cases. The gluteal region loses subcutaneous fat, which accounts for most of the visible flattening, but the glutes are also a large muscle group, and GLP-1-driven weight loss carries a lean-mass cost like any other. Reviews of GLP-1 trial data put lean mass at roughly 15 to 40 percent of total weight lost, and the SURMOUNT-1 DXA substudy measured about 26 percent of tirzepatide weight loss as lean tissue.
+Both, in most cases. The gluteal region loses subcutaneous fat, which accounts for most of the visible flattening, but the glutes are also a large muscle group, and GLP-1-driven weight loss carries a lean-mass cost like any other. Reviews of GLP-1 trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, and the SURMOUNT-1 DXA substudy measured about 26 percent of tirzepatide weight loss as lean tissue.
 
 **Q:** Can you prevent Ozempic face and Ozempic butt?
 
@@ -2938,7 +2938,7 @@ You cannot fully prevent skin laxity or facial volume loss with training, but sl
 # Loose skin vs. muscle loss after GLP-1 weight loss: how to tell the difference
 
 URL: https://getmuscleonglp.com/learn/ozempic-loose-skin-vs-muscle/
-Updated: 2026-07-17
+Updated: 2026-10-27
 
 Body composition
 
@@ -2948,7 +2948,7 @@ The mirror shows something looser, flatter, or less defined than before, and it 
 
 - Loose skin is a dermal problem: reduced elastic fiber content that keeps skin from retracting after the fat beneath it is gone. [3]
 
-- Reviews of GLP-1 trials place lean mass at roughly 15 to 40 percent of total weight lost, a genuinely separate, muscle-specific loss. [6]
+- Reviews of GLP-1 trials place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, a genuinely separate, muscle-specific loss. [6]
 
 - A study of bariatric patients found fat-free (largely muscle) mass reached up to 25 percent of total weight lost, with older age and male sex predicting a larger share. [2]
 
@@ -2970,7 +2970,7 @@ There is also a plausible, GLP-1-specific mechanism, separate from the general e
 
 ## What lean-mass loss actually is
 
-Muscle loss is a different tissue, mechanism, and fix, and this site covers it in depth elsewhere. In short: reviews of GLP-1 trial data place lean mass at roughly 15 to 40 percent of total weight lost, [6] and the SURMOUNT-1 DXA substudy in people taking tirzepatide measured about 26 percent of total weight lost as lean tissue. [8] A related line of evidence from bariatric surgery, a different intervention but a similarly rapid, large weight loss, found fat-free mass (mostly muscle) reaching a maximal loss of about 14.5 percent of preoperative fat-free mass by 18 months, with older age, male sex, and higher starting BMI predicting a larger share. [2] No equivalent tracking study exists yet for GLP-1 users specifically, but the underlying mechanism, rapid weight loss without enough resistance training or protein to protect lean tissue, is the same one operating in both populations. Unlike an overstretched elastic fiber network, lean-mass loss is not a fixed structural change; it responds, in both directions, to training and eating. See our dedicated article on the physical signs of muscle loss, and our breakdown of "Ozempic face," "Ozempic butt," and "Ozempic body" for how this plays out on specific body parts.
+Muscle loss is a different tissue, mechanism, and fix, and this site covers it in depth elsewhere. In short: reviews of GLP-1 trial data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, [6] and the SURMOUNT-1 DXA substudy in people taking tirzepatide measured about 26 percent of total weight lost as lean tissue. [8] A related line of evidence from bariatric surgery, a different intervention but a similarly rapid, large weight loss, found fat-free mass (mostly muscle) reaching a maximal loss of about 14.5 percent of preoperative fat-free mass by 18 months, with older age, male sex, and higher starting BMI predicting a larger share. [2] No equivalent tracking study exists yet for GLP-1 users specifically, but the underlying mechanism, rapid weight loss without enough resistance training or protein to protect lean tissue, is the same one operating in both populations. Unlike an overstretched elastic fiber network, lean-mass loss is not a fixed structural change; it responds, in both directions, to training and eating. See our dedicated article on the physical signs of muscle loss, and our breakdown of "Ozempic face," "Ozempic butt," and "Ozempic body" for how this plays out on specific body parts.
 
 ## How to actually tell the difference on your own body
 
@@ -3049,11 +3049,11 @@ Updated: 2026-10-27
 
 GLP-1 & muscle
 
-Yes, partly. Roughly 15 to 40 percent of the weight lost on a GLP-1 is lean mass, not fat. Here is what the trial data shows, why it happens, and the two things proven to protect your muscle.
+Yes, partly. Depending on the study, anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1 is lean mass, not fat. Here is what the trial data shows, why it happens, and the two things proven to protect your muscle.
 
 ## Key takeaways
 
-- Reviews of GLP-1 trials place lean mass at roughly 15 to 40 percent of total weight lost. [1]
+- Reviews of GLP-1 trials place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [1]
 
 - In the SURMOUNT-1 DXA substudy, about 26 percent of the weight lost on tirzepatide (Mounjaro, Zepbound) was lean tissue. [2]
 
@@ -3069,7 +3069,7 @@ This is not a reason to avoid the medication. It is a reason to train and eat in
 
 ## How much of GLP-1 weight loss is muscle?
 
-Across the GLP-1 trials that measured body composition, reviews place lean mass at roughly 15 to 40 percent of total weight lost. [1] The single most useful data point comes from the SURMOUNT-1 DXA substudy, which used dual-energy X-ray absorptiometry to separate fat from lean tissue in people taking tirzepatide. About 74 percent of the weight lost was fat and about 26 percent was lean mass. [2]
+Across the GLP-1 trials that measured body composition, reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [1] The single most useful data point comes from the SURMOUNT-1 DXA substudy, which used dual-energy X-ray absorptiometry to separate fat from lean tissue in people taking tirzepatide. About 74 percent of the weight lost was fat and about 26 percent was lean mass. [2]
 
 For context, the headline trials produced large losses: semaglutide 2.4 mg drove about 14.9 percent mean weight loss over 68 weeks in STEP 1, [5] and tirzepatide reached about 20.9 percent at its highest dose in SURMOUNT-1. [6] A quarter of a loss that large is a substantial amount of muscle. One routine-care preprint, which has not yet been peer reviewed, reported a greater lean-mass decline on tirzepatide than on semaglutide outside of trial conditions. [7]
 
@@ -3107,7 +3107,7 @@ Yes, part of GLP-1 weight loss is muscle, on the order of a quarter of it in the
 
 **Q:** Does Ozempic cause muscle loss?
 
-Yes, part of the weight lost on GLP-1 medications is lean mass rather than fat. Reviews of the trial data place lean mass at roughly 15 to 40 percent of total weight lost, and the SURMOUNT-1 DXA substudy measured about 26 percent of tirzepatide weight loss as lean tissue. Resistance training and adequate protein are the evidence-based countermeasures.
+Yes, part of the weight lost on GLP-1 medications is lean mass rather than fat. Reviews of the trial data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, and the SURMOUNT-1 DXA substudy measured about 26 percent of tirzepatide weight loss as lean tissue. Resistance training and adequate protein are the evidence-based countermeasures.
 
 **Q:** Is losing muscle on Ozempic dangerous?
 
@@ -3119,7 +3119,7 @@ Two levers are supported by strong evidence: resistance training and enough prot
 
 **Q:** How much muscle do you lose on Ozempic?
 
-Reviews of the GLP-1 trials that measured body composition place lean mass at roughly 15 to 40 percent of the total weight lost. The range is wide because trials differ in population, dose and how body composition was measured. For tirzepatide (Mounjaro, Zepbound), the SURMOUNT-1 DXA substudy measured about 26 percent. You can estimate your own range with the free GLP-1 muscle loss calculator.
+Reviews of the GLP-1 trials that measured body composition place lean mass at anywhere from about 15 percent to 40 to 60 percent of the total weight lost. The range is wide because trials differ in population, dose and how body composition was measured. For tirzepatide (Mounjaro, Zepbound), the SURMOUNT-1 DXA substudy measured about 26 percent. You can estimate your own range with the free GLP-1 muscle loss calculator.
 
 **Q:** Do Wegovy, Mounjaro and Zepbound cause muscle loss too?
 
@@ -3257,7 +3257,7 @@ The two evidence-based levers, resistance training and adequate protein, are the
 # Ozempic vs Mounjaro vs Zepbound: which preserves more muscle?
 
 URL: https://getmuscleonglp.com/learn/ozempic-vs-mounjaro-vs-zepbound-muscle/
-Updated: 2026-07-10
+Updated: 2026-10-27
 
 Comparing GLP-1 medications
 
@@ -3293,7 +3293,7 @@ This matters for muscle in a way that is easy to miss. Even if two drugs lose th
 
 ## What we actually know about body composition
 
-The most useful composition data comes from the SURMOUNT-1 DXA substudy, which used dual-energy X-ray absorptiometry to separate fat from lean tissue in people taking tirzepatide. About 74 percent of the weight lost was fat and about 26 percent was lean mass. [5] For semaglutide, a review calculated that lean mass accounted for roughly 45 percent of the weight lost in STEP 1, although the STEP 1 investigators emphasized that lean mass as a proportion of the shrinking body actually rose, because fat fell faster. [6] [3] Across the broader GLP-1 trial literature, reviews place the lean-mass fraction of weight lost at roughly 15 to 40 percent. [6]
+The most useful composition data comes from the SURMOUNT-1 DXA substudy, which used dual-energy X-ray absorptiometry to separate fat from lean tissue in people taking tirzepatide. About 74 percent of the weight lost was fat and about 26 percent was lean mass. [5] For semaglutide, a review calculated that lean mass accounted for roughly 45 percent of the weight lost in STEP 1, although the STEP 1 investigators emphasized that lean mass as a proportion of the shrinking body actually rose, because fat fell faster. [6] [3] Across the broader GLP-1 trial literature, reviews place the lean-mass fraction of weight lost at anywhere from about 15 percent to 40 to 60 percent. [6]
 
 Read at face value, those two numbers, 26 percent for tirzepatide and about 45 percent for semaglutide, would suggest tirzepatide loses a smaller share of weight as muscle. But that reading is exactly the trap this article exists to flag.
 
@@ -3455,7 +3455,7 @@ It is a plausible contributor, though not a proven one. Because muscle is metabo
 # How much protein do you actually need on a GLP-1?
 
 URL: https://getmuscleonglp.com/learn/protein-on-glp1/
-Updated: 2026-07-10
+Updated: 2026-10-27
 
 GLP-1 & protein
 
@@ -3475,7 +3475,7 @@ There is a target range for protecting muscle while you lose weight, and there i
 
 If you are on semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), you have probably heard that protein matters. What is rarely spelled out is how much you actually need and why the medication makes that amount so hard to reach. This page answers both, plainly, and points you to the tools that turn the number into a daily routine.
 
-Protein is the nutrient standing between you and the loss of lean mass. Reviews of GLP-1 body-composition data place lean mass at roughly 15 to 40 percent of total weight lost. [6] Some of that is unavoidable with any large weight loss. Much of it is not, and protein is one of the two levers you control.
+Protein is the nutrient standing between you and the loss of lean mass. Reviews of GLP-1 body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [6] Some of that is unavoidable with any large weight loss. Much of it is not, and protein is one of the two levers you control.
 
 ## Your number: how much protein per day
 
@@ -3671,7 +3671,7 @@ No. As of October 2026, retatrutide is not approved by the FDA for any use. The 
 # Signs you're losing muscle, not just fat, on a GLP-1
 
 URL: https://getmuscleonglp.com/learn/signs-of-muscle-loss-glp1/
-Updated: 2026-07-10
+Updated: 2026-10-27
 
 GLP-1 & muscle
 
@@ -3679,7 +3679,7 @@ The scale drops, but is it fat or muscle? Here are the honest at-home signs, why
 
 ## Key takeaways
 
-- Part of GLP-1 weight loss is lean mass: reviews place it at roughly 15 to 40 percent of total weight lost, [1] and about 26 percent in the best-measured tirzepatide trial. [2]
+- Part of GLP-1 weight loss is lean mass: reviews place it at anywhere from about 15 percent to 40 to 60 percent of total weight lost, [1] and about 26 percent in the best-measured tirzepatide trial. [2]
 
 - The scale cannot tell fat from muscle, and even a DXA "lean mass" reading includes water and organ tissue, so no single number is definitive.
 
@@ -3689,7 +3689,7 @@ The scale drops, but is it fat or muscle? Here are the honest at-home signs, why
 
 - If the signs point one way, the fix is resistance training and enough protein, not stopping weight loss. [4] [5]
 
-If you are on a GLP-1 medication like semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), the weight is probably coming off. The harder question is what kind of weight. Some of what you lose is fat, and some is lean mass, the skeletal muscle that keeps you strong and mobile. Across the trials that measured body composition, reviews place lean mass at roughly 15 to 40 percent of total weight lost. [1] In the best-measured trial, the SURMOUNT-1 DXA substudy, about 26 percent of the weight lost on tirzepatide was lean tissue. [2]
+If you are on a GLP-1 medication like semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), the weight is probably coming off. The harder question is what kind of weight. Some of what you lose is fat, and some is lean mass, the skeletal muscle that keeps you strong and mobile. Across the trials that measured body composition, reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [1] In the best-measured trial, the SURMOUNT-1 DXA substudy, about 26 percent of the weight lost on tirzepatide was lean tissue. [2]
 
 None of this is a reason to stop your medication. It is a reason to know what losing muscle actually feels and looks like, so you can adjust before it adds up. This article walks through the honest at-home signs, explains why the scale and even a DXA scan can mislead you, and points to the one signal worth tracking. It is educational, not a diagnosis.
 
@@ -3731,7 +3731,7 @@ Some lean-mass loss comes with any large, fast weight loss, and a GLP-1 produces
 
 **Q:** How can I tell if I'm losing muscle or just fat on a GLP-1?
 
-No single measurement is definitive, so watch several signals together. The scale cannot separate fat from muscle, and even a DXA lean-mass reading includes water and organ tissue. The most practical home signal is your own strength over time: if the same movements get noticeably harder at a lower body weight, and you are eating little protein and doing no resistance training, that combination is worth taking seriously. Reviews place lean mass at roughly 15 to 40 percent of total GLP-1 weight lost.
+No single measurement is definitive, so watch several signals together. The scale cannot separate fat from muscle, and even a DXA lean-mass reading includes water and organ tissue. The most practical home signal is your own strength over time: if the same movements get noticeably harder at a lower body weight, and you are eating little protein and doing no resistance training, that combination is worth taking seriously. Reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of total GLP-1 weight lost.
 
 **Q:** Does feeling weaker on Ozempic or Wegovy mean I'm losing muscle?
 
@@ -3771,7 +3771,7 @@ Free tool
 
 Your estimated lean mass from height and weight, and how much of it a GLP-1 weight loss could take, with and without enough protein and resistance training.
 
-Short answer. Lean body mass is everything that is not fat: muscle, bone, organs and water. Two standard equations estimate it from height, weight and sex. [1,2] On a GLP-1, roughly 15 to 40 percent of the weight lost is lean mass, so the size of the loss and the plan behind it decide how much of your lean mass goes with it. [3]
+Short answer. Lean body mass is everything that is not fat: muscle, bone, organs and water. Two standard equations estimate it from height, weight and sex. [1,2] On a GLP-1, anywhere from about 15 percent to 40 to 60 percent of the weight lost is lean mass, depending on the study, so the size of the loss and the plan behind it decide how much of your lean mass goes with it. [3]
 
 An estimate from height and weight, not a measurement. The equations can misjudge lean mass at a high body mass index. A DEXA scan measures it. This gives no medical advice.
 
@@ -3787,7 +3787,7 @@ Each bar is your current lean mass. The filled part is what the loss could take;
 
 Lean body mass. The calculator averages two published equations and shows both as a range. Boer (1984): for men, 0.407 × weight(kg) + 0.267 × height(cm) − 19.2; for women, 0.252 × weight + 0.473 × height − 48.3. [1] Hume (1966): for men, 0.32810 × weight + 0.33929 × height − 29.5336; for women, 0.29569 × weight + 0.41813 × height − 43.2933. [2]
 
-The GLP-1 loss. Reviews of the trial data put lean mass at 15 to 40 percent of the weight lost on a GLP-1, and the SURMOUNT-1 body-composition substudy measured about a quarter for tirzepatide. [3] The "without" figure uses the high end of that range, scaled for the medication. The "with a plan" range applies a resistance-training effect measured in older adults dieting without a GLP-1 (an extrapolation), up to the lowest share seen in GLP-1 trials. [4] These are the same numbers the muscle loss calculator uses.
+The GLP-1 loss. Reviews of the trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1, depending on the study, and the SURMOUNT-1 body-composition substudy measured about a quarter for tirzepatide. [3] The "without" figure uses the model's high end, 40 percent, scaled for the medication; some studies report more. The "with a plan" range applies a resistance-training effect measured in older adults dieting without a GLP-1 (an extrapolation), up to the low end reported in GLP-1 trials. [4] These are the same numbers the muscle loss calculator uses.
 
 ## Honest limits
 
@@ -3801,7 +3801,7 @@ Without a scan, lean body mass is estimated from height, weight and sex with pub
 
 **Q:** How much lean mass do people lose on a GLP-1?
 
-Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1, and about a quarter in the SURMOUNT-1 tirzepatide substudy. Protein and resistance training are the two levers with evidence for moving it toward the low end.
+Reviews of the trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1, depending on the study, and about a quarter in the SURMOUNT-1 tirzepatide substudy. Protein and resistance training are the two levers with evidence for moving it toward the low end.
 
 **Q:** Is the lean body mass estimate accurate if I have obesity?
 
@@ -3831,7 +3831,7 @@ Illustrative projection, not a measurement or a diagnosis. It is built from publ
 
 Example person: 210 lb, goal 170 lb, semaglutide, protein around 1.0 to 1.3 g/kg, 1 to 2 training days a week. Change any field above to use your own numbers.
 
-Estimated share of your loss that is lean mass, at your current protein and training habits (a range, because the best-case figure is extrapolated, see below) Without countermeasures (low protein, no training). The high end of the 15 to 40% range seen in GLP-1 trials. With countermeasures (1.6+ g/kg, 3+ training days). Best case, from trials in non-GLP-1 populations: the low end is extrapolated from older adults dieting without a GLP-1; the high end is the lowest share seen in GLP-1 trials. Not measured in GLP-1 users who train.
+Estimated share of your loss that is lean mass, at your current protein and training habits (a range, because the best-case figure is extrapolated, see below) Without countermeasures (low protein, no training). The model's high end, 40%. Some studies report 40 to 60%. With countermeasures (1.6+ g/kg, 3+ training days). Best case, from trials in non-GLP-1 populations: the low end is extrapolated from older adults dieting without a GLP-1; the high end is about 15 percent, the low end of what GLP-1 trials report. Not measured in GLP-1 users who train.
 
 If you lose — to reach your goal, the approximate lean mass at risk is:
 
@@ -3843,9 +3843,9 @@ Each bar is the whole loss. The filled part is the lean mass in it; the lighter 
 
 Lean mass, not only muscle. The research measures lean mass: everything that is not fat. That is mostly muscle, but it also includes water and organs. This page says lean mass when it means the measured figure and muscle when it means the everyday idea.
 
-The baseline share. Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1 medication. [1] Within that spread, the medication matters. The estimator uses a baseline of about 33 percent for semaglutide and other GLP-1s, and about 26 percent for tirzepatide, the value measured in the DXA substudy of the SURMOUNT-1 trial. [1,4]
+The baseline share. Reviews of the trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1 medication. [1] Within that spread, the medication matters. The estimator uses a baseline of about 33 percent for semaglutide and other GLP-1s, and about 26 percent for tirzepatide, the value measured in the DXA substudy of the SURMOUNT-1 trial. [1,4]
 
-Why two scenarios. The share of loss that is muscle is not fixed. Without enough protein and without resistance training, the estimate sits at the high end of the published range, 40 percent for semaglutide. With both in place, it moves toward the low end. The size of that shift comes from a meta-analysis of older adults with obesity on caloric restriction, not GLP-1 users, where resistance training offset about 93.5 percent of the lean mass that dieting alone would cost. [2] Applying 93.5 percent to a GLP-1 baseline gives about 2 percent, which is an extrapolation, so the best case is shown as a range: that 2 percent floor up to 15 percent, the lowest lean-mass share reported in GLP-1 trials. [1] No trial has measured the 2 percent figure in people taking a GLP-1.
+Why two scenarios. The share of loss that is muscle is not fixed. Without enough protein and without resistance training, the estimate sits at the model's high end, 40 percent for semaglutide. Some studies report more, up to 60 percent. [1] With both in place, it moves toward the low end. The size of that shift comes from a meta-analysis of older adults with obesity on caloric restriction, not GLP-1 users, where resistance training offset about 93.5 percent of the lean mass that dieting alone would cost. [2] Applying 93.5 percent to a GLP-1 baseline gives about 2 percent, which is an extrapolation, so the best case is shown as a range: that 2 percent floor up to 15 percent, the low end of the lean-mass shares reported in GLP-1 trials. [1] No trial has measured the 2 percent figure in people taking a GLP-1.
 
 Your current-habits estimate. The headline range scales between those scenarios using your reported protein habit and resistance training. The two calculators on this site use the same shared numbers for the no-plan case. Protein and training both count, with training weighted as the primary driver because the offset in the research is a training effect. Protein enables it: benefit to fat-free mass leveled off near 1.6 g/kg of body weight, which is the target used here for the high-protein setting. [3]
 
@@ -3853,13 +3853,13 @@ Lean mass at risk. If you enter a goal weight, the tool multiplies each scenario
 
 ## Honest limits
 
-Every number here is an estimate assembled from group averages. The 15 to 40 percent range is wide because trials differ in population, dose, and how body composition was measured, and DXA itself carries error. The 93.5 percent offset is a single meta-analytic figure from people who were not taking a GLP-1, and it will not hold identically for every person or program. Your genetics, training quality, sleep, and starting body composition all move the real result. Treat this as a framework for a conversation with your clinician, not a measurement, a prediction, or medical advice.
+Every number here is an estimate assembled from group averages. The published range, from about 15 percent to 40 to 60 percent, is wide because trials differ in population, dose, and how body composition was measured, and DXA itself carries error. The 93.5 percent offset is a single meta-analytic figure from people who were not taking a GLP-1, and it will not hold identically for every person or program. Your genetics, training quality, sleep, and starting body composition all move the real result. Treat this as a framework for a conversation with your clinician, not a measurement, a prediction, or medical advice.
 
 ## Frequently asked
 
 **Q:** How much of GLP-1 weight loss is muscle?
 
-Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1 medication (Neeland 2024). The DXA substudy of the SURMOUNT-1 tirzepatide trial measured lean mass at about 26 percent of total loss. The exact share depends on the medication, your protein intake, and whether you do resistance training.
+Reviews of the trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1 medication (Neeland 2024). The DXA substudy of the SURMOUNT-1 tirzepatide trial measured lean mass at about 26 percent of total loss. The exact share depends on the medication, your protein intake, and whether you do resistance training.
 
 **Q:** How does this estimator work?
 
@@ -3915,11 +3915,11 @@ The anchor is trial-measured. In the STEP 1 trial extension, people who stopped 
 
 The taper and muscle lines are modeled, not measured. No trial isolates a taper schedule or a muscle-preservation protocol against regain, so the calculator projects a gradual taper and preserved muscle as reducing regain relative to a cold stop. That direction is well supported in principle, a slower return of appetite, continued treatment, and more metabolically active muscle all blunt rebound, but the exact size of the effect is an estimate. Treat the green line as a direction you can influence, not a promise.
 
-Why muscle changes the picture. Reviews of GLP-1 body-composition data place lean mass at roughly 15 to 40 percent of total weight lost, [3] and resistance training has been shown to offset most diet-induced lean loss. [5] The regain risk is not only how many pounds return but their composition: regaining fat while muscle stays low trends toward sarcopenic obesity. [4] Arriving at your exit with muscle intact is the variable you most control.
+Why muscle changes the picture. Reviews of GLP-1 body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, [3] and resistance training has been shown to offset most diet-induced lean loss. [5] The regain risk is not only how many pounds return but their composition: regaining fat while muscle stays low trends toward sarcopenic obesity. [4] Arriving at your exit with muscle intact is the variable you most control.
 
 ## The four phases, and where muscle decides the ending
 
-The diagram above traces the journey in four phases. During active loss the medication suppresses appetite and weight falls fast, and this is when composition is set, because without countermeasures roughly 15 to 40 percent of what you lose can be lean mass. [3] The plateau is where weight settles. The off-ramp, whether a cold stop or a gradual taper, is where appetite returns: in the STEP 1 trial extension people regained about two-thirds of their lost weight within a year of stopping semaglutide, and since roughly 65 percent of users discontinue within twelve months, most people reach this phase. [1] [2] Maintenance is the ending, and it splits in two. If you preserved muscle on the way down, you arrive with more metabolically active tissue and more reserve. If you did not, weight can return as fat while muscle stays low, the pattern that trends toward sarcopenic obesity. [4] The muscle you build during the loss phase is the reserve you spend later.
+The diagram above traces the journey in four phases. During active loss the medication suppresses appetite and weight falls fast, and this is when composition is set, because without countermeasures anywhere from about 15 percent to 40 to 60 percent of what you lose can be lean mass. [3] The plateau is where weight settles. The off-ramp, whether a cold stop or a gradual taper, is where appetite returns: in the STEP 1 trial extension people regained about two-thirds of their lost weight within a year of stopping semaglutide, and since roughly 65 percent of users discontinue within twelve months, most people reach this phase. [1] [2] Maintenance is the ending, and it splits in two. If you preserved muscle on the way down, you arrive with more metabolically active tissue and more reserve. If you did not, weight can return as fat while muscle stays low, the pattern that trends toward sarcopenic obesity. [4] The muscle you build during the loss phase is the reserve you spend later.
 
 ## Honest limits
 
@@ -3995,7 +3995,7 @@ Macros and fiber. The macro row sets protein at 1.6 g/kg, fat at 25 percent of t
 
 Meal timing on a small appetite. The same distribution logic is why the meal planner lets you spread the target across three to five meals: dividing protein into moderate servings through the day supports muscle better than concentrating it in one or two large meals, which is hard to eat anyway when a GLP-1 has cut your hunger. [6] On low-appetite days, eat protein first, front-load it earlier when hunger is highest, use liquid sources like a shake or Greek yogurt, and keep the biggest meal away from the peak side-effect window after a dose.
 
-The two muscle lines. Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1. [7] The dashed red line models the high end, 40 percent, that occurs without countermeasures. The green band models the outcome with adequate protein and resistance training. Its lower edge, about 2 percent, applies the finding that resistance training offset about 93.5 percent of the lean mass that caloric restriction alone would cost [8]; that result comes from older adults with obesity who were not taking a GLP-1, so it is an extrapolation. Its upper edge, 15 percent, is the lowest lean-mass share reported in GLP-1 trials. The muscle-loss calculator uses the same numbers. These are illustrative projections from published ranges, not a measurement of your body.
+The two muscle lines. Reviews of the trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1. [7] The dashed red line models 40 percent, the model's high end without countermeasures. Some studies report more, up to 60 percent. The green band models the outcome with adequate protein and resistance training. Its lower edge, about 2 percent, applies the finding that resistance training offset about 93.5 percent of the lean mass that caloric restriction alone would cost [8]; that result comes from older adults with obesity who were not taking a GLP-1, so it is an extrapolation. Its upper edge, 15 percent, is the lowest lean-mass share reported in GLP-1 trials. The muscle-loss calculator uses the same numbers. These are illustrative projections from published ranges, not a measurement of your body.
 
 ## Honest limits
 
@@ -4033,7 +4033,7 @@ Spread your daily protein across three to five smaller meals rather than one or 
 
 **Q:** Why does the chart show a line and a band?
 
-Total weight loss is driven by the calorie deficit and is similar either way. What changes is the composition. Without enough protein and resistance training, a large share of the weight lost is lean mass (reviews put it at 15 to 40 percent of GLP-1 weight loss). With adequate protein and resistance training, much of that is spared: a meta-analysis of older adults who were not on a GLP-1 found resistance training offset roughly 93.5 percent of the lean mass that dieting alone would cost, so the best case is shown as a range, not a single point. The red line and green band make that difference visible.
+Total weight loss is driven by the calorie deficit and is similar either way. What changes is the composition. Without enough protein and resistance training, a large share of the weight lost is lean mass (studies put it at anywhere from about 15 percent to 40 to 60 percent of GLP-1 weight loss). With adequate protein and resistance training, much of that is spared: a meta-analysis of older adults who were not on a GLP-1 found resistance training offset roughly 93.5 percent of the lean mass that dieting alone would cost, so the best case is shown as a range, not a single point. The red line and green band make that difference visible.
 
 ## References
 
@@ -4185,7 +4185,7 @@ Free tool
 
 See what the average person lost on Wegovy, Ozempic, Zepbound or Mounjaro in the main trials, applied to your weight. Then see how much of that loss may be muscle, and what changes it.
 
-Short answer. In the main trials, the average adult without diabetes lost 14.9% of body weight on Wegovy over 68 weeks and 15.0 to 20.9% on Zepbound or Mounjaro over 72 weeks. [1,3] People with type 2 diabetes lost less (7.0 to 9.6%). [2] Roughly 15 to 40% of that loss is lean mass, and protein plus resistance training push it toward the low end. [5]
+Short answer. In the main trials, the average adult without diabetes lost 14.9% of body weight on Wegovy over 68 weeks and 15.0 to 20.9% on Zepbound or Mounjaro over 72 weeks. [1,3] People with type 2 diabetes lost less (7.0 to 9.6%). [2] Studies put anywhere from about 15% to 40 to 60% of that loss as lean mass, and protein plus resistance training push it toward the low end. [5]
 
 A trial average, not a prediction. Individual results in every trial ranged widely around these averages. This gives no medical or dosing advice. Your prescriber sets your dose.
 
@@ -4207,7 +4207,7 @@ The calculator applies one number to your weight: the average percent change in 
 
 The placebo figure matters as much as the drug figure. Every arm in these trials, placebo included, received diet and physical activity counseling. Therefore the gap between the two numbers is the drug's effect, and the placebo number is what the lifestyle advice alone produced.
 
-The muscle estimate uses the same model as the site's other calculators. Reviews of the trial data put lean mass (everything that is not fat, mostly muscle plus water and organs) at 15 to 40% of GLP-1 weight loss. [5] The tirzepatide baseline is 26%, the share measured in the SURMOUNT-1 body-composition substudy. [5] The best case applies a resistance-training effect measured in older adults who were dieting without a GLP-1, so it is shown as a range rather than a single number. [6]
+The muscle estimate uses the same model as the site's other calculators. Reviews of the trial data put lean mass (everything that is not fat, mostly muscle plus water and organs) at anywhere from about 15% to 40 to 60% of GLP-1 weight loss, depending on the study. [5] The tirzepatide baseline is 26%, the share measured in the SURMOUNT-1 body-composition substudy. [5] The best case applies a resistance-training effect measured in older adults who were dieting without a GLP-1, so it is shown as a range rather than a single number. [6]
 
 ## Honest limits
 
@@ -4229,7 +4229,7 @@ Ozempic is semaglutide at diabetes doses up to 2 mg. The closest trial figure is
 
 **Q:** How much of GLP-1 weight loss is muscle?
 
-Reviews of the trial data put lean mass at roughly 15 to 40% of the weight lost. Protein of about 1.6 g/kg a day and regular resistance training are the two levers with evidence for moving it toward the low end. The full answer is here.
+Reviews of the trial data put lean mass at anywhere from about 15% to 40 to 60% of the weight lost, depending on the study. Protein of about 1.6 g/kg a day and regular resistance training are the two levers with evidence for moving it toward the low end. The full answer is here.
 
 ## References
 
