@@ -9,17 +9,18 @@
   var M = window.MOG_MODEL; if (!M) return;
 
   // Mean percent change in body weight in the treatment arm, from each trial's
-  // primary publication (cited on the page as refs 1 to 4).
+  // primary publication. `ref` is the trial's number in the page's reference
+  // list (the result links to #ref-N), so renumbering the list means updating it.
   var SCENARIOS = {
     "wegovy":     { label: "Wegovy (semaglutide 2.4 mg)",          trial: "STEP 1",      weeks: 68, pct: 14.9, placebo: 2.4, med: "sema", ref: 1 },
-    "wegovy-7":   { label: "Wegovy 7.2 mg (semaglutide)",          trial: "STEP UP",     weeks: 72, pct: 18.7, placebo: 3.9, med: "sema", ref: 8 },
-    "wegovy-t2d": { label: "Semaglutide 2.4 mg, type 2 diabetes",  trial: "STEP 2",      weeks: 68, pct: 9.6,  placebo: 3.4, med: "sema", ref: 2 },
-    "ozempic-1":  { label: "Semaglutide 1 mg (Ozempic dose), type 2 diabetes", trial: "STEP 2", weeks: 68, pct: 7.0, placebo: 3.4, med: "sema", ref: 2 },
-    "tirz-5":     { label: "Zepbound/Mounjaro (tirzepatide 5 mg)",  trial: "SURMOUNT-1",  weeks: 72, pct: 15.0, placebo: 3.1, med: "tirz", ref: 3 },
-    "tirz-10":    { label: "Zepbound/Mounjaro (tirzepatide 10 mg)", trial: "SURMOUNT-1",  weeks: 72, pct: 19.5, placebo: 3.1, med: "tirz", ref: 3 },
-    "tirz-15":    { label: "Zepbound/Mounjaro (tirzepatide 15 mg)", trial: "SURMOUNT-1",  weeks: 72, pct: 20.9, placebo: 3.1, med: "tirz", ref: 3 },
+    "wegovy-7":   { label: "Wegovy 7.2 mg (semaglutide)",          trial: "STEP UP",     weeks: 72, pct: 18.7, placebo: 3.9, med: "sema", ref: 6 },
+    "wegovy-t2d": { label: "Semaglutide 2.4 mg, type 2 diabetes",  trial: "STEP 2",      weeks: 68, pct: 9.6,  placebo: 3.4, med: "sema", ref: 3 },
+    "ozempic-1":  { label: "Semaglutide 1 mg (Ozempic dose), type 2 diabetes", trial: "STEP 2", weeks: 68, pct: 7.0, placebo: 3.4, med: "sema", ref: 3 },
+    "tirz-5":     { label: "Zepbound/Mounjaro (tirzepatide 5 mg)",  trial: "SURMOUNT-1",  weeks: 72, pct: 15.0, placebo: 3.1, med: "tirz", ref: 2 },
+    "tirz-10":    { label: "Zepbound/Mounjaro (tirzepatide 10 mg)", trial: "SURMOUNT-1",  weeks: 72, pct: 19.5, placebo: 3.1, med: "tirz", ref: 2 },
+    "tirz-15":    { label: "Zepbound/Mounjaro (tirzepatide 15 mg)", trial: "SURMOUNT-1",  weeks: 72, pct: 20.9, placebo: 3.1, med: "tirz", ref: 2 },
     "orfo-36":    { label: "Foundayo (orforglipron 36 mg, pill)", trial: "ATTAIN-1",    weeks: 72, pct: 11.2, placebo: 2.1, med: "other", ref: 9 },
-    "reta-12":    { label: "Retatrutide 12 mg (investigational)",  trial: "Phase 2",     weeks: 48, pct: 24.2, placebo: 2.1, med: "other", ref: 4 }
+    "reta-12":    { label: "Retatrutide 12 mg (investigational)",  trial: "Phase 2",     weeks: 48, pct: 24.2, placebo: 2.1, med: "other", ref: 5 }
   };
   var ORDER = ["ozempic-1", "wegovy-t2d", "orfo-36", "wegovy", "wegovy-7", "tirz-5", "tirz-10", "tirz-15", "reta-12"];
 
