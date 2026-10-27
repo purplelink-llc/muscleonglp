@@ -1490,7 +1490,7 @@ Call your prescriber for constipation that is severe or lasts more than a few da
 
 - Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
 
-- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. dietaryguidelines.gov
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. odphp.health.gov
 
 - van der Schoot A, Drysdale C, Whelan K, Dimidi E. The effect of fiber supplementation on chronic constipation in adults: an updated systematic review and meta-analysis of randomized controlled trials. American Journal of Clinical Nutrition. 2022;116(4):953–969. doi.org/10.1093/ajcn/nqac184
 
@@ -1979,7 +1979,7 @@ Constipation was among the most common side effects in the semaglutide trials, a
 
 - Institute of Medicine. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. National Academies Press; 2005. doi.org/10.17226/10490
 
-- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. dietaryguidelines.gov
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. odphp.health.gov
 
 - Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
 
@@ -2103,11 +2103,11 @@ The key statistics on muscle loss with GLP-1 medications, each cited to publishe
 
 Each chart below is drawn only from the cited figures above, so you can reuse it under the same terms as the numbers. Measured points are marked, and nothing between them is invented.
 
-Lean mass as a share of total weight lost on a GLP-1. Source: Neeland 2024. [1]
+Lean mass as a share of total weight lost on a GLP-1. Source: Neeland 2024. [5]
 
-Average percent weight loss by drug and dose in its main trial. Sources: STEP 1, STEP 2, SURMOUNT-1. [10–12] Apply these to your own weight with the GLP-1 weight loss calculator.
+Average percent weight loss by drug and dose in its main trial. Sources: STEP 1, STEP 2, SURMOUNT-1. [1–17] Apply these to your own weight with the GLP-1 weight loss calculator.
 
-STEP 1 extension: about two thirds of the lost weight returned within a year of stopping semaglutide. Lines join the three measured averages; the path between them was not reported in this form. Source: Wilding 2022. [8] Run your own numbers with the weight-regain calculator.
+STEP 1 extension: about two thirds of the lost weight returned within a year of stopping semaglutide. Lines join the three measured averages; the path between them was not reported in this form. Source: Wilding 2022. [14] Run your own numbers with the weight-regain calculator.
 
 ## How to cite or reuse these figures
 
@@ -2125,13 +2125,25 @@ Want the number scaled to your own weight? The free calculator applies the prote
 
 ## References
 
+- Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
+
+- Wharton S, Freitas P, Hjelmesæth J, et al. Once-weekly semaglutide 7.2 mg in adults with obesity (STEP UP): a randomised, controlled, phase 3b trial. Lancet Diabetes & Endocrinology. 2025;13(11):949–963. doi.org/10.1016/S2213-8587(25)00226-8
+
+- Jastreboff AM, et al. Tirzepatide once weekly for the treatment of obesity (SURMOUNT-1). New England Journal of Medicine. 2022;387:205–216. doi.org/10.1056/NEJMoa2206038
+
+- Wharton S, Aronne LJ, Stefanski A, et al. Orforglipron, an oral small-molecule GLP-1 receptor agonist for obesity treatment (ATTAIN-1). New England Journal of Medicine. 2025;393(18):1796–1806. doi.org/10.1056/NEJMoa2511774
+
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
 - Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
 
 - Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
 
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2025–2030. 2026. realfood.gov
+
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Dodds RM, Syddall HE, Cooper R, et al. Grip strength across the life course: normative data from twelve British studies. PLOS ONE. 2014;9(12):e113637. doi.org/10.1371/journal.pone.0113637
 
 - Investigating nutrient intake during use of GLP-1 receptor agonist: a cross-sectional study. Frontiers in Nutrition. 2025. frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1566498/full
 
@@ -2141,21 +2153,11 @@ Want the number scaled to your own weight? The free calculator applies the prote
 
 - Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. Diabetes, Obesity & Metabolism. 2022. pmc.ncbi.nlm.nih.gov/articles/PMC9542252
 
-- Trends in 1-year persistence and adherence among initiators of weight-loss-indicated GLP-1 receptor agonists. 2024. pmc.ncbi.nlm.nih.gov/articles/PMC12948759
-
-- Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
-
-- Jastreboff AM, et al. Tirzepatide once weekly for the treatment of obesity (SURMOUNT-1). New England Journal of Medicine. 2022;387:205–216. doi.org/10.1056/NEJMoa2206038
-
-- Davies M, et al. Semaglutide 2.4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2). The Lancet. 2021;397:971–984. doi.org/10.1016/S0140-6736(21)00213-0
-
 - Aronne LJ, Sattar N, Horn DB, et al. Continued treatment with tirzepatide for maintenance of weight reduction in adults with obesity: the SURMOUNT-4 randomized clinical trial. JAMA. 2024;331(1):38–48. doi.org/10.1001/jama.2023.24945
 
-- Wharton S, Freitas P, Hjelmesæth J, et al. Once-weekly semaglutide 7.2 mg in adults with obesity (STEP UP): a randomised, controlled, phase 3b trial. Lancet Diabetes & Endocrinology. 2025;13(11):949–963. doi.org/10.1016/S2213-8587(25)00226-8
+- Trends in 1-year persistence and adherence among initiators of weight-loss-indicated GLP-1 receptor agonists. 2024. pmc.ncbi.nlm.nih.gov/articles/PMC12948759
 
-- Dodds RM, Syddall HE, Cooper R, et al. Grip strength across the life course: normative data from twelve British studies. PLOS ONE. 2014;9(12):e113637. doi.org/10.1371/journal.pone.0113637
-
-- Wharton S, Aronne LJ, Stefanski A, et al. Orforglipron, an oral small-molecule GLP-1 receptor agonist for obesity treatment (ATTAIN-1). New England Journal of Medicine. 2025;393(18):1796–1806. doi.org/10.1056/NEJMoa2511774
+- Davies M, et al. Semaglutide 2.4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2). The Lancet. 2021;397:971–984. doi.org/10.1016/S0140-6736(21)00213-0
 
 Citing these figures? A link to this page or the underlying study is appreciated. This page is educational and not medical advice.
 
@@ -2345,7 +2347,7 @@ Keep resistance training and a real protein target in place through the transiti
 
 - Yang H, et al. Sarcopenia-related traits and risk of falls in older adults: results from meta-analysis of cohort studies and Mendelian randomization analyses. Aging Clinical and Experimental Research. 2025;37(1):106. pmc.ncbi.nlm.nih.gov/articles/PMC11946949
 
-- Kasher Meron M, Hornik-Lurie T, Twig G, Rotman-Pikielny P. GLP-1 receptor agonists and the risk of fragility fractures in older adults with type 2 diabetes. Journal of Clinical Endocrinology & Metabolism. 2026;111(7):1949-1958. academic.oup.com/jcem
+- Kasher Meron M, Hornik-Lurie T, Twig G, Rotman-Pikielny P. GLP-1 receptor agonists and the risk of fragility fractures in older adults with type 2 diabetes. Journal of Clinical Endocrinology & Metabolism. 2026;111(7):1949-1958. doi.org/10.1210/clinem/dgag056
 
 - Alfaris N, Kushner RF, Li J, Chen KL, Fenimore M, Calderon B, Stefanski A. Tirzepatide for Obesity in Adults ≥ 65 Years: A Post Hoc Analysis of the SURMOUNT and SUMMIT Clinical Trials. Diabetes, Obesity & Metabolism. 2026. pubmed.ncbi.nlm.nih.gov/42303274
 
@@ -4363,13 +4365,13 @@ Total burn (TDEE). BMR is multiplied by a physical-activity factor (1.2 sedentar
 
 Weight-loss trajectory. The pace-to-deficit conversion uses the classic estimate that about 7,700 kcal equals one kilogram of body weight (3,500 kcal per pound). [3] This is a first approximation. Real loss slows over time as metabolism adapts, so a dynamic model predicts less than a straight line at the far end. [4] Treat the timeline as a planning estimate, not a promise.
 
-Protein target. The 1.6 to 2.2 g/kg range comes from lean-mass research, where benefit to fat-free mass leveled off near 1.6 g/kg. [5] A GLP-1 advisory from four medical societies uses a lower range, 1.2 to 1.6 g/kg, which the calculator shows beside it. People with kidney disease should ask a clinician before raising protein. The target is split across your chosen number of meals because distribution matters more than any single dose. [6]
+Protein target. The 1.6 to 2.2 g/kg range comes from lean-mass research, where benefit to fat-free mass leveled off near 1.6 g/kg. [5] A GLP-1 advisory from four medical societies uses a lower range, 1.2 to 1.6 g/kg, which the calculator shows beside it. The 2025–2030 Dietary Guidelines for Americans set the same 1.2 to 1.6 g/kg a day as their protein goal. [6] People with kidney disease should ask a clinician before raising protein. The target is split across your chosen number of meals because distribution matters more than any single dose. [7]
 
-Macros and fiber. The macro row sets protein at 1.6 g/kg, fat at 25 percent of the calorie target (inside the 20 to 35 percent range the National Academies give for adults), and carbohydrate as what remains. [9] Fiber is 14 g per 1,000 calories, the Dietary Guidelines figure. [10] Fiber matters on a GLP-1 because constipation is one of the most common side effects. Raise it gradually and with fluids, since a sudden jump can worsen bloating.
+Macros and fiber. The macro row sets protein at 1.6 g/kg, fat at 25 percent of the calorie target (inside the 20 to 35 percent range the National Academies give for adults), and carbohydrate as what remains. [8] Fiber is 14 g per 1,000 calories, the Dietary Guidelines figure. [9] Fiber matters on a GLP-1 because constipation is one of the most common side effects. Raise it gradually and with fluids, since a sudden jump can worsen bloating.
 
-Meal timing on a small appetite. The same distribution logic is why the meal planner lets you spread the target across three to five meals: dividing protein into moderate servings through the day supports muscle better than concentrating it in one or two large meals, which is hard to eat anyway when a GLP-1 has cut your hunger. [6] On low-appetite days, eat protein first, front-load it earlier when hunger is highest, use liquid sources like a shake or Greek yogurt, and keep the biggest meal away from the peak side-effect window after a dose.
+Meal timing on a small appetite. The same distribution logic is why the meal planner lets you spread the target across three to five meals: dividing protein into moderate servings through the day supports muscle better than concentrating it in one or two large meals, which is hard to eat anyway when a GLP-1 has cut your hunger. [7] On low-appetite days, eat protein first, front-load it earlier when hunger is highest, use liquid sources like a shake or Greek yogurt, and keep the biggest meal away from the peak side-effect window after a dose.
 
-The two muscle lines. Reviews of the trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1. [7] The dashed red line models 40 percent, the model's high end without countermeasures. Some studies report more, up to 60 percent. The green band models the outcome with adequate protein and resistance training. Its lower edge, about 2 percent, applies the finding that resistance training offset about 93.5 percent of the lean mass that caloric restriction alone would cost [8]; that result comes from older adults with obesity who were not taking a GLP-1, so it is an extrapolation. Its upper edge, 15 percent, is the lowest lean-mass share reported in GLP-1 trials. The muscle-loss calculator uses the same numbers. These are illustrative projections from published ranges, not a measurement of your body.
+The two muscle lines. Reviews of the trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1. [10] The dashed red line models 40 percent, the model's high end without countermeasures. Some studies report more, up to 60 percent. The green band models the outcome with adequate protein and resistance training. Its lower edge, about 2 percent, applies the finding that resistance training offset about 93.5 percent of the lean mass that caloric restriction alone would cost [11]; that result comes from older adults with obesity who were not taking a GLP-1, so it is an extrapolation. Its upper edge, 15 percent, is the lowest lean-mass share reported in GLP-1 trials. The muscle-loss calculator uses the same numbers. These are illustrative projections from published ranges, not a measurement of your body.
 
 ## Honest limits
 
@@ -4421,15 +4423,17 @@ Total weight loss is driven by the calorie deficit and is similar either way. Wh
 
 - Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
 
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2025–2030. 2026. realfood.gov
+
 - Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Journal of the International Society of Sports Nutrition. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
+
+- Institute of Medicine. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. National Academies Press; 2005. doi.org/10.17226/10490
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. odphp.health.gov
 
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
-
-- Institute of Medicine. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. National Academies Press; 2005. doi.org/10.17226/10490
-
-- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. dietaryguidelines.gov
 
 ---
 
@@ -4441,7 +4445,7 @@ Free tool
 
 Tap the foods you eat in a day and watch the total fill toward your protein target. Twenty-three common foods, USDA values, nothing to sign up for.
 
-Short answer. A four-society joint advisory puts protein at about 1.2 to 1.6 g per kilogram of body weight a day during GLP-1 weight loss. [1] For a 90 kg (198 lb) adult that is 108 to 144 g. Chicken breast, cottage cheese and a whey shake each carry 24 to 31 g a serving, so three of them cover most of the low end. [2]
+Short answer. A four-society joint advisory puts protein at about 1.2 to 1.6 g per kilogram of body weight a day during GLP-1 weight loss. [1] The 2025–2030 Dietary Guidelines for Americans use the same range. [2] For a 90 kg (198 lb) adult that is 108 to 144 g. Chicken breast, cottage cheese and a whey shake each carry 24 to 31 g a serving, so three of them cover most of the low end. [3]
 
 ## Protein per serving, 23 common foods
 
@@ -4471,13 +4475,13 @@ Short answer. A four-society joint advisory puts protein at about 1.2 to 1.6 g p
 | Egg, large | 1 egg | 6 g |
 | Almonds | 1 oz (28 g) | 6 g |
 
-Values are approximate figures from USDA FoodData Central; the first thirteen are the same table as in the Protein Playbook. [2] Brands and cuts vary, so a label beats the table when you have one.
+Values are approximate figures from USDA FoodData Central; the first thirteen are the same table as in the Protein Playbook. [3] Brands and cuts vary, so a label beats the table when you have one.
 
 ## How the target is set
 
-The target is your weight in kilograms times 1.2 at the low end and 1.6 at the high end. That is the range the joint advisory from four nutrition and obesity societies gives for adults losing weight on a GLP-1. [1] Strength-training studies find the benefit of extra protein levels off near 1.6 g/kg, so the high end is where more stops helping for most people. [3] If you carry a lot of fat mass, a target scaled to total weight can run high; the calorie, protein and macro calculator shows both ranges side by side.
+The target is your weight in kilograms times 1.2 at the low end and 1.6 at the high end. That is the range the joint advisory from four nutrition and obesity societies gives for adults losing weight on a GLP-1. [1] Strength-training studies find the benefit of extra protein levels off near 1.6 g/kg, so the high end is where more stops helping for most people. [4] If you carry a lot of fat mass, a target scaled to total weight can run high; the calorie, protein and macro calculator shows both ranges side by side.
 
-Spread across the day matters too. About 0.4 g/kg per meal over four meals is a practical way to reach the total without one large plate. [4] People with kidney disease should ask a clinician before raising protein.
+Spread across the day matters too. About 0.4 g/kg per meal over four meals is a practical way to reach the total without one large plate. [5] People with kidney disease should ask a clinician before raising protein.
 
 ## Frequently asked
 
@@ -4500,6 +4504,8 @@ A large egg has about 6 g of protein, according to USDA FoodData Central. Three 
 ## References
 
 - Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2025–2030. 2026. realfood.gov
 
 - U.S. Department of Agriculture, Agricultural Research Service. FoodData Central. fdc.nal.usda.gov
 
