@@ -860,3 +860,14 @@ form#calc.pf { overflow: visible; }
   .references { font-size: 9pt; }
   main::after { content: "Printed from getmuscleonglp.com. Population-based estimates, not medical advice."; display: block; margin-top: 16px; font-size: 9pt; }
 }
+
+/* Muscle-loss calculator: lean mass at risk as three bars on one scale. */
+.risk-bars { margin-top: 18px; display: grid; gap: 10px; }
+.rb-row { display: grid; grid-template-columns: 88px 1fr; align-items: center; gap: 12px; font-size: var(--fs-meta); color: var(--ink-soft); }
+.rb-track { position: relative; height: 14px; border-radius: 999px; background: var(--line); overflow: hidden; }
+.rb-fill { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: var(--accent); transition: width .4s cubic-bezier(.2,.8,.2,1); }
+.rb-span { position: absolute; top: 0; bottom: 0; width: 0; background: var(--accent); opacity: .4; transition: left .4s cubic-bezier(.2,.8,.2,1), width .4s cubic-bezier(.2,.8,.2,1); }
+.rb-fill.rb-bad, .rb-bad + .rb-span { background: #b4483b; }
+.rb-fill.rb-mid, .rb-span.rb-mid { background: #b7791f; }
+.rb-key { margin: 2px 0 0; font-size: var(--fs-meta); color: var(--ink-soft); }
+@media (prefers-reduced-motion: reduce) { .rb-fill, .rb-span { transition: none; } }
