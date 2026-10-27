@@ -149,9 +149,10 @@
   form.addEventListener("change", writeUrl);
 
   // ---- 2c. Carry shared numbers to the other calculators. Once the visitor
-  // has typed something, links on this page to another calculator get the
-  // fields the calculators share (same names everywhere) as a query string,
-  // so the next tool opens with their weight, height and so on. The target's
+  // has typed something (or arrived with numbers in the URL), links on this
+  // page to another calculator get the fields the calculators share (same
+  // names everywhere) as a query string, so the next tool opens with their
+  // weight, height and so on. The target's
   // own restore step ignores fields it does not have and select values it
   // does not offer. Links stay clean until then, for crawlers and for anyone
   // who has not entered anything. The split-dose calculator is left out.
@@ -175,6 +176,9 @@
   }
   form.addEventListener("input", carryLinks);
   form.addEventListener("change", carryLinks);
+  // A page opened with numbers in its URL (a share link, or a link carried
+  // from another calculator) passes them on too, so a chain of tools keeps them.
+  if (restored) document.addEventListener("DOMContentLoaded", carryLinks);
 
   var bar = document.createElement("div");
   bar.className = "calc-share";
