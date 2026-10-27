@@ -973,6 +973,95 @@ No. A scan is a useful data point, not a requirement. A free protein-target calc
 
 ---
 
+# The new Dietary Guidelines (2025–2030) on a GLP-1: what changes for muscle
+
+URL: https://getmuscleonglp.com/learn/dietary-guidelines-2025-glp1/
+Updated: 2026-10-27
+
+Nutrition
+
+The federal guidelines published in January 2026 set protein at 1.2 to 1.6 g per kilogram of body weight a day, the same range GLP-1 nutrition experts already use. Here is what changed, what it means on a small appetite, and what the guidelines leave out.
+
+## Key takeaways
+
+- The 2025–2030 Dietary Guidelines set protein serving goals of 1.2 to 1.6 g per kg of body weight a day, and say to prioritize protein foods at every meal. [1]
+
+- That is the same range a 2025 joint advisory recommends during GLP-1 weight loss, so federal guidance and GLP-1 guidance now agree. [2]
+
+- It is well above the long-standing reference intake of 0.8 g/kg, which was set to prevent deficiency, not to protect muscle during weight loss. [3]
+
+- The guidelines do not mention GLP-1 medications, and they give no fiber number, only “prioritize fiber-rich whole grains.” [1]
+
+The Dietary Guidelines for Americans are the federal government’s nutrition advice, updated every five years by the Departments of Agriculture and Health and Human Services. The 2025–2030 edition is short, ten pages, and built around eating whole foods and cutting highly processed ones. For anyone on a GLP-1 medication, one line in it matters more than the rest: the protein target.
+
+## What the guidelines say about protein
+
+The guidelines set “protein serving goals: 1.2–1.6 grams of protein per kilogram of body weight per day, adjusting as needed based on your individual caloric requirements,” under the heading “Prioritize Protein Foods at Every Meal.” They list animal sources (eggs, poultry, seafood and red meat) and plant sources (beans, peas, lentils, nuts, seeds and soy). [1] For a 70 kg (154 lb) adult, the range works out to 84 to 112 g of protein a day.
+
+That is a large step up from the familiar reference figure. The National Academies set the recommended dietary allowance for adults at 0.8 g/kg a day, a level meant to prevent deficiency in most healthy people. [3] It was never a target for keeping muscle while losing weight.
+
+## Why it lines up with GLP-1 advice
+
+A 2025 joint advisory from four nutrition and obesity societies on nutrition during GLP-1 therapy recommends about 1.2 to 1.6 g/kg a day during active weight loss. [2] A dose-response meta-analysis of resistance-training studies found that extra protein kept improving gains in lean mass up to about 1.6 g/kg a day, after which more added little. [4] The federal range now sits in the same place.
+
+The guidelines also say to eat protein “at every meal”. That matches the research on meal distribution, which suggests spreading protein across meals rather than packing it into one. One review proposes about 0.4 g/kg a meal over at least four meals to reach about 1.6 g/kg a day. [5] On a GLP-1, where meals get small, putting the protein first on the plate is the practical version of that advice.
+
+## The parts that are harder on a small appetite
+
+Most serving goals in the guidelines are written for a 2,000-calorie pattern, “adjusting as needed based on your individual caloric requirements”: three servings of dairy, three of vegetables, two of fruit and two to four of whole grains a day. [1] Many people on a GLP-1 eat well under 2,000 calories, so all of these shrink, except protein, which the guidelines set by body weight rather than calories. That makes protein a larger share of a smaller plate, which is the same conclusion the GLP-1 macros guide reaches.
+
+The guidelines recommend full-fat dairy with no added sugars. Dairy is one of the easiest protein sources when appetite is low; plain Greek yogurt and cottage cheese carry 17 to 28 g a serving. Full-fat versions add calories, which can help someone struggling to eat enough, or work against someone close to a calorie ceiling.
+
+For older adults, the guidelines note that some “need fewer calories but still require equal or greater amounts of key nutrients such as protein, vitamin B12, vitamin D, and calcium.” [1] That describes many older people on a GLP-1: appetite falls, but the protein needed to protect muscle does not.
+
+## Fiber, sugar and fat
+
+The 2025–2030 edition gives no fiber number. It says to prioritize fiber-rich whole grains and to eat vegetables and fruits. [1] The National Academies’ adequate intake of about 14 g of fiber per 1,000 calories is still the usual numeric target, [3] and on a GLP-1, where constipation is common, the fiber guide covers how to reach it.
+
+The guidelines also say saturated fat should generally not exceed 10 percent of daily calories, that one meal should contain no more than 10 grams of added sugars, and to avoid sugar-sweetened drinks. [1] None of these conflicts with protecting muscle.
+
+## Protein is half of it
+
+The guidelines are about food. Keeping muscle during weight loss also depends on training. In a meta-analysis of older adults losing weight through caloric restriction, resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [6] Protein in the guidelines’ range supplies the material; training supplies the signal to keep the muscle.
+
+## What the guidelines do not say
+
+The guidelines do not mention GLP-1 medications, weight-loss drugs or muscle loss, so applying them to someone on a GLP-1 is an inference, not their stated purpose. Their protein range is for the general population; people with kidney disease should ask a clinician before raising protein. And the guidelines themselves advise anyone with a chronic disease to talk with a health care professional about adapting them. [1]
+
+## The bottom line
+
+For years, people on a GLP-1 were told to eat well above the 0.8 g/kg reference intake, on the strength of specialist advice. The 2025–2030 Dietary Guidelines now put the federal protein goal at the same 1.2 to 1.6 g/kg. On a small appetite, that means protein first at every meal, and resistance training alongside it.
+
+## Frequently asked
+
+**Q:** How much protein do the 2025–2030 Dietary Guidelines recommend?
+
+They set protein serving goals of 1.2 to 1.6 grams per kilogram of body weight per day, adjusted for individual calorie needs, and say to prioritize protein foods at every meal. That is 84 to 112 g a day for a 70 kg (154 lb) adult, and well above the long-standing 0.8 g/kg reference intake.
+
+**Q:** Do the new Dietary Guidelines say anything about GLP-1 medications?
+
+No. The guidelines do not mention GLP-1 medications such as Ozempic, Wegovy, Zepbound or Foundayo. Their protein range happens to match the 1.2 to 1.6 g/kg that a 2025 joint advisory on nutrition during GLP-1 therapy recommends, so the two now agree.
+
+**Q:** Do the 2025–2030 Dietary Guidelines set a fiber target?
+
+Not as a number. They say to prioritize fiber-rich whole grains, with 2 to 4 servings of whole grains a day, and to eat vegetables and fruits. The adequate intake set by the National Academies, about 14 g of fiber per 1,000 calories, is still the usual numeric target.
+
+## References
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2025–2030. 2026. realfood.gov
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- Institute of Medicine. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. National Academies Press; 2005. doi.org/10.17226/10490
+
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+
+- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution. Journal of the International Society of Sports Nutrition. 2018;15:10. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+---
+
 # How to fuel workouts on a GLP-1 when you are barely hungry
 
 URL: https://getmuscleonglp.com/learn/fuel-workouts-glp1/
