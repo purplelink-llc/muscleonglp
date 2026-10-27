@@ -12,6 +12,7 @@
   // primary publication (cited on the page as refs 1 to 4).
   var SCENARIOS = {
     "wegovy":     { label: "Wegovy (semaglutide 2.4 mg)",          trial: "STEP 1",      weeks: 68, pct: 14.9, placebo: 2.4, med: "sema", ref: 1 },
+    "wegovy-7":   { label: "Wegovy 7.2 mg (semaglutide)",          trial: "STEP UP",     weeks: 72, pct: 18.7, placebo: 3.9, med: "sema", ref: 8 },
     "wegovy-t2d": { label: "Semaglutide 2.4 mg, type 2 diabetes",  trial: "STEP 2",      weeks: 68, pct: 9.6,  placebo: 3.4, med: "sema", ref: 2 },
     "ozempic-1":  { label: "Semaglutide 1 mg (Ozempic dose), type 2 diabetes", trial: "STEP 2", weeks: 68, pct: 7.0, placebo: 3.4, med: "sema", ref: 2 },
     "tirz-5":     { label: "Zepbound/Mounjaro (tirzepatide 5 mg)",  trial: "SURMOUNT-1",  weeks: 72, pct: 15.0, placebo: 3.1, med: "tirz", ref: 3 },
@@ -19,7 +20,7 @@
     "tirz-15":    { label: "Zepbound/Mounjaro (tirzepatide 15 mg)", trial: "SURMOUNT-1",  weeks: 72, pct: 20.9, placebo: 3.1, med: "tirz", ref: 3 },
     "reta-12":    { label: "Retatrutide 12 mg (investigational)",  trial: "Phase 2",     weeks: 48, pct: 24.2, placebo: 2.1, med: "other", ref: 4 }
   };
-  var ORDER = ["ozempic-1", "wegovy-t2d", "wegovy", "tirz-5", "tirz-10", "tirz-15", "reta-12"];
+  var ORDER = ["ozempic-1", "wegovy-t2d", "wegovy", "wegovy-7", "tirz-5", "tirz-10", "tirz-15", "reta-12"];
 
   var errBox = $("calcError"), liveBox = $("liveSummary"), liveTimer = null;
 

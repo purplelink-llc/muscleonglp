@@ -4425,7 +4425,7 @@ Average percent weight loss in each trial's treatment arm. Sources: STEP 1, STEP
 
 ## How this calculator works
 
-The calculator applies one number to your weight: the average percent change in the treatment arm of each drug's main trial. STEP 1 tested semaglutide 2.4 mg (Wegovy) in 1,961 adults without diabetes for 68 weeks. [1] STEP 2 tested semaglutide 1 mg and 2.4 mg in adults with type 2 diabetes for 68 weeks. [2] SURMOUNT-1 tested tirzepatide 5, 10 and 15 mg (Zepbound, Mounjaro) in adults without diabetes for 72 weeks. [3] The retatrutide figure comes from a 48-week phase 2 trial of a drug that is not yet approved. [4]
+The calculator applies one number to your weight: the average percent change in the treatment arm of each drug's main trial. STEP 1 tested semaglutide 2.4 mg (Wegovy) in 1,961 adults without diabetes for 68 weeks. [1] STEP 2 tested semaglutide 1 mg and 2.4 mg in adults with type 2 diabetes for 68 weeks. [2] SURMOUNT-1 tested tirzepatide 5, 10 and 15 mg (Zepbound, Mounjaro) in adults without diabetes for 72 weeks. [3] STEP UP tested the higher 7.2 mg semaglutide dose against 2.4 mg and placebo in adults with obesity and without diabetes for 72 weeks: 18.7 percent average loss on 7.2 mg, 15.6 percent on 2.4 mg and 3.9 percent on placebo. [8] The retatrutide figure comes from a 48-week phase 2 trial of a drug that is not yet approved. [4]
 
 The placebo figure matters as much as the drug figure. Every arm in these trials, placebo included, received diet and physical activity counseling. Therefore the gap between the two numbers is the drug's effect, and the placebo number is what the lifestyle advice alone produced.
 
@@ -4468,3 +4468,5 @@ Reviews of the trial data put lean mass at anywhere from about 15% to 40 to 60% 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
 - Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. Diabetes, Obesity & Metabolism. 2022. doi.org/10.1111/dom.14725
+
+- Wharton S, Freitas P, Hjelmesæth J, et al. Once-weekly semaglutide 7.2 mg in adults with obesity (STEP UP): a randomised, controlled, phase 3b trial. Lancet Diabetes & Endocrinology. 2025;13(11):949–963. doi.org/10.1016/S2213-8587(25)00226-8
