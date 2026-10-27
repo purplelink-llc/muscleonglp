@@ -3210,6 +3210,8 @@ The result is a diet that is high in deficit and low in the two inputs, protein 
 
 Not necessarily, and this is where honest sources and alarmist ones part ways. Several short-to-mid-term GLP-1 trials found that grip strength held steady even as lean mass fell. But "lean mass" on a DXA scan includes water and organ tissue, not just contractile muscle, so a drop on the scan is an imperfect proxy for how strong you are. Longer-term research in older adults tells a more cautious story, with reports of reduced strength and function. [8]
 
+A 2026 MRI analysis from the STEP UP trial adds a detail a scale cannot see. In 55 adults followed for 72 weeks, compared with placebo, semaglutide cut fat tissue by about 11 litres more and reduced the fat infiltrating the thigh muscle, while thigh muscle volume fell by about 1.1 litres more, a difference that did not reach statistical significance. Sit-to-stand repetitions held up (about 13 in 30 seconds at the start, 15 at the end, across both groups). [11] It is a small subgroup, and only six people were on placebo, so treat it as an early signal rather than a settled answer.
+
 The practical reading: do not panic over a lean-mass number in isolation, and do not assume you are fine just because you feel the same at month three. Track what you can actually load in a few basic movements over time. Strength is the outcome that matters, and it is the one you can defend.
 
 ## What actually protects your muscle
@@ -3271,6 +3273,8 @@ Yes, the pattern applies across the class. Ozempic and Wegovy are semaglutide; M
 - LEAN Mass Preservation With Resistance Exercise and Protein During Semaglutide/Tirzepatide (LEAN-PREP). ClinicalTrials.gov NCT06885736. clinicaltrials.gov/study/NCT06885736
 
 - Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. Diabetes, Obesity & Metabolism. 2022. pmc.ncbi.nlm.nih.gov/articles/PMC9542252
+
+- Hjelmesæth J, et al. Effect of semaglutide on thigh skeletal muscle volume, fat infiltration and physical function in people with obesity: secondary analysis of STEP UP. Diabetes, Obesity & Metabolism. 2026. doi.org/10.1111/dom.71323
 
 ---
 
