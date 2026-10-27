@@ -1083,7 +1083,7 @@ There are now two GLP-1 pills for weight management. Here is what each trial fou
 
 - Neither trial reported body composition. Training and protein protect muscle on either pill.
 
-Both pills act on the GLP-1 receptor, the same target as the injections. The Wegovy pill is semaglutide, the molecule in Ozempic and Wegovy injections, taken by mouth once a day; the FDA approved it for weight management in December 2025. [4] Foundayo is orforglipron, a small molecule rather than a peptide, also once a day; the FDA approved it in April 2026. [6]
+Both pills act on the GLP-1 receptor, the same target as the injections. The Wegovy pill is semaglutide, the molecule in Ozempic and Wegovy injections, taken by mouth once a day; the FDA approved it for weight management in December 2025. [4] Foundayo is orforglipron, a small molecule rather than a peptide, also once a day; the FDA approved it in April 2026. [6,7]
 
 ## What each trial found
 
@@ -1105,9 +1105,9 @@ This is the practical difference most people notice. The Wegovy pill has to be t
 
 ## What is known about muscle
 
-Neither trial's published abstract reports body composition, so the share of weight lost as lean mass is unmeasured for both pills. [1,2] The closest guide for the Wegovy pill is injectable semaglutide, the same molecule: in the STEP 1 DXA substudy of 140 people, fat mass fell 19.3 percent and lean mass 9.7 percent over 68 weeks. [7] There is no equivalent data for orforglipron yet. Our Foundayo and muscle article covers what is known.
+Neither trial's published abstract reports body composition, so the share of weight lost as lean mass is unmeasured for both pills. [1,2] The closest guide for the Wegovy pill is injectable semaglutide, the same molecule: in the STEP 1 DXA substudy of 140 people, fat mass fell 19.3 percent and lean mass 9.7 percent over 68 weeks. [8] There is no equivalent data for orforglipron yet. Our Foundayo and muscle article covers what is known.
 
-On either pill, the two levers with the strongest evidence are the same. In a meta-analysis of older adults losing weight through caloric restriction, resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [8] A 2025 joint advisory on nutrition during GLP-1 treatment recommends about 1.2 to 1.6 g of protein per kg of body weight a day, [9] the same range the 2025–2030 Dietary Guidelines set for everyone. [10]
+On either pill, the two levers with the strongest evidence are the same. In a meta-analysis of older adults losing weight through caloric restriction, resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [9] A 2025 joint advisory on nutrition during GLP-1 treatment recommends about 1.2 to 1.6 g of protein per kg of body weight a day, [10] the same range the 2025–2030 Dietary Guidelines set for everyone. [11]
 
 ## What the evidence does not say
 
@@ -1142,6 +1142,8 @@ Probably some, like every GLP-1 medication, but neither pill's main trial report
 - FDA approves Wegovy pill, the first oral GLP-1 to treat obesity. Healio Endocrinology. December 23, 2025. healio.com
 
 - FDA approves orforglipron, first GLP-1 pill without time, food or water restrictions. Pharmacy Times. April 1, 2026. pharmacytimes.com
+
+- U.S. Food and Drug Administration. FDA approves first new molecular entity under National Priority Voucher program (orforglipron, Foundayo). Press announcement, April 1, 2026. fda.gov
 
 - FDA approves orforglipron, an oral GLP-1 for adults with obesity. Healio Endocrinology. April 1, 2026. healio.com
 
@@ -3208,15 +3210,15 @@ Orforglipron is the GLP-1 pill the FDA approved in April 2026. Its main trial re
 
 ## Key takeaways
 
-- The FDA approved orforglipron as Foundayo on April 1, 2026, for chronic weight management. It is a once-daily pill with no food or water restrictions. [1,2]
+- The FDA approved orforglipron as Foundayo on April 1, 2026, for chronic weight management. It is a once-daily pill with no food or water restrictions. [1,2,3]
 
-- In the ATTAIN-1 trial, the 36 mg dose produced 11.2 percent average weight loss over 72 weeks, against 2.1 percent on placebo, counting everyone assigned a dose. [3]
+- In the ATTAIN-1 trial, the 36 mg dose produced 11.2 percent average weight loss over 72 weeks, against 2.1 percent on placebo, counting everyone assigned a dose. [4]
 
 - ATTAIN-1 reported no body-composition (DXA) data, and we found no published orforglipron lean-mass study as of October 2026. The muscle share of its weight loss is unknown.
 
-- In trials of injectable GLP-1s, lean mass has made up roughly 15 to 40 percent or more of the weight lost. [4] There is no reason yet to expect a pill to differ.
+- In trials of injectable GLP-1s, lean mass has made up roughly 15 to 40 percent or more of the weight lost. [5] There is no reason yet to expect a pill to differ.
 
-- Resistance training and enough protein protect muscle regardless of which GLP-1 caused the deficit. [5,6]
+- Resistance training and enough protein protect muscle regardless of which GLP-1 caused the deficit. [6,7]
 
 Orforglipron is a GLP-1 receptor agonist, the same drug class as semaglutide (Ozempic, Wegovy), but it is a small molecule rather than a peptide (a short protein chain). That is what lets it work as a pill taken at any time of day, without the fasting rules that oral semaglutide carries. It acts on one receptor, GLP-1, where tirzepatide (Mounjaro, Zepbound) acts on two.
 
@@ -3224,17 +3226,17 @@ For someone who wants to keep muscle, the question is the same as for any GLP-1:
 
 ## How much weight does orforglipron produce?
 
-ATTAIN-1 randomized 3,127 adults with obesity and without diabetes to orforglipron 6 mg, 12 mg or 36 mg once daily, or placebo, for 72 weeks. Counting everyone assigned a dose, average weight change was −7.5 percent on 6 mg, −8.4 percent on 12 mg and −11.2 percent on 36 mg, against −2.1 percent on placebo. On 36 mg, 54.6 percent of people lost at least 10 percent of their weight and 18.4 percent lost at least 20 percent. [3] Among people who stayed on the highest dose, the average was 12.4 percent. [1]
+ATTAIN-1 randomized 3,127 adults with obesity and without diabetes to orforglipron 6 mg, 12 mg or 36 mg once daily, or placebo, for 72 weeks. Counting everyone assigned a dose, average weight change was −7.5 percent on 6 mg, −8.4 percent on 12 mg and −11.2 percent on 36 mg, against −2.1 percent on placebo. On 36 mg, 54.6 percent of people lost at least 10 percent of their weight and 18.4 percent lost at least 20 percent. [4] Among people who stayed on the highest dose, the average was 12.4 percent. [2]
 
-For comparison, semaglutide 2.4 mg averaged 14.9 percent over 68 weeks in STEP 1, and tirzepatide 15 mg averaged 20.9 percent over 72 weeks in SURMOUNT-1. [7,8] These are separate trials with different populations, not a head-to-head comparison, so the gap is a rough guide rather than a measured difference.
+For comparison, semaglutide 2.4 mg averaged 14.9 percent over 68 weeks in STEP 1, and tirzepatide 15 mg averaged 20.9 percent over 72 weeks in SURMOUNT-1. [8,9] These are separate trials with different populations, not a head-to-head comparison, so the gap is a rough guide rather than a measured difference.
 
-Side effects were mostly gastrointestinal and mild to moderate. Adverse events led 5.3 to 10.3 percent of people on orforglipron to stop, against 2.7 percent on placebo. [3]
+Side effects were mostly gastrointestinal and mild to moderate. Adverse events led 5.3 to 10.3 percent of people on orforglipron to stop, against 2.7 percent on placebo. [4]
 
 ## What the body-composition data shows
 
-None has been published. The ATTAIN-1 abstract reports weight, waist circumference, blood pressure and blood lipids, but not fat mass or lean mass. [3] A search of PubMed in October 2026 turned up no orforglipron study measuring body composition with DXA (a low-dose X-ray scan that separates fat, lean tissue and bone).
+None has been published. The ATTAIN-1 abstract reports weight, waist circumference, blood pressure and blood lipids, but not fat mass or lean mass. [4] A search of PubMed in October 2026 turned up no orforglipron study measuring body composition with DXA (a low-dose X-ray scan that separates fat, lean tissue and bone).
 
-The injectable GLP-1s give the closest guide. A review of the trial data put lean mass at anywhere from about 15 percent to 40 percent or more of the weight lost, depending on the drug, the population and how it was measured. [4] In the tirzepatide SURMOUNT-1 DXA substudy, about a quarter of the weight lost was lean mass. [9] Orforglipron works through the same receptor as semaglutide, so a similar range is a reasonable working assumption. It is still an assumption until someone scans people taking it.
+The injectable GLP-1s give the closest guide. A review of the trial data put lean mass at anywhere from about 15 percent to 40 percent or more of the weight lost, depending on the drug, the population and how it was measured. [5] In the tirzepatide SURMOUNT-1 DXA substudy, about a quarter of the weight lost was lean mass. [10] Orforglipron works through the same receptor as semaglutide, so a similar range is a reasonable working assumption. It is still an assumption until someone scans people taking it.
 
 ## A smaller loss still puts muscle at stake
 
@@ -3244,7 +3246,7 @@ The appetite effect matters as much as the size of the loss. A GLP-1 pill suppre
 
 ## What still protects your muscle, regardless of the drug
 
-The two levers with the strongest evidence do not depend on the medication. In a meta-analysis of older adults losing weight through caloric restriction, resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [5] A dose-response meta-analysis found that protein up to about 1.6 grams per kilogram of body weight a day kept improving resistance-training gains. [6] A 2025 joint advisory on nutrition during GLP-1 treatment recommends about 1.2 to 1.6 g/kg a day. [10] These findings come from broader weight-loss and training studies rather than orforglipron trials, but they are the best evidence available.
+The two levers with the strongest evidence do not depend on the medication. In a meta-analysis of older adults losing weight through caloric restriction, resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [6] A dose-response meta-analysis found that protein up to about 1.6 grams per kilogram of body weight a day kept improving resistance-training gains. [7] A 2025 joint advisory on nutrition during GLP-1 treatment recommends about 1.2 to 1.6 g/kg a day. [11] These findings come from broader weight-loss and training studies rather than orforglipron trials, but they are the best evidence available.
 
 A strength baseline is the easiest way to see whether it is working. The free muscle strength check compares grip and a timed chair stand with adults your age, and retesting every four weeks shows the trend that the scale cannot.
 
@@ -3271,6 +3273,8 @@ In ATTAIN-1, adults with obesity and without diabetes lost an average of 11.2 pe
 Yes. The FDA approved orforglipron for chronic weight management on April 1, 2026, under the brand name Foundayo, for adults with obesity, or overweight with at least one weight-related condition. It is a once-daily pill that can be taken without food or water restrictions.
 
 ## References
+
+- U.S. Food and Drug Administration. FDA approves first new molecular entity under National Priority Voucher program (orforglipron, Foundayo). Press announcement, April 1, 2026. fda.gov
 
 - FDA approves orforglipron, an oral GLP-1 for adults with obesity. Healio Endocrinology. April 1, 2026. healio.com
 
