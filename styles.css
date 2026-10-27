@@ -841,3 +841,19 @@ form#calc.pf { overflow: visible; }
 @media (min-width: 1100px) { .pf-total { top: 66px; } }
 @media (max-width: 420px) { .pf-b { width: 36px; height: 38px; } .pf-in { width: 36px; } .pf-row { padding: 9px 8px; } }
 .pf .pf-actions, .pf .calc-share { display: inline-flex; vertical-align: middle; margin: 14px 10px 0 0; }
+
+/* Calculator printout ("Print for your appointment" in calc-ui.js): the form
+   and the results, on white, with the page URL so the numbers can be checked.
+   Everything that is not the reader's own numbers or the method is dropped. */
+@media print {
+  .nav, footer, .skip-link, .ad-slot, .adsbygoogle, .gear, .inline-capture, .calc-share, .pf-actions,
+  .related-reading, .faq-list, .price-card-featured .seg-b[aria-checked="false"], .calc-example-note, .chart-card table + div { display: none !important; }
+  body, .price-card, form#calc.price-card, .calc-stat, .pf-total, .chart-card { background: #fff !important; color: #000 !important; box-shadow: none !important; }
+  .calc-n, .pf-big, .calc-l, .calc-label, h1, h2, p, li, td, th { color: #000 !important; }
+  .calc-in, .seg, .pf-step { border: 1px solid #999 !important; background: #fff !important; }
+  .article-hero { padding: 0 !important; }
+  .section { padding: 8px 0 !important; }
+  .calc-stat { border: 1px solid #ccc; break-inside: avoid; }
+  .references { font-size: 9pt; }
+  main::after { content: "Printed from getmuscleonglp.com. Population-based estimates, not medical advice."; display: block; margin-top: 16px; font-size: 9pt; }
+}

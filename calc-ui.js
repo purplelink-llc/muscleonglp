@@ -152,8 +152,15 @@
   bar.className = "calc-share";
   bar.innerHTML =
     '<button type="button" class="calc-share-b">Copy link to these results</button>' +
+    '<button type="button" class="calc-share-b calc-print-b">Print for your appointment</button>' +
     '<span class="calc-share-s" role="status" aria-live="polite"></span>';
   var btn = bar.querySelector("button"), status = bar.querySelector("span");
+  // A one-page printout (print CSS in styles.css drops the nav, ads, sign-up
+  // and gear blocks) for people who want to take their numbers to a clinician.
+  bar.querySelector(".calc-print-b").addEventListener("click", function () {
+    if (window.mogTrack) window.mogTrack("calc_print", tool);
+    window.print();
+  });
   var clearT = null;
   btn.addEventListener("click", function () {
     var url = stateUrl();
