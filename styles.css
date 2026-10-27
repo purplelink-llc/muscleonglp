@@ -764,3 +764,38 @@ main:has(.guide-hero) .wrap.center > p, main:has(.guide-hero) .evidence-note { m
 main:has(.guide-hero) .finalcta .wrap.center { text-align: center; }
 main:has(.guide-hero) .finalcta .wrap.center > * { margin-left: auto; margin-right: auto; }
 main:has(.guide-hero) .faq-list, main:has(.guide-hero) .wrap.center > .lead { max-width: 64ch; }
+
+/* Calculator refresh (2026-10-27). The input card was a 2px green outline with a
+   55px green glow, the loudest object on the page, louder than the results it
+   produces. It is now a flat tone step, so the eye lands on the numbers. Short
+   choices (units, sex, meals) are segmented buttons drawn by calc-ui.js; the
+   real <select> stays hidden in the form. Results lead with the number, set
+   large and tight, the label below in the UI face. */
+form#calc.price-card { background: var(--bg-alt); border: 0; box-shadow: none; border-radius: var(--radius-lg); }
+form#calc .calc-in { border-width: 1px; border-color: transparent; background: var(--bg); min-height: 46px; transition: border-color .15s ease; }
+form#calc .calc-in:hover { border-color: var(--line); }
+form#calc .calc-in:focus { border-color: var(--accent-text); box-shadow: 0 0 0 3px rgba(47,111,94,.15); }
+form#calc .calc-label { font-size: 0.86rem; color: var(--ink-soft); font-weight: 600; }
+.seg { display: flex; flex: 0 0 auto; gap: 2px; padding: 3px; background: var(--line); border-radius: 12px; min-height: 46px; box-sizing: border-box; }
+.seg-b { flex: 1 1 0; min-width: 40px; padding: 8px 10px; border: 0; border-radius: 9px; background: transparent; color: var(--ink-soft); font: inherit; font-size: 0.92rem; font-weight: 600; cursor: pointer; transition: background-color .18s ease, color .18s ease; white-space: nowrap; }
+.seg-b:hover { color: var(--ink); }
+.seg-b[aria-checked="true"] { background: var(--bg); color: var(--ink); }
+.seg-b:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 1px; }
+.calc-grid > div:has(> .seg) .seg { width: 100%; }
+/* A select that stays a select holds a long option ("Light (1-3 days/week)");
+   on a wide card it takes two columns so the choice is readable, not cut. */
+@media (min-width: 640px) { .calc-grid > div:has(> select.calc-in:not([hidden])) { grid-column: span 2; } }
+.calc-stat { border-radius: 14px; padding: 16px 18px 14px; gap: 6px; }
+.calc-n { font-size: clamp(1.45rem, 1.2rem + 1vw, 1.9rem); font-weight: 700; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.calc-share { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; margin-top: 18px; }
+.calc-share-b { padding: 10px 16px; border: 0; border-radius: 999px; background: var(--bg); color: var(--accent-text-strong); font: inherit; font-size: 0.9rem; font-weight: 650; cursor: pointer; }
+.calc-share-b:hover { background: var(--accent-light); }
+.calc-share-s { font-size: var(--fs-meta); color: var(--ink-soft); overflow-wrap: anywhere; }
+.calc-example-note { border: 0; }
+@media (prefers-color-scheme: dark) {
+  form#calc.price-card { background: #172420; }
+  .seg { background: #26352f; }
+  .seg-b[aria-checked="true"] { background: #101613; }
+  .calc-share-b { background: #101613; }
+}
+@media (prefers-reduced-motion: reduce) { .seg-b, form#calc .calc-in { transition: none; } }
