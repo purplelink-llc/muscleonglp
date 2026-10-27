@@ -62,7 +62,7 @@ export default async function handler(request) {
   const now = Date.now();
   const summary = {
     rangeDays: days,
-    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, affiliateClicks: 0, calcRuns: 0, calcShares: 0, events: 0 },
+    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, affiliateClicks: 0, calcRuns: 0, calcShares: 0, calcPrints: 0, calcEmails: 0, events: 0 },
     affiliateByProduct: {}, affiliateByPath: {},
     byPath: {},
     byReferrer: {},
@@ -139,6 +139,12 @@ export default async function handler(request) {
         // "Copy link to these results" (calc-ui.js): a result worth sending to someone.
         summary.totals.calcShares++;
         bump(summary.shareByTool, rec.meta || pathToTool(rec.path));
+      } else if (rec.type === "calc_print") {
+        // "Print for your appointment": numbers someone took to a clinician.
+        summary.totals.calcPrints++;
+      } else if (rec.type === "calc_email") {
+        // "Email to myself" (calc-ui.js): results kept for later.
+        summary.totals.calcEmails++;
       }
     }
     summary.byDay[day].uniques = uniquesPerDay[day].size;
