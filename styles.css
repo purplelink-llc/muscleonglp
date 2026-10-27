@@ -932,3 +932,6 @@ form#calc.pf { overflow: visible; }
 .price-compare td { text-align: center; }
 .price-compare .pc-yes { color: var(--accent-text); font-weight: 650; }
 .price-compare .pc-no { color: var(--ink-soft); }
+.pf-filters { display: flex; flex-wrap: wrap; gap: 6px; margin: 16px 0 0; }
+.pf-filters .learn-filter { padding: 7px 13px; font-size: 0.85rem; }
+.pf-row[hidden] { display: none; }
