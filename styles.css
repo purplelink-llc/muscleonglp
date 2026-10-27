@@ -133,7 +133,7 @@ img { max-width: 100%; display: block; }
 .hero { position: relative; overflow: hidden; background:
    radial-gradient(1200px 500px at 80% -10%, #eafaf4 0%, rgba(234,250,244,0) 60%),
    linear-gradient(180deg, #fbfdfc 0%, #ffffff 100%); }
-.hero-grid { display: grid; grid-template-columns: 1fr 0.95fr; gap: 56px; align-items: center; padding: clamp(48px, 7vw, 92px) 0; }
+.hero-grid { display: grid; grid-template-columns: 1fr 0.95fr; gap: 56px; align-items: center; padding-block: clamp(48px, 7vw, 92px); }
 .hero h1 { font-size: clamp(2.3rem, 5vw, 3.7rem); }
 .hero .lead { margin-top: 22px; }
 .hero-stat { margin: 0 0 16px; font-size: 1.15rem; line-height: 1.5; color: var(--ink-soft); max-width: 40ch; }
@@ -157,7 +157,11 @@ img { max-width: 100%; display: block; }
 .hero-badge { position: absolute; bottom: -16px; left: -8px; z-index: 3; background: #fff; border: 1px solid var(--line); border-radius: 14px; padding: 14px 20px; box-shadow: var(--shadow-md); display: flex; align-items: center; gap: 12px; }
 .hero-badge .n { font-size: 2.0rem; font-weight: 800; color: var(--accent-text); font-family: var(--font-display); line-height: 1; }
 .hero-badge .l { font-size: 0.8rem; color: var(--ink-soft); line-height: 1.25; }
-@media (max-width: 900px) { .hero-grid { grid-template-columns: 1fr; gap: 40px; } .hero-visual { order: -1; } }
+/* Below 900px the hero stacks. The headline, stat and buttons come first and
+   the cover follows at a smaller size: with the cover first, a phone visitor's
+   whole first screen was the book cover, the h1 started at 878px, and the
+   average homepage visit lasted 6 seconds (GA4, Sep 29 to Oct 26, 2026). */
+@media (max-width: 900px) { .hero-grid { grid-template-columns: 1fr; gap: 40px; } .hero-cover { width: min(280px, 72vw); } }
 @media (max-width: 520px) { .hero-page-2 { display: none; } }
 
 /* Credibility band */
