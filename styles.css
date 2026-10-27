@@ -799,3 +799,45 @@ form#calc .calc-label { font-size: 0.86rem; color: var(--ink-soft); font-weight:
   .calc-share-b { background: #101613; }
 }
 @media (prefers-reduced-motion: reduce) { .seg-b, form#calc .calc-in { transition: none; } }
+
+/* Protein food calculator. The running total is the hero, set large and kept
+   in view while the list scrolls (sticky inside the form on every width).
+   The bar shows the target as a band, not a finish line: under, in, over. */
+.pf-weight { max-width: 280px; }
+.pf-total { position: sticky; top: 0; z-index: 2; background: var(--bg-alt); margin: 14px -24px 0; padding: 12px 24px 12px; }
+.pf-big { margin: 0; font-family: var(--font-display); font-size: clamp(2.6rem, 2rem + 2.4vw, 3.6rem); font-weight: 700; line-height: 0.95; letter-spacing: -0.035em; color: var(--accent-text); font-variant-numeric: tabular-nums; }
+.pf-big small { font-size: 0.42em; letter-spacing: 0; color: var(--ink-soft); font-weight: 600; }
+.pf-of { margin: 4px 0 10px; color: var(--ink-soft); font-size: var(--fs-body); }
+.pf-of span { color: var(--ink); font-weight: 650; }
+.pf-bar { position: relative; height: 10px; border-radius: 999px; background: var(--line); overflow: hidden; }
+.pf-fill { position: absolute; inset: 0 auto 0 0; width: 0; background: var(--accent); border-radius: 999px; transition: width .35s cubic-bezier(.2,.8,.2,1); z-index: 1; }
+.pf-band { position: absolute; top: 0; bottom: 0; background: var(--accent-light); opacity: .9; }
+.pf-left { margin: 8px 0 0; font-size: var(--fs-meta); color: var(--ink-soft); min-height: 1.3em; }
+.pf-hit .pf-left { color: var(--accent-text); font-weight: 650; }
+.pf-list { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 4px; }
+.pf-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 12px; border-radius: 12px; transition: background-color .18s ease; }
+.pf-row.on { background: var(--bg); }
+.pf-name { display: flex; flex-direction: column; min-width: 0; }
+.pf-name label { font-weight: 600; font-size: 0.97rem; }
+.pf-name small { color: var(--ink-soft); font-size: var(--fs-meta); }
+.pf-name small b { color: var(--accent-text); font-weight: 650; }
+.pf-step { display: flex; align-items: center; gap: 2px; flex: 0 0 auto; background: var(--line); border-radius: 12px; padding: 3px; }
+.pf-b { width: 40px; height: 40px; border: 0; border-radius: 9px; background: var(--bg); color: var(--ink); font: inherit; font-size: 1.25rem; font-weight: 600; line-height: 1; cursor: pointer; }
+.pf-b:hover { color: var(--accent-text); }
+.pf-b:active { transform: scale(.94); }
+.pf-b:focus-visible, .pf-in:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 1px; }
+.pf-in { width: 46px; height: 40px; border: 0; background: transparent; color: var(--ink); text-align: center; font: inherit; font-weight: 650; font-variant-numeric: tabular-nums; -moz-appearance: textfield; }
+.pf-in::-webkit-outer-spin-button, .pf-in::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+.pf-actions { margin-top: 14px; }
+@media (prefers-color-scheme: dark) {
+  .pf-total { background: #172420; }
+  .pf-step { background: #26352f; }
+  .pf-b { background: #101613; }
+  .pf-row.on { background: #101613; }
+  .pf-band { background: #2a4a40; }
+}
+@media (prefers-reduced-motion: reduce) { .pf-fill, .pf-row { transition: none; } .pf-b:active { transform: none; } }
+form#calc.pf { overflow: visible; }
+@media (min-width: 1100px) { .pf-total { top: 66px; } }
+@media (max-width: 420px) { .pf-b { width: 36px; height: 38px; } .pf-in { width: 36px; } .pf-row { padding: 9px 8px; } }
+.pf .pf-actions, .pf .calc-share { display: inline-flex; vertical-align: middle; margin: 14px 10px 0 0; }

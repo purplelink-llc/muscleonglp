@@ -3821,6 +3821,58 @@ Total weight loss is driven by the calorie deficit and is similar either way. Wh
 
 ---
 
+# Protein food calculator
+
+URL: https://getmuscleonglp.com/protein-food-calculator/
+
+Free tool
+
+Tap the foods you eat in a day and watch the total fill toward your protein target. Thirteen common foods, USDA values, nothing to sign up for.
+
+Short answer. A four-society joint advisory puts protein at about 1.2 to 1.6 g per kilogram of body weight a day during GLP-1 weight loss. [1] For a 90 kg (198 lb) adult that is 108 to 144 g. Chicken breast, cottage cheese and a whey shake each carry 24 to 31 g a serving, so three of them cover most of the low end. [2]
+
+## Protein per serving, 13 common foods
+
+FoodServingProtein Chicken breast, cooked100 g (3.5 oz)31 g Lean ground beef (93%), cooked100 g (3.5 oz)26 g Salmon, cooked100 g (3.5 oz)25 g Canned tuna, drained100 g (3.5 oz)25 g Shrimp, cooked100 g (3.5 oz)24 g Cottage cheese, low-fat1 cup (226 g)28 g Whey protein powder1 scoop (about 30 g)24 g Lentils, cooked1 cup (198 g)18 g Edamame, shelled1 cup18 g Greek yogurt, plain nonfat170 g (3/4 cup)17 g Tofu, firm100 g17 g Milk1 cup (240 mL)8 g Egg, large1 egg6 g
+
+Values are approximate figures from USDA FoodData Central, as compiled in the Protein Playbook. [2] Brands and cuts vary, so a label beats the table when you have one.
+
+## How the target is set
+
+The target is your weight in kilograms times 1.2 at the low end and 1.6 at the high end. That is the range the joint advisory from four nutrition and obesity societies gives for adults losing weight on a GLP-1. [1] Strength-training studies find the benefit of extra protein levels off near 1.6 g/kg, so the high end is where more stops helping for most people. [3] If you carry a lot of fat mass, a target scaled to total weight can run high; the calorie and protein calculator shows both ranges side by side.
+
+Spread across the day matters too. About 0.4 g/kg per meal over four meals is a practical way to reach the total without one large plate. [4] People with kidney disease should ask a clinician before raising protein.
+
+## Frequently asked
+
+**Q:** How much protein do I need on a GLP-1?
+
+A four-society joint advisory on nutrition during GLP-1 therapy puts the target at about 1.2 to 1.6 grams of protein per kilogram of body weight a day during active weight loss. For a 90 kg (198 lb) person that is roughly 108 to 144 grams. People with kidney disease should ask a clinician before raising protein.
+
+**Q:** Which foods have the most protein per serving?
+
+Per 100 g cooked, chicken breast has about 31 g, lean ground beef 26 g, and salmon, canned tuna and shrimp 24 to 25 g. A cup of low-fat cottage cheese has about 28 g and a scoop of whey about 24 g. Values are from USDA FoodData Central and vary by brand and preparation.
+
+**Q:** How do I hit a protein target with a small appetite?
+
+Split the target over three to five small meals, eat the protein first, and use soft or liquid sources (Greek yogurt, cottage cheese, milk, a whey shake) on low-appetite days. The builder above shows how quickly those add up.
+
+**Q:** How much protein is in an egg?
+
+A large egg has about 6 g of protein, according to USDA FoodData Central. Three eggs come to about 18 g, which is why eggs work better as one part of a meal than as the whole protein source.
+
+## References
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- U.S. Department of Agriculture, Agricultural Research Service. FoodData Central. fdc.nal.usda.gov
+
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+
+- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Journal of the International Society of Sports Nutrition. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
+
+---
+
 # GLP-1 split dose calculator
 
 URL: https://getmuscleonglp.com/split-dose-calculator/
