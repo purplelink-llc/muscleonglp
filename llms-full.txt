@@ -1280,6 +1280,85 @@ It is a reference to published labeling, not medical advice. It does not recomme
 
 ---
 
+# GLP-1 essentials: the gear that helps you keep muscle
+
+URL: https://getmuscleonglp.com/learn/glp1-essentials/
+Updated: 2026-10-27
+
+Gear
+
+Most "Ozempic essentials" lists are about nausea and injections. This one is about the other job: keeping muscle while the weight comes off. Four habits matter, and a few tools make each one easier.
+
+The links on this page go to Amazon search results. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. No brand paid to be listed, and nothing here is required: the habits matter, not the gear.
+
+Roughly 15 to 40 percent of the weight lost on a GLP-1 is lean mass. [1] Two levers have evidence for moving that toward the low end: enough protein and regular resistance training. [2,3] A third, tracking strength rather than only weight, tells you whether the first two are working.
+
+## Protein on a small appetite
+
+A four-society GLP-1 nutrition advisory puts protein at about 1.2 to 1.6 g per kilogram a day. [2] On a suppressed appetite the hard part is volume, so the useful tools make protein measurable and easy to drink. The protein food calculator shows how a day adds up.
+
+- A digital kitchen scale turns a protein target in grams into something you can measure on the plate.
+
+- Unflavored whey isolate adds about 24 g of protein to yogurt, oats or soup without another meal.
+
+- Clear whey isolate drinks like juice, which many people find easier than a thick shake on nausea days.
+
+- A shaker bottle makes a fast serving when solid food will not go down.
+
+## Resistance training at home
+
+In older adults dieting without a GLP-1, resistance training offset most of the lean mass that calorie restriction alone would cost. [3] It does not need a gym. Bands and a pair of adjustable dumbbells cover every pattern in the no-gym plan. Creatine adds to training rather than replacing it, and the ISSN found no evidence of harm in healthy people at studied intakes. [4]
+
+- A set of resistance bands covers rows, presses and curls at home or while traveling.
+
+- Adjustable dumbbells let you keep adding load in small steps, which is what keeps muscle growing.
+
+- Creatine monohydrate is the best-studied supplement for adding lean mass alongside training; 3 to 5 g a day is the usual intake.
+
+## Tracking strength, not only weight
+
+The European sarcopenia criteria lead with muscle strength, often measured as grip strength, because function is what muscle loss costs you. [5] A grip test and a tape measure catch changes the bathroom scale cannot. The home tests article explains how to use them.
+
+- A digital hand dynamometer measures grip strength, the function test the sarcopenia criteria use.
+
+- A body-composition smart scale shows the weight trend and a rough lean-mass trend between scans.
+
+- A retractable tape measure tracks waist and arm size, which water swings do not distort.
+
+## Fiber and fluids
+
+Constipation was among the most common side effects of semaglutide in the STEP 1 trial. [6] The dietary target is about 14 g of fiber per 1,000 calories, raised gradually with fluids; the macros article covers why.
+
+- Psyllium husk powder adds soluble fiber when food falls short. Start small and drink water with it.
+
+- A large water bottle makes fluids easy to track, which matters more as fiber goes up.
+
+## Frequently asked
+
+**Q:** What are the GLP-1 essentials for keeping muscle?
+
+Three habits do most of the work: enough protein (about 1.2 to 1.6 g per kilogram a day), resistance training two or more times a week, and a way to track strength rather than only weight. The gear on this page makes each of those easier. None of it is required.
+
+**Q:** Do I need supplements on a GLP-1?
+
+No supplement replaces protein from food and resistance training. Protein powder is a convenience for hitting a target on a small appetite. Creatine has the strongest evidence of any supplement for lean mass alongside training. Ask a clinician first if you have kidney disease.
+
+## References
+
+- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Kreider RB, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. Journal of the International Society of Sports Nutrition. 2017. pmc.ncbi.nlm.nih.gov/articles/PMC5469049
+
+- Cruz-Jentoft AJ, Bahat G, Bauer J, et al. Sarcopenia: revised European consensus on definition and diagnosis. Age and Ageing. 2019;48(1):16-31. academic.oup.com/ageing/article/48/1/16/5126243
+
+- Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
+
+---
+
 # High-protein GLP-1 meal plan: a sample day with grams
 
 URL: https://getmuscleonglp.com/learn/glp1-high-protein-meal-plan/
