@@ -315,6 +315,11 @@ img { max-width: 100%; display: block; }
 /* Success-page delivery of that same bonus, once it's actually been paid for. */
 .bonus-box { margin-top: 24px; padding: 22px 24px; background: var(--accent-light); border: 1.5px dashed var(--accent); border-radius: var(--radius); }
 .bonus-box-label { font-size: 0.72rem; font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; color: var(--accent-text-strong); margin-bottom: 6px; }
+/* Post-purchase "first week" steps on the Tracker success pages. The success
+   pages are centred, so the list is set left-aligned inside its own card. */
+.next-box { margin-top: 24px; padding: 22px 24px; background: var(--bg-alt); border: 1px solid var(--line); border-radius: var(--radius); text-align: left; }
+.next-box-title { font-weight: 700; font-size: 1.05rem; margin-bottom: 10px; }
+.next-box ol { margin: 0; padding-left: 1.3em; display: grid; gap: 8px; color: var(--ink-soft); }
 .bonus-box-title { font-weight: 700; font-size: 1.05rem; margin-bottom: 16px; }
 .checkout-status { text-align: center; margin-top: 14px; min-height: 1.3em; font-size: 0.95rem; color: var(--ink-soft); }
 /* Two-step assent (checkout.js): the first click relabels the button as the
