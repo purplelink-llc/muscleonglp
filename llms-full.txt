@@ -4557,7 +4557,7 @@ Free tool
 
 Two tests you can do at home, compared with the cut-offs clinicians use for low muscle strength. Run it every four weeks on a GLP-1 and watch the trend, not the scale.
 
-Short answer. The European sarcopenia consensus flags low muscle strength at a grip below 27 kg in men or 16 kg in women, or a five-times chair stand slower than 15 seconds. [1] Strength is worth tracking on a GLP-1 because a meaningful share of the weight lost can be lean mass. [3]
+Short answer. The European sarcopenia consensus flags low muscle strength at a grip below 27 kg in men or 16 kg in women, or a five-times chair stand slower than 15 seconds. [1] Strength is worth tracking on a GLP-1 because a meaningful share of the weight lost can be lean mass. [2]
 
 A screening check, not a diagnosis. Being below a cut-off is a reason to talk with a clinician, not a verdict. Stop a test if anything hurts, and skip the chair stand if standing up is unsafe for you.
 
@@ -4571,11 +4571,11 @@ Keep the numbers somewhere. A trend needs a record. Note today's grip and chair-
 
 Grip strength. Use a hand dynamometer. Stand, arm at your side with the elbow bent at a right angle, and squeeze as hard as you can for a few seconds. Do three squeezes with your stronger hand and record the best. Use the same hand and the same device every time, because readings differ between devices.
 
-Five-times chair stand. Sit in a standard chair with your back against it and your arms crossed over your chest. Time five full stands, sitting back down each time, as fast as you safely can. The test needs no equipment and gives highly consistent results from one session to the next. [2]
+Five-times chair stand. Sit in a standard chair with your back against it and your arms crossed over your chest. Time five full stands, sitting back down each time, as fast as you safely can. The test needs no equipment and gives highly consistent results from one session to the next. [3]
 
 ## Grip strength by age
 
-Grip peaks in the thirties and falls with each decade after that. The figures below come from 60,803 grip measurements in twelve British studies. [5] The median is the typical value for that age, and the 10th centile is the reading that only one adult in ten of that age falls below.
+Grip peaks in the thirties and falls with each decade after that. The figures below come from 60,803 grip measurements in twelve British studies. [4] The median is the typical value for that age, and the 10th centile is the reading that only one adult in ten of that age falls below.
 
 Grip strength in kilograms by age and sex: median and 10th centile
 
@@ -4590,19 +4590,19 @@ Grip strength in kilograms by age and sex: median and 10th centile
 | 80 | 32 kg | 23 kg | 19 kg | 13 kg |
 | 90 | 25 kg | 16 kg | 14 kg | 9 kg |
 
-The chair stand has age references too, though only from 60 up. A meta-analysis of 13 papers on older adults put the average time for five stands at 11.4 seconds for ages 60 to 69, 12.6 seconds for 70 to 79, and 14.8 seconds for 80 to 89. Slower than that is worse than average for the age group. [8]
+The chair stand has age references too, though only from 60 up. A meta-analysis of 13 papers on older adults put the average time for five stands at 11.4 seconds for ages 60 to 69, 12.6 seconds for 70 to 79, and 14.8 seconds for 80 to 89. Slower than that is worse than average for the age group. [5]
 
 The calculator above uses the full grip table (every fifth year, five centiles) and places your reading between the two nearest ages. A centile is a comparison with other people. The comparison that matters most on a GLP-1 is with your own earlier readings.
 
 ## What the cut-offs mean
 
-The European Working Group on Sarcopenia in Older People (EWGSOP2) leads with low muscle strength when it screens for sarcopenia, and grip strength or the chair stand is how it measures that. [1] The cut-offs were set for older adults. A younger person can sit well above them and still be losing strength, which is why the change since your last reading is often the more useful number. On a GLP-1, resistance training and enough protein are the two levers with evidence for holding onto muscle. [3,4]
+The European Working Group on Sarcopenia in Older People (EWGSOP2) leads with low muscle strength when it screens for sarcopenia, and grip strength or the chair stand is how it measures that. [1] The cut-offs were set for older adults. A younger person can sit well above them and still be losing strength, which is why the change since your last reading is often the more useful number. On a GLP-1, resistance training and enough protein are the two levers with evidence for holding onto muscle. [2,6]
 
 ## What happens to grip strength on semaglutide
 
-On average, not much. A 2026 meta-analysis pooled ten studies with 660 people on semaglutide and found a grip change of −0.16 kg, too small to tell apart from no change (95% confidence interval −1.98 to 1.65 kg). [6] However, the studies disagreed widely: the range expected for a new study ran from about 6 kg lost to 6 kg gained. The authors rated the evidence very low certainty, mostly because the studies had no comparison group. An average near zero therefore says little about you. Retesting every four weeks shows which side of that range you are on.
+On average, not much. A 2026 meta-analysis pooled ten studies with 660 people on semaglutide and found a grip change of −0.16 kg, too small to tell apart from no change (95% confidence interval −1.98 to 1.65 kg). [7] However, the studies disagreed widely: the range expected for a new study ran from about 6 kg lost to 6 kg gained. The authors rated the evidence very low certainty, mostly because the studies had no comparison group. An average near zero therefore says little about you. Retesting every four weeks shows which side of that range you are on.
 
-A 2026 study in Cell Reports Medicine points the same way. In obese mice, GLP-1 medicines lowered absolute muscle mass and strength but raised strength relative to body weight, and the mice ran better. In a small proof-of-concept trial, patients with obesity improved their body composition without losing strength. [7] Strength relative to body weight can rise while the absolute number falls, so watch both.
+A 2026 study in Cell Reports Medicine points the same way. In obese mice, GLP-1 medicines lowered absolute muscle mass and strength but raised strength relative to body weight, and the mice ran better. In a small proof-of-concept trial, patients with obesity improved their body composition without losing strength. [8] Strength relative to body weight can rise while the absolute number falls, so watch both.
 
 ## Frequently asked
 
@@ -4622,16 +4622,16 @@ Every four weeks is enough to see a trend without chasing day-to-day noise. Use 
 
 - Cruz-Jentoft AJ, Bahat G, Bauer J, et al. Sarcopenia: revised European consensus on definition and diagnosis. Age and Ageing. 2019;48(1):16-31. academic.oup.com/ageing/article/48/1/16/5126243
 
-- Muñoz-Bermejo L, Adsuar JC, Mendoza-Muñoz M, et al. Test-retest reliability of five times sit to stand test (FTSST) in adults: a systematic review and meta-analysis. Biology. 2021;10(6):510. pmc.ncbi.nlm.nih.gov/articles/PMC8228261
-
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
-- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+- Muñoz-Bermejo L, Adsuar JC, Mendoza-Muñoz M, et al. Test-retest reliability of five times sit to stand test (FTSST) in adults: a systematic review and meta-analysis. Biology. 2021;10(6):510. pmc.ncbi.nlm.nih.gov/articles/PMC8228261
 
 - Dodds RM, Syddall HE, Cooper R, et al. Grip strength across the life course: normative data from twelve British studies. PLOS ONE. 2014;9(12):e113637. doi.org/10.1371/journal.pone.0113637
+
+- Bohannon RW. Reference values for the five-repetition sit-to-stand test: a descriptive meta-analysis of data from elders. Perceptual and Motor Skills. 2006;103(1):215-222. doi.org/10.2466/pms.103.1.215-222
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
 - Machado LG, Siedschlag Schmidt PH, Tasca Petroski G, et al. Changes in muscle strength following semaglutide treatment in adults: a systematic review with meta-analysis of handgrip strength. Diabetes, Obesity & Metabolism. 2026. doi.org/10.1111/dom.71432
 
 - Langer HT, Gilmore NK, Hayden CMT, et al. Weight loss with GLP-1 medicines does not result in a disproportionate loss of muscle mass or function in obese mice and humans. Cell Reports Medicine. 2026;7(3):102665. doi.org/10.1016/j.xcrm.2026.102665
-
-- Bohannon RW. Reference values for the five-repetition sit-to-stand test: a descriptive meta-analysis of data from elders. Perceptual and Motor Skills. 2006;103(1):215-222. doi.org/10.2466/pms.103.1.215-222
