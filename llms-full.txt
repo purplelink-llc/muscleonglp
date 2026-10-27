@@ -1526,7 +1526,7 @@ Prioritize hitting your total daily protein target inside whatever window you ea
 # GLP-1s and knee osteoarthritis pain: what the trial actually showed
 
 URL: https://getmuscleonglp.com/learn/glp1-knee-osteoarthritis-pain/
-Updated: 2026-07-24
+Updated: 2026-10-27
 
 Evidence review
 
@@ -1535,6 +1535,8 @@ A large randomized trial found semaglutide reduced knee osteoarthritis pain in p
 ## Key takeaways
 
 - In a 68-week randomized trial of 407 adults with obesity and moderate knee osteoarthritis, semaglutide reduced WOMAC pain scores by 41.7 points versus 27.5 on placebo, alongside 13.7 percent versus 3.2 percent weight loss. [1]
+
+- A second trial (TRIUMPH-1, retatrutide, 574 adults with knee osteoarthritis) also found less pain than placebo at 80 weeks, with a large placebo improvement as well. [12]
 
 - The mechanical explanation is strong on its own: each kilogram of body weight lost is associated with roughly a fourfold reduction in compressive force on the knee during walking. [2]
 
@@ -1565,6 +1567,8 @@ At week 68, body weight fell 13.7 percent in the semaglutide group and 3.2 perce
 Two details of that population matter more than they usually get credit for. First, everyone in the trial had obesity, with a mean BMI of 40.3. This is not evidence about knee pain in people at a normal weight who happen to take a GLP-1. Second, the osteoarthritis was moderate by imaging. People with severe, bone-on-bone joint destruction were not the population studied.
 
 The placebo group is also worth sitting with. It improved by 27.5 points, roughly two-thirds as much as the semaglutide group, on a self-reported pain scale, in a trial where both arms received lifestyle intervention. Pain outcomes are subjective and respond to attention, expectation, and the passage of time. The between-group difference is what the trial establishes; the total improvement in the treatment arm is not all attributable to the drug.
+
+A second randomized trial now points the same way. TRIUMPH-1, a Phase 3 trial of the investigational triple agonist retatrutide published in the New England Journal of Medicine in September 2026, included a subgroup of 574 adults with obesity and knee osteoarthritis followed for 80 weeks. On that trial's WOMAC pain score (which the authors describe as ranging from 1 to 10), pain fell 3.5 points on 9 mg and 3.6 points on 12 mg, against 1.9 points on placebo, differences of 1.6 and 1.8 points under the trial's primary analysis for this subgroup. [12] The pattern matches STEP 9: a real between-group difference on top of a large placebo improvement, in people losing a lot of weight. Retatrutide is not approved for any use, so this finding tells you about the drug class rather than about a treatment you can get today.
 
 ## How much of it is the weight, and how much is the drug
 
@@ -1659,6 +1663,8 @@ No. These medications are approved for weight management and for type 2 diabetes
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
 - Prokopidis K. Glucagon-like peptide-1 receptor agonists and muscle strength changes in older adults: risks beyond muscle mass reductions. British Journal of Pharmacology. 2026. pubmed.ncbi.nlm.nih.gov/41577337
+
+- Jastreboff AM, Kaplan LM, Davies MJ, et al. Retatrutide, a triple hormone receptor agonist, for treatment of obesity (TRIUMPH-1). New England Journal of Medicine. Published online September 29, 2026. nejm.org/doi/10.1056/NEJMoa2604169
 
 ---
 
