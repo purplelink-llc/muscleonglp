@@ -4830,6 +4830,10 @@ Ozempic is semaglutide at diabetes doses up to 2 mg. The closest trial figure is
 
 Orforglipron, sold as Foundayo, is a once-daily GLP-1 pill. In the ATTAIN-1 trial, adults with obesity and without diabetes lost an average of 11.2% of body weight over 72 weeks on 36 mg, 8.4% on 12 mg and 7.5% on 6 mg, against 2.1% on placebo. [9]
 
+**Q:** How much weight do people lose on the Wegovy pill?
+
+The Wegovy pill is semaglutide taken by mouth once a day. In the OASIS 4 trial, adults without diabetes on oral semaglutide 25 mg lost an average of 13.6% of body weight over 64 weeks, against 2.2% on placebo. It is taken on an empty stomach, with a 30-minute wait before eating. [10]
+
 **Q:** How much of GLP-1 weight loss is muscle?
 
 Reviews of the trial data put lean mass at anywhere from about 15% to 40 to 60% of the weight lost, depending on the study. Protein of about 1.6 g/kg a day and regular resistance training are the two levers with evidence for moving it toward the low end. The full answer is here.
@@ -4853,6 +4857,8 @@ Reviews of the trial data put lean mass at anywhere from about 15% to 40 to 60% 
 - Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. Diabetes, Obesity & Metabolism. 2022. doi.org/10.1111/dom.14725
 
 - Wharton S, Aronne LJ, Stefanski A, et al. Orforglipron, an oral small-molecule GLP-1 receptor agonist for obesity treatment (ATTAIN-1). New England Journal of Medicine. 2025;393(18):1796–1806. doi.org/10.1056/NEJMoa2511774
+
+- Wharton S, Lingvay I, Bogdanski P, et al. Oral semaglutide at a dose of 25 mg in adults with overweight or obesity (OASIS 4). New England Journal of Medicine. 2025;393(11):1077–1087. doi.org/10.1056/NEJMoa2500969
 
 ---
 
