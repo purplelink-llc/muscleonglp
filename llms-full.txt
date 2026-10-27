@@ -2574,6 +2574,12 @@ These are common plant (and a few vegetarian dairy and egg) protein sources with
 
 One notable gap: USDA's food composition database does not carry a generic entry for seitan (wheat gluten), only branded products, so no verified number appears here. Seitan is genuinely high in protein per serving on most labels, but it is not a complete protein on its own; it is very low in lysine, which is exactly the amino acid legumes tend to be rich in. If seitan is part of your diet, pair it with beans or lentils rather than counting on it alone.
 
+## What a protein quality score (PDCAAS) does and does not tell you
+
+The protein digestibility-corrected amino acid score (PDCAAS) is the method FAO/WHO adopted for rating protein quality. It compares a protein's scarcest essential amino acid with a reference pattern, then corrects for how much of the protein is digested. [9] Scores above 1.0 are cut to 1.0, so the scale cannot separate two proteins that both clear it. The same review argues the cut-off should not be used when a protein is one part of a mixed diet, and that by a fuller comparison milk proteins come out ahead of plant proteins in cereal-based diets. [9]
+
+In practice the score matters less than the blend. A single plant protein usually runs short on one amino acid (pea on methionine, rice on lysine), which lowers its score. Eating two that cover each other, across a meal or a day, fixes the gap the score is measuring. A newer method, DIAAS, uses digestibility measured at the end of the small intestine rather than in stool; the review notes that stool-based correction overstates a protein's value. [9]
+
 ## Building a day that actually hits the number
 
 The mechanics are the same ones that work for any GLP-1 user, applied to a smaller effective serving size per food. Our main protein article recommends spreading intake across at least four meals at roughly 0.4 g/kg per meal to reliably reach a daily target of 1.6 g/kg. [1] On a plant-based diet, each of those meals needs a protein anchor, not a garnish: a full cup of legumes or a serving of tofu or tempeh, not a sprinkle of nuts on a salad.
@@ -2606,6 +2612,10 @@ Research reviews report a smaller muscle protein synthesis response to plant-bas
 
 Soy foods (tofu, tempeh, edamame, soy milk) are the standout because soy protein is complete on its own. Lentils, chickpeas, and black beans are dense in protein and fiber and pair naturally with rice or another grain to cover amino acid gaps. A soy or pea-and-rice protein powder is the most efficient option on the hardest appetite days, since it requires no chewing and delivers a concentrated, mostly complete serving.
 
+**Q:** What is a good PDCAAS for plant protein?
+
+PDCAAS rates protein quality on a scale capped at 1.0. Single plant proteins usually score below the cap because each runs short on one essential amino acid, such as methionine in pea or lysine in rice. Combining sources that cover each other, like a pea and rice blend, closes that gap. The cap means the score cannot separate proteins that both reach it.
+
 ## References
 
 - Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
@@ -2623,6 +2633,8 @@ Soy foods (tofu, tempeh, edamame, soy milk) are the standout because soy protein
 - Christensen S, Robinson K, Thomas S, Williams DR. Dietary intake by patients taking GLP-1 and dual GIP/GLP-1 receptor agonists: a narrative review and discussion of research needs. Obesity Pillars. 2024;11:100121. pmc.ncbi.nlm.nih.gov/articles/PMC11340591
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Schaafsma G. The protein digestibility-corrected amino acid score. Journal of Nutrition. 2000;130(7):1865S–1867S. doi.org/10.1093/jn/130.7.1865S
 
 ---
 
