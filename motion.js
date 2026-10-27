@@ -152,7 +152,23 @@
     });
   };
 
-  const run = () => { initReveal(); initBar(); };
+  // Chart bars grow from their axis the first time a figure scrolls into view.
+  // Charts below the fold only; skipped entirely under reduced motion.
+  const initChartGrow = () => {
+    if (reduce.matches || !('IntersectionObserver' in window)) return;
+    const charts = [...doc.querySelectorAll('figure svg')].filter((s) => s.querySelector('rect')
+      && s.getBoundingClientRect().top > innerHeight * 0.92);
+    if (!charts.length) return;
+    const io = new IntersectionObserver((entries) => {
+      entries.filter((e) => e.isIntersecting).forEach((e) => {
+        io.unobserve(e.target);
+        e.target.setAttribute('data-grow-in', '');
+      });
+    }, { rootMargin: '0px 0px -12% 0px' });
+    charts.forEach((s) => { s.setAttribute('data-grow', ''); io.observe(s); });
+  };
+
+  const run = () => { initReveal(); initBar(); initChartGrow(); };
   if (doc.readyState === 'loading') doc.addEventListener('DOMContentLoaded', run);
   else run();
 })();
