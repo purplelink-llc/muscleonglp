@@ -380,7 +380,7 @@ The same 25 to 30 grams can arrive in several formats. Match the format to your 
 
 Protein supplies the raw material. Resistance training is the signal that tells your body to keep muscle while you lose weight, and protein without training does far less. [6] Plan the shake for the meals your appetite will skip, and pair the week with two or three strength sessions. The best exercises to preserve muscle covers that half.
 
-A shake also does not set your daily target. The joint advisory from four medical societies suggests 1.2 to 1.6 g/kg a day during active GLP-1 weight loss. [4] The calorie and protein calculator turns that into grams, and the protein timing guide shows how to split it across a small appetite.
+A shake also does not set your daily target. The joint advisory from four medical societies suggests 1.2 to 1.6 g/kg a day during active GLP-1 weight loss. [4] The calorie, protein and macro calculator turns that into grams, and the protein timing guide shows how to split it across a small appetite.
 
 ## Frequently asked
 
@@ -584,7 +584,7 @@ Most people on a GLP-1 who train consistently and hit their protein target shoul
 
 ## What the two proven levers still are
 
-Whether your personal ceiling is preservation or modest recomposition, the levers that move you toward it have not changed. Progressive resistance training two to four times a week, hitting your major muscle groups and adding load or reps over time, is the intervention with the most consistent evidence behind it. [6] Protein intake in the 1.6 to 2.2 g/kg range, the point beyond which a large pooled analysis found added protein stopped improving training outcomes, is the second. [7] Our guide to the best exercises for preserving muscle covers exactly which movements to prioritize, and our calorie and protein calculator can estimate your personal target based on your weight and goals.
+Whether your personal ceiling is preservation or modest recomposition, the levers that move you toward it have not changed. Progressive resistance training two to four times a week, hitting your major muscle groups and adding load or reps over time, is the intervention with the most consistent evidence behind it. [6] Protein intake in the 1.6 to 2.2 g/kg range, the point beyond which a large pooled analysis found added protein stopped improving training outcomes, is the second. [7] Our guide to the best exercises for preserving muscle covers exactly which movements to prioritize, and our calorie, protein and macro calculator can estimate your personal target based on your weight and goals.
 
 If a gym is not accessible, that is not a reason to skip training. Our bodyweight training guide covers how to load and progress without equipment, which matters for this question specifically, because the recomposition trials above depended on real training effort, not on any particular piece of equipment.
 
@@ -917,7 +917,7 @@ There is no dedicated clinical trial establishing an ideal scan interval for peo
 
 A DEXA-defined drop in "lean mass" includes water and organ tissue, not only contractile muscle, so even a well-run scan is an imperfect proxy for how strong or functional you are. [5] Clinicians use DEXA-measured appendicular lean mass as part of the formal criteria for diagnosing sarcopenia, [9] which tells you the measurement is clinically meaningful, but a single number below or above a population cutoff still is not the same thing as knowing how you actually perform in daily life.
 
-This is where a scan pairs best with something free: our calorie and protein calculator gives you a starting daily protein target and an estimated composition baseline in a couple of minutes, no appointment or radiation required, and you can pair that with tracking what you can actually lift or carry over time. A periodic scan then becomes a confirming data point on top of that baseline, rather than the only source of information you have.
+This is where a scan pairs best with something free: our calorie, protein and macro calculator gives you a starting daily protein target and an estimated composition baseline in a couple of minutes, no appointment or radiation required, and you can pair that with tracking what you can actually lift or carry over time. A periodic scan then becomes a confirming data point on top of that baseline, rather than the only source of information you have.
 
 ## What the evidence does not say
 
@@ -1020,7 +1020,7 @@ Use this as a starting point and adjust it to your appetite:
 
 - After: a meal or shake with about 25 to 30 grams of protein. A shake that passes the label checklist works when food does not appeal.
 
-- The rest of the day: enough protein to reach your daily target. The calorie and protein calculator gives you the number.
+- The rest of the day: enough protein to reach your daily target. The calorie, protein and macro calculator gives you the number.
 
 ## Frequently asked
 
@@ -1264,7 +1264,7 @@ Neither the release nor the published abstract reports lean mass or muscle outco
 
 This site exists because of what comes off alongside the fat. Reviews of the trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1. [1] That share does not obviously get worse at a higher dose, but the arithmetic still moves: a bigger total loss means a bigger absolute amount of lean tissue in play. Twenty-eight percent of body weight is a great deal of tissue for that fraction to apply to.
 
-The practical reading is not that higher doses are dangerous to muscle. It is that protein intake and resistance training have to scale with whatever the medication is doing, and the faster it works, the less slack there is. Our muscle loss calculator shows how the countermeasures change the share, and the calorie and protein calculator gives you the daily number to aim at.
+The practical reading is not that higher doses are dangerous to muscle. It is that protein intake and resistance training have to scale with whatever the medication is doing, and the faster it works, the less slack there is. Our muscle loss calculator shows how the countermeasures change the share, and the calorie, protein and macro calculator gives you the daily number to aim at.
 
 ## Stalling, and what it does and does not mean
 
@@ -1497,7 +1497,7 @@ WhenFoodProtein BreakfastPlain nonfat Greek yogurt, 6 oz (170 g), with 2 tbsp sm
 
 ## Scale it to your weight
 
-Multiply your weight in kilograms by 1.2 and by 1.6 to get your daily range. [1] At 90 kg (198 lb) the range is 108 to 144 g, so add a sixth serving or larger portions. At 60 kg (132 lb) it is 72 to 96 g, so the evening serving becomes optional. The calorie and protein calculator does this arithmetic for you.
+Multiply your weight in kilograms by 1.2 and by 1.6 to get your daily range. [1] At 90 kg (198 lb) the range is 108 to 144 g, so add a sixth serving or larger portions. At 60 kg (132 lb) it is 72 to 96 g, so the evening serving becomes optional. The calorie, protein and macro calculator does this arithmetic for you.
 
 ## Swaps for nausea days
 
@@ -1556,7 +1556,7 @@ Those windows matter because they line up exactly with the appetite suppression 
 
 ## Why protein still matters on the days you can't stomach much
 
-A large share of GLP-1 weight loss is lean mass, not fat: reviews of the trial data put it at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [4] Protein is one of the two evidence-based levers that pushes that ratio back toward fat, alongside resistance training, and a dose-response meta-analysis found protein intake up to about 1.6 grams per kilogram of body weight per day kept improving muscle-related outcomes. [2] For the full target and how to calculate it for your weight, see our main protein article or run your number through the calorie and protein calculator. None of that changes on a nausea day. What changes is how you get there: fewer, smaller opportunities to eat, so each one needs to carry more protein per bite than usual.
+A large share of GLP-1 weight loss is lean mass, not fat: reviews of the trial data put it at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [4] Protein is one of the two evidence-based levers that pushes that ratio back toward fat, alongside resistance training, and a dose-response meta-analysis found protein intake up to about 1.6 grams per kilogram of body weight per day kept improving muscle-related outcomes. [2] For the full target and how to calculate it for your weight, see our main protein article or run your number through the calorie, protein and macro calculator. None of that changes on a nausea day. What changes is how you get there: fewer, smaller opportunities to eat, so each one needs to carry more protein per bite than usual.
 
 ## What tends to be tolerable, and what doesn't
 
@@ -2160,7 +2160,7 @@ One recent exception is instructive. The SEMALEAN study, a 2026 cohort of 106 ad
 
 The two protective levers with the strongest evidence are not menopause-specific, and that is good news: you do not need a special protocol, you need to actually do the two things that work. In a meta-analysis of six randomized trials in older adults losing weight through caloric restriction, adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced, a difference of roughly 0.82 kg of preserved lean tissue. [9] That trial population skewed toward exactly the age range relevant here, so this is not evidence borrowed from young athletes; it was measured in older adults under a caloric deficit.
 
-Protein is the second lever, and it may matter even more when appetite is suppressed by medication rather than by willpower alone. A dose-response meta-analysis of 49 studies found that protein supplementation continued improving resistance-training outcomes up to about 1.6 grams per kilogram of body weight per day, a target roughly double the standard 0.8 g/kg dietary reference intake. [10] Hitting that target while eating a fraction of your normal volume takes deliberate planning; our free calorie and protein calculator will estimate a specific gram target from your weight and goals rather than leaving you to do the math from a general range.
+Protein is the second lever, and it may matter even more when appetite is suppressed by medication rather than by willpower alone. A dose-response meta-analysis of 49 studies found that protein supplementation continued improving resistance-training outcomes up to about 1.6 grams per kilogram of body weight per day, a target roughly double the standard 0.8 g/kg dietary reference intake. [10] Hitting that target while eating a fraction of your normal volume takes deliberate planning; our free calorie, protein and macro calculator will estimate a specific gram target from your weight and goals rather than leaving you to do the math from a general range.
 
 ## What the evidence does not say
 
@@ -2368,7 +2368,7 @@ Both things above are true at once. The tight post-workout window does not matte
 
 The leucine-threshold finding changes the practical advice here more than it would for someone with a normal appetite. If each meal needs roughly 25 to 30 grams to fully count, dividing a limited appetite into many small snacks, each well under that threshold, is worse than fewer, more protein-concentrated occasions. Three to four meals a day, each built around a genuine protein source at or above that threshold, beats six tiny nibbles that never individually cross it, even at the same daily total.
 
-On days when solid food is hard to manage, a protein shake is an efficient way to hit the per-meal threshold without needing much stomach volume; our high-protein meals and shakes for nausea days guide lists specific options built for exactly that problem. And if you have not worked out your personal daily target yet, the calorie and protein calculator converts your body weight into a number, which this page's per-meal guidance can then be divided across.
+On days when solid food is hard to manage, a protein shake is an efficient way to hit the per-meal threshold without needing much stomach volume; our high-protein meals and shakes for nausea days guide lists specific options built for exactly that problem. And if you have not worked out your personal daily target yet, the calorie, protein and macro calculator converts your body weight into a number, which this page's per-meal guidance can then be divided across.
 
 ## What the evidence does not say
 
@@ -2699,7 +2699,7 @@ In practice the score matters less than the blend. A single plant protein usuall
 
 The mechanics are the same ones that work for any GLP-1 user, applied to a smaller effective serving size per food. Our main protein article recommends spreading intake across at least four meals at roughly 0.4 g/kg per meal to reliably reach a daily target of 1.6 g/kg. [1] On a plant-based diet, each of those meals needs a protein anchor, not a garnish: a full cup of legumes or a serving of tofu or tempeh, not a sprinkle of nuts on a salad.
 
-Three habits do most of the practical work. Default to soy when you can. Tofu, tempeh, edamame, and soy milk are the only plant sources on this list that are complete on their own, so they are the most efficient use of a limited appetite. Pair legumes with grains. Lentils, chickpeas, and black beans are each missing an amino acid that rice, wheat, or oats supply, and you do not need to eat them in the same meal, only the same day, for the combination to work. Keep a complete plant protein powder on hand. A soy isolate or a pea-and-rice blend behaves like whey for the purposes of a shake: no chewing required, concentrated protein, and a legitimate option on the days nausea makes solid food unappealing. For more on choosing between plant protein types and why collagen does not count toward this target regardless of diet, see our protein-quality comparison, and for a broader list of foods that go down on bad appetite days, see high-protein meals for nausea days. Run your own number through the calorie and protein calculator to see exactly how many servings from the list above you need.
+Three habits do most of the practical work. Default to soy when you can. Tofu, tempeh, edamame, and soy milk are the only plant sources on this list that are complete on their own, so they are the most efficient use of a limited appetite. Pair legumes with grains. Lentils, chickpeas, and black beans are each missing an amino acid that rice, wheat, or oats supply, and you do not need to eat them in the same meal, only the same day, for the combination to work. Keep a complete plant protein powder on hand. A soy isolate or a pea-and-rice blend behaves like whey for the purposes of a shake: no chewing required, concentrated protein, and a legitimate option on the days nausea makes solid food unappealing. For more on choosing between plant protein types and why collagen does not count toward this target regardless of diet, see our protein-quality comparison, and for a broader list of foods that go down on bad appetite days, see high-protein meals for nausea days. Run your own number through the calorie, protein and macro calculator to see exactly how many servings from the list above you need.
 
 ## Protein without training is only half the job
 
@@ -3014,7 +3014,7 @@ It is worth being precise about what training and nutrition can and cannot fix h
 
 Skin laxity and facial volume loss are not addressed by resistance training or protein intake. The evidence-based levers are slower weight loss where medically appropriate, and, for people who want it, dermatologic or surgical intervention; a small trial of a topical volumizing cream showed measurable gains in skin thickness and elasticity over 12 weeks in people with rapid weight loss from GLP-1 therapy. [5] That is a separate conversation from muscle, and outside what this site covers in depth.
 
-Lean-mass loss, the part of "Ozempic butt" and "Ozempic body" that is genuinely about muscle, responds to the same two levers as GLP-1 muscle loss everywhere else in the body. A meta-analysis of older adults losing weight through caloric restriction found that adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [4] On the nutrition side, a dose-response meta-analysis of 49 studies found protein supplementation kept improving resistance-training outcomes up to about 1.6 grams per kilogram of body weight per day. [10] Neither lever needs a gym: our guide to preserving muscle on a GLP-1 without a gym covers loaded bodyweight work that trains the glutes and the rest of the major muscle groups, and our calorie and protein calculator turns the 1.6 g/kg target into a daily gram number for your body weight.
+Lean-mass loss, the part of "Ozempic butt" and "Ozempic body" that is genuinely about muscle, responds to the same two levers as GLP-1 muscle loss everywhere else in the body. A meta-analysis of older adults losing weight through caloric restriction found that adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [4] On the nutrition side, a dose-response meta-analysis of 49 studies found protein supplementation kept improving resistance-training outcomes up to about 1.6 grams per kilogram of body weight per day. [10] Neither lever needs a gym: our guide to preserving muscle on a GLP-1 without a gym covers loaded bodyweight work that trains the glutes and the rest of the major muscle groups, and our calorie, protein and macro calculator turns the 1.6 g/kg target into a daily gram number for your body weight.
 
 ## What the evidence does not say
 
@@ -3337,7 +3337,7 @@ The honest summary is that no consistent, drug-class-wide effect on muscle has b
 
 ## What still protects muscle, regardless
 
-Nothing about a type 2 diabetes diagnosis changes the two levers with the strongest evidence behind them. Resistance training and adequate protein intake are established independently of diabetes status, and both remain the most defensible response here. Our guide to the best exercises to preserve muscle covers the movement patterns that matter most, and our breakdown of how much protein you actually need on a GLP-1 covers the target and how to hit it on a suppressed appetite. The calorie and protein calculator can give you a personalized starting number based on your own weight and activity level.
+Nothing about a type 2 diabetes diagnosis changes the two levers with the strongest evidence behind them. Resistance training and adequate protein intake are established independently of diabetes status, and both remain the most defensible response here. Our guide to the best exercises to preserve muscle covers the movement patterns that matter most, and our breakdown of how much protein you actually need on a GLP-1 covers the target and how to hit it on a suppressed appetite. The calorie, protein and macro calculator can give you a personalized starting number based on your own weight and activity level.
 
 One diabetes-specific note: protein needs can interact with kidney function, and chronic kidney disease is more common in long-standing type 2 diabetes. Anyone with reduced kidney function should set a protein target together with their clinician rather than applying a general population number. Our Protein Playbook mini-guide covers the general target and practical food strategy for a suppressed appetite; it is not a substitute for that conversation if kidney function is a factor for you.
 
@@ -3539,7 +3539,7 @@ The scale alone cannot answer this. Body weight is one number standing in for tw
 
 A structured weekly log makes this much easier to see than trying to remember from memory whether last month's lifts were heavier. Our printable Muscle-on-GLP-1 Tracker is built around exactly this: a simple weekly log for protein intake against your target, training sessions completed, a basic strength check, and the body-weight trend side by side, so a plateau in one column against continued progress or regression in another becomes visible instead of invisible.
 
-If you want your protein and calorie targets calculated from your own numbers rather than a general range, the free GLP-1 calorie and protein calculator applies published equations to project what a plateau period looks like with versus without adequate protein and resistance training.
+If you want your protein and calorie targets calculated from your own numbers rather than a general range, the free GLP-1 calorie, protein and macro calculator applies published equations to project what a plateau period looks like with versus without adequate protein and resistance training.
 
 ## What to actually do at a plateau
 
@@ -3616,7 +3616,7 @@ A dose-response meta-analysis of 49 studies identified roughly 1.6 g/kg per day 
 
 A GLP-1-specific nutrition advisory issued jointly by four medical societies recommends a somewhat more conservative 1.2 to 1.6 g/kg during active weight reduction. [2] Both figures reflect the same principle. If you are starting from a typical intake, the move from 0.8 to 1.2 g/kg matters far more than the argument over whether the ceiling is 1.6 or 2.2. Pick a number in this range, scale it to your body weight, and treat it as a floor.
 
-Three protein targets on one scale. [1,2] Get yours in grams with the calorie and protein calculator, or see it as meals in the sample day.
+Three protein targets on one scale. [1,2] Get yours in grams with the calorie, protein and macro calculator, or see it as meals in the sample day.
 
 One honest caveat: these targets are calculated from total body weight, which is how the underlying studies expressed them. [1] If you carry a large amount of fat mass, a target scaled to total weight can be higher than you can realistically eat. If your number looks impossible, use the lower 1.2 to 1.6 g/kg advisory range as your working goal and discuss it with your clinician or a registered dietitian.
 
@@ -4305,7 +4305,7 @@ Values are approximate figures from USDA FoodData Central; the first thirteen ar
 
 ## How the target is set
 
-The target is your weight in kilograms times 1.2 at the low end and 1.6 at the high end. That is the range the joint advisory from four nutrition and obesity societies gives for adults losing weight on a GLP-1. [1] Strength-training studies find the benefit of extra protein levels off near 1.6 g/kg, so the high end is where more stops helping for most people. [3] If you carry a lot of fat mass, a target scaled to total weight can run high; the calorie and protein calculator shows both ranges side by side.
+The target is your weight in kilograms times 1.2 at the low end and 1.6 at the high end. That is the range the joint advisory from four nutrition and obesity societies gives for adults losing weight on a GLP-1. [1] Strength-training studies find the benefit of extra protein levels off near 1.6 g/kg, so the high end is where more stops helping for most people. [3] If you carry a lot of fat mass, a target scaled to total weight can run high; the calorie, protein and macro calculator shows both ranges side by side.
 
 Spread across the day matters too. About 0.4 g/kg per meal over four meals is a practical way to reach the total without one large plate. [4] People with kidney disease should ask a clinician before raising protein.
 
@@ -4423,7 +4423,7 @@ Weight at the trial's end if you matched its average (, source) Average loss app
 
 Lean mass lost without enough protein or resistance training (high end of the published range) With 1.6 g/kg protein and 3+ training days a week (best-case range, partly extrapolated)
 
-Run your own protein and training habits through the muscle loss calculator, or get your daily targets from the calorie and protein calculator.
+Run your own protein and training habits through the muscle loss calculator, or get your daily targets from the calorie, protein and macro calculator.
 
 ## Every option side by side
 
