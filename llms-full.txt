@@ -1047,7 +1047,7 @@ Many people can, especially for short strength sessions. The exception is people
 # GLP-1s, bone density, and fracture risk: what the evidence shows
 
 URL: https://getmuscleonglp.com/learn/glp1-bone-density-fracture-risk/
-Updated: 2026-07-24
+Updated: 2026-10-27
 
 Emerging research
 
@@ -1118,6 +1118,8 @@ These findings are not directly comparable. One pools randomized trials in which
 The interventions with actual randomized evidence behind them are the same ones that protect muscle, which is convenient but not accidental. Bone and muscle respond to the same signal.
 
 Mechanical loading. In a randomized controlled trial, 160 older adults with obesity lost roughly 10 percent of body weight over six months while assigned to aerobic exercise, resistance training, or both. Hip bone density fell 2.6 percent in the aerobic group, 1.1 percent in the combined group, and 0.7 percent in the resistance group, a statistically significant difference between groups (p = 0.001). Resistance and combined training were also associated with a smaller weight-loss-induced rise in bone turnover. [7] Separately, in the LIFTMOR trial, 101 postmenopausal women with low bone mass were randomized to eight months of twice-weekly supervised high-intensity resistance and impact training or a low-intensity home program. The training group gained 2.9 percent in lumbar spine bone density while controls lost 1.2 percent, and gained 0.3 percent at the femoral neck while controls lost 1.9 percent, with a single minor adverse event across the whole program. [11] If you have never lifted, our beginner's resistance-training plan is the place to start. Resistance training also prevents a substantial share of the muscle loss that accompanies caloric restriction in older adults. [12]
+
+Loading the skeleton matters: hip bone density lost by exercise type during the same weight loss. [7]
 
 Protein. A meta-analysis of 10 randomized trials found that higher-protein weight-loss diets modestly attenuated bone loss compared with normal-protein diets: total body density 0.006 g/cm² better (p = 0.016) and lumbar spine 0.017 g/cm² better (p = 0.019). The authors were candid that a higher-protein diet does not prevent bone loss during weight reduction, only softens it, and that the clinical significance is questionable. [9] Protein has a much stronger evidence base for muscle, where supplementation meaningfully improves resistance-training outcomes. [13]
 
