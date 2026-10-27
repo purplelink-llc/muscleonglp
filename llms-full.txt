@@ -3852,7 +3852,7 @@ For preserving lean mass during weight loss, the evidence supports an intake wel
 
 A dose-response meta-analysis of 49 studies identified roughly 1.6 g/kg per day as the point beyond which no further benefit to fat-free mass was detectable, with the confidence interval extending to about 2.2 g/kg. [1] A practical target during active weight loss is therefore about 1.6 to 2.2 grams of protein per kilogram of body weight per day. For a 70 kg (154 lb) person, 1.6 g/kg works out to roughly 112 grams a day; the upper end is about 154 grams.
 
-A GLP-1-specific nutrition advisory issued jointly by four medical societies recommends a somewhat more conservative 1.2 to 1.6 g/kg during active weight reduction. [2] Both figures reflect the same principle. If you are starting from a typical intake, the move from 0.8 to 1.2 g/kg matters far more than the argument over whether the ceiling is 1.6 or 2.2. Pick a number in this range, scale it to your body weight, and treat it as a floor.
+A GLP-1-specific nutrition advisory issued jointly by four medical societies recommends a somewhat more conservative 1.2 to 1.6 g/kg during active weight reduction. [2] The 2025–2030 Dietary Guidelines for Americans now set the same 1.2 to 1.6 g/kg as their protein goal for everyone, so this range is no longer only specialist advice (what the new guidelines mean on a GLP-1). [7] Both figures reflect the same principle. If you are starting from a typical intake, the move from 0.8 to 1.2 g/kg matters far more than the argument over whether the ceiling is 1.6 or 2.2. Pick a number in this range, scale it to your body weight, and treat it as a floor.
 
 Three protein targets on one scale. [1,2] Get yours in grams with the calorie, protein and macro calculator, or see it as meals in the sample day.
 
@@ -3868,11 +3868,11 @@ The result shows up in the data. In a cross-sectional study of GLP-1 users, only
 
 ## Spread it across the day
 
-Daily total is what matters most, but distribution helps. Muscle protein synthesis responds to the protein in each meal, up to a point, so front-loading your whole day into one large dinner is less effective than spreading it out. Consuming roughly 0.4 grams per kilogram of protein per meal, across at least four meals, is the pattern derived to reliably reach 1.6 g/kg per day. [5] Distributing protein this way produces a more favorable pattern of daily muscle protein synthesis than concentrating the same total into one or two large meals. [7]
+Daily total is what matters most, but distribution helps. Muscle protein synthesis responds to the protein in each meal, up to a point, so front-loading your whole day into one large dinner is less effective than spreading it out. Consuming roughly 0.4 grams per kilogram of protein per meal, across at least four meals, is the pattern derived to reliably reach 1.6 g/kg per day. [5] Distributing protein this way produces a more favorable pattern of daily muscle protein synthesis than concentrating the same total into one or two large meals. [8]
 
 For someone with a suppressed appetite this is convenient rather than burdensome. Four small protein-forward meals are far easier to get down than two large ones. At 80 kg (176 lb), 0.4 g/kg is about 32 grams per meal, which is one chicken breast or a shake plus a cup of milk.
 
-If you are over about 60, aim a little higher per meal. Older adults appear to need more protein at a sitting to trigger the same muscle-building response, on the order of 30 grams providing roughly 2.8 grams of the amino acid leucine. [7] If that describes you, treat 30 grams as your per-meal floor even when 0.4 g/kg would compute to less.
+If you are over about 60, aim a little higher per meal. Older adults appear to need more protein at a sitting to trigger the same muscle-building response, on the order of 30 grams providing roughly 2.8 grams of the amino acid leucine. [8] If that describes you, treat 30 grams as your per-meal floor even when 0.4 g/kg would compute to less.
 
 ## The practical mechanics
 
@@ -3882,13 +3882,13 @@ Eat by schedule, not by hunger. On a GLP-1, appetite has stopped being a reliabl
 
 Protein first. Stomach capacity is the binding constraint, and you will probably stop before the plate is empty. What you eat first is what you actually get. Eat the protein before the rice, the bread, or the vegetables. If you fill up at 60 percent and the protein is already gone, the meal was a success.
 
-Drink it when you cannot chew it. A protein shake delivers 20 to 30 grams in a form that goes down when solid food is unappealing. Nausea and other gastrointestinal effects are common on semaglutide but were mostly mild to moderate in a pooled analysis of the STEP 1 to 3 trials, concentrated around dose escalation, and eased over time for most people. [8] On those days, a shelf-stable shake is the difference between hitting your target and missing it. Whey, casein, and plant proteins all work; total daily intake matters more than the source.
+Drink it when you cannot chew it. A protein shake delivers 20 to 30 grams in a form that goes down when solid food is unappealing. Nausea and other gastrointestinal effects are common on semaglutide but were mostly mild to moderate in a pooled analysis of the STEP 1 to 3 trials, concentrated around dose escalation, and eased over time for most people. [9] On those days, a shelf-stable shake is the difference between hitting your target and missing it. Whey, casein, and plant proteins all work; total daily intake matters more than the source.
 
-For reference, a few common foods carry most of the load: 100 grams of cooked chicken breast is about 31 grams of protein, a cup of low-fat cottage cheese about 28 grams, and one scoop of whey powder about 24 grams, per USDA food data. [9] Building meals around foods like these is how the daily number becomes reachable.
+For reference, a few common foods carry most of the load: 100 grams of cooked chicken breast is about 31 grams of protein, a cup of low-fat cottage cheese about 28 grams, and one scoop of whey powder about 24 grams, per USDA food data. [10] Building meals around foods like these is how the daily number becomes reachable.
 
 ## Protein is only half the job
 
-One correction before you leave, because it is the most common mistake. Protein supplies the raw material for keeping muscle, but something still has to tell your body the material is worth keeping. That signal is training. In a meta-analysis of randomized trials in older adults under caloric restriction, resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost. [10] Protein without training will not preserve muscle on its own. If you take one thing from this page, take the protein target. If you take two, take the target and a resistance-training routine.
+One correction before you leave, because it is the most common mistake. Protein supplies the raw material for keeping muscle, but something still has to tell your body the material is worth keeping. That signal is training. In a meta-analysis of randomized trials in older adults under caloric restriction, resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost. [11] Protein without training will not preserve muscle on its own. If you take one thing from this page, take the protein target. If you take two, take the target and a resistance-training routine.
 
 ## What this does not tell you
 
@@ -3925,6 +3925,8 @@ Eat by schedule rather than by hunger, eat the protein on the plate first before
 - Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Journal of the International Society of Sports Nutrition. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
 
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2025–2030. 2026. realfood.gov
 
 - Layman DK. Impacts of protein quantity and distribution on body composition. Frontiers in Nutrition. 2024. pmc.ncbi.nlm.nih.gov/articles/PMC11099237
 
