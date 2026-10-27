@@ -3436,9 +3436,11 @@ This is not a reason to avoid the medication. It is a reason to train and eat in
 
 Across the GLP-1 trials that measured body composition, reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [1] The single most useful data point comes from the SURMOUNT-1 DXA substudy, which used dual-energy X-ray absorptiometry to separate fat from lean tissue in people taking tirzepatide. About 74 percent of the weight lost was fat and about 26 percent was lean mass. [2]
 
-For context, the headline trials produced large losses: semaglutide 2.4 mg drove about 14.9 percent mean weight loss over 68 weeks in STEP 1, [5] and tirzepatide reached about 20.9 percent at its highest dose in SURMOUNT-1. [6] A quarter of a loss that large is a substantial amount of muscle. One routine-care preprint, which has not yet been peer reviewed, reported a greater lean-mass decline on tirzepatide than on semaglutide outside of trial conditions. [7]
+For semaglutide itself, the drug in Ozempic and Wegovy, the closest data is a DXA substudy of 140 people in the STEP 1 trial. Over 68 weeks on semaglutide 2.4 mg, total fat mass fell 19.3 percent and total lean mass fell 9.7 percent from baseline, so fat came off about twice as fast as lean tissue. Because fat fell faster, the share of the body made up of lean mass rose by 3 percentage points. [5] Lean mass still fell, which is the part worth protecting.
 
-Where the weight goes, using the SURMOUNT-1 body-composition split and its 15 mg trial average. [1,2,6] Run your own numbers with the weight loss calculator and the muscle loss calculator.
+For context, the headline trials produced large losses: semaglutide 2.4 mg drove about 14.9 percent mean weight loss over 68 weeks in STEP 1, [6] and tirzepatide reached about 20.9 percent at its highest dose in SURMOUNT-1. [7] A quarter of a loss that large is a substantial amount of muscle. One routine-care preprint, which has not yet been peer reviewed, reported a greater lean-mass decline on tirzepatide than on semaglutide outside of trial conditions. [8]
+
+Where the weight goes, using the SURMOUNT-1 body-composition split and its 15 mg trial average. [1,2,7] Run your own numbers with the weight loss calculator and the muscle loss calculator.
 
 ## Why it happens
 
@@ -3448,9 +3450,9 @@ The result is a diet that is high in deficit and low in the two inputs, protein 
 
 ## Does losing lean mass mean losing strength?
 
-Not necessarily, and this is where honest sources and alarmist ones part ways. Several short-to-mid-term GLP-1 trials found that grip strength held steady even as lean mass fell. But "lean mass" on a DXA scan includes water and organ tissue, not just contractile muscle, so a drop on the scan is an imperfect proxy for how strong you are. Longer-term research in older adults tells a more cautious story, with reports of reduced strength and function. [8]
+Not necessarily, and this is where honest sources and alarmist ones part ways. Several short-to-mid-term GLP-1 trials found that grip strength held steady even as lean mass fell. But "lean mass" on a DXA scan includes water and organ tissue, not just contractile muscle, so a drop on the scan is an imperfect proxy for how strong you are. Longer-term research in older adults tells a more cautious story, with reports of reduced strength and function. [9]
 
-A 2026 MRI analysis from the STEP UP trial adds a detail a scale cannot see. In 55 adults followed for 72 weeks, compared with placebo, semaglutide cut fat tissue by about 11 litres more and reduced the fat infiltrating the thigh muscle, while thigh muscle volume fell by about 1.1 litres more, a difference that did not reach statistical significance. Sit-to-stand repetitions held up (about 13 in 30 seconds at the start, 15 at the end, across both groups). [11] It is a small subgroup, and only six people were on placebo, so treat it as an early signal rather than a settled answer.
+A 2026 MRI analysis from the STEP UP trial adds a detail a scale cannot see. In 55 adults followed for 72 weeks, compared with placebo, semaglutide cut fat tissue by about 11 litres more and reduced the fat infiltrating the thigh muscle, while thigh muscle volume fell by about 1.1 litres more, a difference that did not reach statistical significance. Sit-to-stand repetitions held up (about 13 in 30 seconds at the start, 15 at the end, across both groups). [10] It is a small subgroup, and only six people were on placebo, so treat it as an early signal rather than a settled answer.
 
 The practical reading: do not panic over a lean-mass number in isolation, and do not assume you are fine just because you feel the same at month three. Track what you can actually load in a few basic movements over time. Strength is the outcome that matters, and it is the one you can defend.
 
@@ -3464,11 +3466,11 @@ Protein. A dose-response meta-analysis of 49 studies found that protein suppleme
 
 ## What the evidence does not say
 
-Two honest limits are worth stating, because most articles gloss over them. The STEP trials did not track fat-versus-muscle composition during the weight-regain phase, so the common claim that regained weight is "all fat" is not supported by those trials. And no long-term trial has isolated the effect of a structured resistance-training program specifically in GLP-1 users; the training evidence is strong but extrapolated from broader weight-loss populations. Dedicated trials such as LEAN-PREP are now underway. [9]
+Two honest limits are worth stating, because most articles gloss over them. The STEP trials did not track fat-versus-muscle composition during the weight-regain phase, so the common claim that regained weight is "all fat" is not supported by those trials. And no long-term trial has isolated the effect of a structured resistance-training program specifically in GLP-1 users; the training evidence is strong but extrapolated from broader weight-loss populations. Dedicated trials such as LEAN-PREP are now underway. [11]
 
 ## The bottom line
 
-Yes, part of GLP-1 weight loss is muscle, on the order of a quarter of it in the best-measured trial. That is not an argument against the medication; it is an argument for training and protein while you take it. The weight you lose should be the weight you meant to lose, and the muscle you keep is what protects your results if you ever come off. About two-thirds of lost weight returned within a year of stopping semaglutide in the STEP 1 extension, [10] which is exactly why the muscle you defend now is worth the effort.
+Yes, part of GLP-1 weight loss is muscle, on the order of a quarter of it in the best-measured trial. That is not an argument against the medication; it is an argument for training and protein while you take it. The weight you lose should be the weight you meant to lose, and the muscle you keep is what protects your results if you ever come off. About two-thirds of lost weight returned within a year of stopping semaglutide in the STEP 1 extension, [12] which is exactly why the muscle you defend now is worth the effort.
 
 ## Frequently asked
 
@@ -3502,6 +3504,8 @@ Yes, the pattern applies across the class. Ozempic and Wegovy are semaglutide; M
 
 - Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
 
+- Wilding JPH, Batterham RL, Calanna S, et al. Impact of semaglutide on body composition in adults with overweight or obesity: exploratory analysis of the STEP 1 study. Journal of the Endocrine Society. 2021;5(Suppl 1):A16. doi.org/10.1210/jendso/bvab048.030
+
 - Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021. pubmed.ncbi.nlm.nih.gov/33567185
 
 - Jastreboff AM, et al. Tirzepatide once weekly for the treatment of obesity (SURMOUNT-1). New England Journal of Medicine. 2022. pubmed.ncbi.nlm.nih.gov/35658024
@@ -3510,11 +3514,11 @@ Yes, the pattern applies across the class. Ozempic and Wegovy are semaglutide; M
 
 - Prokopidis K. GLP-1 receptor agonists and muscle strength changes in older adults: risks beyond muscle mass reductions. British Journal of Pharmacology. 2026. pubmed.ncbi.nlm.nih.gov/41577337
 
+- Hjelmesæth J, et al. Effect of semaglutide on thigh skeletal muscle volume, fat infiltration and physical function in people with obesity: secondary analysis of STEP UP. Diabetes, Obesity & Metabolism. 2026. doi.org/10.1111/dom.71323
+
 - LEAN Mass Preservation With Resistance Exercise and Protein During Semaglutide/Tirzepatide (LEAN-PREP). ClinicalTrials.gov NCT06885736. clinicaltrials.gov/study/NCT06885736
 
 - Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. Diabetes, Obesity & Metabolism. 2022. pmc.ncbi.nlm.nih.gov/articles/PMC9542252
-
-- Hjelmesæth J, et al. Effect of semaglutide on thigh skeletal muscle volume, fat infiltration and physical function in people with obesity: secondary analysis of STEP UP. Diabetes, Obesity & Metabolism. 2026. doi.org/10.1111/dom.71323
 
 ---
 
