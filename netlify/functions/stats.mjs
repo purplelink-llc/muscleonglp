@@ -62,14 +62,14 @@ export default async function handler(request) {
   const now = Date.now();
   const summary = {
     rangeDays: days,
-    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, calcRuns: 0, events: 0 },
+    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, calcRuns: 0, events: 0 },
     byPath: {},
     byReferrer: {},
     byUtm: {},
-    checkoutByProduct: {}, checkoutByPath: {},
+    checkoutByProduct: {}, checkoutByPath: {}, confirmByProduct: {},
     subscribeBySource: {},
     calcByTool: {},
-    byDay: {},          // day -> { pageviews, uniques, subscribes, checkoutClicks, calcRuns }
+    byDay: {},          // day -> { pageviews, uniques, subscribes, checkoutClicks, checkoutConfirms, calcRuns }
   };
   const uniquesPerDay = {}; // day -> Set(vid)
 
@@ -82,7 +82,7 @@ export default async function handler(request) {
       continue;
     }
     const blobs = (listing && listing.blobs) || [];
-    if (!summary.byDay[day]) summary.byDay[day] = { pageviews: 0, uniques: 0, subscribes: 0, checkoutClicks: 0, calcRuns: 0 };
+    if (!summary.byDay[day]) summary.byDay[day] = { pageviews: 0, uniques: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, calcRuns: 0 };
     if (!uniquesPerDay[day]) uniquesPerDay[day] = new Set();
 
     for (const b of blobs) {
@@ -114,6 +114,13 @@ export default async function handler(request) {
         // denominator is a hand-maintained list of pages with a buy button, and
         // recording the path is what makes that list auditable.
         bump(summary.checkoutByPath, rec.path || "unknown");
+      } else if (rec.type === "checkout_confirm") {
+        // The second click: terms accepted and on the way to Stripe. checkout.js
+        // has sent this since the two-step assent (2026-09-10), but it was never
+        // counted, so the dashboard could not tell browsing from buying intent.
+        summary.totals.checkoutConfirms++;
+        summary.byDay[day].checkoutConfirms++;
+        bump(summary.confirmByProduct, rec.meta || "unknown");
       } else if (rec.type === "calc_use") {
         // A calculator was actually run, as opposed to its page being viewed.
         summary.totals.calcRuns++;
@@ -137,6 +144,7 @@ export default async function handler(request) {
     topUtm: topN(summary.byUtm),
     checkoutByProduct: topN(summary.checkoutByProduct),
     checkoutByPath: topN(summary.checkoutByPath),
+    confirmByProduct: topN(summary.confirmByProduct),
     subscribeBySource: topN(summary.subscribeBySource),
     calcByTool: topN(summary.calcByTool),
     byDay: Object.fromEntries(Object.entries(summary.byDay).sort()),
