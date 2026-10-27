@@ -3212,7 +3212,7 @@ Eat by schedule rather than by hunger, eat the protein on the plate first before
 # Retatrutide and muscle loss: what the trial data shows so far
 
 URL: https://getmuscleonglp.com/learn/retatrutide-muscle-loss/
-Updated: 2026-07-16
+Updated: 2026-10-27
 
 Emerging therapies
 
@@ -3237,6 +3237,8 @@ That size is exactly why the muscle question matters more here, not less. A bigg
 ## How much weight does retatrutide produce?
 
 The Phase 2 obesity trial, published in the New England Journal of Medicine in 2023, randomized 338 adults with obesity to placebo or one of several retatrutide doses for 48 weeks. At the highest dose, mean weight loss reached about 24.2 percent from baseline, compared with about 2.1 percent on placebo. The 8 mg dose group averaged about 22.8 percent, and the 4 mg group about 17.1 percent. [1] For comparison, the highest tirzepatide dose in SURMOUNT-1 reached about 20.9 percent, and the highest semaglutide dose in STEP 1 reached about 14.9 percent, both also at close to a year of treatment. [4] [5]
+
+Average weight loss by dose in the retatrutide phase 2 trial. [1] Compare it with semaglutide and tirzepatide in the GLP-1 weight loss calculator.
 
 More recent, larger numbers come from Eli Lilly's Phase 3 program. On May 21, 2026, the company reported topline results from TRIUMPH-1, an 80-week trial of 2,339 adults with obesity or overweight and at least one weight-related condition, without diabetes. The 12 mg dose averaged about 28.3 percent weight loss at 80 weeks, the 9 mg dose about 25.9 percent, and the 4 mg dose about 19.0 percent, against roughly 2.2 percent on placebo. In a 104-week extension limited to participants with a starting BMI of 35 or higher, the 12 mg group averaged about 30.3 percent loss. [2]
 
