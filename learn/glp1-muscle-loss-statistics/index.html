@@ -28,7 +28,7 @@
   "author": { "@type": "Organization", "name": "MuscleOnGLP", "url": "https://getmuscleonglp.com/" },
   "publisher": { "@type": "Organization", "name": "MuscleOnGLP", "logo": { "@type": "ImageObject", "url": "https://getmuscleonglp.com/assets/logo.png" } },
   "datePublished": "2026-07-14",
-  "dateModified": "2026-07-14",
+  "dateModified": "2026-10-27",
   "image": "https://getmuscleonglp.com/assets/og-card.png",
   "mainEntityOfPage": "https://getmuscleonglp.com/learn/glp1-muscle-loss-statistics/"
 }
@@ -76,7 +76,7 @@
       <h1>GLP-1 muscle loss by the numbers</h1>
       <p class="article-dek">The key statistics on muscle loss with GLP-1 medications, each cited to published research and free to reference. If you write about this, link the number and it links back to its source.</p>
       <div class="article-meta">
-        <span>Updated July 24, 2026</span>
+        <span>Updated October 27, 2026</span>
         <span class="badge-cited"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><path d="M20 6L9 17l-5-5"/></svg> Every figure cited</span>
       </div>
     </div>
@@ -91,6 +91,20 @@
         <p class="calc-cta-note">Estimates from published ranges, not medical advice. Nothing you enter leaves your browser.</p>
       </aside>
       <div style="display:grid;gap:16px">
+
+        <div class="calc-stat stat-row" id="stat-semaglutide-loss" style="flex-direction:row;align-items:baseline;gap:18px;padding:20px 22px">
+          <span class="calc-n" style="font-size:2.2rem;flex:0 0 auto">14.9%</span>
+          <span style="color:var(--ink)">average body-weight loss on semaglutide 2.4 mg (Wegovy) over 68 weeks in STEP 1, versus 2.4% on placebo.<sup><a href="#ref-10">10</a></sup>
+            <a class="stat-link" href="#stat-semaglutide-loss" aria-label="Permalink to this statistic">#</a>
+          </span>
+        </div>
+
+        <div class="calc-stat stat-row" id="stat-tirzepatide-loss" style="flex-direction:row;align-items:baseline;gap:18px;padding:20px 22px">
+          <span class="calc-n" style="font-size:2.2rem;flex:0 0 auto">20.9%</span>
+          <span style="color:var(--ink)">average body-weight loss on tirzepatide 15 mg (Zepbound, Mounjaro) over 72 weeks in SURMOUNT-1, versus 3.1% on placebo.<sup><a href="#ref-11">11</a></sup>
+            <a class="stat-link" href="#stat-tirzepatide-loss" aria-label="Permalink to this statistic">#</a>
+          </span>
+        </div>
 
         <div class="calc-stat stat-row" id="stat-lean-mass-share" style="flex-direction:row;align-items:baseline;gap:18px;padding:20px 22px">
           <span class="calc-n" style="font-size:2.2rem;flex:0 0 auto">15&ndash;40%</span>
@@ -171,6 +185,75 @@
 
       </div>
 
+      <div class="article" id="charts" style="margin-top:34px">
+        <h2>The figures as charts</h2>
+        <p>Each chart below is drawn only from the cited figures above, so you can reuse it under the same terms as the numbers. Measured points are marked, and nothing between them is invented.</p>
+
+        <figure style="margin:22px 0">
+          <svg viewBox="0 0 640 150" role="img" aria-labelledby="c1t c1d" style="width:100%;height:auto;display:block;color:var(--ink)">
+            <title id="c1t">Share of GLP-1 weight loss that is lean mass</title>
+            <desc id="c1d">A scale from 0 to 50 percent. The range seen across trials, 15 to 40 percent, is shaded. A marker at 26 percent shows the SURMOUNT-1 tirzepatide body-composition result.</desc>
+            <line x1="40" x2="600" y1="80" y2="80" style="stroke:currentColor" stroke-width="1.5" opacity="0.5"/>
+            <rect x="208" y="58" width="280" height="44" rx="8" style="fill:var(--accent-text)" opacity="0.28"/>
+            <text x="348" y="50" text-anchor="middle" font-size="13" fill="currentColor">Range across trials: 15&ndash;40%</text>
+            <line x1="331.2" x2="331.2" y1="54" y2="106" style="stroke:var(--accent-text)" stroke-width="4"/>
+            <text x="331.2" y="126" text-anchor="middle" font-size="13" font-weight="700" fill="currentColor">26%: tirzepatide, SURMOUNT-1 DXA</text>
+            <g font-size="11" fill="currentColor" opacity="0.7"><text x="40" y="146" text-anchor="middle">0%</text><text x="152" y="146" text-anchor="middle">10%</text><text x="264" y="146" text-anchor="middle">20%</text><text x="376" y="146" text-anchor="middle">30%</text><text x="488" y="146" text-anchor="middle">40%</text><text x="600" y="146" text-anchor="middle">50%</text></g>
+          </svg>
+          <figcaption class="calc-l" style="margin-top:6px">Lean mass as a share of total weight lost on a GLP-1. Source: Neeland 2024.<sup><a href="#ref-1">1</a></sup></figcaption>
+        </figure>
+
+        <figure style="margin:22px 0">
+          <svg viewBox="0 0 640 230" role="img" aria-labelledby="c2t c2d" style="width:100%;height:auto;display:block;color:var(--ink)">
+            <title id="c2t">Average weight loss in the main GLP-1 trials</title>
+            <desc id="c2d">Bars show average percent body-weight loss in each treatment arm, with the placebo arm marked: semaglutide 1 mg with type 2 diabetes 7.0 percent, semaglutide 2.4 mg with type 2 diabetes 9.6 percent, semaglutide 2.4 mg 14.9 percent, tirzepatide 5 mg 15.0 percent, 10 mg 19.5 percent, 15 mg 20.9 percent.</desc>
+            <g font-size="12.5" fill="currentColor">
+              <text x="0" y="23">Semaglutide 1 mg, T2D (STEP 2)</text>
+              <text x="0" y="55">Semaglutide 2.4 mg, T2D (STEP 2)</text>
+              <text x="0" y="87">Semaglutide 2.4 mg (STEP 1)</text>
+              <text x="0" y="119">Tirzepatide 5 mg (SURMOUNT-1)</text>
+              <text x="0" y="151">Tirzepatide 10 mg (SURMOUNT-1)</text>
+              <text x="0" y="183">Tirzepatide 15 mg (SURMOUNT-1)</text>
+            </g>
+            <g style="fill:var(--accent-text)">
+              <rect x="260" y="10" width="89.6" height="18" rx="4"/>
+              <rect x="260" y="42" width="122.9" height="18" rx="4"/>
+              <rect x="260" y="74" width="190.7" height="18" rx="4"/>
+              <rect x="260" y="106" width="192" height="18" rx="4"/>
+              <rect x="260" y="138" width="249.6" height="18" rx="4"/>
+              <rect x="260" y="170" width="267.5" height="18" rx="4"/>
+            </g>
+            <g style="stroke:currentColor" stroke-width="2" opacity="0.6">
+              <line x1="303.5" x2="303.5" y1="6" y2="32"/><line x1="303.5" x2="303.5" y1="38" y2="64"/>
+              <line x1="290.7" x2="290.7" y1="70" y2="96"/><line x1="299.7" x2="299.7" y1="102" y2="128"/>
+              <line x1="299.7" x2="299.7" y1="134" y2="160"/><line x1="299.7" x2="299.7" y1="166" y2="192"/>
+            </g>
+            <g font-size="13" font-weight="700" fill="currentColor">
+              <text x="357.6" y="24">&minus;7.0%</text><text x="390.9" y="56">&minus;9.6%</text><text x="458.7" y="88">&minus;14.9%</text>
+              <text x="460" y="120">&minus;15.0%</text><text x="517.6" y="152">&minus;19.5%</text><text x="535.5" y="184">&minus;20.9%</text>
+            </g>
+            <text x="0" y="222" font-size="11" fill="currentColor" opacity="0.7">Bar: treatment average. Tick: placebo. STEP trials ran 68 weeks, SURMOUNT-1 ran 72. T2D: type 2 diabetes.</text>
+          </svg>
+          <figcaption class="calc-l" style="margin-top:6px">Average percent weight loss by drug and dose in its main trial. Sources: STEP 1, STEP 2, SURMOUNT-1.<sup><a href="#ref-10">10</a>&ndash;<a href="#ref-12">12</a></sup> Apply these to your own weight with the <a href="/weight-loss-calculator/">GLP-1 weight loss calculator</a>.</figcaption>
+        </figure>
+
+        <figure style="margin:22px 0">
+          <svg viewBox="0 0 640 230" role="img" aria-labelledby="c3t c3d" style="width:100%;height:auto;display:block;color:var(--ink)">
+            <title id="c3t">Weight change during and after semaglutide in the STEP 1 extension</title>
+            <desc id="c3d">Average weight change was minus 17.3 percent at week 68, when treatment stopped, and minus 5.6 percent at week 120, one year later. Lines connect the three measured points only.</desc>
+            <g style="stroke:currentColor" opacity="0.25" stroke-width="1"><line x1="60" x2="600" y1="30" y2="30"/><line x1="60" x2="600" y1="70" y2="70"/><line x1="60" x2="600" y1="110" y2="110"/><line x1="60" x2="600" y1="150" y2="150"/><line x1="60" x2="600" y1="190" y2="190"/></g>
+            <g font-size="11" fill="currentColor" opacity="0.7" text-anchor="end"><text x="52" y="34">0%</text><text x="52" y="74">&minus;5%</text><text x="52" y="114">&minus;10%</text><text x="52" y="154">&minus;15%</text><text x="52" y="194">&minus;20%</text></g>
+            <line x1="366" x2="366" y1="22" y2="196" style="stroke:currentColor" stroke-dasharray="4 4" opacity="0.5"/>
+            <text x="372" y="22" font-size="11.5" fill="currentColor" opacity="0.8">Treatment stops (week 68)</text>
+            <polyline points="60,30 366,168.4 600,74.8" fill="none" style="stroke:var(--accent-text)" stroke-width="3.5"/>
+            <g style="fill:var(--accent-text)"><circle cx="60" cy="30" r="5"/><circle cx="366" cy="168.4" r="6"/><circle cx="600" cy="74.8" r="6"/></g>
+            <g font-size="13" font-weight="700" fill="currentColor"><text x="352" y="190" text-anchor="end">&minus;17.3%</text><text x="594" y="100" text-anchor="end">&minus;5.6% at week 120</text></g>
+            <g font-size="11" fill="currentColor" opacity="0.7" text-anchor="middle"><text x="60" y="214">Week 0</text><text x="366" y="214">68</text><text x="600" y="214">120</text></g>
+          </svg>
+          <figcaption class="calc-l" style="margin-top:6px">STEP 1 extension: about two thirds of the lost weight returned within a year of stopping semaglutide. Lines join the three measured averages; the path between them was not reported in this form. Source: Wilding 2022.<sup><a href="#ref-8">8</a></sup> Run your own numbers with the <a href="/off-ramp-calculator/">weight-regain calculator</a>.</figcaption>
+        </figure>
+      </div>
+
       <aside class="inline-capture">
         <p><strong>Keeping muscle on a GLP-1 starts with hitting a protein target on an appetite that is gone.</strong> The Protein Playbook is the $5 guide to exactly that &mdash; your daily number, a four-meal system, a food table and three sample days, every figure cited &mdash; and it is free for your email. A short weekly digest of new research comes with it.</p>
         <form data-subscribe data-source="inline:glp1-muscle-loss-statistics" class="subscribe-form" novalidate>
@@ -185,7 +268,7 @@
         <p>These figures are free to quote, screenshot, or reference in your own writing, including commercially. We ask only that you cite the underlying study, and link back here so readers can check the source themselves. Every number above has its own permalink: hover a row and click the <span class="stat-hash">#</span>.</p>
         <div class="cite-copy">
           <label for="cite-text">Copy-ready citation</label>
-          <textarea id="cite-text" rows="3" readonly>MuscleOnGLP. "GLP-1 muscle loss by the numbers." Purplelink LLC, updated 24 July 2026. https://getmuscleonglp.com/learn/glp1-muscle-loss-statistics/</textarea>
+          <textarea id="cite-text" rows="3" readonly>MuscleOnGLP. "GLP-1 muscle loss by the numbers." Purplelink LLC, updated 27 October 2026. https://getmuscleonglp.com/learn/glp1-muscle-loss-statistics/</textarea>
           <button type="button" class="btn btn-ghost" id="cite-btn">Copy citation</button>
           <span class="cite-status" id="cite-status" role="status" aria-live="polite"></span>
         </div>
@@ -229,6 +312,9 @@
           <li id="ref-7">Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? <em>Journal of the International Society of Sports Nutrition.</em> 2018. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5828430/">pmc.ncbi.nlm.nih.gov/articles/PMC5828430</a></li>
                   <li id="ref-8">Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. <em>Diabetes, Obesity &amp; Metabolism.</em> 2022. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9542252/">pmc.ncbi.nlm.nih.gov/articles/PMC9542252</a></li>
           <li id="ref-9">Trends in 1-year persistence and adherence among initiators of weight-loss-indicated GLP-1 receptor agonists. 2024. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12948759/">pmc.ncbi.nlm.nih.gov/articles/PMC12948759</a></li>
+          <li id="ref-10">Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). <em>New England Journal of Medicine.</em> 2021;384:989&ndash;1002. <a href="https://doi.org/10.1056/NEJMoa2032183">doi.org/10.1056/NEJMoa2032183</a></li>
+          <li id="ref-11">Jastreboff AM, et al. Tirzepatide once weekly for the treatment of obesity (SURMOUNT-1). <em>New England Journal of Medicine.</em> 2022;387:205&ndash;216. <a href="https://doi.org/10.1056/NEJMoa2206038">doi.org/10.1056/NEJMoa2206038</a></li>
+          <li id="ref-12">Davies M, et al. Semaglutide 2.4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2). <em>The Lancet.</em> 2021;397:971&ndash;984. <a href="https://doi.org/10.1016/S0140-6736(21)00213-0">doi.org/10.1016/S0140-6736(21)00213-0</a></li>
 </ol>
         <p style="color:var(--ink-soft);font-size:0.9rem;margin-top:14px">Citing these figures? A link to this page or the underlying study is appreciated. This page is educational and not medical advice.</p>
       </div>
