@@ -760,3 +760,7 @@ main:has(.guide-hero) .finalcta, main:has(.guide-hero) .finalcta .guarantee { te
 main:has(.guide-hero) .finalcta .lead { margin-left: auto; }
 @media (max-width: 820px) { main:has(.guide-hero) .crumbs { display: none; } }
 main:has(.guide-hero) .evidence-stats li strong { display: block; font-family: var(--font-display); font-size: clamp(2.2rem, 3.6vw, 3rem); font-weight: 700; line-height: 1; letter-spacing: -0.02em; color: var(--accent-text); margin-bottom: 10px; }
+main:has(.guide-hero) .wrap.center > p, main:has(.guide-hero) .evidence-note { max-width: 68ch; }
+main:has(.guide-hero) .finalcta .wrap.center { text-align: center; }
+main:has(.guide-hero) .finalcta .wrap.center > * { margin-left: auto; margin-right: auto; }
+main:has(.guide-hero) .faq-list, main:has(.guide-hero) .wrap.center > .lead { max-width: 64ch; }
