@@ -18,7 +18,7 @@
     "tirz-5":     { label: "Zepbound/Mounjaro (tirzepatide 5 mg)",  trial: "SURMOUNT-1",  weeks: 72, pct: 15.0, placebo: 3.1, med: "tirz", ref: 3 },
     "tirz-10":    { label: "Zepbound/Mounjaro (tirzepatide 10 mg)", trial: "SURMOUNT-1",  weeks: 72, pct: 19.5, placebo: 3.1, med: "tirz", ref: 3 },
     "tirz-15":    { label: "Zepbound/Mounjaro (tirzepatide 15 mg)", trial: "SURMOUNT-1",  weeks: 72, pct: 20.9, placebo: 3.1, med: "tirz", ref: 3 },
-    "orfo-36":    { label: "Orforglipron 36 mg (daily pill)",      trial: "ATTAIN-1",    weeks: 72, pct: 11.2, placebo: 2.1, med: "other", ref: 9 },
+    "orfo-36":    { label: "Foundayo (orforglipron 36 mg, pill)", trial: "ATTAIN-1",    weeks: 72, pct: 11.2, placebo: 2.1, med: "other", ref: 9 },
     "reta-12":    { label: "Retatrutide 12 mg (investigational)",  trial: "Phase 2",     weeks: 48, pct: 24.2, placebo: 2.1, med: "other", ref: 4 }
   };
   var ORDER = ["ozempic-1", "wegovy-t2d", "orfo-36", "wegovy", "wegovy-7", "tirz-5", "tirz-10", "tirz-15", "reta-12"];
