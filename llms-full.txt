@@ -122,7 +122,7 @@ Either works. A 2023 systematic review and meta-analysis of 13 studies and 1,016
 # The best exercises to preserve muscle while losing weight on a GLP-1
 
 URL: https://getmuscleonglp.com/learn/best-exercises-preserve-muscle-glp1/
-Updated: 2026-07-10
+Updated: 2026-10-27
 
 Training on a GLP-1
 
@@ -147,6 +147,8 @@ The good news is that the single most effective thing you can do about it is als
 ## Start here: resistance training is the non-negotiable core
 
 Of everything in this space, resistance training has the strongest and most direct evidence, and it is endorsed as a first-line intervention against weight-loss-associated muscle loss. [4] The size of the effect is what makes it non-negotiable. In a meta-analysis of six randomized controlled trials in older adults under caloric restriction, adding resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, a weighted mean difference of about +0.82 kg of muscle preserved versus dieting without it. [3]
+
+The training effect behind this page, from a meta-analysis in a non-GLP-1 population. [3] See what it could mean for you with the muscle loss calculator.
 
 No cardio plan, supplement, or diet tweak comes close to that. Cardio and protein both matter, and we get to them, but if you only add one thing while you lose weight, add resistance training. Dedicated trials in GLP-1 users are now underway, including the registered LEAN-PREP study of resistance exercise and protein during semaglutide and tirzepatide therapy, [5] so this is an active area of research rather than a settled or niche one. The direction of the existing evidence is clear enough to act on today.
 
