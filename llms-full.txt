@@ -1062,6 +1062,99 @@ Not as a number. They say to prioritize fiber-rich whole grains, with 2 to 4 ser
 
 ---
 
+# Foundayo vs the Wegovy pill: weight loss, side effects and muscle
+
+URL: https://getmuscleonglp.com/learn/foundayo-vs-wegovy-pill/
+Updated: 2026-10-27
+
+Comparison
+
+There are now two GLP-1 pills for weight management. Here is what each trial found, the one indirect comparison and who paid for it, how you take each, and what is and is not known about muscle.
+
+## Key takeaways
+
+- The Wegovy pill (oral semaglutide 25 mg) averaged 13.6 percent weight loss at 64 weeks in its main trial, against 2.2 percent on placebo. [1]
+
+- Foundayo (orforglipron 36 mg) averaged 11.2 percent at 72 weeks in its main trial, against 2.1 percent on placebo. [2]
+
+- No trial has compared them head to head. The one indirect comparison favored the Wegovy pill by about 3 percentage points, and it was run by Novo Nordisk, which makes that pill. [3]
+
+- The Wegovy pill is taken on an empty stomach with a 30-minute wait before eating; Foundayo has no food or water restrictions. [4,5]
+
+- Neither trial reported body composition. Training and protein protect muscle on either pill.
+
+Both pills act on the GLP-1 receptor, the same target as the injections. The Wegovy pill is semaglutide, the molecule in Ozempic and Wegovy injections, taken by mouth once a day; the FDA approved it for weight management in December 2025. [4] Foundayo is orforglipron, a small molecule rather than a peptide, also once a day; the FDA approved it in April 2026. [6]
+
+## What each trial found
+
+The Wegovy pill (OASIS 4). The trial randomized 307 adults with overweight or obesity and without diabetes to oral semaglutide 25 mg or placebo. Average body-weight change at 64 weeks was −13.6 percent on the pill against −2.2 percent on placebo. Gastrointestinal side effects were reported by 74.0 percent of people on the pill and 42.2 percent on placebo. [1]
+
+Foundayo (ATTAIN-1). The trial randomized 3,127 adults with obesity and without diabetes to orforglipron 6, 12 or 36 mg or placebo for 72 weeks. Counting everyone assigned a dose, average weight change was −7.5, −8.4 and −11.2 percent, against −2.1 percent on placebo. Adverse events led 5.3 to 10.3 percent of people on orforglipron to stop, against 2.7 percent on placebo. [2]
+
+The two trials differ in size, length and population, so the 13.6 and 11.2 percent figures are a rough guide, not a measured difference. The weight loss calculator applies each trial's average to your own weight.
+
+## The one comparison, and who ran it
+
+Without a head-to-head trial, the closest evidence is an indirect comparison that adjusted individual OASIS 4 data against the published ATTAIN-1 results. It found the Wegovy pill produced 3.2 percentage points more weight loss than orforglipron 36 mg (95 percent confidence interval 0.4 to 5.9 points), and that stopping because of side effects was more likely on orforglipron. [3]
+
+That study was run by Novo Nordisk, which makes the Wegovy pill: five authors are Novo employees and shareholders, and a consultancy paid by Novo did the analysis. [3] Indirect comparisons are also weaker than randomized ones, because they cannot fully adjust for differences between trials. Read it as a sign the gap may be real, not as a settled ranking.
+
+## How you take each
+
+This is the practical difference most people notice. The Wegovy pill has to be taken on an empty stomach, with a 30-minute wait before eating. [4] Foundayo can be taken at any time of day without food or water restrictions. [5] For someone who wants protein at breakfast, or who trains early, that difference shapes the morning.
+
+## What is known about muscle
+
+Neither trial's published abstract reports body composition, so the share of weight lost as lean mass is unmeasured for both pills. [1,2] The closest guide for the Wegovy pill is injectable semaglutide, the same molecule: in the STEP 1 DXA substudy of 140 people, fat mass fell 19.3 percent and lean mass 9.7 percent over 68 weeks. [7] There is no equivalent data for orforglipron yet. Our Foundayo and muscle article covers what is known.
+
+On either pill, the two levers with the strongest evidence are the same. In a meta-analysis of older adults losing weight through caloric restriction, resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [8] A 2025 joint advisory on nutrition during GLP-1 treatment recommends about 1.2 to 1.6 g of protein per kg of body weight a day, [9] the same range the 2025–2030 Dietary Guidelines set for everyone. [10]
+
+## What the evidence does not say
+
+There is no randomized head-to-head trial of the two pills. The trial figures here come from the published abstracts, which use each trial's main analysis. The only direct comparison is indirect and sponsor-run. Neither trial enrolled people with diabetes, so the figures may not apply to them. This page gives no dosing information, and choosing between the pills is a decision for you and your prescriber.
+
+## The bottom line
+
+In their own trials the Wegovy pill averaged somewhat more weight loss and Foundayo is easier to take, with no empty-stomach rule. The only comparison between them leans toward the Wegovy pill but comes from its maker. For muscle, the choice matters less than what you do alongside it: train against resistance, eat enough protein, and track your strength.
+
+## Frequently asked
+
+**Q:** Which pill causes more weight loss, Foundayo or the Wegovy pill?
+
+In their own trials, the Wegovy pill (oral semaglutide 25 mg) averaged 13.6% weight loss at 64 weeks and Foundayo (orforglipron 36 mg) 11.2% at 72 weeks. There is no head-to-head trial. One indirect comparison found 3.2 percentage points more loss with the Wegovy pill, but it was run by Novo Nordisk, which makes that pill.
+
+**Q:** Do you have to take the GLP-1 pills on an empty stomach?
+
+The Wegovy pill does: it is taken on an empty stomach, with a 30-minute wait before eating. Foundayo can be taken at any time of day without food or water restrictions.
+
+**Q:** Do the GLP-1 pills cause muscle loss?
+
+Probably some, like every GLP-1 medication, but neither pill's main trial reported body composition. For injectable semaglutide, the same molecule as the Wegovy pill, a DXA substudy found fat mass fell 19.3% and lean mass 9.7% over 68 weeks. Resistance training and enough protein protect muscle on either pill.
+
+## References
+
+- Wharton S, Lingvay I, Bogdanski P, et al. Oral semaglutide at a dose of 25 mg in adults with overweight or obesity (OASIS 4). New England Journal of Medicine. 2025;393(11):1077–1087. doi.org/10.1056/NEJMoa2500969
+
+- Wharton S, Aronne LJ, Stefanski A, et al. Orforglipron, an oral small-molecule GLP-1 receptor agonist for obesity treatment (ATTAIN-1). New England Journal of Medicine. 2025;393(18):1796–1806. doi.org/10.1056/NEJMoa2511774
+
+- Oral semaglutide 25 mg versus orforglipron 36 mg in obesity: a population-adjusted indirect treatment comparison. Diabetes, Obesity & Metabolism. 2026;28(8):7247–7256. Funded by Novo Nordisk. doi.org/10.1111/dom.70919
+
+- FDA approves Wegovy pill, the first oral GLP-1 to treat obesity. Healio Endocrinology. December 23, 2025. healio.com
+
+- FDA approves orforglipron, first GLP-1 pill without time, food or water restrictions. Pharmacy Times. April 1, 2026. pharmacytimes.com
+
+- FDA approves orforglipron, an oral GLP-1 for adults with obesity. Healio Endocrinology. April 1, 2026. healio.com
+
+- Wilding JPH, Batterham RL, Calanna S, et al. Impact of semaglutide on body composition in adults with overweight or obesity: exploratory analysis of the STEP 1 study. Journal of the Endocrine Society. 2021;5(Suppl 1):A16. doi.org/10.1210/jendso/bvab048.030
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2025–2030. 2026. realfood.gov
+
+---
+
 # How to fuel workouts on a GLP-1 when you are barely hungry
 
 URL: https://getmuscleonglp.com/learn/fuel-workouts-glp1/
