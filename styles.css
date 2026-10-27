@@ -881,3 +881,15 @@ form#calc.pf { overflow: visible; }
 .tool-tile:hover { background: var(--accent-light); }
 .tool-tile:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 2px; }
 @media (prefers-color-scheme: dark) { .tool-tile { background: #172420; } .tool-tile:hover { background: #1c2c27; } }
+
+/* Learn hub topic filters (learn/filter.js): flat tone-step pills, the chosen
+   one filled with the accent. The count line is the live status for screen readers. */
+.learn-filters { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 28px 0 10px; }
+.learn-filter { font: inherit; font-size: 0.9rem; font-weight: 600; padding: 9px 16px; border: 0; border-radius: 999px; background: var(--bg-alt); color: var(--ink-soft); cursor: pointer; transition: background-color .15s ease, color .15s ease; }
+.learn-filter:hover { color: var(--ink); background: var(--accent-light); }
+.learn-filter[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.learn-filter:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 2px; }
+.learn-count { margin: 0 0 18px; font-size: var(--fs-meta); color: var(--ink-soft); }
+.learn-card[hidden] { display: none; }
+@media (prefers-color-scheme: dark) { .learn-filter { background: #172420; } .learn-filter:hover { background: #1c2c27; } }
+@media (prefers-reduced-motion: reduce) { .learn-filter { transition: none; } }
