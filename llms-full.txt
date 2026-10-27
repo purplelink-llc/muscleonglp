@@ -1926,7 +1926,7 @@ Most macro advice is written for people who can eat as much as they like and nee
 
 ## Step 1: protein, in grams, from your weight
 
-A 2025 joint advisory from four nutrition and obesity societies puts protein at about 1.2 to 1.6 g per kilogram of body weight a day during GLP-1 weight loss. [1] A meta-analysis of strength-training trials found the gain in lean mass from extra protein leveled off near 1.6 g/kg, so the top of that range is where most people stop seeing a benefit. [2] The target is the total for the day. Split across three to five meals, it comes to roughly 25 to 40 g a meal for most adults. [6]
+A 2025 joint advisory from four nutrition and obesity societies puts protein at about 1.2 to 1.6 g per kilogram of body weight a day during GLP-1 weight loss. [1] The 2025–2030 Dietary Guidelines for Americans set the same range as their protein goal for everyone. [6] A meta-analysis of strength-training trials found the gain in lean mass from extra protein leveled off near 1.6 g/kg, so the top of that range is where most people stop seeing a benefit. [2] The target is the total for the day. Split across three to five meals, it comes to roughly 25 to 40 g a meal for most adults. [7]
 
 ## Step 2: fat, as a share of calories
 
@@ -1982,6 +1982,8 @@ Constipation was among the most common side effects in the semaglutide trials, a
 - U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. odphp.health.gov
 
 - Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2025–2030. 2026. realfood.gov
 
 - Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Journal of the International Society of Sports Nutrition. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
 
