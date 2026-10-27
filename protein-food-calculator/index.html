@@ -4,14 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Protein Food Calculator: Build a High-Protein Day on a GLP-1</title>
-<meta name="description" content="Free protein food calculator. Tap the foods you eat and watch your day fill toward a GLP-1 protein target, with USDA protein values for 13 common foods.">
+<meta name="description" content="Free protein food calculator. Tap the foods you eat and watch your day fill toward a GLP-1 protein target, with USDA protein values for 23 common foods.">
 <link rel="canonical" href="https://getmuscleonglp.com/protein-food-calculator/">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="author" content="MuscleOnGLP">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MuscleOnGLP">
 <meta property="og:title" content="Protein Food Calculator: build a high-protein day">
-<meta property="og:description" content="Tap the foods you eat and watch your protein total fill toward a GLP-1 target. USDA values for 13 common foods.">
+<meta property="og:description" content="Tap the foods you eat and watch your protein total fill toward a GLP-1 target. USDA values for 23 common foods.">
 <meta property="og:url" content="https://getmuscleonglp.com/protein-food-calculator/">
 <meta property="og:image" content="https://getmuscleonglp.com/assets/og/protein-food-calculator.jpg">
 <meta property="og:image:width" content="1200">
@@ -34,7 +34,7 @@
     "price": "0",
     "priceCurrency": "USD"
   },
-  "description": "Adds up the protein in servings of 13 common foods (USDA FoodData Central values) and compares the total with a 1.2 to 1.6 g/kg daily target, the range a four-society joint advisory uses for adults on GLP-1 therapy."
+  "description": "Adds up the protein in servings of 23 common foods (USDA FoodData Central values) and compares the total with a 1.2 to 1.6 g/kg daily target, the range a four-society joint advisory uses for adults on GLP-1 therapy."
 }
 </script>
 <script type="application/ld+json">
@@ -105,7 +105,7 @@
       <p class="crumbs"><a href="/">Home</a><span>/</span><a href="/tools/">Calculators</a><span>/</span>Protein foods</p>
       <p class="article-eyebrow">Free tool</p>
       <h1>Protein food calculator</h1>
-      <p class="article-dek">Tap the foods you eat in a day and watch the total fill toward your protein target. Thirteen common foods, USDA values, nothing to sign up for.</p>
+      <p class="article-dek">Tap the foods you eat in a day and watch the total fill toward your protein target. Twenty-three common foods, USDA values, nothing to sign up for.</p>
     </div>
   </header>
 
@@ -137,8 +137,20 @@
               <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less chicken breast, cooked">&minus;</button><input id="f-chicken" name="chicken" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="31"><button type="button" class="pf-b" data-d="0.5" aria-label="More chicken breast, cooked">+</button></span>
             </li>
             <li class="pf-row">
+              <span class="pf-name"><label for="f-turkey">Turkey breast, roasted</label><small>100 g (3.5 oz) &middot; <b data-g="29">29 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less turkey breast, roasted">&minus;</button><input id="f-turkey" name="turkey" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="29"><button type="button" class="pf-b" data-d="0.5" aria-label="More turkey breast, roasted">+</button></span>
+            </li>
+            <li class="pf-row">
+              <span class="pf-name"><label for="f-cottage">Cottage cheese, low-fat</label><small>1 cup (226 g) &middot; <b data-g="28">28 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less cottage cheese, low-fat">&minus;</button><input id="f-cottage" name="cottage" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="28"><button type="button" class="pf-b" data-d="0.5" aria-label="More cottage cheese, low-fat">+</button></span>
+            </li>
+            <li class="pf-row">
               <span class="pf-name"><label for="f-beef">Lean ground beef (93%), cooked</label><small>100 g (3.5 oz) &middot; <b data-g="26">26 g</b></small></span>
               <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less lean ground beef (93%), cooked">&minus;</button><input id="f-beef" name="beef" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="26"><button type="button" class="pf-b" data-d="0.5" aria-label="More lean ground beef (93%), cooked">+</button></span>
+            </li>
+            <li class="pf-row">
+              <span class="pf-name"><label for="f-pork">Pork tenderloin, cooked</label><small>100 g (3.5 oz) &middot; <b data-g="26">26 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less pork tenderloin, cooked">&minus;</button><input id="f-pork" name="pork" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="26"><button type="button" class="pf-b" data-d="0.5" aria-label="More pork tenderloin, cooked">+</button></span>
             </li>
             <li class="pf-row">
               <span class="pf-name"><label for="f-salmon">Salmon, cooked</label><small>100 g (3.5 oz) &middot; <b data-g="25">25 g</b></small></span>
@@ -153,12 +165,16 @@
               <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less shrimp, cooked">&minus;</button><input id="f-shrimp" name="shrimp" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="24"><button type="button" class="pf-b" data-d="0.5" aria-label="More shrimp, cooked">+</button></span>
             </li>
             <li class="pf-row">
-              <span class="pf-name"><label for="f-cottage">Cottage cheese, low-fat</label><small>1 cup (226 g) &middot; <b data-g="28">28 g</b></small></span>
-              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less cottage cheese, low-fat">&minus;</button><input id="f-cottage" name="cottage" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="28"><button type="button" class="pf-b" data-d="0.5" aria-label="More cottage cheese, low-fat">+</button></span>
-            </li>
-            <li class="pf-row">
               <span class="pf-name"><label for="f-whey">Whey protein powder</label><small>1 scoop (about 30 g) &middot; <b data-g="24">24 g</b></small></span>
               <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less whey protein powder">&minus;</button><input id="f-whey" name="whey" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="24"><button type="button" class="pf-b" data-d="0.5" aria-label="More whey protein powder">+</button></span>
+            </li>
+            <li class="pf-row">
+              <span class="pf-name"><label for="f-cod">Cod, cooked</label><small>100 g (3.5 oz) &middot; <b data-g="23">23 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less cod, cooked">&minus;</button><input id="f-cod" name="cod" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="23"><button type="button" class="pf-b" data-d="0.5" aria-label="More cod, cooked">+</button></span>
+            </li>
+            <li class="pf-row">
+              <span class="pf-name"><label for="f-tempeh">Tempeh</label><small>100 g &middot; <b data-g="20">20 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less tempeh">&minus;</button><input id="f-tempeh" name="tempeh" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="20"><button type="button" class="pf-b" data-d="0.5" aria-label="More tempeh">+</button></span>
             </li>
             <li class="pf-row">
               <span class="pf-name"><label for="f-lentils">Lentils, cooked</label><small>1 cup (198 g) &middot; <b data-g="18">18 g</b></small></span>
@@ -177,12 +193,36 @@
               <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less tofu, firm">&minus;</button><input id="f-tofu" name="tofu" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="17"><button type="button" class="pf-b" data-d="0.5" aria-label="More tofu, firm">+</button></span>
             </li>
             <li class="pf-row">
+              <span class="pf-name"><label for="f-chickpeas">Chickpeas, cooked</label><small>1 cup (164 g) &middot; <b data-g="15">15 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less chickpeas, cooked">&minus;</button><input id="f-chickpeas" name="chickpeas" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="15"><button type="button" class="pf-b" data-d="0.5" aria-label="More chickpeas, cooked">+</button></span>
+            </li>
+            <li class="pf-row">
+              <span class="pf-name"><label for="f-blackbeans">Black beans, cooked</label><small>1 cup (172 g) &middot; <b data-g="15">15 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less black beans, cooked">&minus;</button><input id="f-blackbeans" name="blackbeans" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="15"><button type="button" class="pf-b" data-d="0.5" aria-label="More black beans, cooked">+</button></span>
+            </li>
+            <li class="pf-row">
               <span class="pf-name"><label for="f-milk">Milk</label><small>1 cup (240 mL) &middot; <b data-g="8">8 g</b></small></span>
               <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less milk">&minus;</button><input id="f-milk" name="milk" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="8"><button type="button" class="pf-b" data-d="0.5" aria-label="More milk">+</button></span>
             </li>
             <li class="pf-row">
+              <span class="pf-name"><label for="f-quinoa">Quinoa, cooked</label><small>1 cup (185 g) &middot; <b data-g="8">8 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less quinoa, cooked">&minus;</button><input id="f-quinoa" name="quinoa" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="8"><button type="button" class="pf-b" data-d="0.5" aria-label="More quinoa, cooked">+</button></span>
+            </li>
+            <li class="pf-row">
+              <span class="pf-name"><label for="f-stringcheese">String cheese (part-skim mozzarella)</label><small>1 stick (28 g) &middot; <b data-g="7">7 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less string cheese (part-skim mozzarella)">&minus;</button><input id="f-stringcheese" name="stringcheese" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="7"><button type="button" class="pf-b" data-d="0.5" aria-label="More string cheese (part-skim mozzarella)">+</button></span>
+            </li>
+            <li class="pf-row">
+              <span class="pf-name"><label for="f-peanutbutter">Peanut butter</label><small>2 tbsp (32 g) &middot; <b data-g="7">7 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less peanut butter">&minus;</button><input id="f-peanutbutter" name="peanutbutter" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="7"><button type="button" class="pf-b" data-d="0.5" aria-label="More peanut butter">+</button></span>
+            </li>
+            <li class="pf-row">
               <span class="pf-name"><label for="f-egg">Egg, large</label><small>1 egg &middot; <b data-g="6">6 g</b></small></span>
               <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less egg, large">&minus;</button><input id="f-egg" name="egg" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="6"><button type="button" class="pf-b" data-d="0.5" aria-label="More egg, large">+</button></span>
+            </li>
+            <li class="pf-row">
+              <span class="pf-name"><label for="f-almonds">Almonds</label><small>1 oz (28 g) &middot; <b data-g="6">6 g</b></small></span>
+              <span class="pf-step"><button type="button" class="pf-b" data-d="-0.5" aria-label="Less almonds">&minus;</button><input id="f-almonds" name="almonds" type="number" inputmode="decimal" min="0" max="10" step="0.5" value="0" class="pf-in" data-g="6"><button type="button" class="pf-b" data-d="0.5" aria-label="More almonds">+</button></span>
             </li>
           </ul>
           </div>
@@ -206,28 +246,38 @@
       </div>
 
       <div class="article" style="margin-top:34px">
-        <h2>Protein per serving, 13 common foods</h2>
+        <h2>Protein per serving, 23 common foods</h2>
         <div class="table-scroll">
         <table>
           <thead><tr><th scope="col">Food</th><th scope="col">Serving</th><th scope="col" class="num">Protein</th></tr></thead>
           <tbody>
             <tr><td>Chicken breast, cooked</td><td>100 g (3.5 oz)</td><td class="num">31 g</td></tr>
+            <tr><td>Turkey breast, roasted</td><td>100 g (3.5 oz)</td><td class="num">29 g</td></tr>
+            <tr><td>Cottage cheese, low-fat</td><td>1 cup (226 g)</td><td class="num">28 g</td></tr>
             <tr><td>Lean ground beef (93%), cooked</td><td>100 g (3.5 oz)</td><td class="num">26 g</td></tr>
+            <tr><td>Pork tenderloin, cooked</td><td>100 g (3.5 oz)</td><td class="num">26 g</td></tr>
             <tr><td>Salmon, cooked</td><td>100 g (3.5 oz)</td><td class="num">25 g</td></tr>
             <tr><td>Canned tuna, drained</td><td>100 g (3.5 oz)</td><td class="num">25 g</td></tr>
             <tr><td>Shrimp, cooked</td><td>100 g (3.5 oz)</td><td class="num">24 g</td></tr>
-            <tr><td>Cottage cheese, low-fat</td><td>1 cup (226 g)</td><td class="num">28 g</td></tr>
             <tr><td>Whey protein powder</td><td>1 scoop (about 30 g)</td><td class="num">24 g</td></tr>
+            <tr><td>Cod, cooked</td><td>100 g (3.5 oz)</td><td class="num">23 g</td></tr>
+            <tr><td>Tempeh</td><td>100 g</td><td class="num">20 g</td></tr>
             <tr><td>Lentils, cooked</td><td>1 cup (198 g)</td><td class="num">18 g</td></tr>
             <tr><td>Edamame, shelled</td><td>1 cup</td><td class="num">18 g</td></tr>
             <tr><td>Greek yogurt, plain nonfat</td><td>170 g (3/4 cup)</td><td class="num">17 g</td></tr>
             <tr><td>Tofu, firm</td><td>100 g</td><td class="num">17 g</td></tr>
+            <tr><td>Chickpeas, cooked</td><td>1 cup (164 g)</td><td class="num">15 g</td></tr>
+            <tr><td>Black beans, cooked</td><td>1 cup (172 g)</td><td class="num">15 g</td></tr>
             <tr><td>Milk</td><td>1 cup (240 mL)</td><td class="num">8 g</td></tr>
+            <tr><td>Quinoa, cooked</td><td>1 cup (185 g)</td><td class="num">8 g</td></tr>
+            <tr><td>String cheese (part-skim mozzarella)</td><td>1 stick (28 g)</td><td class="num">7 g</td></tr>
+            <tr><td>Peanut butter</td><td>2 tbsp (32 g)</td><td class="num">7 g</td></tr>
             <tr><td>Egg, large</td><td>1 egg</td><td class="num">6 g</td></tr>
+            <tr><td>Almonds</td><td>1 oz (28 g)</td><td class="num">6 g</td></tr>
           </tbody>
         </table>
         </div>
-        <p>Values are approximate figures from USDA FoodData Central, as compiled in the Protein Playbook.<sup><a href="#ref-2">2</a></sup> Brands and cuts vary, so a label beats the table when you have one.</p>
+        <p>Values are approximate figures from USDA FoodData Central; the first thirteen are the same table as in the Protein Playbook.<sup><a href="#ref-2">2</a></sup> Brands and cuts vary, so a label beats the table when you have one.</p>
 
         <h2>How the target is set</h2>
         <p>The target is your weight in kilograms times 1.2 at the low end and 1.6 at the high end. That is the range the joint advisory from four nutrition and obesity societies gives for adults losing weight on a GLP-1.<sup><a href="#ref-1">1</a></sup> Strength-training studies find the benefit of extra protein levels off near 1.6 g/kg, so the high end is where more stops helping for most people.<sup><a href="#ref-3">3</a></sup> If you carry a lot of fat mass, a target scaled to total weight can run high; the <a href="/protein-calculator/">calorie and protein calculator</a> shows both ranges side by side.</p>
