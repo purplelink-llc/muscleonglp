@@ -111,6 +111,21 @@ export const PRODUCTS = {
     file: "muscle-on-glp1-tracker.xlsx",
     type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
   },
+  // The Everything Bundle (2026-10-27): the Complete Pack, the Workbook, the
+  // printable Tracker and the Tracker spreadsheet in one zip, so it rides the
+  // same single-file download path. Bought separately: $29 + $19 + $9 + $12 =
+  // $69. Priced inline like tracker-sheet, so it needs no Stripe dashboard
+  // Price. Build the zip from the four stored files (same keys as above) and
+  // upload it as `file` before the bundle is advertised. No bonus: it already
+  // holds everything but the research reviews.
+  "everything-bundle": {
+    amount: 3900,
+    name: "The MuscleOnGLP Everything Bundle",
+    successPath: "/success/everything-bundle/",
+    title: "The MuscleOnGLP Everything Bundle",
+    file: "muscleonglp-everything-bundle.zip",
+    type: "application/zip",
+  },
   "research-review-2026-08": {
     envKey: "STRIPE_PRICE_RESEARCH_REVIEW_2026_08",
     successPath: "/success/research-review-2026-08/",

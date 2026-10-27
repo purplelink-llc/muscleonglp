@@ -1,0 +1,2047 @@
+{
+ "url": "https://getmuscleonglp.com/guides/no-gym-plan/",
+ "at": "2026-10-27T13:08:15.703Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.45,
+    0.73,
+    0.79,
+    0.92
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 26,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 3594,
+     "screens": 4,
+     "words": 446,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 11,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cover-no-gym-plan.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+     "words": 10,
+     "chars": 56,
+     "lines": 3,
+     "size": 49.6,
+     "vw": 3.4,
+     "font": "Iowan Old Style",
+     "weight": 700,
+     "tracking": -0.01,
+     "leading": 1.12,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.48,
+     "top": 238,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+     "words": 10,
+     "lines": 3,
+     "size": 49.6,
+     "font": "Iowan Old Style"
+    },
+    "headings": [
+     {
+      "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+      "words": 10,
+      "chars": 56,
+      "lines": 3,
+      "size": 49.6,
+      "vw": 3.4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.48,
+      "top": 238,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "$5",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 2.7,
+      "font": "Iowan Old Style",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.62,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.04,
+      "top": 534,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "What is inside",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 46.4,
+      "vw": 3.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 958,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the evidence says",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 46.4,
+      "vw": 3.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 1578,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Frequently asked",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 46.4,
+      "vw": 3.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 2159,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The No-Gym Plan",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 46.4,
+      "vw": 3.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 2893,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 4,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "-apple-system",
+       "share": 0.97,
+       "mono": false
+      },
+      {
+       "family": "Iowan Old Style",
+       "share": 0.03,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      38,
+      46,
+      50
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "-apple-system",
+      "size": 17,
+      "leading": 1.62,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.6
+     },
+     "measureChars": 84,
+     "max": {
+      "size": 49.6,
+      "vw": 3.4,
+      "font": "Iowan Old Style",
+      "text": "The 12-week no-gym plan for preserving m"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 1,
+     "microLabelShare": 0.007,
+     "microSamples": [
+      "Training · 8-page mini-guide"
+     ],
+     "upperShare": 0.01,
+     "centerShare": 0.54,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Training · 8-page mini-guide",
+      "above": "The 12-week no-gym plan for preserving m",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 188
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f4f8f6",
+       "top": 854,
+       "hsl": {
+        "h": 150,
+        "s": 0.22,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#16211d",
+       "top": 3284,
+       "hsl": {
+        "h": 158,
+        "s": 0.2,
+        "l": 0.11
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#45524c",
+       "share": 0.7
+      },
+      {
+       "color": "#b9c7c1",
+       "share": 0.12
+      },
+      {
+       "color": "#1b2420",
+       "share": 0.07
+      },
+      {
+       "color": "#d9ece6",
+       "share": 0.04
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#2f6f5e",
+      "hsl": {
+       "h": 164,
+       "s": 0.41,
+       "l": 0.31
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 3,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to main content",
+      "The Full Handbook",
+      "Buy now — instant download"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 3,
+     "shadowOverlay": 1,
+     "shadowSamples": [
+      "img.guide-cover → rgba(20, 40, 33, 0.16) 0px 20px 60px 0px",
+      "button.btn.btn-primary → rgba(47, 111, 94, 0.28) 0px 8px 22px 0px",
+      "a.btn.btn-primary → rgba(0, 0, 0, 0.2) 0px 10px 30px 0px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "section.section.finalcta → linear-gradient(135deg, rgb(47, 111, 94) 0%, rgb(36, 85, 70) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "header.nav 1440px",
+      "div.foot-legal 1072px"
+     ],
+     "outlinedBoxes": 5,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 4,
+     "boxRadius": 12,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.1
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 67,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 3594,
+    "margins": {
+     "left": 184,
+     "right": 190
+    },
+    "sections": [
+     {
+      "sel": "section.guide-hero",
+      "tag": "section",
+      "top": 67,
+      "height": 787,
+      "words": 67,
+      "media": 1,
+      "middle": 64,
+      "heading": {
+       "text": "The 12-week no-gym plan for preserving muscle on a",
+       "size": 50,
+       "tag": "h1"
+      },
+      "left": 184,
+      "right": 190,
+      "textLeft": 184,
+      "textRight": 190,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 854,
+      "height": 620,
+      "words": 105,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What is inside",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 372,
+      "right": 366,
+      "textLeft": 372,
+      "textRight": 366,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 1474,
+      "height": 581,
+      "words": 95,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What the evidence says",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 345,
+      "right": 345,
+      "textLeft": 345,
+      "textRight": 345,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 2055,
+      "height": 571,
+      "words": 174,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Frequently asked",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 363,
+      "right": 364,
+      "textLeft": 363,
+      "textRight": 364,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2625,
+      "height": 164,
+      "words": 27,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 376,
+      "right": 376,
+      "textLeft": 376,
+      "textRight": 376,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.finalcta",
+      "tag": "section",
+      "top": 2789,
+      "height": 495,
+      "words": 39,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The No-Gym Plan",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 442,
+      "right": 442,
+      "textLeft": 442,
+      "textRight": 442,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 3284,
+      "height": 310,
+      "words": 90,
+      "media": 0,
+      "middle": 92,
+      "heading": null,
+      "left": 184,
+      "right": 184,
+      "textLeft": 184,
+      "textRight": 184,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+      "size": 50,
+      "top": 238,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 568,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 2,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.14,
+    "voidBox": {
+     "x": 1020,
+     "y": 480,
+     "w": 420,
+     "h": 420
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.89,
+    0.76,
+    0.74,
+    0.91
+   ],
+   "motion": {
+    "elements": 25,
+    "css": 25,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 4001,
+     "screens": 3.9,
+     "words": 457,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 11,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cover-no-gym-plan.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "MuscleOnGLP",
+     "words": 1,
+     "chars": 11,
+     "lines": 1,
+     "size": 18.4,
+     "vw": 2.4,
+     "font": "-apple-system",
+     "weight": 800,
+     "tracking": -0.02,
+     "leading": 1.62,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.21,
+     "top": 10,
+     "tag": "a",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+     "words": 10,
+     "lines": 2,
+     "size": 32.3,
+     "font": "Iowan Old Style"
+    },
+    "headings": [
+     {
+      "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+      "words": 10,
+      "chars": 56,
+      "lines": 2,
+      "size": 32.3,
+      "vw": 4.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 1219,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "$5",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 5,
+      "font": "Iowan Old Style",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.62,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.07,
+      "top": 1420,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "What is inside",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 1777,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the evidence says",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2294,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Frequently asked",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2772,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The No-Gym Plan",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3361,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 6,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 4,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "-apple-system",
+       "share": 0.97,
+       "mono": false
+      },
+      {
+       "family": "Iowan Old Style",
+       "share": 0.03,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      22,
+      24,
+      30,
+      32,
+      38
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "-apple-system",
+      "size": 17,
+      "leading": 1.62,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.6
+     },
+     "measureChars": 79,
+     "max": {
+      "size": 38.4,
+      "vw": 5,
+      "font": "Iowan Old Style",
+      "text": "$5"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 1,
+     "microLabelShare": 0.007,
+     "microSamples": [
+      "Training · 8-page mini-guide"
+     ],
+     "upperShare": 0.01,
+     "centerShare": 0.53,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Training · 8-page mini-guide",
+      "above": "The 12-week no-gym plan for preserving m",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 1168
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f4f8f6",
+       "top": 1716,
+       "hsl": {
+        "h": 150,
+        "s": 0.22,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#16211d",
+       "top": 3691,
+       "hsl": {
+        "h": 158,
+        "s": 0.2,
+        "l": 0.11
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#45524c",
+       "share": 0.7
+      },
+      {
+       "color": "#b9c7c1",
+       "share": 0.12
+      },
+      {
+       "color": "#1b2420",
+       "share": 0.07
+      },
+      {
+       "color": "#d9ece6",
+       "share": 0.04
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#2f6f5e",
+      "hsl": {
+       "h": 164,
+       "s": 0.41,
+       "l": 0.31
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 4,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to main content",
+      "The Full Handbook",
+      "Buy now — instant download"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 4,
+     "shadowOverlay": 2,
+     "shadowSamples": [
+      "a.btn.btn-primary → rgba(47, 111, 94, 0.28) 0px 8px 22px 0px",
+      "img.guide-cover → rgba(20, 40, 33, 0.16) 0px 20px 60px 0px",
+      "button.btn.btn-primary → rgba(47, 111, 94, 0.28) 0px 8px 22px 0px",
+      "a.btn.btn-primary → rgba(0, 0, 0, 0.2) 0px 10px 30px 0px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "section.section.finalcta → linear-gradient(135deg, rgb(47, 111, 94) 0%, rgb(36, 85, 70) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 2,
+     "hairlineSamples": [
+      "header.nav 768px",
+      "div.foot-legal 720px"
+     ],
+     "outlinedBoxes": 5,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 4,
+     "boxRadius": 12,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.76
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": false,
+     "height": 108,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 4001,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section.guide-hero",
+      "tag": "section",
+      "top": 108,
+      "height": 1608,
+      "words": 67,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 1716,
+      "height": 517,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What is inside",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 56,
+      "right": 66,
+      "textLeft": 56,
+      "textRight": 66,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2233,
+      "height": 478,
+      "words": 95,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What the evidence says",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 25,
+      "textLeft": 25,
+      "textRight": 25,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 2711,
+      "height": 468,
+      "words": 174,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Frequently asked",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 47,
+      "right": 50,
+      "textLeft": 47,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 3178,
+      "height": 121,
+      "words": 27,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 40,
+      "right": 40,
+      "textLeft": 40,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.finalcta",
+      "tag": "section",
+      "top": 3299,
+      "height": 392,
+      "words": 39,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The No-Gym Plan",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 106,
+      "right": 106,
+      "textLeft": 106,
+      "textRight": 106,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 3691,
+      "height": 310,
+      "words": 90,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+      "size": 32,
+      "top": 1219,
+      "firstScreen": false
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 2,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.77,
+    0.75,
+    0.76,
+    0.79,
+    0.85,
+    0.91
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 26,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 433,
+     "h": 938
+    },
+    "page": {
+     "height": 4457,
+     "screens": 4.8,
+     "words": 453,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 11,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 1,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cover-no-gym-plan.png"
+     ],
+     "blendText": 0,
+     "sideScrollers": 1,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+     "words": 10,
+     "chars": 56,
+     "lines": 3,
+     "size": 32,
+     "vw": 7.4,
+     "font": "Iowan Old Style",
+     "weight": 700,
+     "tracking": -0.01,
+     "leading": 1.12,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.79,
+     "top": 705,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+     "words": 10,
+     "lines": 3,
+     "size": 32,
+     "font": "Iowan Old Style"
+    },
+    "headings": [
+     {
+      "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+      "words": 10,
+      "chars": 56,
+      "lines": 3,
+      "size": 32,
+      "vw": 7.4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 705,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "×",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 24,
+      "vw": 5.5,
+      "font": "-apple-system",
+      "weight": 400,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "right",
+      "widthRatio": 0.1,
+      "top": 883,
+      "tag": "button",
+      "kind": "heading"
+     },
+     {
+      "text": "$5",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 22.4,
+      "vw": 5.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": 0,
+      "leading": 1.3,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.22,
+      "top": 890,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "$5",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 8.9,
+      "font": "Iowan Old Style",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.62,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 1001,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "What is inside",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 1400,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the evidence says",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 2153,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Frequently asked",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 2859,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The No-Gym Plan",
+      "words": 3,
+      "chars": 15,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.79,
+      "top": 3591,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 5,
+     "medianWords": 2,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "-apple-system",
+       "share": 0.97,
+       "mono": false
+      },
+      {
+       "family": "Iowan Old Style",
+       "share": 0.03,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      17,
+      18,
+      22,
+      24,
+      30,
+      32,
+      38
+     ],
+     "sizeCount": 10,
+     "notLoaded": [],
+     "body": {
+      "font": "-apple-system",
+      "size": 17,
+      "leading": 1.62,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 7.6
+     },
+     "measureChars": 35,
+     "max": {
+      "size": 38.4,
+      "vw": 8.9,
+      "font": "Iowan Old Style",
+      "text": "$5"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 1,
+     "microLabelShare": 0.007,
+     "microSamples": [
+      "Training · 8-page mini-guide"
+     ],
+     "upperShare": 0.01,
+     "centerShare": 0.54,
+     "smallText": 1
+    },
+    "eyebrows": [
+     {
+      "text": "Training · 8-page mini-guide",
+      "above": "The 12-week no-gym plan for preserving m",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12.8,
+      "top": 654
+     }
+    ],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f4f8f6",
+       "top": 1344,
+       "hsl": {
+        "h": 150,
+        "s": 0.22,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#16211d",
+       "top": 3966,
+       "hsl": {
+        "h": 158,
+        "s": 0.2,
+        "l": 0.11
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#45524c",
+       "share": 0.69
+      },
+      {
+       "color": "#b9c7c1",
+       "share": 0.12
+      },
+      {
+       "color": "#1b2420",
+       "share": 0.07
+      },
+      {
+       "color": "#d9ece6",
+       "share": 0.04
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.04
+      }
+     ],
+     "button": {
+      "bg": "#2f6f5e",
+      "hsl": {
+       "h": 164,
+       "s": 0.41,
+       "l": 0.31
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 5,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 4,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to main content",
+      "The Full Handbook",
+      "Buy now — instant download"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 4,
+     "shadowOverlay": 2,
+     "shadowSamples": [
+      "a.btn.btn-primary → rgba(47, 111, 94, 0.28) 0px 8px 22px 0px",
+      "img.guide-cover → rgba(20, 40, 33, 0.16) 0px 20px 60px 0px",
+      "button.btn.btn-primary → rgba(47, 111, 94, 0.28) 0px 8px 22px 0px",
+      "a.btn.btn-primary → rgba(0, 0, 0, 0.2) 0px 10px 30px 0px"
+     ],
+     "gradients": 1,
+     "scrims": 0,
+     "gradientSamples": [
+      "section.section.finalcta → linear-gradient(135deg, rgb(47, 111, 94) 0%, rgb(36, 85, 70) 100%)"
+     ],
+     "gradientText": 0,
+     "hairlines": 3,
+     "hairlineSamples": [
+      "header.nav 390px",
+      "div.foot-legal 342px",
+      "div.m-bar 433px"
+     ],
+     "outlinedBoxes": 5,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 5,
+     "boxRadius": 12,
+     "squareMedia": 0,
+     "roundedMedia": 1,
+     "mediaRadius": 16,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2933
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.37
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": false,
+     "height": 100,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 433,
+     "h": 938
+    },
+    "pageH": 4457,
+    "margins": {
+     "left": 24,
+     "right": 4
+    },
+    "sections": [
+     {
+      "sel": "section.guide-hero",
+      "tag": "section",
+      "top": 100,
+      "height": 1244,
+      "words": 67,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 67,
+      "textLeft": 24,
+      "textRight": 91,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 1344,
+      "height": 754,
+      "words": 105,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What is inside",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 56,
+      "right": 69,
+      "textLeft": 56,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2097,
+      "height": 706,
+      "words": 95,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What the evidence says",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 25,
+      "right": 0,
+      "textLeft": 25,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 2803,
+      "height": 557,
+      "words": 40,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Frequently asked",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 50,
+      "right": 116,
+      "textLeft": 50,
+      "textRight": 116,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 3360,
+      "height": 175,
+      "words": 27,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 26,
+      "right": 69,
+      "textLeft": 26,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.finalcta",
+      "tag": "section",
+      "top": 3535,
+      "height": 430,
+      "words": 39,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The No-Gym Plan",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 34,
+      "right": 77,
+      "textLeft": 34,
+      "textRight": 77,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 3966,
+      "height": 491,
+      "words": 90,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 67,
+      "textLeft": 24,
+      "textRight": 67,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The 12-week no-gym plan for preserving muscle on a GLP-1",
+      "size": 32,
+      "top": 705,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [
+     {
+      "text": "preserved) in a meta-analysis.",
+      "side": "right",
+      "px": 0
+     },
+     {
+      "text": "in muscle growth between free weights and machines",
+      "side": "right",
+      "px": 4
+     }
+    ],
+    "edges": [
+     {
+      "x": 24,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 2,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "1 headline(s) wrap past two lines at 1440px: \"The 12-week no-gym plan for preserving muscle on\" → 3 lines (10 words, 49.6px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "1 eyebrow/kicker label(s) above headings: \"Training · 8-page mini-guide\" (pill) above \"The 12-week no-gym plan for preserving m\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "1 tiny uppercase letter-spaced label(s): \"Training · 8-page mini-guide\"",
+   "fix": "Prefer sentence case at body size.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "gradient",
+   "width": 1440,
+   "message": "1 gradient fill(s): section.section.finalcta → linear-gradient(135deg, rgb(47, 111, 94) 0%, rgb(36, 85, 70) 100%)",
+   "fix": "Use a flat colour or a real image. The only gradient allowed by default is a neutral scrim over a photo for legibility.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "3 box-shadow(s) on elements at rest: img.guide-cover → rgba(20, 40, 33, 0.16) 0px 20px 60px 0px | button.btn.btn-primary → rgba(47, 111, 94, 0.28) 0px 8px 22px 0px | a.btn.btn-primary → rgba(0, 0, 0, 0.2) 0px 10px 30px 0px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "button-fx",
+   "width": 1440,
+   "message": "Buttons with shadow/glow.",
+   "fix": "Flat fill, one colour.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "2 thin rule(s)/divider line(s): header.nav 1440px | div.foot-legal 1072px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "5 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 1 picture(s) on the page (1 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "small-text",
+   "width": 1440,
+   "message": "1 text block(s) under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "focal-point",
+   "width": 1440,
+   "message": "The first screen has no dominant element: the largest type is 49.6px (3.4vw) and no single picture holds a third of the viewport.",
+   "fix": "Make one thing lead: the headline at display size, or one large picture. A grid of many small pictures is not one thing; in blind tests jurors marked a first screen without a headline down every time. On the strongest studied sites the largest type has a median of 8.4vw."
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 768,
+   "message": "10 different font sizes (13, 14, 15, 17, 18, 22, 24, 30, 32, 38).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "no-title",
+   "width": 768,
+   "message": "The h1 (\"The 12-week no-gym plan for preserving muscle on a\") is not on the first screen (it starts 1219px down).",
+   "fix": "The title belongs on the first screen, where a visitor decides whether to stay."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "1 headline(s) wrap past two lines at 390px: \"The 12-week no-gym plan for preserving muscle on\" → 3 lines (10 words, 32px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  },
+  {
+   "level": "WARN",
+   "id": "side-scroll",
+   "width": 390,
+   "message": "1 row(s) scroll sideways with content past their edge.",
+   "fix": "Jurors and most visitors read a row cut at the edge as clipped, not as scrollable. Wrap it onto more lines, or end it inside the grid."
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 390,
+   "message": "The margins differ: 24px on the left, 4px on the right, at 390px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page."
+  },
+  {
+   "level": "FAIL",
+   "id": "edge-text",
+   "width": 390,
+   "message": "2 text block(s) sit within 12px of the screen edge: \"preserved) in a meta-analysis.\" (0px from the right); \"in muscle growth between free \" (4px from the right)",
+   "fix": "Keep text inside the page margin (16–20px). Only display type deliberately bled past the edge may touch it."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/before-no-gym/desktop-fold.jpg",
+   "pages": [
+    "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/before-no-gym/desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/before-no-gym/tablet-fold.jpg",
+   "pages": [
+    "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/before-no-gym/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/before-no-gym/mobile-fold.jpg",
+   "pages": [
+    "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/before-no-gym/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

@@ -240,6 +240,7 @@
       <span><a href="/about/">About</a></span>
       <span><a href="/contact/">Contact</a></span>
       <span><a href="/editorial-policy/">Editorial policy</a></span>
+      <span><a href="/for-clinicians/">For clinicians</a></span>
       <span><a href="/privacy/">Privacy</a></span>
       <span>Not affiliated with Novo Nordisk, Eli Lilly, or any medication manufacturer.</span>
     </div>
@@ -264,7 +265,10 @@
     learnStopped:   { href: "/learn/muscle-after-stopping-ozempic/", label: "Muscle after stopping Ozempic" },
     learnSema:      { href: "/learn/ozempic-muscle-loss/", label: "Does Ozempic cause muscle loss?" },
     learnTirz:      { href: "/learn/ozempic-vs-mounjaro-vs-zepbound-muscle/", label: "Ozempic vs Mounjaro vs Zepbound and muscle" },
-    learnStats:     { href: "/learn/glp1-muscle-loss-statistics/", label: "GLP-1 muscle-loss statistics" }
+    learnStats:     { href: "/learn/glp1-muscle-loss-statistics/", label: "GLP-1 muscle-loss statistics" },
+    proteinFood:    { href: "/protein-food-calculator/", label: "Build a day that hits the target with the protein food calculator" },
+    lbmCalc:        { href: "/lean-body-mass-calculator/", label: "See how much lean mass the loss could take" },
+    tracker:        { href: "/guides/tracker/", label: "Track strength week by week with the Muscle-on-GLP-1 Tracker" }
   };
 
   // Medication-specific bits for the three "on a GLP-1" answers.
@@ -291,19 +295,19 @@
         return {
           h: "Set your protein target and start resistance training now.",
           p: "The muscle you protect early is muscle you keep. " + C.protein + ", and " + C.training + ". Run your number and build the two-meal habit before appetite drops further on " + med.name + ".",
-          links: [L.proteinCalc, L.mealPlan, L.proteinPlay, L.learnProtein]
+          links: [L.proteinCalc, L.proteinFood, L.mealPlan, L.proteinPlay]
         };
       case "losing_fast":
         return {
           h: "Lock in your protein target and lift, before the muscle goes with the fat.",
           p: "Fast loss is where lean mass is most at risk: " + C.share + ". Hitting the protein target with resistance training keeps most of that muscle, since " + C.training + ". Use the calculator to set the number, then eat to it.",
-          links: [L.proteinCalc, L.proteinPlay, med.learn]
+          links: [L.proteinCalc, L.lbmCalc, L.proteinPlay, med.learn]
         };
       case "plateau":
         return {
           h: "Hold your protein and progress your training while the scale is steady.",
           p: "A plateau is a good window to improve the composition of what you have kept. " + C.protein + ", and adding resistance training matters because " + C.training + ". You do not need a gym to do this well.",
-          links: [L.noGym, L.proteinCalc, L.learnExercise]
+          links: [L.noGym, L.learnExercise, L.tracker, L.proteinCalc]
         };
       case "stopping_soon":
         return {
@@ -325,7 +329,7 @@
     return {
       h: "Start with the evidence before you start the medication.",
       p: "Going in informed is the advantage. A substantial share of GLP-1 weight loss is lean mass, since " + C.share + ", which is why a protein target and resistance training matter from day one. Learn what the research actually shows, then decide with your clinician.",
-      links: [L.weightLossCalc, L.learnSema, L.learnStats, L.proteinCalc]
+      links: [L.weightLossCalc, L.lbmCalc, L.learnSema, L.proteinCalc]
     };
   }
 

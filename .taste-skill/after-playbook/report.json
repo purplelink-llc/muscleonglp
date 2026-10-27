@@ -1,0 +1,1985 @@
+{
+ "url": "http://127.0.0.1:8094/guides/protein-playbook/",
+ "at": "2026-10-27T13:23:50.475Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.43,
+    0.81,
+    0.27,
+    0.8,
+    0.92
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 26,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 4263,
+     "screens": 4.7,
+     "words": 483,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 10,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cover-protein-playbook.png",
+      "protein-playbook-1.jpg",
+      "protein-playbook-2.jpg",
+      "protein-playbook-3.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The Protein Playbook",
+     "words": 3,
+     "chars": 20,
+     "lines": 2,
+     "size": 70.4,
+     "vw": 4.9,
+     "font": "Iowan Old Style",
+     "weight": 700,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "right",
+     "widthRatio": 0.41,
+     "top": 187,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The Protein Playbook",
+     "words": 3,
+     "lines": 2,
+     "size": 70.4,
+     "font": "Iowan Old Style"
+    },
+    "headings": [
+     {
+      "text": "The Protein Playbook",
+      "words": 3,
+      "chars": 20,
+      "lines": 2,
+      "size": 70.4,
+      "vw": 4.9,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.41,
+      "top": 187,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Free",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 2.7,
+      "font": "Iowan Old Style",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.62,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.06,
+      "top": 464,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Look inside",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 46.4,
+      "vw": 3.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 987,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What is inside",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 46.4,
+      "vw": 3.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 1749,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the evidence says",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 46.4,
+      "vw": 3.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 2363,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Frequently asked",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 46.4,
+      "vw": 3.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 2835,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Protein Playbook",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 46.4,
+      "vw": 3.2,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.53,
+      "top": 3563,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "-apple-system",
+       "share": 0.97,
+       "mono": false
+      },
+      {
+       "family": "Iowan Old Style",
+       "share": 0.03,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      15,
+      17,
+      18,
+      21,
+      38,
+      46,
+      70
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": {
+      "font": "-apple-system",
+      "size": 16.8,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.9
+     },
+     "measureChars": 84,
+     "max": {
+      "size": 70.4,
+      "vw": 4.9,
+      "font": "Iowan Old Style",
+      "text": "The Protein Playbook"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.04,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f4f8f6",
+       "top": 883,
+       "hsl": {
+        "h": 150,
+        "s": 0.22,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#2f6f5e",
+       "top": 3459,
+       "hsl": {
+        "h": 164,
+        "s": 0.41,
+        "l": 0.31
+       }
+      },
+      {
+       "color": "#16211d",
+       "top": 3954,
+       "hsl": {
+        "h": 158,
+        "s": 0.2,
+        "l": 0.11
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#45524c",
+       "share": 0.47
+      },
+      {
+       "color": "#1b2420",
+       "share": 0.31
+      },
+      {
+       "color": "#b9c7c1",
+       "share": 0.13
+      },
+      {
+       "color": "#d9ece6",
+       "share": 0.04
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#2f6f5e",
+      "hsl": {
+       "h": 164,
+       "s": 0.41,
+       "l": 0.31
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to main content",
+      "The Full Handbook",
+      "Send me the Protein Playbook"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 3,
+     "boxRadius": 12,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.14
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": true,
+     "height": 66,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 4263,
+    "margins": {
+     "left": 184,
+     "right": 184
+    },
+    "sections": [
+     {
+      "sel": "section.guide-hero",
+      "tag": "section",
+      "top": 66,
+      "height": 817,
+      "words": 62,
+      "media": 1,
+      "middle": 64,
+      "heading": {
+       "text": "The Protein Playbook",
+       "size": 70,
+       "tag": "h1"
+      },
+      "left": 184,
+      "right": 275,
+      "textLeft": 184,
+      "textRight": 275,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 883,
+      "height": 762,
+      "words": 20,
+      "media": 3,
+      "middle": 32,
+      "heading": {
+       "text": "Look inside",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 184,
+      "right": 184,
+      "textLeft": 184,
+      "textRight": 265,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 1645,
+      "height": 614,
+      "words": 123,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What is inside",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 184,
+      "right": 185,
+      "textLeft": 184,
+      "textRight": 185,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2259,
+      "height": 471,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What the evidence says",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 184,
+      "right": 206,
+      "textLeft": 184,
+      "textRight": 206,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 2731,
+      "height": 565,
+      "words": 205,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Frequently asked",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 184,
+      "right": 523,
+      "textLeft": 184,
+      "textRight": 523,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 3296,
+      "height": 164,
+      "words": 27,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 340,
+      "right": 351,
+      "textLeft": 340,
+      "textRight": 351,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.finalcta",
+      "tag": "section",
+      "top": 3459,
+      "height": 495,
+      "words": 37,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Protein Playbook",
+       "size": 46,
+       "tag": "h2"
+      },
+      "left": 184,
+      "right": 442,
+      "textLeft": 184,
+      "textRight": 442,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 3954,
+      "height": 309,
+      "words": 90,
+      "media": 0,
+      "middle": 92,
+      "heading": null,
+      "left": 184,
+      "right": 184,
+      "textLeft": 184,
+      "textRight": 184,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The Protein Playbook",
+      "size": 70,
+      "top": 187,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 184,
+      "n": 6
+     },
+     {
+      "x": 206,
+      "n": 3
+     },
+     {
+      "x": 340,
+      "n": 2
+     },
+     {
+      "x": 628,
+      "n": 2
+     },
+     {
+      "x": 656,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 14,
+    "bodySize": 17,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.14,
+    "voidBox": {
+     "x": 1200,
+     "y": 120,
+     "w": 240,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 4,
+   "filled": [
+    0.69,
+    0.49,
+    0.7,
+    0.88
+   ],
+   "motion": {
+    "elements": 24,
+    "css": 24,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 3658,
+     "screens": 3.6,
+     "words": 482,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 10,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 4,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "cover-protein-playbook.png",
+      "protein-playbook-1.jpg",
+      "protein-playbook-2.jpg",
+      "protein-playbook-3.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The Protein Playbook",
+     "words": 3,
+     "chars": 20,
+     "lines": 2,
+     "size": 41.5,
+     "vw": 5.4,
+     "font": "Iowan Old Style",
+     "weight": 700,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.45,
+     "top": 153,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The Protein Playbook",
+     "words": 3,
+     "lines": 2,
+     "size": 41.5,
+     "font": "Iowan Old Style"
+    },
+    "headings": [
+     {
+      "text": "The Protein Playbook",
+      "words": 3,
+      "chars": 20,
+      "lines": 2,
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 153,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Free",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 5,
+      "font": "Iowan Old Style",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.62,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.12,
+      "top": 362,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Look inside",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 878,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What is inside",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 1420,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the evidence says",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 1975,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Frequently asked",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2436,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Protein Playbook",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 4,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3019,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "-apple-system",
+       "share": 0.97,
+       "mono": false
+      },
+      {
+       "family": "Iowan Old Style",
+       "share": 0.03,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      15,
+      17,
+      18,
+      30,
+      38,
+      42
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "-apple-system",
+      "size": 16.8,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.9
+     },
+     "measureChars": 80,
+     "max": {
+      "size": 41.5,
+      "vw": 5.4,
+      "font": "Iowan Old Style",
+      "text": "The Protein Playbook"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.04,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f4f8f6",
+       "top": 816,
+       "hsl": {
+        "h": 150,
+        "s": 0.22,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#2f6f5e",
+       "top": 2958,
+       "hsl": {
+        "h": 164,
+        "s": 0.41,
+        "l": 0.31
+       }
+      },
+      {
+       "color": "#16211d",
+       "top": 3350,
+       "hsl": {
+        "h": 158,
+        "s": 0.2,
+        "l": 0.11
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#45524c",
+       "share": 0.47
+      },
+      {
+       "color": "#1b2420",
+       "share": 0.31
+      },
+      {
+       "color": "#b9c7c1",
+       "share": 0.13
+      },
+      {
+       "color": "#d9ece6",
+       "share": 0.04
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#2f6f5e",
+      "hsl": {
+       "h": 164,
+       "s": 0.41,
+       "l": 0.31
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to main content",
+      "The Full Handbook",
+      "Send me the Protein Playbook"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 4,
+     "boxRadius": 12,
+     "squareMedia": 4,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.15
+     }
+    ],
+    "nav": {
+     "links": 7,
+     "fixed": false,
+     "height": 107,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 3658,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "section.guide-hero",
+      "tag": "section",
+      "top": 107,
+      "height": 710,
+      "words": 60,
+      "media": 1,
+      "middle": 51,
+      "heading": {
+       "text": "The Protein Playbook",
+       "size": 41,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 377,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 816,
+      "height": 542,
+      "words": 20,
+      "media": 3,
+      "middle": 19,
+      "heading": {
+       "text": "Look inside",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 75,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 1359,
+      "height": 554,
+      "words": 123,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What is inside",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 36,
+      "textLeft": 24,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 1913,
+      "height": 462,
+      "words": 89,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 27,
+      "textLeft": 24,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 2375,
+      "height": 462,
+      "words": 152,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Frequently asked",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 50,
+      "textLeft": 24,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2837,
+      "height": 121,
+      "words": 27,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 27,
+      "textLeft": 24,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.finalcta",
+      "tag": "section",
+      "top": 2958,
+      "height": 392,
+      "words": 37,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Protein Playbook",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 106,
+      "textLeft": 24,
+      "textRight": 106,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 3350,
+      "height": 309,
+      "words": 90,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The Protein Playbook",
+      "size": 41,
+      "top": 153,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 9
+     },
+     {
+      "x": 46,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 13,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.65,
+    0.74,
+    0.53,
+    0.84,
+    0.96,
+    0.97
+   ],
+   "motion": {
+    "elements": 26,
+    "css": 26,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 4343,
+     "screens": 5.1,
+     "words": 476,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 10,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "protein-playbook-1.jpg",
+      "protein-playbook-2.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "The Protein Playbook",
+     "words": 3,
+     "chars": 20,
+     "lines": 2,
+     "size": 40,
+     "vw": 10.3,
+     "font": "Iowan Old Style",
+     "weight": 700,
+     "tracking": -0.025,
+     "leading": 1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.81,
+     "top": 169,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "The Protein Playbook",
+     "words": 3,
+     "lines": 2,
+     "size": 40,
+     "font": "Iowan Old Style"
+    },
+    "headings": [
+     {
+      "text": "The Protein Playbook",
+      "words": 3,
+      "chars": 20,
+      "lines": 2,
+      "size": 40,
+      "vw": 10.3,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.025,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.81,
+      "top": 169,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Free",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 38.4,
+      "vw": 9.8,
+      "font": "Iowan Old Style",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.62,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.23,
+      "top": 402,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "Look inside",
+      "words": 2,
+      "chars": 11,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 936,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What is inside",
+      "words": 3,
+      "chars": 14,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 1385,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What the evidence says",
+      "words": 4,
+      "chars": 22,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2189,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Frequently asked",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 2782,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "The Protein Playbook",
+      "words": 3,
+      "chars": 20,
+      "lines": 1,
+      "size": 30.4,
+      "vw": 7.8,
+      "font": "Iowan Old Style",
+      "weight": 700,
+      "tracking": -0.01,
+      "leading": 1.12,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.88,
+      "top": 3478,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 7,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "-apple-system",
+       "share": 0.97,
+       "mono": false
+      },
+      {
+       "family": "Iowan Old Style",
+       "share": 0.03,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      14,
+      15,
+      17,
+      18,
+      30,
+      38,
+      40
+     ],
+     "sizeCount": 7,
+     "notLoaded": [],
+     "body": {
+      "font": "-apple-system",
+      "size": 16.8,
+      "leading": 1.5,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 15.9
+     },
+     "measureChars": 35,
+     "max": {
+      "size": 40,
+      "vw": 10.3,
+      "font": "Iowan Old Style",
+      "text": "The Protein Playbook"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.05,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f4f8f6",
+       "top": 376,
+       "hsl": {
+        "h": 150,
+        "s": 0.22,
+        "l": 0.96
+       }
+      },
+      {
+       "color": "#2f6f5e",
+       "top": 3422,
+       "hsl": {
+        "h": 164,
+        "s": 0.41,
+        "l": 0.31
+       }
+      },
+      {
+       "color": "#16211d",
+       "top": 3853,
+       "hsl": {
+        "h": 158,
+        "s": 0.2,
+        "l": 0.11
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#45524c",
+       "share": 0.46
+      },
+      {
+       "color": "#1b2420",
+       "share": 0.31
+      },
+      {
+       "color": "#b9c7c1",
+       "share": 0.13
+      },
+      {
+       "color": "#d9ece6",
+       "share": 0.04
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#2f6f5e",
+      "hsl": {
+       "h": 164,
+       "s": 0.41,
+       "l": 0.31
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Skip to main content",
+      "The Full Handbook",
+      "Send me the Protein Playbook"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 1,
+     "roundedBoxes": 4,
+     "boxRadius": 12,
+     "squareMedia": 0,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 3,
+       "iconTopped": false,
+       "rounded": true,
+       "top": 2856
+      }
+     ]
+    },
+    "heroMedia": [],
+    "nav": {
+     "links": 7,
+     "fixed": false,
+     "height": 129,
+     "floatingPill": false,
+     "blur": true
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 4343,
+    "margins": {
+     "left": 24,
+     "right": 24
+    },
+    "sections": [
+     {
+      "sel": "header.nav",
+      "tag": "header",
+      "top": 0,
+      "height": 129,
+      "words": 10,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 43,
+      "textLeft": 24,
+      "textRight": 43,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "section.guide-hero",
+      "tag": "section",
+      "top": 129,
+      "height": 750,
+      "words": 60,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Protein Playbook",
+       "size": 40,
+       "tag": "h1"
+      },
+      "left": 24,
+      "right": 80,
+      "textLeft": 24,
+      "textRight": 86,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 880,
+      "height": 450,
+      "words": 14,
+      "media": 2,
+      "middle": 12,
+      "heading": {
+       "text": "Look inside",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 50,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 1329,
+      "height": 804,
+      "words": 123,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What is inside",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 27,
+      "textLeft": 24,
+      "textRight": 27,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 2133,
+      "height": 593,
+      "words": 93,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "What the evidence says",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 26,
+      "textLeft": 24,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.features",
+      "tag": "section",
+      "top": 2726,
+      "height": 521,
+      "words": 34,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Frequently asked",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 78,
+      "textLeft": 24,
+      "textRight": 78,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section",
+      "tag": "section",
+      "top": 3247,
+      "height": 175,
+      "words": 27,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 44,
+      "textLeft": 24,
+      "textRight": 44,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.section.finalcta",
+      "tag": "section",
+      "top": 3422,
+      "height": 430,
+      "words": 37,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "The Protein Playbook",
+       "size": 30,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 36,
+      "textLeft": 24,
+      "textRight": 36,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 3853,
+      "height": 490,
+      "words": 90,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 24,
+      "right": 24,
+      "textLeft": 24,
+      "textRight": 24,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "The Protein Playbook",
+      "size": 40,
+      "top": 169,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 10
+     },
+     {
+      "x": 46,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 14,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 768,
+   "message": "The h1 is a bare name (\"The Protein Playbook\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    390
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/after-playbook/desktop-fold.jpg",
+   "pages": [
+    "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/after-playbook/desktop-page-01.jpg",
+    "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/after-playbook/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/after-playbook/tablet-fold.jpg",
+   "pages": [
+    "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/after-playbook/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/after-playbook/mobile-fold.jpg",
+   "pages": [
+    "/private/tmp/claude-501/-Users-benampel-Downloads/b3c2f47a-9940-4fcb-aba7-7c08f74059f7/scratchpad/mog-products/.taste-skill/after-playbook/mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
