@@ -955,6 +955,91 @@ No. A scan is a useful data point, not a requirement. A free protein-target calc
 
 ---
 
+# How to fuel workouts on a GLP-1 when you are barely hungry
+
+URL: https://getmuscleonglp.com/learn/fuel-workouts-glp1/
+Updated: 2026-10-27
+
+Training & nutrition
+
+Strength training is how you keep muscle on a GLP-1, but eating around it is hard when your appetite is gone. Here is what matters, what does not, and the one caution if you have diabetes.
+
+## Key takeaways
+
+- Total daily protein beats timing. A meta-analysis found protein timing had no significant effect on muscle growth once total protein was matched. [1]
+
+- A meal or shake with about 25 to 30 grams of protein after training is a practical way to reach your daily target. [2]
+
+- Before training, eat a small snack only if your stomach allows. Many people lift fine without one.
+
+- GI side effects can cause dehydration, which the Wegovy label links to kidney injury. [3] Drink before and during sessions.
+
+- If you take insulin or a sulfonylurea for type 2 diabetes, plan exercise and food with your prescriber: the label warns of low blood sugar in that combination. [3]
+
+Short answer. On a GLP-1, fuel the day rather than the workout. Hit your daily protein target, put about 25 to 30 grams of it in a meal or shake in the hours after training, and eat a small snack beforehand only if you can. [1,2] Stay hydrated, and talk to your prescriber first if you take insulin or a sulfonylurea. [3]
+
+Workout fueling advice is usually written for people who are hungry. On a GLP-1, the problem runs the other way. Nausea affected 43.9 percent of people on semaglutide 2.4 mg in the STEP 1 to 3 trials, against 16.1 percent on placebo. [4] Therefore the useful question is which parts of fueling are worth the effort, and which you can skip.
+
+## What matters most: protein across the day
+
+The research on protein timing is reassuring for anyone who cannot eat on a schedule. A meta-analysis of protein timing studies found no significant effect on muscle strength or growth once total daily protein intake was matched. [1] The so-called anabolic window (the idea that protein must arrive within minutes of lifting) is not supported once the total is accounted for.
+
+The daily total is where to spend your effort. A joint advisory from four medical societies suggests 1.2 to 1.6 g/kg of body weight a day during active GLP-1 weight loss. [5] Splitting that into a few servings of about 25 to 30 grams helps, because that amount appears to maximize the muscle-building response to a single meal in most adults. [2] The meal after training is a natural place for one of those servings.
+
+## Before training: small, optional, and tolerable
+
+A snack before lifting can help some people feel steadier during a session. Size it to your stomach, not to a sports-nutrition chart. A yogurt, a small shake or a piece of toast with cheese one to three hours beforehand is plenty. If food before training makes you nauseous, skip it. A short strength session does not depend on a pre-workout meal, and your daily protein total does the heavier lifting. [1]
+
+## Fluids are the part not to skip
+
+Vomiting and diarrhea are among the common GI side effects of these drugs. [4] The Wegovy label warns that dehydration from GI side effects has been linked to acute kidney injury. [3] Drink before a session and between sets, and take extra care on days around a dose increase, when GI symptoms cluster. [4] If you cannot keep fluids down, call your prescriber rather than training.
+
+## The low blood sugar caution
+
+GLP-1 drugs alone rarely cause low blood sugar. [3] However, the Wegovy label warns of a higher risk of hypoglycemia (low blood sugar) in people with type 2 diabetes who also take insulin or an insulin secretagogue such as a sulfonylurea. [3] Exercise lowers blood sugar too. If that combination describes you, plan workout timing, food and any medication adjustments with your prescriber before starting a training program.
+
+## A simple training-day template
+
+Use this as a starting point and adjust it to your appetite:
+
+- Earlier in the day: one protein serving of about 25 to 30 grams, if you can manage it. [2]
+
+- One to three hours before: a small optional snack, plus a glass of water.
+
+- During: water between sets.
+
+- After: a meal or shake with about 25 to 30 grams of protein. A shake that passes the label checklist works when food does not appeal.
+
+- The rest of the day: enough protein to reach your daily target. The calorie and protein calculator gives you the number.
+
+## Frequently asked
+
+**Q:** What should I eat before a workout on a GLP-1?
+
+If you can manage it, a small snack with some protein and some carbohydrate one to three hours before training, sized to what your stomach tolerates. The bigger lever is total protein for the day: protein timing had no significant effect on muscle growth once total daily protein was matched.
+
+**Q:** Do I need protein right after lifting on Ozempic?
+
+Not within a narrow window. A meal or shake with about 25 to 30 grams of protein in the hours after training is a practical way to reach your daily target.
+
+**Q:** Can I work out on an empty stomach on a GLP-1?
+
+Many people can, especially for short strength sessions. The exception is people with type 2 diabetes who also take insulin or a sulfonylurea, who should plan exercise timing and food with their prescriber.
+
+## References
+
+- Schoenfeld BJ, Aragon AA, Krieger JW. The effect of protein timing on muscle strength and hypertrophy: a meta-analysis. Journal of the International Society of Sports Nutrition. 2013;10:53. pmc.ncbi.nlm.nih.gov/articles/PMC3879660
+
+- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution. Journal of the International Society of Sports Nutrition. 2018;15:10. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
+
+- Wegovy (semaglutide) Prescribing Information. DailyMed (FDA labeling). dailymed.nlm.nih.gov
+
+- Wharton S, Calanna S, Davies M, et al. Gastrointestinal tolerability of once-weekly semaglutide 2.4 mg in adults with overweight or obesity (STEP 1–3 pooled analysis). Diabetes, Obesity & Metabolism. 2022;24(1):94–105. pmc.ncbi.nlm.nih.gov/articles/PMC9293236
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+---
+
 # GLP-1s, bone density, and fracture risk: what the evidence shows
 
 URL: https://getmuscleonglp.com/learn/glp1-bone-density-fracture-risk/
