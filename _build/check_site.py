@@ -2,6 +2,7 @@
 
 Errors (exit 1):
   - internal links to pages or files that do not exist, and #fragments with no matching id
+  - <img> sources that do not exist
   - JSON-LD blocks that do not parse
   - FAQPage schema whose questions or answers differ from the visible <details> FAQ
     (citation superscripts and tags are ignored; the visible text is the source)
@@ -43,6 +44,9 @@ def main():
         for frag in re.findall(r'href="#([^"]+)"', s):
             if frag not in ids[f] and frag != "main":
                 errors.append(f"{f}: missing in-page anchor #{frag}")
+        for src in re.findall(r'<img\b[^>]*\bsrc="(/[^"?#]+)"', s):
+            if not os.path.isfile(src.lstrip("/")):
+                errors.append(f"{f}: image missing {src}")
 
         # JSON-LD, and FAQPage against the visible FAQ.
         visible = {norm(re.sub("<[^>]+>", "", q)): plain(a) for q, a in
