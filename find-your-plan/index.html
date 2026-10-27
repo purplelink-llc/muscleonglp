@@ -14,11 +14,14 @@
 <meta property="og:title" content="Find Your Plan: Your Next Step on a GLP-1">
 <meta property="og:description" content="Answer two questions and get the single most important next action for keeping muscle on your GLP-1, plus the guides and calculators that match your situation.">
 <meta property="og:url" content="https://getmuscleonglp.com/find-your-plan/">
-<meta property="og:image" content="https://getmuscleonglp.com/assets/og-card.png">
+<meta property="og:image" content="https://getmuscleonglp.com/assets/og/find-your-plan.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Find your plan on a GLP-1: three questions, one next step">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Find Your Plan: Your Next Step on a GLP-1">
 <meta name="twitter:description" content="Two questions, one tailored plan. The right next action, guide, and calculator for your GLP-1 situation.">
-<meta name="twitter:image" content="https://getmuscleonglp.com/assets/og-card.png">
+<meta name="twitter:image" content="https://getmuscleonglp.com/assets/og/find-your-plan.jpg">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -254,6 +257,8 @@
     proteinPlay:    { href: "/guides/protein-playbook/", label: "The Protein Playbook mini-guide" },
     offRampGuide:   { href: "/guides/off-ramp/",        label: "The GLP-1 Off-Ramp mini-guide" },
     noGym:          { href: "/guides/no-gym-plan/",     label: "The No-Gym Plan mini-guide" },
+    weightLossCalc: { href: "/weight-loss-calculator/", label: "See the average loss in each drug's trial, applied to your weight" },
+    mealPlan:       { href: "/learn/glp1-high-protein-meal-plan/", label: "A high-protein sample day, with grams" },
     learnProtein:   { href: "/learn/protein-on-glp1/",  label: "How much protein you need on a GLP-1" },
     learnExercise:  { href: "/learn/best-exercises-preserve-muscle-glp1/", label: "The best exercises to preserve muscle" },
     learnStopped:   { href: "/learn/muscle-after-stopping-ozempic/", label: "Muscle after stopping Ozempic" },
@@ -286,7 +291,7 @@
         return {
           h: "Set your protein target and start resistance training now.",
           p: "The muscle you protect early is muscle you keep. " + C.protein + ", and " + C.training + ". Run your number and build the two-meal habit before appetite drops further on " + med.name + ".",
-          links: [L.proteinCalc, L.proteinPlay, L.learnProtein]
+          links: [L.proteinCalc, L.mealPlan, L.proteinPlay, L.learnProtein]
         };
       case "losing_fast":
         return {
@@ -320,7 +325,7 @@
     return {
       h: "Start with the evidence before you start the medication.",
       p: "Going in informed is the advantage. A substantial share of GLP-1 weight loss is lean mass, since " + C.share + ", which is why a protein target and resistance training matter from day one. Learn what the research actually shows, then decide with your clinician.",
-      links: [L.learnSema, L.learnStats, L.proteinCalc]
+      links: [L.weightLossCalc, L.learnSema, L.learnStats, L.proteinCalc]
     };
   }
 
