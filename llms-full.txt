@@ -1359,6 +1359,87 @@ No supplement replaces protein from food and resistance training. Protein powder
 
 ---
 
+# Fiber on a GLP-1: how much, and what helps constipation
+
+URL: https://getmuscleonglp.com/learn/glp1-fiber-constipation/
+Updated: 2026-10-27
+
+Nutrition
+
+Constipation is one of the most common side effects of GLP-1 medications, and a smaller, protein-first diet tends to cut fiber further. Here is the fiber target, what the evidence says about fiber supplements, foods that carry fiber and protein together, and when constipation is a reason to call.
+
+## Key takeaways
+
+- Constipation was among the most common side effects of semaglutide in the STEP 1 trial. [1]
+
+- The Dietary Guidelines target is 14 g of fiber per 1,000 calories, about 21 to 25 g on a 1,500 to 1,800 calorie day. [2]
+
+- In a meta-analysis of 16 trials in adults with chronic constipation, 66 percent responded to fiber supplements versus 41 percent on control. Psyllium at more than 10 g a day for at least four weeks did best. [3]
+
+- No trial has tested fiber for constipation in GLP-1 users specifically.
+
+A GLP-1 slows how fast the stomach empties and shrinks appetite, and the bulky foods that carry most fiber (vegetables, beans, whole grains, fruit) are often the first to go when every meal is small. Advice on this site puts protein first to protect muscle. [4] That is the right priority, and it can leave fiber short unless you plan for it.
+
+## How much fiber to aim for
+
+The Dietary Guidelines for Americans set fiber at 14 g per 1,000 calories. [2] On the smaller calorie targets common on a GLP-1, that is about 21 to 25 g a day. The National Academies' adequate intake for adults aged 19 to 50 is higher, 25 g a day for women and 38 g for men, because it assumes a typical calorie intake. [5] The calorie, protein and macro calculator shows your fiber figure next to your protein target.
+
+## What the evidence says about fiber supplements
+
+A 2022 systematic review pooled 16 randomized trials with 1,251 adults who had chronic constipation. [3] Two thirds of people taking a fiber supplement responded, against two fifths on control. Psyllium and pectin had significant effects. The benefit showed up mainly at doses above 10 g a day, and stool frequency improved mainly with treatment lasting at least four weeks. Fiber also increased flatulence, and the trials varied a lot, so the authors call the result promising rather than settled.
+
+None of those trials were in people taking a GLP-1, where slowed stomach emptying is part of the picture. Fiber is a reasonable first step, not a proven fix for GLP-1 constipation specifically.
+
+## Foods that carry fiber and protein together
+
+The best fiber sources on a small appetite are the ones that also help the protein target. Legumes are the standout. Approximate values per serving, from USDA FoodData Central: [6]
+
+FoodServingFiberProtein Lentils, cooked1 cupabout 16 gabout 18 g Black beans, cooked1 cupabout 15 gabout 15 g Edamame, shelled1 cupabout 8 gabout 18 g Chia seeds1 oz (28 g)about 10 gabout 5 g Raspberries1 cupabout 8 gabout 1 g
+
+A cup of lentils covers most of a day's fiber gap and a sixth of a typical protein target at once. The plant protein guide has more legume options.
+
+## Making the change without making it worse
+
+- Go up gradually. A jump in fiber is a common cause of bloating and gas, which the meta-analysis also saw. [3] Add a few grams a day over a week or two.
+
+- Drink with it. Psyllium labels direct you to take it with a full glass of water.
+
+- Keep moving. The walking and resistance training that protect muscle are also part of a routine that keeps the gut moving.
+
+## When to call your prescriber
+
+Call for constipation that is severe or lasts more than a few days, or that comes with abdominal pain, a swollen belly or vomiting. Those can signal a problem that fiber will not fix, and your prescriber may change the plan. This page is general information, not medical advice.
+
+## Frequently asked
+
+**Q:** How much fiber should I eat on a GLP-1?
+
+The Dietary Guidelines figure is 14 g of fiber per 1,000 calories, so about 21 to 25 g on a 1,500 to 1,800 calorie day. The National Academies' adequate intake for adults 19 to 50 is 25 g a day for women and 38 g for men. Raise intake gradually.
+
+**Q:** Does fiber help constipation on Ozempic or Zepbound?
+
+No trial has tested fiber for constipation in GLP-1 users specifically. In a 2022 meta-analysis of 16 trials in adults with chronic constipation, 66 percent responded to fiber supplements versus 41 percent on control, with psyllium at more than 10 g a day for at least four weeks working best.
+
+**Q:** When is constipation on a GLP-1 a reason to call the doctor?
+
+Call your prescriber for constipation that is severe or lasts more than a few days, or that comes with abdominal pain, a swollen belly or vomiting. Those can signal a problem that fiber will not fix.
+
+## References
+
+- Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. dietaryguidelines.gov
+
+- van der Schoot A, Drysdale C, Whelan K, Dimidi E. The effect of fiber supplementation on chronic constipation in adults: an updated systematic review and meta-analysis of randomized controlled trials. American Journal of Clinical Nutrition. 2022;116(4):953–969. doi.org/10.1093/ajcn/nqac184
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- Institute of Medicine. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. National Academies Press; 2005. doi.org/10.17226/10490
+
+- U.S. Department of Agriculture, Agricultural Research Service. FoodData Central. fdc.nal.usda.gov
+
+---
+
 # High-protein GLP-1 meal plan: a sample day with grams
 
 URL: https://getmuscleonglp.com/learn/glp1-high-protein-meal-plan/
