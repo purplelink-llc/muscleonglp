@@ -76,6 +76,9 @@ Each runs in the browser, cites its sources on the page, and gives no dosing adv
 - Creatine added ~1.37 kg more lean tissue mass than resistance training alone in a meta-analysis of older adults. The ISSN position stand reports no compelling evidence of harm in otherwise healthy people at intakes studied up to 30 g/day for 5 years. Creatine raises serum creatinine as a measurement artifact, not as kidney damage.
 - About two-thirds of lost weight was regained within a year of stopping semaglutide (STEP 1 trial extension: 17.3% net loss at end of treatment, 5.6% one year later); ~65% of 125,474 real-world users discontinued within 12 months.
 
+- Stopping tirzepatide (SURMOUNT-4, JAMA 2024): after a 36-week lead-in, switching to placebo meant +14.0% body weight over a year versus a further 5.5% loss on continued tirzepatide; 16.6% who stopped kept at least 80% of their loss (89.5% who continued).
+- Side effects (STEP 1-3 pooled, semaglutide 2.4 mg): nausea 43.9% vs 16.1% placebo, constipation 24.2% vs 11.1%; mostly mild to moderate, transient, during or shortly after dose escalation.
+
 ## Explicit limits of the evidence (stated in the guides, not glossed over)
 - The STEP trials did not measure fat-versus-muscle composition during the weight-regain phase. Claims that regained weight is "all fat" are not supported by those trials.
 - No published trial has tested creatine supplementation specifically in people taking GLP-1 medications. The creatine evidence is extrapolated from resistance-training and older-adult populations.

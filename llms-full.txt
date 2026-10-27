@@ -2075,6 +2075,8 @@ Want the number scaled to your own weight? The free calculator applies the prote
 
 - Davies M, et al. Semaglutide 2.4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2). The Lancet. 2021;397:971–984. doi.org/10.1016/S0140-6736(21)00213-0
 
+- Aronne LJ, Sattar N, Horn DB, et al. Continued treatment with tirzepatide for maintenance of weight reduction in adults with obesity: the SURMOUNT-4 randomized clinical trial. JAMA. 2024;331(1):38–48. doi.org/10.1001/jama.2023.24945
+
 Citing these figures? A link to this page or the underlying study is appreciated. This page is educational and not medical advice.
 
 ---
