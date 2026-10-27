@@ -87,5 +87,40 @@
     if (e.target.tagName === "INPUT" && e.target.type === "number") { try { e.target.select(); } catch (err) { /* ignore */ } }
   });
   form.addEventListener("submit", function (e) { e.preventDefault(); });
+
+  // Chair-stand stopwatch: a 3-second countdown so the person can sit and cross
+  // their arms, then a running clock. Stop writes the time into the chair field
+  // and fires "input", so the result, the URL and the share link all update.
+  var tBtn = $("chairTimer"), tOut = $("timerOut"), tBox = tBtn && tBtn.parentNode;
+  var tState = "idle", tStart = 0, tFrame = 0, tCount = 0;
+  function tShow(text, cls, label) { tOut.textContent = text; tBox.className = "sr-timer" + (cls ? " " + cls : ""); tBtn.textContent = label; }
+  function tTick() {
+    tOut.textContent = ((performance.now() - tStart) / 1000).toFixed(1) + " s";
+    tFrame = requestAnimationFrame(tTick);
+  }
+  function tReset() { clearInterval(tCount); cancelAnimationFrame(tFrame); tState = "idle"; }
+  if (tBtn) tBtn.addEventListener("click", function () {
+    if (tState === "idle") {
+      var n = 3;
+      tState = "counting"; tShow(n + "…", "counting", "Cancel");
+      tCount = setInterval(function () {
+        n--;
+        if (n > 0) { tOut.textContent = n + "…"; return; }
+        clearInterval(tCount);
+        tState = "running"; tStart = performance.now();
+        tShow("0.0 s", "running", "Stop");
+        if (navigator.vibrate) navigator.vibrate(150);
+        tTick();
+      }, 1000);
+    } else if (tState === "counting") {
+      tReset(); tShow("0.0 s", "", "Start the timer");
+    } else {
+      var sec = Math.round((performance.now() - tStart) / 100) / 10;
+      tReset(); tShow(sec.toFixed(1) + " s", "", "Time it again");
+      $("chair").value = String(sec);
+      $("chair").dispatchEvent(new Event("input", { bubbles: true }));
+      if (window.mogTrack) window.mogTrack("calc_timer", "strength-check");
+    }
+  });
   compute(false);
 })();
