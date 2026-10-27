@@ -1,4 +1,4 @@
-// Protein food calculator: servings of 13 USDA-valued foods, summed and set
+// Protein food calculator: servings of 23 USDA-valued foods, summed and set
 // against a 1.2-1.6 g/kg daily target (the GLP-1 joint advisory range, the
 // same ADV_LOW/ADV_HIGH the protein calculator uses). Each food is a real
 // number input (name = food key), so calc-ui.js puts the day in the URL and
@@ -12,6 +12,15 @@
   var touched = false, liveTimer = null;
 
   function clamp(v) { v = Math.round(v * 2) / 2; return Math.max(0, Math.min(MAX, isFinite(v) ? v : 0)); }
+
+  // Puts a gap in servings of the two easiest soft sources on a low-appetite
+  // day, using the same per-serving grams as their rows (whey 24 g a scoop,
+  // Greek yogurt 17 g per 170 g). Rounded up to half servings, so the amount always closes the gap.
+  function closer(gap) {
+    if (gap < 8) return "";
+    function n(g, unit) { var v = Math.max(0.5, Math.ceil(g * 2) / 2); return v + " " + unit + (v > 1 ? "s" : ""); }
+    return " That is about " + n(gap / 24, "scoop") + " of whey or " + n(gap / 17, "serving") + " of Greek yogurt.";
+  }
 
   function compute(announce) {
     var w = parseFloat($("weight").value);
@@ -39,7 +48,7 @@
     $("pfBand").style.width = ((hi - lo) / scale * 100) + "%";
     var left;
     if (total === 0) left = "Tap + on the foods you eat in a typical day.";
-    else if (total < lo) left = (lo - total) + " g to go to reach the low end.";
+    else if (total < lo) left = (lo - total) + " g to go to reach the low end." + closer(lo - total);
     else if (total <= hi) left = "In the target range.";
     else left = (total - hi) + " g above the high end, more than most people need.";
     $("pfLeft").textContent = left;
