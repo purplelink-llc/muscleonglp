@@ -734,6 +734,10 @@ main:has(.guide-hero) .wrap.center > .lead { max-width: 760px; }
 .guide-buybox .btn, main:has(.guide-hero) .btn-primary { box-shadow: none; }
 .guide-buybox .guarantee { text-align: left; font-size: 0.9rem; }
 @media (max-width: 820px) {
+  /* One column below 820px. Without this the two-column rule above (which comes
+     after the original 820px rule at the top of the file) won, and the cover
+     column shrank to nothing on phones: no product page showed its cover. */
+  .guide-hero-grid { grid-template-columns: minmax(0, 1fr); }
   .guide-hero-grid > div:first-child { order: 2; max-width: 360px; }
   .guide-hero-grid > div:last-child { order: 1; }
 }
