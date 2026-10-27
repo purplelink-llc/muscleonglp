@@ -40,6 +40,7 @@
         html += "<div class='stats-card'><span class='n'>" + (t.checkoutConfirms || 0) + "</span><span>went to payment</span></div>";
         html += "<div class='stats-card'><span class='n'>" + (t.affiliateClicks || 0) + "</span><span>Amazon clicks</span></div>";
         html += "<div class='stats-card'><span class='n'>" + (t.calcRuns || 0) + "</span><span>calculator runs</span></div>";
+        html += "<div class='stats-card'><span class='n'>" + (t.calcShares || 0) + "</span><span>result links copied</span></div>";
         html += "<div class='stats-card'><span class='n'>" + cvr + "%</span><span>signup rate</span></div>";
         html += "</div>";
         var byDay = Object.keys(d.byDay || {}).sort().reverse().map(function (day) {
@@ -55,6 +56,7 @@
         html += table("Amazon clicks by product", (d.affiliateByProduct || []).map(function (x) { return [x.key, x.count]; }), ["Product", "Clicks"]);
         html += table("Amazon clicks by page", (d.affiliateByPath || []).map(function (x) { return [x.key, x.count]; }), ["Page", "Clicks"]);
         html += table("Signups by page", (d.subscribeBySource || []).map(function (x) { return [x.key, x.count]; }), ["Page", "Signups"]);
+        html += table("Result links copied", (d.shareByTool || []).map(function (x) { return [x.key, x.count]; }), ["Calculator", "Copies"]);
         html += table("Calculator runs", (d.calcByTool || []).map(function (x) { return [x.key, x.count]; }), ["Calculator", "Runs"]);
         html += "<p class='guarantee' style='text-align:left;margin-top:24px'>Updated " + esc(d.generatedAt || "") + "</p>";
         out.innerHTML = html;

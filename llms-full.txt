@@ -729,10 +729,10 @@ For the best combination of outcomes, yes. Resistance training is the specific l
 
 ---
 
-# Can you take creatine with a GLP-1?
+# Can you take creatine with a GLP-1 like Ozempic, Zepbound or Mounjaro?
 
 URL: https://getmuscleonglp.com/learn/creatine-and-ozempic/
-Updated: 2026-07-10
+Updated: 2026-10-27
 
 GLP-1 & supplements
 
@@ -765,6 +765,12 @@ That mechanism matters for one reason. Creatine does not build muscle on its own
 The International Society of Sports Nutrition (ISSN) reviewed the creatine literature and concluded there is no compelling scientific evidence that short- or long-term use of creatine monohydrate, at intakes studied up to 30 grams per day for five years, has any detrimental effects on otherwise healthy individuals. [2] Creatine monohydrate is among the most heavily studied supplements in the scientific literature, and the ISSN describes it as the most extensively studied and clinically effective form. [2] Typical maintenance intakes in that research sit around 3 to 5 grams per day. [2]
 
 Two words in that conclusion carry weight: otherwise healthy. If you have kidney disease, liver disease, are pregnant or nursing, are under 18, or take other medications, this is a conversation with your clinician before it is a purchase. As for the medication itself, GLP-1 drugs do not appear on any established list of creatine interactions. But "no known interaction" is not the same as a trial that tested the combination, and none has yet been published. We return to that gap at the end, because it is the single most honest thing this page can tell you.
+
+## Creatine with tirzepatide (Zepbound, Mounjaro)
+
+Everything above applies to tirzepatide as it does to semaglutide. Tirzepatide does not appear on any established list of creatine interactions, and no published trial has tested the two together. The reason to take creatine is the same too: in the SURMOUNT-1 body-composition substudy, about a quarter of the weight lost on tirzepatide was lean mass. [1]
+
+One practical choice differs on a GLP-1. Many creatine guides start with a loading phase of about 20 g a day for five to seven days. The ISSN notes that a steady 3 to 5 g a day fills muscle stores just as fully, over about a month instead of a week. [2] On a medication whose most common side effects are nausea and stomach upset, the slower route asks less of your stomach and loses nothing by week four.
 
 ## The kidney myth
 
@@ -1274,6 +1280,85 @@ It is a reference to published labeling, not medical advice. It does not recomme
 
 ---
 
+# GLP-1 essentials: the gear that helps you keep muscle
+
+URL: https://getmuscleonglp.com/learn/glp1-essentials/
+Updated: 2026-10-27
+
+Gear
+
+Most "Ozempic essentials" lists are about nausea and injections. This one is about the other job: keeping muscle while the weight comes off. Four habits matter, and a few tools make each one easier.
+
+The links on this page go to Amazon search results. As an Amazon Associate, we earn from qualifying purchases at no extra cost to you. No brand paid to be listed, and nothing here is required: the habits matter, not the gear.
+
+Roughly 15 to 40 percent of the weight lost on a GLP-1 is lean mass. [1] Two levers have evidence for moving that toward the low end: enough protein and regular resistance training. [2,3] A third, tracking strength rather than only weight, tells you whether the first two are working.
+
+## Protein on a small appetite
+
+A four-society GLP-1 nutrition advisory puts protein at about 1.2 to 1.6 g per kilogram a day. [2] On a suppressed appetite the hard part is volume, so the useful tools make protein measurable and easy to drink. The protein food calculator shows how a day adds up.
+
+- A digital kitchen scale turns a protein target in grams into something you can measure on the plate.
+
+- Unflavored whey isolate adds about 24 g of protein to yogurt, oats or soup without another meal.
+
+- Clear whey isolate drinks like juice, which many people find easier than a thick shake on nausea days.
+
+- A shaker bottle makes a fast serving when solid food will not go down.
+
+## Resistance training at home
+
+In older adults dieting without a GLP-1, resistance training offset most of the lean mass that calorie restriction alone would cost. [3] It does not need a gym. Bands and a pair of adjustable dumbbells cover every pattern in the no-gym plan. Creatine adds to training rather than replacing it, and the ISSN found no evidence of harm in healthy people at studied intakes. [4]
+
+- A set of resistance bands covers rows, presses and curls at home or while traveling.
+
+- Adjustable dumbbells let you keep adding load in small steps, which is what keeps muscle growing.
+
+- Creatine monohydrate is the best-studied supplement for adding lean mass alongside training; 3 to 5 g a day is the usual intake.
+
+## Tracking strength, not only weight
+
+The European sarcopenia criteria lead with muscle strength, often measured as grip strength, because function is what muscle loss costs you. [5] A grip test and a tape measure catch changes the bathroom scale cannot. The home tests article explains how to use them.
+
+- A digital hand dynamometer measures grip strength, the function test the sarcopenia criteria use.
+
+- A body-composition smart scale shows the weight trend and a rough lean-mass trend between scans.
+
+- A retractable tape measure tracks waist and arm size, which water swings do not distort.
+
+## Fiber and fluids
+
+Constipation was among the most common side effects of semaglutide in the STEP 1 trial. [6] The dietary target is about 14 g of fiber per 1,000 calories, raised gradually with fluids; the macros article covers why.
+
+- Psyllium husk powder adds soluble fiber when food falls short. Start small and drink water with it.
+
+- A large water bottle makes fluids easy to track, which matters more as fiber goes up.
+
+## Frequently asked
+
+**Q:** What are the GLP-1 essentials for keeping muscle?
+
+Three habits do most of the work: enough protein (about 1.2 to 1.6 g per kilogram a day), resistance training two or more times a week, and a way to track strength rather than only weight. The gear on this page makes each of those easier. None of it is required.
+
+**Q:** Do I need supplements on a GLP-1?
+
+No supplement replaces protein from food and resistance training. Protein powder is a convenience for hitting a target on a small appetite. Creatine has the strongest evidence of any supplement for lean mass alongside training. Ask a clinician first if you have kidney disease.
+
+## References
+
+- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Kreider RB, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. Journal of the International Society of Sports Nutrition. 2017. pmc.ncbi.nlm.nih.gov/articles/PMC5469049
+
+- Cruz-Jentoft AJ, Bahat G, Bauer J, et al. Sarcopenia: revised European consensus on definition and diagnosis. Age and Ageing. 2019;48(1):16-31. academic.oup.com/ageing/article/48/1/16/5126243
+
+- Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
+
+---
+
 # High-protein GLP-1 meal plan: a sample day with grams
 
 URL: https://getmuscleonglp.com/learn/glp1-high-protein-meal-plan/
@@ -1665,6 +1750,85 @@ No. These medications are approved for weight management and for type 2 diabetes
 - Prokopidis K. Glucagon-like peptide-1 receptor agonists and muscle strength changes in older adults: risks beyond muscle mass reductions. British Journal of Pharmacology. 2026. pubmed.ncbi.nlm.nih.gov/41577337
 
 - Jastreboff AM, Kaplan LM, Davies MJ, et al. Retatrutide, a triple hormone receptor agonist, for treatment of obesity (TRIUMPH-1). New England Journal of Medicine. Published online September 29, 2026. nejm.org/doi/10.1056/NEJMoa2604169
+
+---
+
+# GLP-1 macros: how to split protein, carbs and fat
+
+URL: https://getmuscleonglp.com/learn/glp1-macros/
+Updated: 2026-10-27
+
+Nutrition
+
+A GLP-1 shrinks how much you eat, so the split of what you do eat matters more. Set protein first, then fat, then let carbohydrate fill the rest. Here is the order, the ranges behind each number, and a worked example.
+
+## Key takeaways
+
+- Protein comes first: about 1.2 to 1.6 g/kg a day in a four-society GLP-1 nutrition advisory, with the benefit to lean mass leveling off near 1.6 g/kg. [1,2]
+
+- Fat: 20 to 35 percent of calories, the adult range from the National Academies. [3]
+
+- Carbohydrate fills the remaining calories, ideally at least 130 g a day, the adult RDA. [3]
+
+- Fiber: about 14 g per 1,000 calories, which matters on a drug whose common side effects include constipation. [4,5]
+
+Most macro advice is written for people who can eat as much as they like and need a reason to stop. On a GLP-1 the problem runs the other way: the medication cuts appetite, so total intake is small and every gram has to do work. A fixed percentage split (the familiar 40/30/30) can leave protein short when calories drop, because 30 percent of 1,400 calories is only 105 g. Setting protein in grams per kilogram first, and letting the other two fill around it, avoids that.
+
+## Step 1: protein, in grams, from your weight
+
+A 2025 joint advisory from four nutrition and obesity societies puts protein at about 1.2 to 1.6 g per kilogram of body weight a day during GLP-1 weight loss. [1] A meta-analysis of strength-training trials found the gain in lean mass from extra protein leveled off near 1.6 g/kg, so the top of that range is where most people stop seeing a benefit. [2] The target is the total for the day. Split across three to five meals, it comes to roughly 25 to 40 g a meal for most adults. [6]
+
+## Step 2: fat, as a share of calories
+
+The National Academies set the acceptable range for adult fat intake at 20 to 35 percent of calories. [3] The low end leaves more room for protein and carbohydrate at a small calorie target. If rich, greasy meals sit badly on the medication, staying near the low end is a reasonable choice and costs nothing within that range.
+
+## Step 3: carbohydrate fills the rest
+
+Whatever calories remain after protein and fat go to carbohydrate. The adult RDA for carbohydrate is 130 g a day, the amount that covers the brain's glucose needs. [3] At a small calorie target with protein set high, carbohydrate can fall below the usual 45 to 65 percent range. That is expected, and keeping it at or above 130 g is a sensible floor. Carbohydrate also fuels the resistance training that keeps lean mass on, so a near-zero intake works against the goal of this site.
+
+## Step 4: fiber, scaled to calories
+
+The Dietary Guidelines for Americans set fiber at 14 g per 1,000 calories. [4] Constipation was among the most common side effects of semaglutide in the STEP 1 trial, [5] and appetite loss tends to cut the bulky, fiber-rich foods first. Raise fiber gradually and drink fluids with it, since a sudden jump can worsen bloating.
+
+## A worked example
+
+Take a 45-year-old woman, 5 ft 6 in and 210 lb, lightly active, aiming to lose about a pound a week. The calorie, protein and macro calculator puts her target near 1,725 calories. Protein at 1.6 g/kg is 152 g (35 percent of calories). Fat at 25 percent is 48 g. Carbohydrate takes the remaining 171 g (40 percent), above the 130 g floor. Fiber at 14 g per 1,000 calories is about 24 g.
+
+MacroGramsCaloriesShare Protein (1.6 g/kg)152 g60835% Fat (25%)48 g43125% Carbohydrate (the rest)171 g68640% Fiber24 g
+
+Run your own numbers in the calculator; it shows the same four figures for your weight, height, age and pace. To see what 152 g of protein looks like as food, the protein food calculator adds up a day one serving at a time.
+
+## What the evidence does not say
+
+No trial has compared macro splits for muscle in people taking a GLP-1. The protein figures come from strength-training and weight-loss research in general adult populations, and the fat, carbohydrate and fiber ranges are general dietary reference values, not GLP-1 findings. In weight-loss research outside GLP-1s, total protein and resistance training matter for lean mass far more than the ratio of carbohydrate to fat, so a split you can actually eat on a small appetite beats a theoretically ideal one you cannot. People with kidney disease should ask a clinician before raising protein, and people with diabetes should set carbohydrate with their care team.
+
+## Frequently asked
+
+**Q:** What macros should I eat on a GLP-1?
+
+Set protein first, at about 1.2 to 1.6 g per kilogram of body weight a day, the range a four-society GLP-1 nutrition advisory uses. Put fat at 20 to 35 percent of calories, the adult range from the National Academies. Carbohydrate fills the remaining calories, ideally with at least 130 g a day, the adult RDA. Aim for 14 g of fiber per 1,000 calories.
+
+**Q:** Is a low-carb or keto diet better for muscle on a GLP-1?
+
+No trial has compared macro splits for muscle in people on a GLP-1. In general weight-loss research, total protein and resistance training matter for lean mass far more than the carbohydrate-to-fat ratio. A split you can keep eating on a small appetite is the one that works.
+
+**Q:** Why does fiber matter more on a GLP-1?
+
+Constipation was among the most common side effects in the semaglutide trials, and appetite suppression tends to cut fiber-rich foods first. Fiber at about 14 g per 1,000 calories, raised gradually and taken with fluids, is the usual dietary target.
+
+## References
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+
+- Institute of Medicine. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. National Academies Press; 2005. doi.org/10.17226/10490
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. dietaryguidelines.gov
+
+- Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
+
+- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Journal of the International Society of Sports Nutrition. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
 
 ---
 
@@ -3599,6 +3763,62 @@ This article is educational and not a diagnosis. Talk to your clinician if you n
 
 ---
 
+# Lean body mass calculator
+
+URL: https://getmuscleonglp.com/lean-body-mass-calculator/
+
+Free tool
+
+Your estimated lean mass from height and weight, and how much of it a GLP-1 weight loss could take, with and without enough protein and resistance training.
+
+Short answer. Lean body mass is everything that is not fat: muscle, bone, organs and water. Two standard equations estimate it from height, weight and sex. [1,2] On a GLP-1, roughly 15 to 40 percent of the weight lost is lean mass, so the size of the loss and the plan behind it decide how much of your lean mass goes with it. [3]
+
+An estimate from height and weight, not a measurement. The equations can misjudge lean mass at a high body mass index. A DEXA scan measures it. This gives no medical advice.
+
+Estimated lean body mass Implied body fat weight minus lean mass Weight to lose
+
+## How much of your lean mass the loss could take
+
+Without enough protein or training With 1.6 g/kg protein and resistance training Without With a plan
+
+Each bar is your current lean mass. The filled part is what the loss could take; the lighter part is the range.
+
+## How this is calculated
+
+Lean body mass. The calculator averages two published equations and shows both as a range. Boer (1984): for men, 0.407 × weight(kg) + 0.267 × height(cm) − 19.2; for women, 0.252 × weight + 0.473 × height − 48.3. [1] Hume (1966): for men, 0.32810 × weight + 0.33929 × height − 29.5336; for women, 0.29569 × weight + 0.41813 × height − 43.2933. [2]
+
+The GLP-1 loss. Reviews of the trial data put lean mass at 15 to 40 percent of the weight lost on a GLP-1, and the SURMOUNT-1 body-composition substudy measured about a quarter for tirzepatide. [3] The "without" figure uses the high end of that range, scaled for the medication. The "with a plan" range applies a resistance-training effect measured in older adults dieting without a GLP-1 (an extrapolation), up to the lowest share seen in GLP-1 trials. [4] These are the same numbers the muscle loss calculator uses.
+
+## Honest limits
+
+Three limits apply. First, both equations were developed largely in people without obesity, and estimates at a high body mass index are less reliable. Second, lean mass includes water, organs and bone, so not all lean loss is muscle. Third, the GLP-1 shares are population averages from trials, not a prediction for one person. If the number matters to a decision, a DEXA or InBody scan measures it.
+
+## Frequently asked
+
+**Q:** How do you calculate lean body mass?
+
+Without a scan, lean body mass is estimated from height, weight and sex with published equations. This calculator averages two of them, Boer (1984) and Hume (1966), and shows both. A DEXA scan measures it directly.
+
+**Q:** How much lean mass do people lose on a GLP-1?
+
+Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1, and about a quarter in the SURMOUNT-1 tirzepatide substudy. Protein and resistance training are the two levers with evidence for moving it toward the low end.
+
+**Q:** Is the lean body mass estimate accurate if I have obesity?
+
+Less so. Height-and-weight equations were built mostly in people without obesity and can misjudge lean mass at a high body mass index. Treat the number as a starting estimate and use a DEXA or bioimpedance scan if you need a measurement.
+
+## References
+
+- Boer P. Estimated lean body mass as an index for normalization of body fluid volumes in humans. American Journal of Physiology. 1984;247(4 Pt 2):F632–F636. pubmed.ncbi.nlm.nih.gov/6496691
+
+- Hume R. Prediction of lean body mass from height and weight. Journal of Clinical Pathology. 1966;19(4):389–391. pubmed.ncbi.nlm.nih.gov/5929341
+
+- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+---
+
 # GLP-1 muscle loss calculator
 
 URL: https://getmuscleonglp.com/muscle-loss-calculator/
@@ -3615,9 +3835,9 @@ Estimated share of your loss that is lean mass, at your current protein and trai
 
 If you lose — to reach your goal, the approximate lean mass at risk is:
 
-Without countermeasures At your current habits With countermeasures
+Without countermeasures At your current habits With countermeasures Without Your habits With
 
-This is an illustrative projection built from published population ranges, not a scan or a measurement of your body, and not a diagnosis. Your real body composition can differ. It gives no medical or dosing advice. Confirm your plan with your clinician.
+Each bar is the whole loss. The filled part is the lean mass in it; the lighter part is the range.
 
 ## How this is estimated (and the research behind it)
 
@@ -3719,7 +3939,7 @@ The two-thirds figure comes from one population (semaglutide, STEP 1) and your r
 
 ---
 
-# GLP-1 calorie and protein calculator
+# GLP-1 calorie, protein and macro calculator
 
 URL: https://getmuscleonglp.com/protein-calculator/
 
@@ -3732,6 +3952,10 @@ Population-based estimates, not medical advice. It gives no medical or dosing ad
 Example person: woman, 45, 66 in, 210 lb, goal 170 lb, light activity, about 1 lb a week. Change any field above to use your own numbers.
 
 BMR (at rest) TDEE (maintenance) Calorie target Daily deficit Protein / day Protein / meal (×4) To reach goal
+
+## Macros at your calorie target
+
+Protein (1.6 g/kg) Fat 25% of calories Carbohydrate Fiber 14 g per 1,000 kcal
 
 If 1.6 to 2.2 g/kg is hard to reach, is the range a four-society GLP-1 advisory uses during active weight loss. The target is scaled to total body weight, so it can run high if you carry a lot of fat mass. People with kidney disease should ask a clinician before raising protein.
 
@@ -3767,6 +3991,8 @@ Weight-loss trajectory. The pace-to-deficit conversion uses the classic estimate
 
 Protein target. The 1.6 to 2.2 g/kg range comes from lean-mass research, where benefit to fat-free mass leveled off near 1.6 g/kg. [5] A GLP-1 advisory from four medical societies uses a lower range, 1.2 to 1.6 g/kg, which the calculator shows beside it. People with kidney disease should ask a clinician before raising protein. The target is split across your chosen number of meals because distribution matters more than any single dose. [6]
 
+Macros and fiber. The macro row sets protein at 1.6 g/kg, fat at 25 percent of the calorie target (inside the 20 to 35 percent range the National Academies give for adults), and carbohydrate as what remains. [9] Fiber is 14 g per 1,000 calories, the Dietary Guidelines figure. [10] Fiber matters on a GLP-1 because constipation is one of the most common side effects. Raise it gradually and with fluids, since a sudden jump can worsen bloating.
+
 Meal timing on a small appetite. The same distribution logic is why the meal planner lets you spread the target across three to five meals: dividing protein into moderate servings through the day supports muscle better than concentrating it in one or two large meals, which is hard to eat anyway when a GLP-1 has cut your hunger. [6] On low-appetite days, eat protein first, front-load it earlier when hunger is highest, use liquid sources like a shake or Greek yogurt, and keep the biggest meal away from the peak side-effect window after a dose.
 
 The two muscle lines. Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1. [7] The dashed red line models the high end, 40 percent, that occurs without countermeasures. The green band models the outcome with adequate protein and resistance training. Its lower edge, about 2 percent, applies the finding that resistance training offset about 93.5 percent of the lean mass that caloric restriction alone would cost [8]; that result comes from older adults with obesity who were not taking a GLP-1, so it is an extrapolation. Its upper edge, 15 percent, is the lowest lean-mass share reported in GLP-1 trials. The muscle-loss calculator uses the same numbers. These are illustrative projections from published ranges, not a measurement of your body.
@@ -3788,6 +4014,14 @@ It uses the Mifflin-St Jeor equation for basal metabolic rate (BMR), the most va
 **Q:** How much protein does it recommend, and of what type?
 
 It applies the 1.6 to 2.2 g/kg of body weight range that lean-mass research supports during weight loss, split across four meals. Hit it from complete, leucine-rich sources; collagen is low in leucine and does little for muscle despite the label.
+
+**Q:** What macros should I eat on a GLP-1?
+
+Protein first: 1.6 g per kilogram of body weight a day is where the benefit to lean mass levels off, with 1.2 to 1.6 g/kg as the GLP-1 advisory range. Fat at 20 to 35 percent of calories is the adult range the National Academies give; the calculator uses 25 percent. Carbohydrate fills the rest of the calorie target. The calculator shows all three in grams for your numbers.
+
+**Q:** How much fiber should I eat on a GLP-1?
+
+The Dietary Guidelines figure is 14 g of fiber per 1,000 calories, so about 21 to 25 g on a 1,500 to 1,800 calorie target. Fiber helps with constipation, one of the most common GLP-1 side effects. Raise it gradually and drink fluids with it, since a sudden jump can worsen bloating.
 
 **Q:** Does the calculator work for women?
 
@@ -3818,6 +4052,62 @@ Total weight loss is driven by the calorie deficit and is similar either way. Wh
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Institute of Medicine. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. National Academies Press; 2005. doi.org/10.17226/10490
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. dietaryguidelines.gov
+
+---
+
+# Protein food calculator
+
+URL: https://getmuscleonglp.com/protein-food-calculator/
+
+Free tool
+
+Tap the foods you eat in a day and watch the total fill toward your protein target. Thirteen common foods, USDA values, nothing to sign up for.
+
+Short answer. A four-society joint advisory puts protein at about 1.2 to 1.6 g per kilogram of body weight a day during GLP-1 weight loss. [1] For a 90 kg (198 lb) adult that is 108 to 144 g. Chicken breast, cottage cheese and a whey shake each carry 24 to 31 g a serving, so three of them cover most of the low end. [2]
+
+## Protein per serving, 13 common foods
+
+FoodServingProtein Chicken breast, cooked100 g (3.5 oz)31 g Lean ground beef (93%), cooked100 g (3.5 oz)26 g Salmon, cooked100 g (3.5 oz)25 g Canned tuna, drained100 g (3.5 oz)25 g Shrimp, cooked100 g (3.5 oz)24 g Cottage cheese, low-fat1 cup (226 g)28 g Whey protein powder1 scoop (about 30 g)24 g Lentils, cooked1 cup (198 g)18 g Edamame, shelled1 cup18 g Greek yogurt, plain nonfat170 g (3/4 cup)17 g Tofu, firm100 g17 g Milk1 cup (240 mL)8 g Egg, large1 egg6 g
+
+Values are approximate figures from USDA FoodData Central, as compiled in the Protein Playbook. [2] Brands and cuts vary, so a label beats the table when you have one.
+
+## How the target is set
+
+The target is your weight in kilograms times 1.2 at the low end and 1.6 at the high end. That is the range the joint advisory from four nutrition and obesity societies gives for adults losing weight on a GLP-1. [1] Strength-training studies find the benefit of extra protein levels off near 1.6 g/kg, so the high end is where more stops helping for most people. [3] If you carry a lot of fat mass, a target scaled to total weight can run high; the calorie and protein calculator shows both ranges side by side.
+
+Spread across the day matters too. About 0.4 g/kg per meal over four meals is a practical way to reach the total without one large plate. [4] People with kidney disease should ask a clinician before raising protein.
+
+## Frequently asked
+
+**Q:** How much protein do I need on a GLP-1?
+
+A four-society joint advisory on nutrition during GLP-1 therapy puts the target at about 1.2 to 1.6 grams of protein per kilogram of body weight a day during active weight loss. For a 90 kg (198 lb) person that is roughly 108 to 144 grams. People with kidney disease should ask a clinician before raising protein.
+
+**Q:** Which foods have the most protein per serving?
+
+Per 100 g cooked, chicken breast has about 31 g, lean ground beef 26 g, and salmon, canned tuna and shrimp 24 to 25 g. A cup of low-fat cottage cheese has about 28 g and a scoop of whey about 24 g. Values are from USDA FoodData Central and vary by brand and preparation.
+
+**Q:** How do I hit a protein target with a small appetite?
+
+Split the target over three to five small meals, eat the protein first, and use soft or liquid sources (Greek yogurt, cottage cheese, milk, a whey shake) on low-appetite days. The builder above shows how quickly those add up.
+
+**Q:** How much protein is in an egg?
+
+A large egg has about 6 g of protein, according to USDA FoodData Central. Three eggs come to about 18 g, which is why eggs work better as one part of a meal than as the whole protein source.
+
+## References
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- U.S. Department of Agriculture, Agricultural Research Service. FoodData Central. fdc.nal.usda.gov
+
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+
+- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Journal of the International Society of Sports Nutrition. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
 
 ---
 

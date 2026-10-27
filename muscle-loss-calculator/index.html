@@ -157,8 +157,13 @@
             <div class="calc-stat"><span class="calc-n" id="youKg"></span><span class="calc-l">At your current habits</span></div>
             <div class="calc-stat"><span class="calc-n" id="withKg"></span><span class="calc-l">With countermeasures</span></div>
           </div>
+          <div id="riskBars" class="risk-bars" hidden aria-hidden="true">
+            <div class="rb-row"><span class="rb-l">Without</span><span class="rb-track"><span class="rb-fill rb-bad"></span><span class="rb-span"></span></span></div>
+            <div class="rb-row"><span class="rb-l">Your habits</span><span class="rb-track"><span class="rb-fill rb-mid"></span><span class="rb-span rb-mid"></span></span></div>
+            <div class="rb-row"><span class="rb-l">With</span><span class="rb-track"><span class="rb-fill"></span><span class="rb-span"></span></span></div>
+            <p class="rb-key">Each bar is the whole loss. The filled part is the lean mass in it; the lighter part is the range.</p>
+          </div>
         </div>
-        <p class="calc-warn">This is an illustrative projection built from published population ranges, not a scan or a measurement of your body, and not a diagnosis. Your real body composition can differ. It gives no medical or dosing advice. Confirm your plan with your clinician.</p>
 
         <aside class="inline-capture">
           <p><strong>The gap between those two numbers is the part you control.</strong> The free Protein Playbook has what closes it: the protein target, the food table, and the sample days. A short weekly digest of new research comes with it.</p>
@@ -168,6 +173,11 @@
             <p class="subscribe-status" role="status" aria-live="polite"></p>
           </form>
         </aside>
+      </div>
+
+      <div class="ad-slot" style="margin:34px 0 0">
+        <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-6407975157274256" data-ad-slot="8507003957"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </div>
 
       <div class="article" style="margin-top:34px">
@@ -212,6 +222,7 @@
       <nav class="related-reading" aria-label="Related reading">
         <h2>Related reading</h2>
         <ul>
+          <li><a href="/lean-body-mass-calculator/">Lean body mass calculator: how much lean mass you have to start with</a></li>
           <li><a href="/protein-calculator/">The calorie and protein calculator</a></li>
           <li><a href="/learn/protein-on-glp1/">How much protein you need on a GLP-1</a></li>
           <li><a href="/learn/ozempic-muscle-loss/">Does Ozempic cause muscle loss?</a></li>
@@ -241,6 +252,7 @@
       <span><a href="/about/">About</a></span>
       <span><a href="/contact/">Contact</a></span>
       <span><a href="/editorial-policy/">Editorial policy</a></span>
+      <span><a href="/for-clinicians/">For clinicians</a></span>
       <span><a href="/privacy/">Privacy</a></span>
       <span>Not affiliated with Novo Nordisk, Eli Lilly, or any medication manufacturer.</span>
     </div>
@@ -248,6 +260,7 @@
 </footer>
 
 <script src="/glp1-model.js"></script>
+<script src="/calc-ui.js"></script>
 <script src="/muscle-loss-calculator/calc.js"></script>
 <script src="/subscribe.js" defer></script>
 <script src="/analytics.js" defer></script>

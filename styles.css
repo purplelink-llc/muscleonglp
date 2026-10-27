@@ -764,3 +764,120 @@ main:has(.guide-hero) .wrap.center > p, main:has(.guide-hero) .evidence-note { m
 main:has(.guide-hero) .finalcta .wrap.center { text-align: center; }
 main:has(.guide-hero) .finalcta .wrap.center > * { margin-left: auto; margin-right: auto; }
 main:has(.guide-hero) .faq-list, main:has(.guide-hero) .wrap.center > .lead { max-width: 64ch; }
+
+/* Calculator refresh (2026-10-27). The input card was a 2px green outline with a
+   55px green glow, the loudest object on the page, louder than the results it
+   produces. It is now a flat tone step, so the eye lands on the numbers. Short
+   choices (units, sex, meals) are segmented buttons drawn by calc-ui.js; the
+   real <select> stays hidden in the form. Results lead with the number, set
+   large and tight, the label below in the UI face. */
+form#calc.price-card { background: var(--bg-alt); border: 0; box-shadow: none; border-radius: var(--radius-lg); }
+form#calc .calc-in { border-width: 1px; border-color: transparent; background: var(--bg); min-height: 46px; transition: border-color .15s ease; }
+form#calc .calc-in:hover { border-color: var(--line); }
+form#calc .calc-in:focus { border-color: var(--accent-text); box-shadow: 0 0 0 3px rgba(47,111,94,.15); }
+form#calc .calc-label { font-size: 0.86rem; color: var(--ink-soft); font-weight: 600; }
+.seg { display: flex; flex: 0 0 auto; gap: 2px; padding: 3px; background: var(--line); border-radius: 12px; min-height: 46px; box-sizing: border-box; }
+.seg-b { flex: 1 1 0; min-width: 40px; padding: 8px 10px; border: 0; border-radius: 9px; background: transparent; color: var(--ink-soft); font: inherit; font-size: 0.92rem; font-weight: 600; cursor: pointer; transition: background-color .18s ease, color .18s ease; white-space: nowrap; }
+.seg-b:hover { color: var(--ink); }
+.seg-b[aria-checked="true"] { background: var(--bg); color: var(--ink); }
+.seg-b:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 1px; }
+.calc-grid > div:has(> .seg) .seg { width: 100%; }
+/* A select that stays a select holds a long option ("Light (1-3 days/week)");
+   on a wide card it takes two columns so the choice is readable, not cut. */
+@media (min-width: 640px) { .calc-grid > div:has(> select.calc-in:not([hidden])) { grid-column: span 2; } }
+.calc-stat { border-radius: 14px; padding: 16px 18px 14px; gap: 6px; }
+.calc-n { font-size: clamp(1.45rem, 1.2rem + 1vw, 1.9rem); font-weight: 700; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.calc-share { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 14px; margin-top: 18px; }
+.calc-share-b { padding: 10px 16px; border: 0; border-radius: 999px; background: var(--bg); color: var(--accent-text-strong); font: inherit; font-size: 0.9rem; font-weight: 650; cursor: pointer; }
+.calc-share-b:hover { background: var(--accent-light); }
+.calc-share-s { font-size: var(--fs-meta); color: var(--ink-soft); overflow-wrap: anywhere; }
+.calc-example-note { border: 0; }
+@media (prefers-color-scheme: dark) {
+  form#calc.price-card { background: #172420; }
+  .seg { background: #26352f; }
+  .seg-b[aria-checked="true"] { background: #101613; }
+  .calc-share-b { background: #101613; }
+}
+@media (prefers-reduced-motion: reduce) { .seg-b, form#calc .calc-in { transition: none; } }
+
+/* Protein food calculator. The running total is the hero, set large and kept
+   in view while the list scrolls (sticky inside the form on every width).
+   The bar shows the target as a band, not a finish line: under, in, over. */
+.pf-weight { max-width: 280px; }
+.pf-total { position: sticky; top: 0; z-index: 2; background: var(--bg-alt); margin: 14px -24px 0; padding: 12px 24px 12px; }
+.pf-big { margin: 0; font-family: var(--font-display); font-size: clamp(2.6rem, 2rem + 2.4vw, 3.6rem); font-weight: 700; line-height: 0.95; letter-spacing: -0.035em; color: var(--accent-text); font-variant-numeric: tabular-nums; }
+.pf-big small { font-size: 0.42em; letter-spacing: 0; color: var(--ink-soft); font-weight: 600; }
+.pf-of { margin: 4px 0 10px; color: var(--ink-soft); font-size: var(--fs-body); }
+.pf-of span { color: var(--ink); font-weight: 650; }
+.pf-bar { position: relative; height: 10px; border-radius: 999px; background: var(--line); overflow: hidden; }
+.pf-fill { position: absolute; inset: 0 auto 0 0; width: 0; background: var(--accent); border-radius: 999px; transition: width .35s cubic-bezier(.2,.8,.2,1); z-index: 1; }
+.pf-band { position: absolute; top: 0; bottom: 0; background: var(--accent-light); opacity: .9; }
+.pf-left { margin: 8px 0 0; font-size: var(--fs-meta); color: var(--ink-soft); min-height: 1.3em; }
+.pf-hit .pf-left { color: var(--accent-text); font-weight: 650; }
+.pf-list { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 4px; }
+.pf-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 12px; border-radius: 12px; transition: background-color .18s ease; }
+.pf-row.on { background: var(--bg); }
+.pf-name { display: flex; flex-direction: column; min-width: 0; }
+.pf-name label { font-weight: 600; font-size: 0.97rem; }
+.pf-name small { color: var(--ink-soft); font-size: var(--fs-meta); }
+.pf-name small b { color: var(--accent-text); font-weight: 650; }
+.pf-step { display: flex; align-items: center; gap: 2px; flex: 0 0 auto; background: var(--line); border-radius: 12px; padding: 3px; }
+.pf-b { width: 40px; height: 40px; border: 0; border-radius: 9px; background: var(--bg); color: var(--ink); font: inherit; font-size: 1.25rem; font-weight: 600; line-height: 1; cursor: pointer; }
+.pf-b:hover { color: var(--accent-text); }
+.pf-b:active { transform: scale(.94); }
+.pf-b:focus-visible, .pf-in:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 1px; }
+.pf-in { width: 46px; height: 40px; border: 0; background: transparent; color: var(--ink); text-align: center; font: inherit; font-weight: 650; font-variant-numeric: tabular-nums; -moz-appearance: textfield; }
+.pf-in::-webkit-outer-spin-button, .pf-in::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+.pf-actions { margin-top: 14px; }
+@media (prefers-color-scheme: dark) {
+  .pf-total { background: #172420; }
+  .pf-step { background: #26352f; }
+  .pf-b { background: #101613; }
+  .pf-row.on { background: #101613; }
+  .pf-band { background: #2a4a40; }
+}
+@media (prefers-reduced-motion: reduce) { .pf-fill, .pf-row { transition: none; } .pf-b:active { transform: none; } }
+form#calc.pf { overflow: visible; }
+@media (min-width: 1100px) { .pf-total { top: 66px; } }
+@media (max-width: 420px) { .pf-b { width: 36px; height: 38px; } .pf-in { width: 36px; } .pf-row { padding: 9px 8px; } }
+.pf .pf-actions, .pf .calc-share { display: inline-flex; vertical-align: middle; margin: 14px 10px 0 0; }
+
+/* Calculator printout ("Print for your appointment" in calc-ui.js): the form
+   and the results, on white, with the page URL so the numbers can be checked.
+   Everything that is not the reader's own numbers or the method is dropped. */
+@media print {
+  .nav, footer, .skip-link, .ad-slot, .adsbygoogle, .gear, .inline-capture, .calc-share, .pf-actions,
+  .related-reading, .faq-list, main .article, .article-cta, .references, .article-dek, .crumbs, .article-eyebrow, .calc-hint, .price-card-featured .seg-b[aria-checked="false"], .calc-example-note, .chart-card table + div { display: none !important; }
+  body, .price-card, form#calc.price-card, .calc-stat, .pf-total, .chart-card { background: #fff !important; color: #000 !important; box-shadow: none !important; }
+  .calc-n, .pf-big, .calc-l, .calc-label, h1, h2, p, li, td, th { color: #000 !important; }
+  .calc-in, .seg, .pf-step { border: 1px solid #999 !important; background: #fff !important; }
+  .article-hero { padding: 0 !important; }
+  .section { padding: 8px 0 !important; }
+  .price-body { padding: 12px 0 !important; }
+  .calc-grid { gap: 8px !important; }
+  #chartWrap, #planWrap, #macroRow { break-inside: avoid; }
+  .calc-stat { border: 1px solid #ccc; break-inside: avoid; }
+  .references { font-size: 9pt; }
+  main::after { content: "Printed from getmuscleonglp.com. Population-based estimates, not medical advice."; display: block; margin-top: 16px; font-size: 9pt; }
+}
+
+/* Muscle-loss calculator: lean mass at risk as three bars on one scale. */
+.risk-bars { margin-top: 18px; display: grid; gap: 10px; }
+.rb-row { display: grid; grid-template-columns: 88px 1fr; align-items: center; gap: 12px; font-size: var(--fs-meta); color: var(--ink-soft); }
+.rb-track { position: relative; height: 14px; border-radius: 999px; background: var(--line); overflow: hidden; }
+.rb-fill { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: var(--accent); transition: width .4s cubic-bezier(.2,.8,.2,1); }
+.rb-span { position: absolute; top: 0; bottom: 0; width: 0; background: var(--accent); opacity: .4; transition: left .4s cubic-bezier(.2,.8,.2,1), width .4s cubic-bezier(.2,.8,.2,1); }
+.rb-fill.rb-bad, .rb-bad + .rb-span { background: #b4483b; }
+.rb-fill.rb-mid, .rb-span.rb-mid { background: #b7791f; }
+.rb-key { margin: 2px 0 0; font-size: var(--fs-meta); color: var(--ink-soft); }
+@media (prefers-reduced-motion: reduce) { .rb-fill, .rb-span { transition: none; } }
+.success-h { font-size: clamp(1.9rem, 3.6vw, 2.9rem); text-wrap: balance; }
+
+/* Homepage calculator strip: tone-step tiles, the tool name first. */
+.tool-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-top: 28px; text-align: left; }
+.tool-tile { display: flex; flex-direction: column; gap: 4px; padding: 16px 18px; border-radius: 14px; background: var(--bg-alt); color: var(--ink); text-decoration: none; transition: background-color .18s ease; }
+.tool-tile strong { font-family: var(--font-display); font-size: 1.08rem; color: var(--accent-text-strong); }
+.tool-tile span { font-size: var(--fs-meta); color: var(--ink-soft); line-height: 1.45; }
+.tool-tile:hover { background: var(--accent-light); }
+.tool-tile:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 2px; }
+@media (prefers-color-scheme: dark) { .tool-tile { background: #172420; } .tool-tile:hover { background: #1c2c27; } }

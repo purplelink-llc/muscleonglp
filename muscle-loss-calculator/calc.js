@@ -98,6 +98,7 @@
       $("withoutKg").textContent = range(lossKg * withoutFrac, lossKg * withoutFrac);
       $("youKg").textContent = range(lossKg * youA, lossKg * youB);
       $("withKg").textContent = range(lossKg * planRange[0], lossKg * planRange[1]);
+      drawRisk([[withoutFrac, withoutFrac], [youA, youB], [planRange[0], planRange[1]]]);
       $("goalWrap").hidden = false;
       summary += " Over " + $("totalLoss").textContent + " of weight loss, lean mass at risk is " + $("youKg").textContent + " at your habits.";
     } else {
@@ -106,6 +107,21 @@
 
     $("out").hidden = false;
     announce(summary);
+  }
+
+  // Three bars on one scale: the full track is the total weight to lose, the
+  // filled part is the lean share. A range draws solid to its low end and
+  // lighter to its high end, so "8.4 to 11.0 lb" reads as a span, not a point.
+  function drawRisk(rows) {
+    var box = $("riskBars"); if (!box) return;
+    var bars = box.querySelectorAll(".rb-fill");
+    rows.forEach(function (r, i) {
+      var lo = Math.min(r[0], r[1]) * 100, hi = Math.max(r[0], r[1]) * 100;
+      bars[i].style.width = lo + "%";
+      bars[i].nextElementSibling.style.left = lo + "%";
+      bars[i].nextElementSibling.style.width = (hi - lo) + "%";
+    });
+    box.hidden = false;
   }
 
   // Changing lb/kg used to relabel the number you had already typed (210 lb became 210 kg).

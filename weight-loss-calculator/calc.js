@@ -65,7 +65,7 @@
     return '<div style="margin-top:12px"><p class="calc-l" style="margin:0 0 6px">' + title + '</p>' +
       '<div style="display:flex;height:22px;border-radius:6px;overflow:hidden;border:1px solid var(--line)" aria-hidden="true">' +
       '<span style="width:' + (leanShare * 100).toFixed(1) + '%;background:#b7791f"></span>' +
-      '<span style="flex:1;background:var(--accent-light)"></span></div></div>';
+      '<span style="flex:1;background:var(--accent);opacity:.55"></span></div></div>';
   }
 
   function run() {

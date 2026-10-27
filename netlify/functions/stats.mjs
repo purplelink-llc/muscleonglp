@@ -62,7 +62,7 @@ export default async function handler(request) {
   const now = Date.now();
   const summary = {
     rangeDays: days,
-    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, affiliateClicks: 0, calcRuns: 0, events: 0 },
+    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, affiliateClicks: 0, calcRuns: 0, calcShares: 0, events: 0 },
     affiliateByProduct: {}, affiliateByPath: {},
     byPath: {},
     byReferrer: {},
@@ -70,6 +70,7 @@ export default async function handler(request) {
     checkoutByProduct: {}, checkoutByPath: {}, confirmByProduct: {},
     subscribeBySource: {},
     calcByTool: {},
+    shareByTool: {},
     byDay: {},          // day -> { pageviews, uniques, subscribes, checkoutClicks, checkoutConfirms, calcRuns }
   };
   const uniquesPerDay = {}; // day -> Set(vid)
@@ -134,6 +135,10 @@ export default async function handler(request) {
         summary.totals.calcRuns++;
         summary.byDay[day].calcRuns++;
         bump(summary.calcByTool, rec.meta || pathToTool(rec.path));
+      } else if (rec.type === "calc_share") {
+        // "Copy link to these results" (calc-ui.js): a result worth sending to someone.
+        summary.totals.calcShares++;
+        bump(summary.shareByTool, rec.meta || pathToTool(rec.path));
       }
     }
     summary.byDay[day].uniques = uniquesPerDay[day].size;
@@ -157,6 +162,7 @@ export default async function handler(request) {
     affiliateByPath: topN(summary.affiliateByPath),
     subscribeBySource: topN(summary.subscribeBySource),
     calcByTool: topN(summary.calcByTool),
+    shareByTool: topN(summary.shareByTool),
     byDay: Object.fromEntries(Object.entries(summary.byDay).sort()),
   });
 }
