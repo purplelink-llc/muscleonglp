@@ -28,7 +28,27 @@ Full, fully-cited explainers with no paywall. Index: https://getmuscleonglp.com/
 - **Signs you are losing muscle, not just fat** — why the scale and even DXA lean-mass numbers mislead, and why tracked strength is the best signal you can check at home. https://getmuscleonglp.com/learn/signs-of-muscle-loss-glp1/
 - **The best exercises to preserve muscle** — resistance training offset about 93.5% of diet-induced lean-mass loss in a meta-analysis; train the major compound movement patterns and progress them. https://getmuscleonglp.com/learn/best-exercises-preserve-muscle-glp1/
 
+- **GLP-1 muscle loss by the numbers** — the lean-mass share, protein shortfall, persistence and regain figures in one place. https://getmuscleonglp.com/learn/glp1-muscle-loss-statistics/
+- **Can you build new muscle on a GLP-1?** — preserving versus gaining muscle during weight loss, and what training and protein make possible. https://getmuscleonglp.com/learn/build-new-muscle-on-glp1/
+- **Whey, plant, or collagen: the best protein on a GLP-1** — protein quality and leucine content for muscle retention when appetite is small. https://getmuscleonglp.com/learn/best-protein-for-muscle-on-glp1/
+- **Protein timing on a GLP-1** — per-meal distribution (about 25-30 g per meal) for people eating less. https://getmuscleonglp.com/learn/glp1-protein-timing-muscle/
+- **Retatrutide and muscle loss** — what the trial body-composition data shows so far for the investigational triple agonist. https://getmuscleonglp.com/learn/retatrutide-muscle-loss/
+- **GLP-1s and muscle loss in women over 50** — menopause, sarcopenia risk and bone. https://getmuscleonglp.com/learn/glp1-muscle-loss-women-over-50/
+- **GLP-1s, bone density and fracture risk** — the DXA and fracture evidence. https://getmuscleonglp.com/learn/glp1-bone-density-fracture-risk/
+- **Cardio vs. weights on a GLP-1** — why resistance training, not cardio alone, protects lean mass. https://getmuscleonglp.com/learn/cardio-vs-weights-glp1/
+- **Is a DEXA or InBody scan worth it on a GLP-1?** — what body-composition scans can and cannot tell you. https://getmuscleonglp.com/learn/dexa-inbody-scan-glp1/
+- **High-protein meals and shakes for nausea days** — protein that stays down on a GLP-1. https://getmuscleonglp.com/learn/glp1-high-protein-meals-nausea/
+
+## Free calculators
+Each runs in the browser, cites its sources on the page, and gives no dosing advice. Index: https://getmuscleonglp.com/tools/
+
+- **GLP-1 weight loss calculator** — applies the average weight loss from each drug's main trial to your weight: Wegovy (semaglutide 2.4 mg) 14.9% over 68 weeks in STEP 1; Zepbound/Mounjaro (tirzepatide) 15.0%, 19.5% and 20.9% at 5, 10 and 15 mg over 72 weeks in SURMOUNT-1; semaglutide 1 mg and 2.4 mg with type 2 diabetes 7.0% and 9.6% in STEP 2. Also estimates the lean-mass share of the loss. https://getmuscleonglp.com/weight-loss-calculator/
+- **GLP-1 muscle loss calculator** — the share of GLP-1 weight loss likely to be lean mass, with versus without enough protein and resistance training. https://getmuscleonglp.com/muscle-loss-calculator/
+- **GLP-1 calorie and protein calculator** — calorie target, daily protein target and grams per meal. https://getmuscleonglp.com/protein-calculator/
+- **Weight-regain (off-ramp) calculator** — projected regain after stopping, from the STEP 1 extension. https://getmuscleonglp.com/off-ramp-calculator/
+
 ## Key evidence-based facts (each cited in the guides)
+- Average weight loss in the main trials: 14.9% on semaglutide 2.4 mg at 68 weeks (STEP 1, placebo 2.4%); 15.0-20.9% on tirzepatide 5-15 mg at 72 weeks (SURMOUNT-1, placebo 3.1%); 9.6% on semaglutide 2.4 mg in adults with type 2 diabetes (STEP 2). Individual results vary widely around these averages.
 - A substantial fraction of GLP-1 weight loss is lean mass: reviews place it at roughly 15-40% of total weight lost; the SURMOUNT-1 DXA substudy measured about 26% for tirzepatide (74% fat, 26% lean).
 - Protein target for lean-mass retention during weight loss: approximately 1.6-2.2 g/kg bodyweight per day (vs the 0.8 g/kg RDA). A GLP-1-specific advisory from four medical societies recommends 1.2-1.6 g/kg during active weight reduction.
 - Only about 43% of GLP-1 users met even a modest protein minimum in a cross-sectional study; GLP-1 medications reduce energy intake by roughly a quarter in controlled studies.
