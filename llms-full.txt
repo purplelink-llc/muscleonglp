@@ -4596,6 +4596,10 @@ The calculator above uses the full table (every fifth year, five centiles) and p
 
 The European Working Group on Sarcopenia in Older People (EWGSOP2) leads with low muscle strength when it screens for sarcopenia, and grip strength or the chair stand is how it measures that. [1] The cut-offs were set for older adults. A younger person can sit well above them and still be losing strength, which is why the change since your last reading is often the more useful number. On a GLP-1, resistance training and enough protein are the two levers with evidence for holding onto muscle. [3,4]
 
+## What happens to grip strength on semaglutide
+
+On average, not much. A 2026 meta-analysis pooled ten studies with 660 people on semaglutide and found a grip change of −0.16 kg, too small to tell apart from no change (95% confidence interval −1.98 to 1.65 kg). [6] However, the studies disagreed widely: the range expected for a new study ran from about 6 kg lost to 6 kg gained. The authors rated the evidence very low certainty, mostly because the studies had no comparison group. An average near zero therefore says little about you. Retesting every four weeks shows which side of that range you are on.
+
 ## Frequently asked
 
 **Q:** What is a normal grip strength?
@@ -4621,3 +4625,5 @@ Every four weeks is enough to see a trend without chasing day-to-day noise. Use 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
 - Dodds RM, Syddall HE, Cooper R, et al. Grip strength across the life course: normative data from twelve British studies. PLOS ONE. 2014;9(12):e113637. doi.org/10.1371/journal.pone.0113637
+
+- Machado LG, Siedschlag Schmidt PH, Tasca Petroski G, et al. Changes in muscle strength following semaglutide treatment in adults: a systematic review with meta-analysis of handgrip strength. Diabetes, Obesity & Metabolism. 2026. doi.org/10.1111/dom.71432
