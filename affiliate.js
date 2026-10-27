@@ -65,7 +65,7 @@
   };
   // First match wins, so the specific words come before the general ones.
   var KINDS = [
-    [/shaker/, "shaker"], [/ready-to-drink|rtd|shakes\b/, "carton"], [/packet|single-serve/, "packet"],
+    [/shaker|water bottle/, "shaker"], [/ready-to-drink|rtd|shakes\b/, "carton"], [/packet|single-serve/, "packet"],
     [/capsule/, "capsules"], [/creatine/, "jar"], [/scale/, "scale"], [/band/, "bands"],
     [/dumbbell|kettlebell|weight/, "dumbbell"], [/shoe/, "shoe"], [/pasta|lentil|chickpea/, "bowl"], [/\bmat\b/, "mat"],
     [/vitamin|b12|iron|calcium|magnesium|omega|supplement/, "bottle"], [/protein|whey|casein|powder/, "tub"]
