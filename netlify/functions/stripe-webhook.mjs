@@ -198,6 +198,16 @@ export default async function handler(request) {
     return jsonResponse(200, { received: true, ignored: "foreign_product", product });
   }
 
+  // Every path below emails someone. Without a Resend key sendEmail() returns
+  // "skipped", which used to fall through to a 200: the buyer got no email, the
+  // operator got no sale notice, and Stripe marked the event delivered, so the
+  // gap was invisible. Fail loudly instead, like a missing webhook secret:
+  // Stripe shows the failure on the endpoint and retries for up to three days,
+  // so setting the key lets the queued sales go out.
+  if (!Netlify.env.get("RESEND_API_KEY")) {
+    return jsonResponse(500, { error: "misconfigured", detail: "RESEND_API_KEY not set; buyer not emailed." });
+  }
+
   // No product metadata at all: never guess which file to send. Tell the
   // buyer a human is on it, and make sure the operator actually is.
   if (!entry) {
