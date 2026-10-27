@@ -115,7 +115,12 @@ async function sendEmail({ to, subject, html, text }) {
   }
 }
 
-function downloadEmailHtml(title, url, bonus) {
+const DOWNLOAD_LABELS = {
+  "application/zip": "Download your files",
+  "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": "Download the spreadsheet",
+};
+
+function downloadEmailHtml(title, url, bonus, button = "Download the PDF") {
   const bonusBlock = bonus
     ? `<p style="margin:28px 0 4px;padding:16px;background:#f4f8f6;border-radius:12px">
     <strong>Your free bonus:</strong> ${bonus.title}<br>
@@ -126,7 +131,7 @@ function downloadEmailHtml(title, url, bonus) {
   <h2 style="color:#2f6f5e">Thanks for your purchase</h2>
   <p>Your guide, <strong>${title}</strong>, is ready to download.</p>
   <p style="margin:28px 0">
-    <a href="${url}" style="background:#2f6f5e;color:#fff;padding:14px 28px;border-radius:100px;text-decoration:none;font-weight:600">Download the PDF</a>
+    <a href="${url}" style="background:#2f6f5e;color:#fff;padding:14px 28px;border-radius:100px;text-decoration:none;font-weight:600">${button}</a>
   </p>
   <p style="font-size:14px;color:#45524c">If the button doesn't work, copy this link into your browser: ${url}</p>
   ${bonusBlock}
@@ -267,7 +272,8 @@ export default async function handler(request) {
   const customerResult = await sendEmail({
     to: buyerEmail,
     subject: `Your guide: ${entry.title}`,
-    html: downloadEmailHtml(entry.title, link, bonus),
+    // The button names what the file is: a spreadsheet or a zip bundle is not "the PDF".
+    html: downloadEmailHtml(entry.title, link, bonus, DOWNLOAD_LABELS[entry.type] || "Download the PDF"),
     text: `Thanks for your purchase. Download ${entry.title} here: ${link}${
       bonus ? `\n\nYour free bonus, ${bonus.title}, is here: ${bonus.url}` : ""
     }`,
