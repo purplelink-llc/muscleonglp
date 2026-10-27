@@ -25,6 +25,14 @@
   status = 404
   force = true
 
+# Build helpers (e.g. _build/build_llms_full.py, which regenerates llms-full.txt):
+# tracked in the repo, never served.
+[[redirects]]
+  from = "/_build/*"
+  to = "/terms/"
+  status = 404
+  force = true
+
 # Internal draft, tracked in the repo, not a page: do not serve it.
 [[redirects]]
   from = "/DISCLAIMER-draft.md"
