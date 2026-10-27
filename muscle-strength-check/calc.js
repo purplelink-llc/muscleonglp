@@ -9,6 +9,20 @@
   var LB = 0.45359237, GRIP_CUT = { male: 27, female: 16 }, CHAIR_CUT = 15;
   var live = $("liveSummary"), liveTimer = null, touched = false;
 
+  // Grip centiles (10th, 25th, 50th, 75th, 90th, kg) at ages 20, 25, ... 90,
+  // from Dodds 2014 Table 2 (PLOS ONE 9:e113637), 60,803 British measurements.
+  var NORMS = {
+    male: [[30,35,40,46,52],[36,41,48,55,61],[38,44,51,58,64],[39,45,51,58,64],[38,44,50,57,63],[36,42,49,56,61],[35,41,48,54,60],[34,40,47,53,59],[33,39,45,51,56],[31,37,43,48,53],[29,34,39,44,49],[26,31,35,41,45],[23,27,32,37,42],[19,24,29,33,38],[16,20,25,29,33]],
+    female: [[21,24,28,32,36],[23,26,30,35,38],[24,27,31,35,39],[23,27,31,35,39],[23,27,31,35,39],[22,26,30,34,38],[21,25,29,33,37],[19,23,28,32,35],[18,22,27,31,34],[17,21,25,29,33],[16,20,24,27,31],[14,18,21,25,28],[13,16,19,23,26],[11,14,17,20,23],[9,11,14,17,20]]
+  };
+  var BANDS = ["below the 10th centile", "between the 10th and 25th centiles", "between the 25th and 50th centiles", "between the 50th and 75th centiles", "between the 75th and 90th centiles", "above the 90th centile"];
+  // Linear interpolation between the two nearest tabled ages; ages past 90 use 90.
+  function centilesAt(sex, age) {
+    var x = (Math.max(20, Math.min(90, age)) - 20) / 5, i = Math.min(13, Math.floor(x)), t = x - i;
+    var a = NORMS[sex][i], b = NORMS[sex][i + 1];
+    return a.map(function (v, k) { return v + (b[k] - v) * t; });
+  }
+
   function num(id) { var v = parseFloat($(id).value); return isFinite(v) && v > 0 ? v : NaN; }
 
   function compute(announce) {
@@ -31,8 +45,17 @@
         : "Above the cut-off. Track it every four weeks: a falling trend matters even above the line.";
       $("gripVerdict").className = "sr-verdict" + (low ? " sr-low" : "");
       parts.push("Grip " + $("gripOut").textContent + (low ? ", below" : ", above") + " the cut-off.");
+      var age = num("age");
+      if (age >= 20 && age <= 100) {
+        var cs = centilesAt(sex, age), band = 0;
+        while (band < 5 && gKg >= cs[band]) band++;
+        var shown = function (kg) { return Math.round(unit === "lb" ? kg / LB : kg); };
+        $("gripAge").textContent = "For " + (sex === "male" ? "men" : "women") + " aged " + Math.round(age) + ", typical grip is " + shown(cs[2]) + " " + unit +
+          " (middle half " + shown(cs[1]) + " to " + shown(cs[3]) + "). Yours is " + BANDS[band] + ".";
+        parts.push("Grip is " + BANDS[band] + " for your age.");
+      } else { $("gripAge").textContent = ""; }
     } else {
-      $("gripOut").textContent = ""; $("gripVerdict").textContent = "Enter a grip reading."; $("gripFill").style.width = "0";
+      $("gripOut").textContent = ""; $("gripAge").textContent = ""; $("gripVerdict").textContent = "Enter a grip reading."; $("gripFill").style.width = "0";
     }
 
     var c = num("chair");

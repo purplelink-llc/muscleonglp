@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Grip Strength and Chair-Stand Check for GLP-1 Users</title>
-<meta name="description" content="Free muscle strength check: compare your grip strength and five-times chair-stand time with the clinical cut-offs, and track change on a GLP-1.">
+<meta name="description" content="Free muscle strength check: grip strength by age and sex, the five-times chair stand with a built-in timer, the clinical cut-offs, and your change on a GLP-1.">
 <link rel="canonical" href="https://getmuscleonglp.com/muscle-strength-check/">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="author" content="MuscleOnGLP">
@@ -47,7 +47,7 @@
       "name": "What is a normal grip strength?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The European sarcopenia consensus (EWGSOP2) treats grip strength below 27 kg in men or 16 kg in women as low muscle strength, one of its main warning signs. Above those cut-offs is not low, but grip varies with age and body size, so your own trend over time tells you more than one reading."
+        "text": "The European sarcopenia consensus (EWGSOP2) treats grip strength below 27 kg in men or 16 kg in women as low muscle strength, one of its main warning signs. Typical grip also depends on age: in a study of 60,803 measurements, median grip peaked at about 51 kg in men and 31 kg in women in their thirties, then fell to about 39 kg and 24 kg at age 70. Your own trend over time tells you more than one reading."
       }
     },
     {
@@ -128,6 +128,11 @@
               <input id="prev" name="prev" type="number" inputmode="decimal" min="0" step="0.1" placeholder="e.g. 23" class="calc-in" autocomplete="off">
             </div>
             <div>
+              <label for="age" class="calc-label">Age (for the age comparison)</label>
+              <input id="age" name="age" type="number" inputmode="numeric" min="20" max="100" step="1" value="50" class="calc-in" autocomplete="off" aria-describedby="ageHint">
+              <p id="ageHint" class="calc-hint">Compares grip with adults your age.</p>
+            </div>
+            <div>
               <label for="chair" class="calc-label">Five chair stands (seconds)</label>
               <input id="chair" name="chair" type="number" inputmode="decimal" min="0" step="0.1" value="12" class="calc-in" autocomplete="off" aria-describedby="chairHint">
               <p id="chairHint" class="calc-hint">Arms crossed, stand fully each time. Or use the timer below.</p>
@@ -152,6 +157,7 @@
             <div class="sr-head"><span class="calc-n" id="gripOut"></span><span class="calc-l">Grip strength <small id="gripCut"></small></span></div>
             <div class="sr-track" aria-hidden="true"><span class="sr-fill" id="gripFill"></span><span class="sr-mark" id="gripMark"></span></div>
             <p class="sr-verdict" id="gripVerdict"></p>
+            <p class="sr-age" id="gripAge"></p>
           </div>
           <div class="sr-row">
             <div class="sr-head"><span class="calc-n" id="chairOut"></span><span class="calc-l">Five chair stands <small>cut-off 15 seconds; faster is better</small></span></div>
@@ -172,6 +178,25 @@
         <h2>How to do the two tests</h2>
         <p><strong>Grip strength.</strong> Use a hand dynamometer. Stand, arm at your side with the elbow bent at a right angle, and squeeze as hard as you can for a few seconds. Do three squeezes with your stronger hand and record the best. Use the same hand and the same device every time, because readings differ between devices.</p>
         <p><strong>Five-times chair stand.</strong> Sit in a standard chair with your back against it and your arms crossed over your chest. Time five full stands, sitting back down each time, as fast as you safely can. The test needs no equipment and gives highly consistent results from one session to the next.<sup><a href="#ref-2">2</a></sup></p>
+        <h2>Grip strength by age</h2>
+        <p>Grip peaks in the thirties and falls with each decade after that. The figures below come from 60,803 grip measurements in twelve British studies.<sup><a href="#ref-5">5</a></sup> The median is the typical value for that age, and the 10th centile is the reading that only one adult in ten of that age falls below.</p>
+        <div class="table-scroll">
+        <table>
+          <caption class="sr-only">Grip strength in kilograms by age and sex: median and 10th centile</caption>
+          <thead><tr><th scope="col">Age</th><th scope="col">Men, median</th><th scope="col">Men, 10th centile</th><th scope="col">Women, median</th><th scope="col">Women, 10th centile</th></tr></thead>
+          <tbody>
+            <tr><td>20</td><td>40 kg</td><td>30 kg</td><td>28 kg</td><td>21 kg</td></tr>
+            <tr><td>30</td><td>51 kg</td><td>38 kg</td><td>31 kg</td><td>24 kg</td></tr>
+            <tr><td>40</td><td>50 kg</td><td>38 kg</td><td>31 kg</td><td>23 kg</td></tr>
+            <tr><td>50</td><td>48 kg</td><td>35 kg</td><td>29 kg</td><td>21 kg</td></tr>
+            <tr><td>60</td><td>45 kg</td><td>33 kg</td><td>27 kg</td><td>18 kg</td></tr>
+            <tr><td>70</td><td>39 kg</td><td>29 kg</td><td>24 kg</td><td>16 kg</td></tr>
+            <tr><td>80</td><td>32 kg</td><td>23 kg</td><td>19 kg</td><td>13 kg</td></tr>
+            <tr><td>90</td><td>25 kg</td><td>16 kg</td><td>14 kg</td><td>9 kg</td></tr>
+          </tbody>
+        </table>
+        </div>
+        <p>The calculator above uses the full table (every fifth year, five centiles) and places your reading between the two nearest ages. A centile is a comparison with other people. The comparison that matters most on a GLP-1 is with your own earlier readings.</p>
         <h2>What the cut-offs mean</h2>
         <p>The European Working Group on Sarcopenia in Older People (EWGSOP2) leads with low muscle strength when it screens for sarcopenia, and grip strength or the chair stand is how it measures that.<sup><a href="#ref-1">1</a></sup> The cut-offs were set for older adults. A younger person can sit well above them and still be losing strength, which is why the change since your last reading is often the more useful number. On a GLP-1, resistance training and enough protein are the two levers with evidence for holding onto muscle.<sup><a href="#ref-3">3</a>,<a href="#ref-4">4</a></sup></p>
       </div>
@@ -188,7 +213,7 @@
       <div class="article">
         <h2>Frequently asked</h2>
         <div class="faq-list">
-          <details><summary>What is a normal grip strength?</summary><p>The European sarcopenia consensus (EWGSOP2) treats grip strength below 27 kg in men or 16 kg in women as low muscle strength, one of its main warning signs. Above those cut-offs is not low, but grip varies with age and body size, so your own trend over time tells you more than one reading.</p></details>
+          <details><summary>What is a normal grip strength?</summary><p>The European sarcopenia consensus (EWGSOP2) treats grip strength below 27 kg in men or 16 kg in women as low muscle strength, one of its main warning signs. Typical grip also depends on age: in a study of 60,803 measurements, median grip peaked at about 51 kg in men and 31 kg in women in their thirties, then fell to about 39 kg and 24 kg at age 70. Your own trend over time tells you more than one reading.</p></details>
           <details><summary>How do you do the chair-stand test?</summary><p>Sit in a standard chair with your arms crossed over your chest. Time how long it takes to stand up fully and sit back down five times, as fast as you safely can. More than 15 seconds is the EWGSOP2 cut-off for low strength.</p></details>
           <details><summary>How often should I check grip strength on a GLP-1?</summary><p>Every four weeks is enough to see a trend without chasing day-to-day noise. Use the same hand, the same device and the same time of day, and record the best of three squeezes.</p></details>
         </div>
@@ -211,6 +236,7 @@
           <li id="ref-2">Muñoz-Bermejo L, Adsuar JC, Mendoza-Muñoz M, et al. Test-retest reliability of five times sit to stand test (FTSST) in adults: a systematic review and meta-analysis. <em>Biology.</em> 2021;10(6):510. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8228261/">pmc.ncbi.nlm.nih.gov/articles/PMC8228261</a></li>
           <li id="ref-3">Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. <em>Diabetes, Obesity &amp; Metabolism.</em> 2024. <a href="https://doi.org/10.1111/dom.15728">doi.org/10.1111/dom.15728</a></li>
           <li id="ref-4">Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. <em>Nutrients.</em> 2018;10(4):423. <a href="https://www.mdpi.com/2072-6643/10/4/423">mdpi.com/2072-6643/10/4/423</a></li>
+          <li id="ref-5">Dodds RM, Syddall HE, Cooper R, et al. Grip strength across the life course: normative data from twelve British studies. <em>PLOS ONE.</em> 2014;9(12):e113637. <a href="https://doi.org/10.1371/journal.pone.0113637">doi.org/10.1371/journal.pone.0113637</a></li>
         </ol>
       </div>
     </div>
