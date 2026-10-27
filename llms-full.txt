@@ -3856,6 +3856,83 @@ This article is educational and not a diagnosis. Talk to your clinician if you n
 
 ---
 
+# Starting a GLP-1? A muscle checklist for your first month
+
+URL: https://getmuscleonglp.com/learn/starting-glp1-checklist/
+Updated: 2026-10-27
+
+Start here
+
+The first weeks on Ozempic, Wegovy, Mounjaro or Zepbound are when habits set and appetite drops. Five steps, in order, to make sure the weight that comes off is mostly fat. Each step links to the free tool that does it.
+
+## The checklist
+
+- Protein target set, about 1.2 to 1.6 g per kilogram a day, split across meals. [1]
+
+- Strength baseline recorded: grip and a five-times chair stand, before the weight moves. [5]
+
+- Resistance training started, two to three sessions a week. [3,4]
+
+- Side-effect plan ready: soft protein foods for nausea days, fiber raised slowly. [6]
+
+- A four-week check booked: retest strength, review the plan.
+
+Depending on the study, anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1 is lean mass. [2] The two levers with evidence for moving that toward the low end are protein and resistance training, and both are easier to put in place before appetite drops further. Talk with your prescriber before starting a new training program, especially with a heart, joint or kidney condition.
+
+## Set your protein target
+
+A four-society advisory on nutrition during GLP-1 therapy puts protein at about 1.2 to 1.6 g per kilogram of body weight a day while losing weight. [1] For a 100 kg (220 lb) adult that is 120 to 160 g. Split it across three to five meals so no single meal has to be large. The calorie, protein and macro calculator gives your number and the grams per meal, and the protein food calculator shows what a day that hits it looks like.
+
+## Record a strength baseline
+
+The scale cannot tell fat from muscle, so take a number that can. The European sarcopenia consensus measures muscle strength with grip strength or a five-times chair stand. [5] Take both in your first week, before the weight starts moving, and write them down with the date. The muscle strength check compares them with the clinical cut-offs and, next month, shows the change. The lean body mass calculator gives an estimate of the lean mass you are protecting.
+
+## Start resistance training
+
+In older adults losing weight by dieting, adding resistance training offset most of the lean mass that dieting alone cost. [3] A widely used starting point for beginners is two to three sessions a week of 8 to 12 repetitions per set. [4] You do not need to train to failure; stopping two or three repetitions short is enough while you learn. [7] The beginner training guide has a full first program, and the no-gym version needs only bands or bodyweight. On a day a dose increase leaves you lightheaded or nauseated, rest.
+
+## Plan for the side effects
+
+In the pooled STEP 1 to 3 trials of semaglutide 2.4 mg, 43.9 percent of participants reported nausea (16.1 percent on placebo) and 24.2 percent constipation (11.1 percent on placebo). Most cases were mild to moderate, short-lived and clustered during or soon after a dose increase. [6] Both can quietly cut protein and fiber. Keep a few soft, cold, high-protein foods in the house for bad days; the nausea-day food list has options with grams. Raise fiber slowly with fluids, as the fiber guide explains. Severe or persistent vomiting, abdominal pain or constipation are reasons to call your prescriber.
+
+## Check every four weeks
+
+Every four weeks, retest grip and the chair stand on the same device and chair, look at the weight trend rather than single weigh-ins, and ask two questions: did you hit protein most days, and did the training sessions happen? Strength holding or rising while weight falls is the result you want. A drop is a reason to fix protein or training before the next check, not a reason to panic. If you ever plan to stop the medication, the weight-regain calculator shows why: in the STEP 1 extension, people regained about two thirds of the weight they had lost within a year of stopping semaglutide. [8]
+
+## Frequently asked
+
+**Q:** What should I do first when I start a GLP-1?
+
+Set a daily protein target (about 1.2 to 1.6 g per kilogram of body weight in a four-society advisory), record a strength baseline such as grip strength or a chair-stand time, and start resistance training two to three times a week. Those three steps protect muscle while the weight comes off.
+
+**Q:** When should I start lifting weights on a GLP-1?
+
+From the start, if your clinician agrees. Resistance training offset most of the lean-mass loss that dieting alone caused in older adults, and building the habit before appetite drops further makes it easier to keep. Rest on days a dose increase leaves you lightheaded or nauseated.
+
+**Q:** How do I know if I am losing muscle on a GLP-1?
+
+Track strength, not just weight. A grip reading and a five-times chair-stand time every four weeks show whether strength is holding. A falling trend is a sign to check protein and training.
+
+## References
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- American College of Sports Medicine. Position Stand: Progression Models in Resistance Training for Healthy Adults. Medicine & Science in Sports & Exercise. 2009;41(3):687-708. doi.org/10.1249/MSS.0b013e3181915670
+
+- Cruz-Jentoft AJ, Bahat G, Bauer J, et al. Sarcopenia: revised European consensus on definition and diagnosis. Age and Ageing. 2019;48(1):16-31. academic.oup.com/ageing/article/48/1/16/5126243
+
+- Wharton S, et al. Gastrointestinal tolerability of once-weekly semaglutide 2.4 mg (STEP 1–3 pooled analysis). Diabetes, Obesity & Metabolism. 2022. pmc.ncbi.nlm.nih.gov/articles/PMC9293236
+
+- Currier BS, et al. ACSM Position Stand: Resistance Training Prescription (Overview of Reviews). Medicine & Science in Sports & Exercise. 2026. pmc.ncbi.nlm.nih.gov/articles/PMC12965823
+
+- Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. Diabetes, Obesity & Metabolism. 2022. pmc.ncbi.nlm.nih.gov/articles/PMC9542252
+
+---
+
 # Lean body mass calculator
 
 URL: https://getmuscleonglp.com/lean-body-mass-calculator/
