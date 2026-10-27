@@ -368,6 +368,16 @@ img { max-width: 100%; display: block; }
 .gc-pages { font-size: 0.95rem; color: var(--ink-soft); }
 .gc-body .btn { width: 100%; justify-content: center; }
 .gc-body .checkout-status { margin-top: 10px; font-size: 0.8rem; }
+/* Phones: a small cover beside the text instead of a full-width cover on top.
+   Full width, each card ran about 735px, so four guides took 3,000px of the
+   homepage before the reader reached the free calculators. */
+@media (max-width: 560px) {
+  .guide-grid { gap: 16px; margin-top: 32px; }
+  .guide-card { display: grid; grid-template-columns: 88px 1fr; align-items: start; }
+  .guide-card > a.gc-thumb { border-bottom: 0; margin: 18px 0 0 16px; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; }
+  .gc-body { padding: 16px 16px 18px; }
+  .gc-body .btn { padding: 13px 12px; font-size: 0.9rem; }
+}
 .gc-more { display: inline-block; margin-top: 12px; font-size: 0.95rem; font-weight: 600; }
 
 /* Detail page hero */
