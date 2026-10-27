@@ -65,11 +65,12 @@
     tape: '<circle cx="20" cy="24" r="12" ' + P + '/><circle cx="20" cy="24" r="4" ' + P + '/><path d="M32 30h11v6H20" ' + P + '/><path d="M36 30v3M40 30v3" ' + P + '/>',
     bench: '<rect x="7" y="20" width="34" height="6" rx="2" ' + P + '/><path d="M12 26v13M36 26v13M9 39h6M33 39h6" ' + P + '/>',
     book: '<rect x="12" y="8" width="24" height="32" rx="2" ' + P + '/><path d="M17 8v32M22 16h9M22 22h9M22 28h6" ' + P + '/>',
+    heart: '<path d="M24 40S8 30 8 19a8 8 0 0 1 16-2 8 8 0 0 1 16 2c0 11-16 21-16 21z" ' + P + '/><path d="M12 24h6l3-5 4 9 3-4h8" ' + P + '/>',
     mat: '<circle cx="34" cy="20" r="8" ' + P + '/><circle cx="34" cy="20" r="3.5" ' + P + '/><path d="M34 28H8v8h28" ' + P + '/><path d="M42 20v12c0 2-2 4-6 4" ' + P + '/>'
   };
   // First match wins, so the specific words come before the general ones.
   var KINDS = [
-    [/log book|logbook|journal|notebook/, "book"], [/dynamometer|grip/, "grip"], [/tape measure/, "tape"], [/shaker|water bottle/, "shaker"], [/ready-to-drink|rtd|shakes\b/, "carton"], [/packet|single-serve/, "packet"],
+    [/heart rate|pulse|blood pressure/, "heart"], [/log book|logbook|journal|notebook/, "book"], [/dynamometer|grip/, "grip"], [/tape measure/, "tape"], [/shaker|water bottle/, "shaker"], [/ready-to-drink|rtd|shakes\b/, "carton"], [/packet|single-serve/, "packet"],
     [/capsule/, "capsules"], [/creatine/, "jar"], [/scale/, "scale"], [/band/, "bands"],
     [/bench/, "bench"], [/dumbbell|kettlebell|weight/, "dumbbell"], [/shoe|walking pad|treadmill/, "shoe"], [/pasta|lentil|chickpea/, "bowl"], [/\bmat\b/, "mat"],
     [/vitamin|b12|iron|calcium|magnesium|omega|supplement/, "bottle"], [/protein|whey|casein|powder/, "tub"]
