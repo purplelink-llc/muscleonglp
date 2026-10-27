@@ -660,6 +660,16 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .gear-list { margin: 0; padding-left: 20px; display: grid; gap: 10px; }
 .gear-list li { color: var(--ink-soft); font-size: var(--fs-body); line-height: 1.6; }
 .gear-list a { font-weight: 600; }
+/* Product cards built from .gear-list by affiliate.js (the list is the no-JS fallback). */
+.gear-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 290px), 1fr)); gap: 12px; }
+.gear-card { display: flex; gap: 14px; align-items: flex-start; padding: 14px; background: var(--bg); border: 1px solid var(--line); border-radius: 12px; color: var(--ink); text-decoration: none; transition: border-color .15s, transform .15s; }
+.gear-card:hover, .gear-card:focus-visible { border-color: var(--accent-text); transform: translateY(-1px); }
+.gear-card-art { flex: 0 0 auto; display: grid; place-items: center; width: 64px; height: 64px; border-radius: 10px; background: var(--accent-light); color: var(--accent-text-strong); }
+.gear-card-body { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.gear-card-name { font-weight: 700; line-height: 1.3; }
+.gear-card-why { color: var(--ink-soft); font-size: var(--fs-meta); line-height: 1.5; }
+.gear-card-cta { margin-top: 4px; font-size: var(--fs-meta); font-weight: 650; color: var(--accent-text-strong); }
+@media (prefers-reduced-motion: reduce) { .gear-card { transition: none; } .gear-card:hover { transform: none; } }
 @media (prefers-color-scheme: dark) { .inline-capture .subscribe-form input[type="email"] { background: #172420; } }
 
 /* Placeholders are body text for contrast purposes. The browser default grey

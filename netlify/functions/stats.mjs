@@ -62,7 +62,8 @@ export default async function handler(request) {
   const now = Date.now();
   const summary = {
     rangeDays: days,
-    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, calcRuns: 0, events: 0 },
+    totals: { pageviews: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, affiliateClicks: 0, calcRuns: 0, events: 0 },
+    affiliateByProduct: {}, affiliateByPath: {},
     byPath: {},
     byReferrer: {},
     byUtm: {},
@@ -82,7 +83,7 @@ export default async function handler(request) {
       continue;
     }
     const blobs = (listing && listing.blobs) || [];
-    if (!summary.byDay[day]) summary.byDay[day] = { pageviews: 0, uniques: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, calcRuns: 0 };
+    if (!summary.byDay[day]) summary.byDay[day] = { pageviews: 0, uniques: 0, subscribes: 0, checkoutClicks: 0, checkoutConfirms: 0, affiliateClicks: 0, calcRuns: 0 };
     if (!uniquesPerDay[day]) uniquesPerDay[day] = new Set();
 
     for (const b of blobs) {
@@ -121,6 +122,13 @@ export default async function handler(request) {
         summary.totals.checkoutConfirms++;
         summary.byDay[day].checkoutConfirms++;
         bump(summary.confirmByProduct, rec.meta || "unknown");
+      } else if (rec.type === "affiliate_click") {
+        // A product card clicked through to Amazon (affiliate.js). meta is
+        // "<kind>:<product>", so the dashboard can show which cards earn their place.
+        summary.totals.affiliateClicks++;
+        summary.byDay[day].affiliateClicks++;
+        bump(summary.affiliateByProduct, rec.meta || "unknown");
+        bump(summary.affiliateByPath, rec.path || "unknown");
       } else if (rec.type === "calc_use") {
         // A calculator was actually run, as opposed to its page being viewed.
         summary.totals.calcRuns++;
@@ -145,6 +153,8 @@ export default async function handler(request) {
     checkoutByProduct: topN(summary.checkoutByProduct),
     checkoutByPath: topN(summary.checkoutByPath),
     confirmByProduct: topN(summary.confirmByProduct),
+    affiliateByProduct: topN(summary.affiliateByProduct),
+    affiliateByPath: topN(summary.affiliateByPath),
     subscribeBySource: topN(summary.subscribeBySource),
     calcByTool: topN(summary.calcByTool),
     byDay: Object.fromEntries(Object.entries(summary.byDay).sort()),
