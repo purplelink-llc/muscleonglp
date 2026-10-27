@@ -893,3 +893,17 @@ form#calc.pf { overflow: visible; }
 .learn-card[hidden] { display: none; }
 @media (prefers-color-scheme: dark) { .learn-filter { background: #172420; } .learn-filter:hover { background: #1c2c27; } }
 @media (prefers-reduced-motion: reduce) { .learn-filter { transition: none; } }
+
+/* Muscle strength check: each test is a number, a bar with the cut-off as a
+   fixed tick at the midpoint, and a one-line verdict. Below the line turns amber. */
+.strength-rows { display: grid; gap: 16px; margin-top: 14px; }
+.sr-row { background: var(--accent-light); border-radius: 14px; padding: 16px 18px 14px; }
+.sr-head { display: flex; flex-direction: column; gap: 4px; margin-bottom: 10px; }
+.sr-track { position: relative; height: 12px; border-radius: 999px; background: var(--line); overflow: visible; }
+.sr-fill { position: absolute; left: 0; top: 0; bottom: 0; width: 0; border-radius: 999px; background: var(--accent); transition: width .35s cubic-bezier(.2,.8,.2,1); }
+.sr-mark { position: absolute; top: -4px; bottom: -4px; width: 2px; margin-left: -1px; background: var(--ink); }
+.sr-verdict { margin: 10px 0 0; font-size: var(--fs-body); color: var(--ink); }
+.sr-verdict.sr-low { color: #b7791f; font-weight: 600; }
+.sr-row:has(.sr-low) .sr-fill { background: #b7791f; }
+@media (prefers-color-scheme: dark) { .sr-verdict.sr-low { color: #e0a63c; } .sr-row:has(.sr-low) .sr-fill { background: #e0a63c; } }
+@media (prefers-reduced-motion: reduce) { .sr-fill { transition: none; } }
