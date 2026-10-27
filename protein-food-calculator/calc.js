@@ -68,6 +68,33 @@
     inputs[0].dispatchEvent(new Event("input", { bubbles: true }));
   });
 
+  // Food-group filters. Hidden rows keep their servings, so filtering never
+  // changes the total; it only shortens the list. The groups are by food key.
+  var GROUPS = [
+    ["all", "All foods", null],
+    ["meat", "Meat & fish", ["chicken", "beef", "salmon", "tuna", "shrimp", "turkey", "pork", "cod"]],
+    ["dairy", "Dairy & eggs", ["cottage", "whey", "yogurt", "milk", "egg", "stringcheese"]],
+    ["plant", "Plant", ["lentils", "edamame", "tofu", "tempeh", "chickpeas", "blackbeans", "quinoa", "peanutbutter", "almonds"]]
+  ];
+  var list = form.querySelector(".pf-list");
+  if (list) {
+    var bar = document.createElement("div");
+    bar.className = "pf-filters";
+    bar.setAttribute("role", "group");
+    bar.setAttribute("aria-label", "Show foods by group");
+    GROUPS.forEach(function (g) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "learn-filter"; b.textContent = g[1];
+      b.setAttribute("aria-pressed", g[0] === "all" ? "true" : "false");
+      b.addEventListener("click", function () {
+        Array.prototype.forEach.call(bar.children, function (x) { x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+        inputs.forEach(function (el) { el.closest(".pf-row").hidden = !!g[2] && g[2].indexOf(el.name) < 0; });
+      });
+      bar.appendChild(b);
+    });
+    list.parentNode.insertBefore(bar, list);
+  }
+
   var prevUnit = $("weightUnit").value;
   form.addEventListener("input", function () { markTouched(); compute(true); });
   form.addEventListener("change", function (e) {
