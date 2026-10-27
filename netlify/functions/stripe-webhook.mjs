@@ -135,6 +135,7 @@ function downloadEmailHtml(title, url, bonus, button = "Download the PDF") {
   </p>
   <p style="font-size:14px;color:#45524c">If the button doesn't work, copy this link into your browser: ${url}</p>
   ${bonusBlock}
+  <p style="font-size:14px;color:#45524c;margin-top:24px">Start with your numbers: the <a href="https://getmuscleonglp.com/tools/" style="color:#2f6f5e;font-weight:600">free calculators</a> give you your protein target and a strength baseline in a few minutes.</p>
   <p style="font-size:13px;color:#8a9993;margin-top:32px">This guide is educational and does not constitute medical advice. Consult your prescribing clinician before beginning a new exercise or nutrition program.</p>
   <p style="font-size:13px;color:#8a9993">Trouble downloading? Reply to this email and we'll help.</p>
 </div>`;
@@ -276,7 +277,7 @@ export default async function handler(request) {
     html: downloadEmailHtml(entry.title, link, bonus, DOWNLOAD_LABELS[entry.type] || "Download the PDF"),
     text: `Thanks for your purchase. Download ${entry.title} here: ${link}${
       bonus ? `\n\nYour free bonus, ${bonus.title}, is here: ${bonus.url}` : ""
-    }`,
+    }\n\nStart with your numbers: the free calculators give you your protein target and a strength baseline. https://getmuscleonglp.com/tools/`,
   });
 
   // Best-effort sale notification — never let a failure here affect the
