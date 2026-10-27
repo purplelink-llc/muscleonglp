@@ -1,17 +1,20 @@
 User-agent: *
-Allow: /
 Disallow: /stats/
+Allow: /
 
-# AI answer engines are welcome to read and cite this content.
+# AI answer engines are welcome to read and cite this content. A named group
+# replaces the * group for that crawler, so each one repeats the /stats/ rule.
 User-agent: GPTBot
-Allow: /
 User-agent: OAI-SearchBot
-Allow: /
-User-agent: PerplexityBot
-Allow: /
+User-agent: ChatGPT-User
 User-agent: ClaudeBot
-Allow: /
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
 User-agent: Google-Extended
+User-agent: Applebot-Extended
+Disallow: /stats/
 Allow: /
 
 Sitemap: https://getmuscleonglp.com/sitemap.xml
