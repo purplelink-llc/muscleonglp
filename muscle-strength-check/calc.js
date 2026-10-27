@@ -16,6 +16,10 @@
     female: [[21,24,28,32,36],[23,26,30,35,38],[24,27,31,35,39],[23,27,31,35,39],[23,27,31,35,39],[22,26,30,34,38],[21,25,29,33,37],[19,23,28,32,35],[18,22,27,31,34],[17,21,25,29,33],[16,20,24,27,31],[14,18,21,25,28],[13,16,19,23,26],[11,14,17,20,23],[9,11,14,17,20]]
   };
   var BANDS = ["below the 10th centile", "between the 10th and 25th centiles", "between the 25th and 50th centiles", "between the 50th and 75th centiles", "between the 75th and 90th centiles", "above the 90th centile"];
+  // Five-times chair-stand reference times by age band (Bohannon 2006, a
+  // meta-analysis of 13 papers on adults 60 and over): slower is worse than average.
+  var CHAIR_REF = [[60, 69, 11.4], [70, 79, 12.6], [80, 89, 14.8]];
+
   // Linear interpolation between the two nearest tabled ages; ages past 90 use 90.
   function centilesAt(sex, age) {
     var x = (Math.max(20, Math.min(90, age)) - 20) / 5, i = Math.min(13, Math.floor(x)), t = x - i;
@@ -70,8 +74,13 @@
         : "Within the cut-off. Retest on the same chair to compare.";
       $("chairVerdict").className = "sr-verdict" + (slow ? " sr-low" : "");
       parts.push("Chair stand " + $("chairOut").textContent + (slow ? ", slower than" : ", within") + " the cut-off.");
+      var ca = num("age"), ref = null;
+      CHAIR_REF.forEach(function (r) { if (ca >= r[0] && ca < r[1] + 1) ref = r; });
+      $("chairAge").textContent = ref
+        ? "For ages " + ref[0] + " to " + ref[1] + ", the average is about " + ref[2] + " s. Yours is " + (c > ref[2] ? "slower" : "faster") + " than average."
+        : "";
     } else {
-      $("chairOut").textContent = ""; $("chairVerdict").textContent = "Enter a chair-stand time."; $("chairFill").style.width = "0";
+      $("chairOut").textContent = ""; $("chairAge").textContent = ""; $("chairVerdict").textContent = "Enter a chair-stand time."; $("chairFill").style.width = "0";
     }
 
     var p = num("prev");

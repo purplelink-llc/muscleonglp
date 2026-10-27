@@ -130,7 +130,7 @@
             <div>
               <label for="age" class="calc-label">Age (for the age comparison)</label>
               <input id="age" name="age" type="number" inputmode="numeric" min="20" max="100" step="1" value="50" class="calc-in" autocomplete="off" aria-describedby="ageHint">
-              <p id="ageHint" class="calc-hint">Compares grip with adults your age.</p>
+              <p id="ageHint" class="calc-hint">Compares grip (and the chair stand, from 60) with adults your age.</p>
             </div>
             <div>
               <label for="chair" class="calc-label">Five chair stands (seconds)</label>
@@ -163,6 +163,7 @@
             <div class="sr-head"><span class="calc-n" id="chairOut"></span><span class="calc-l">Five chair stands <small>cut-off 15 seconds; faster is better</small></span></div>
             <div class="sr-track" aria-hidden="true"><span class="sr-fill" id="chairFill"></span><span class="sr-mark" id="chairMark"></span></div>
             <p class="sr-verdict" id="chairVerdict"></p>
+            <p class="sr-age" id="chairAge"></p>
           </div>
           <div class="calc-stat" id="changeRow" hidden><span class="calc-n" id="changeOut"></span><span class="calc-l" id="changeNote"></span></div>
         </div>
@@ -196,7 +197,8 @@
           </tbody>
         </table>
         </div>
-        <p>The calculator above uses the full table (every fifth year, five centiles) and places your reading between the two nearest ages. A centile is a comparison with other people. The comparison that matters most on a GLP-1 is with your own earlier readings.</p>
+        <p>The chair stand has age references too, though only from 60 up. A meta-analysis of 13 papers on older adults put the average time for five stands at 11.4 seconds for ages 60 to 69, 12.6 seconds for 70 to 79, and 14.8 seconds for 80 to 89. Slower than that is worse than average for the age group.<sup><a href="#ref-8">8</a></sup></p>
+        <p>The calculator above uses the full grip table (every fifth year, five centiles) and places your reading between the two nearest ages. A centile is a comparison with other people. The comparison that matters most on a GLP-1 is with your own earlier readings.</p>
         <h2>What the cut-offs mean</h2>
         <p>The European Working Group on Sarcopenia in Older People (EWGSOP2) leads with low muscle strength when it screens for sarcopenia, and grip strength or the chair stand is how it measures that.<sup><a href="#ref-1">1</a></sup> The cut-offs were set for older adults. A younger person can sit well above them and still be losing strength, which is why the change since your last reading is often the more useful number. On a GLP-1, resistance training and enough protein are the two levers with evidence for holding onto muscle.<sup><a href="#ref-3">3</a>,<a href="#ref-4">4</a></sup></p>
         <h2>What happens to grip strength on semaglutide</h2>
@@ -242,6 +244,7 @@
           <li id="ref-5">Dodds RM, Syddall HE, Cooper R, et al. Grip strength across the life course: normative data from twelve British studies. <em>PLOS ONE.</em> 2014;9(12):e113637. <a href="https://doi.org/10.1371/journal.pone.0113637">doi.org/10.1371/journal.pone.0113637</a></li>
           <li id="ref-6">Machado LG, Siedschlag Schmidt PH, Tasca Petroski G, et al. Changes in muscle strength following semaglutide treatment in adults: a systematic review with meta-analysis of handgrip strength. <em>Diabetes, Obesity &amp; Metabolism.</em> 2026. <a href="https://doi.org/10.1111/dom.71432">doi.org/10.1111/dom.71432</a></li>
           <li id="ref-7">Langer HT, Gilmore NK, Hayden CMT, et al. Weight loss with GLP-1 medicines does not result in a disproportionate loss of muscle mass or function in obese mice and humans. <em>Cell Reports Medicine.</em> 2026;7(3):102665. <a href="https://doi.org/10.1016/j.xcrm.2026.102665">doi.org/10.1016/j.xcrm.2026.102665</a></li>
+          <li id="ref-8">Bohannon RW. Reference values for the five-repetition sit-to-stand test: a descriptive meta-analysis of data from elders. <em>Perceptual and Motor Skills.</em> 2006;103(1):215-222. <a href="https://doi.org/10.2466/pms.103.1.215-222">doi.org/10.2466/pms.103.1.215-222</a></li>
         </ol>
       </div>
     </div>
