@@ -136,6 +136,11 @@
               <label for="goal" class="calc-label">Goal weight (same unit)</label>
               <input id="goal" name="goal" type="number" inputmode="decimal" min="1" step="0.1" value="170" class="calc-in" autocomplete="off">
             </div>
+            <div>
+              <label for="scan" class="calc-label">Lean mass from a scan (optional)</label>
+              <input id="scan" name="scan" type="number" inputmode="decimal" min="1" step="0.1" placeholder="e.g. 120" class="calc-in" autocomplete="off" aria-describedby="scanHint">
+              <p id="scanHint" class="calc-hint">The lean mass on a DEXA or InBody report, same unit. It replaces the estimate.</p>
+            </div>
           </div>
           <p id="calcError" class="field-error" role="alert" hidden></p>
           <p class="calc-example-note">Example numbers are filled in. Change any field and the results update as you type. Nothing you enter leaves your browser.</p>
@@ -144,9 +149,9 @@
 
       <p id="liveSummary" class="sr-only" role="status" aria-live="polite"></p>
       <div id="out" hidden style="margin-top:26px">
-        <p class="calc-caution"><strong>An estimate from height and weight, not a measurement.</strong> The equations can misjudge lean mass at a high body mass index. A DEXA scan measures it. This gives no medical advice.</p>
+        <p class="calc-caution" id="lbmCaution"><strong>An estimate from height and weight, not a measurement.</strong> The equations can misjudge lean mass at a high body mass index. A DEXA scan measures it. This gives no medical advice.</p>
         <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin-top:14px">
-          <div class="calc-stat"><span class="calc-n" id="lbm"></span><span class="calc-l">Estimated lean body mass <small id="lbmRange"></small></span></div>
+          <div class="calc-stat"><span class="calc-n" id="lbm"></span><span class="calc-l"><span id="lbmLabel">Estimated lean body mass</span> <small id="lbmRange"></small></span></div>
           <div class="calc-stat"><span class="calc-n" id="fatPct"></span><span class="calc-l">Implied body fat <small>weight minus lean mass</small></span></div>
           <div class="calc-stat"><span class="calc-n" id="loss"></span><span class="calc-l">Weight to lose</span></div>
         </div>
