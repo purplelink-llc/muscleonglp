@@ -3684,6 +3684,62 @@ This article is educational and not a diagnosis. Talk to your clinician if you n
 
 ---
 
+# Lean body mass calculator
+
+URL: https://getmuscleonglp.com/lean-body-mass-calculator/
+
+Free tool
+
+Your estimated lean mass from height and weight, and how much of it a GLP-1 weight loss could take, with and without enough protein and resistance training.
+
+Short answer. Lean body mass is everything that is not fat: muscle, bone, organs and water. Two standard equations estimate it from height, weight and sex. [1,2] On a GLP-1, roughly 15 to 40 percent of the weight lost is lean mass, so the size of the loss and the plan behind it decide how much of your lean mass goes with it. [3]
+
+An estimate from height and weight, not a measurement. The equations can misjudge lean mass at a high body mass index. A DEXA scan measures it. This gives no medical advice.
+
+Estimated lean body mass Implied body fat weight minus lean mass Weight to lose
+
+## How much of your lean mass the loss could take
+
+Without enough protein or training With 1.6 g/kg protein and resistance training Without With a plan
+
+Each bar is your current lean mass. The filled part is what the loss could take; the lighter part is the range.
+
+## How this is calculated
+
+Lean body mass. The calculator averages two published equations and shows both as a range. Boer (1984): for men, 0.407 × weight(kg) + 0.267 × height(cm) − 19.2; for women, 0.252 × weight + 0.473 × height − 48.3. [1] Hume (1966): for men, 0.32810 × weight + 0.33929 × height − 29.5336; for women, 0.29569 × weight + 0.41813 × height − 43.2933. [2]
+
+The GLP-1 loss. Reviews of the trial data put lean mass at 15 to 40 percent of the weight lost on a GLP-1, and the SURMOUNT-1 body-composition substudy measured about a quarter for tirzepatide. [3] The "without" figure uses the high end of that range, scaled for the medication. The "with a plan" range applies a resistance-training effect measured in older adults dieting without a GLP-1 (an extrapolation), up to the lowest share seen in GLP-1 trials. [4] These are the same numbers the muscle loss calculator uses.
+
+## Honest limits
+
+Three limits apply. First, both equations were developed largely in people without obesity, and estimates at a high body mass index are less reliable. Second, lean mass includes water, organs and bone, so not all lean loss is muscle. Third, the GLP-1 shares are population averages from trials, not a prediction for one person. If the number matters to a decision, a DEXA or InBody scan measures it.
+
+## Frequently asked
+
+**Q:** How do you calculate lean body mass?
+
+Without a scan, lean body mass is estimated from height, weight and sex with published equations. This calculator averages two of them, Boer (1984) and Hume (1966), and shows both. A DEXA scan measures it directly.
+
+**Q:** How much lean mass do people lose on a GLP-1?
+
+Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1, and about a quarter in the SURMOUNT-1 tirzepatide substudy. Protein and resistance training are the two levers with evidence for moving it toward the low end.
+
+**Q:** Is the lean body mass estimate accurate if I have obesity?
+
+Less so. Height-and-weight equations were built mostly in people without obesity and can misjudge lean mass at a high body mass index. Treat the number as a starting estimate and use a DEXA or bioimpedance scan if you need a measurement.
+
+## References
+
+- Boer P. Estimated lean body mass as an index for normalization of body fluid volumes in humans. American Journal of Physiology. 1984;247(4 Pt 2):F632–F636. pubmed.ncbi.nlm.nih.gov/6496691
+
+- Hume R. Prediction of lean body mass from height and weight. Journal of Clinical Pathology. 1966;19(4):389–391. pubmed.ncbi.nlm.nih.gov/5929341
+
+- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+---
+
 # GLP-1 muscle loss calculator
 
 URL: https://getmuscleonglp.com/muscle-loss-calculator/
