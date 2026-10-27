@@ -1266,6 +1266,65 @@ It is a reference to published labeling, not medical advice. It does not recomme
 
 ---
 
+# High-protein GLP-1 meal plan: a sample day with grams
+
+URL: https://getmuscleonglp.com/learn/glp1-high-protein-meal-plan/
+Updated: 2026-10-27
+
+Nutrition
+
+Five small servings that add up to about 107 grams of protein, built for an appetite that is mostly gone. Scale it to your weight, and swap in softer foods on nausea days.
+
+## Key takeaways
+
+- Aim for 1.2 to 1.6 g of protein per kg of body weight a day during active GLP-1 weight loss: about 84 to 112 g at 70 kg (154 lb). [1]
+
+- Split it into four or five servings near 25 to 30 g, the amount that appears to maximize the response to one meal. [2]
+
+- The sample day below reaches about 107 g using foods with USDA protein values. [3]
+
+Short answer. A GLP-1 meal plan should be built around protein, not calories, because the drug already cuts how much you eat. Spread 1.2 to 1.6 g/kg a day across four or five small servings of about 25 g each. [1,2] The sample day below shows one way to do it.
+
+## The sample day
+
+Every protein value comes from USDA FoodData Central. [3] Portions are small on purpose: each one should be something you can finish.
+
+WhenFoodProtein BreakfastPlain nonfat Greek yogurt, 6 oz (170 g), with 2 tbsp smooth peanut butter24.6 g Mid-morningWhey protein shake, 1 scoop (about 30 g powder)23 g LunchCanned light tuna in water, 3 oz (85 g), and 1 large egg22.2 g DinnerRoasted chicken breast, 3 oz (85 g)25.3 g EveningLow-fat cottage cheese, ½ cupabout 12 g Totalabout 107 g
+
+## Scale it to your weight
+
+Multiply your weight in kilograms by 1.2 and by 1.6 to get your daily range. [1] At 90 kg (198 lb) the range is 108 to 144 g, so add a sixth serving or larger portions. At 60 kg (132 lb) it is 72 to 96 g, so the evening serving becomes optional. The calorie and protein calculator does this arithmetic for you.
+
+## Swaps for nausea days
+
+Nausea affected 43.9 percent of people on semaglutide 2.4 mg in the STEP 1 to 3 trials. [4] On those days, swap the dinner for firm tofu (½ cup, about 21.8 g; softer silken tofu has less protein) and the lunch for shelled edamame (1 cup, about 18.4 g). [3] Cold, bland and soft foods tend to go down more easily. The nausea-day food guide lists more options.
+
+## What this plan does not do
+
+Protein protects muscle only alongside resistance training, so pair this day with two or three strength sessions a week (see the best exercises to preserve muscle). It is also not a calorie plan or medical nutrition therapy. If you have kidney disease or another condition that limits protein, set your target with your clinician.
+
+## Frequently asked
+
+**Q:** How much protein should a GLP-1 meal plan include?
+
+A joint advisory from four medical societies suggests 1.2 to 1.6 g per kilogram of body weight a day during active GLP-1 weight loss. For a 70 kg (154 lb) person that is about 84 to 112 g a day.
+
+**Q:** How should I split protein across meals on Ozempic?
+
+Several small servings work better than one large meal when appetite is low. About 25 to 30 g of high-quality protein appears to maximize the response to a single meal, so four or five servings near that size cover most daily targets.
+
+## References
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution. Journal of the International Society of Sports Nutrition. 2018;15:10. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
+
+- USDA FoodData Central. Agricultural Research Service, U.S. Department of Agriculture. Entries: Greek yogurt plain nonfat (330137), peanut butter smooth (172470), whey-based protein powder (173180), light tuna in water (334194), egg cooked (173423), chicken breast roasted (171075), cottage cheese lowfat (328841), firm tofu (172475), edamame prepared (168411). fdc.nal.usda.gov
+
+- Wharton S, Calanna S, Davies M, et al. Gastrointestinal tolerability of once-weekly semaglutide 2.4 mg in adults with overweight or obesity (STEP 1–3 pooled analysis). Diabetes, Obesity & Metabolism. 2022;24(1):94–105. pmc.ncbi.nlm.nih.gov/articles/PMC9293236
+
+---
+
 # High-protein meals and shakes for GLP-1 nausea days
 
 URL: https://getmuscleonglp.com/learn/glp1-high-protein-meals-nausea/
