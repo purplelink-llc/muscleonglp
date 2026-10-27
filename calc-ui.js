@@ -148,6 +148,34 @@
   form.addEventListener("input", writeUrl);
   form.addEventListener("change", writeUrl);
 
+  // ---- 2c. Carry shared numbers to the other calculators. Once the visitor
+  // has typed something, links on this page to another calculator get the
+  // fields the calculators share (same names everywhere) as a query string,
+  // so the next tool opens with their weight, height and so on. The target's
+  // own restore step ignores fields it does not have and select values it
+  // does not offer. Links stay clean until then, for crawlers and for anyone
+  // who has not entered anything. The split-dose calculator is left out.
+  var SHARED = ["sex", "age", "height", "heightUnit", "weight", "weightUnit", "goal", "med"];
+  var TOOLS = ["/protein-calculator/", "/muscle-loss-calculator/", "/lean-body-mass-calculator/", "/protein-food-calculator/",
+    "/weight-loss-calculator/", "/off-ramp-calculator/", "/muscle-strength-check/"];
+  var carryTimer = null;
+  function carryLinks() {
+    clearTimeout(carryTimer);
+    carryTimer = setTimeout(function () {
+      var q = new URLSearchParams();
+      fields().forEach(function (el) { if (SHARED.indexOf(el.name) >= 0 && el.value !== "") q.set(el.name, el.value); });
+      var qs = q.toString();
+      Array.prototype.forEach.call(document.querySelectorAll("a[href^='/']"), function (a) {
+        var base = a.getAttribute("data-base") || a.getAttribute("href");
+        if (TOOLS.indexOf(base) < 0 || base === location.pathname) return;
+        a.setAttribute("data-base", base);
+        a.setAttribute("href", qs ? base + "?" + qs : base);
+      });
+    }, 400);
+  }
+  form.addEventListener("input", carryLinks);
+  form.addEventListener("change", carryLinks);
+
   var bar = document.createElement("div");
   bar.className = "calc-share";
   bar.innerHTML =
