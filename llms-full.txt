@@ -3646,7 +3646,7 @@ Semaglutide and tirzepatide produce different amounts of weight loss, and a shar
 
 - The best-measured composition data, the SURMOUNT-1 DXA substudy, found about 26 percent of tirzepatide weight loss was lean mass. [5]
 
-- A cross-trial review put semaglutide's lean fraction higher, near 45 percent in STEP 1, but separate trials with different methods are not a clean comparison. [6]
+- For semaglutide, the STEP 1 DXA substudy reported fat mass down 19.3 percent and lean mass down 9.7 percent from baseline. That is a different measure from a share of weight lost, so the two trials are not a clean comparison. [6]
 
 - No definitive winner: the larger the total loss, the more absolute muscle is at stake, so training and protein matter more, not less, on the stronger drug.
 
@@ -3668,29 +3668,29 @@ This matters for muscle in a way that is easy to miss. Even if two drugs lose th
 
 ## What we actually know about body composition
 
-The most useful composition data comes from the SURMOUNT-1 DXA substudy, which used dual-energy X-ray absorptiometry to separate fat from lean tissue in people taking tirzepatide. About 74 percent of the weight lost was fat and about 26 percent was lean mass. [5] For semaglutide, a review calculated that lean mass accounted for roughly 45 percent of the weight lost in STEP 1, although the STEP 1 investigators emphasized that lean mass as a proportion of the shrinking body actually rose, because fat fell faster. [6] [3] Across the broader GLP-1 trial literature, reviews place the lean-mass fraction of weight lost at anywhere from about 15 percent to 40 to 60 percent. [6]
+The most useful composition data comes from the SURMOUNT-1 DXA substudy, which used dual-energy X-ray absorptiometry to separate fat from lean tissue in people taking tirzepatide. About 74 percent of the weight lost was fat and about 26 percent was lean mass. [5] For semaglutide, the STEP 1 DXA substudy of 140 people reported its result differently: over 68 weeks, fat mass fell 19.3 percent and lean mass 9.7 percent from baseline, and lean mass as a share of the shrinking body rose by 3 percentage points, because fat fell faster. [6] Across the broader GLP-1 trial literature, reviews place the lean-mass fraction of weight lost at anywhere from about 15 percent to 40 to 60 percent. [9]
 
-Read at face value, those two numbers, 26 percent for tirzepatide and about 45 percent for semaglutide, would suggest tirzepatide loses a smaller share of weight as muscle. But that reading is exactly the trap this article exists to flag.
+Set side by side, 26 percent for tirzepatide and 9.7 percent for semaglutide invite a ranking. But that reading is exactly the trap this article exists to flag.
 
 ## Why the cross-trial comparison is not a clean winner
 
-The 26 percent and the 45 percent do not come from the same study. They come from two different trials, run in different populations, using different body-composition methods and different ways of expressing the result. DXA itself measures "lean mass," which includes water and organ tissue, not just contractile muscle, and small differences in method can move the percentage meaningfully. Comparing a number from SURMOUNT-1 against a number from STEP 1 is not the same as measuring both drugs the same way in the same people. No trial has done that head to head. So the tidy conclusion that "tirzepatide preserves more muscle" is not supported; it is an artifact of stacking two separate measurements next to each other.
+The 26 percent and the 9.7 percent do not come from the same study, and they do not measure the same thing: one is a share of the weight lost, the other a change from starting lean mass. They come from two different trials, run in different populations, using different body-composition methods and different ways of expressing the result. DXA itself measures "lean mass," which includes water and organ tissue, not just contractile muscle, and small differences in method can move the percentage meaningfully. Comparing a number from SURMOUNT-1 against a number from STEP 1 is not the same as measuring both drugs the same way in the same people. No trial has done that head to head. So the tidy conclusion that "tirzepatide preserves more muscle" is not supported; it is an artifact of stacking two separate measurements next to each other.
 
-There is also evidence pointing the other direction. A large routine-care analysis of paired body-composition scans reported that tirzepatide users lost more lean mass than semaglutide users at every time point checked over 12 months, with the gap widening over treatment. [9] That analysis is a preprint and has not been peer reviewed, so it should not be treated as settled. But it is a real signal that runs opposite to the cross-trial DXA percentages, which is the clearest sign that the question is genuinely unresolved.
+There is also evidence pointing the other direction. A large routine-care analysis of paired body-composition scans reported that tirzepatide users lost more lean mass than semaglutide users at every time point checked over 12 months, with the gap widening over treatment. [10] That analysis is a preprint and has not been peer reviewed, so it should not be treated as settled. But it is a real signal that runs opposite to the cross-trial DXA percentages, which is the clearest sign that the question is genuinely unresolved.
 
 ## The conclusion that actually holds
 
 Here is what survives an honest look at the data. The bigger the total weight loss, the more absolute muscle you stand to lose, so the muscle-preserving work becomes more important on the stronger drug, not less. Whichever medication you and your clinician choose, the countermeasure is the same, and it is well supported.
 
-Resistance training. In a meta-analysis of older adults losing weight through caloric restriction, adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone would have caused, a difference of roughly 0.82 kg of preserved lean tissue. [10] You do not need to be an athlete; you need to load your major muscle groups a few times a week and progress over time.
+Resistance training. In a meta-analysis of older adults losing weight through caloric restriction, adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone would have caused, a difference of roughly 0.82 kg of preserved lean tissue. [11] You do not need to be an athlete; you need to load your major muscle groups a few times a week and progress over time.
 
-Protein. A dose-response meta-analysis found that protein intake improved resistance-training gains up to a breakpoint near 1.6 grams per kilogram of body weight per day, beyond which more protein added little. [11] On a strongly suppressed appetite, which is exactly what tirzepatide and semaglutide produce, hitting that target takes a deliberate plan rather than good intentions.
+Protein. A dose-response meta-analysis found that protein intake improved resistance-training gains up to a breakpoint near 1.6 grams per kilogram of body weight per day, beyond which more protein added little. [12] On a strongly suppressed appetite, which is exactly what tirzepatide and semaglutide produce, hitting that target takes a deliberate plan rather than good intentions.
 
-One caution worth keeping in view: a drop on a DXA scan is an imperfect stand-in for strength, and short-term GLP-1 trials often show preserved grip strength even as lean mass falls. But longer-term research in older adults reports reductions in strength and function, so the safe move is to track what you can actually lift over time rather than trusting a single scan. [12]
+One caution worth keeping in view: a drop on a DXA scan is an imperfect stand-in for strength, and short-term GLP-1 trials often show preserved grip strength even as lean mass falls. But longer-term research in older adults reports reductions in strength and function, so the safe move is to track what you can actually lift over time rather than trusting a single scan. [13]
 
 ## Why muscle is worth defending on either drug
 
-The reason to protect muscle now is what tends to happen later. In the STEP 1 trial extension, participants who came off semaglutide regained about two-thirds of their lost weight within a year: average net weight loss fell from 17.3 percent at the end of treatment to 5.6 percent one year after stopping. [13] Muscle is the reserve you carry into that phase, and it is harder to rebuild than fat. Dedicated trials such as LEAN-PREP are now enrolling to test resistance exercise and protein specifically during semaglutide and tirzepatide therapy, so this is an active question, not a niche one. [14]
+The reason to protect muscle now is what tends to happen later. In the STEP 1 trial extension, participants who came off semaglutide regained about two-thirds of their lost weight within a year: average net weight loss fell from 17.3 percent at the end of treatment to 5.6 percent one year after stopping. [14] Muscle is the reserve you carry into that phase, and it is harder to rebuild than fat. Dedicated trials such as LEAN-PREP are now enrolling to test resistance exercise and protein specifically during semaglutide and tirzepatide therapy, so this is an active question, not a niche one. [15]
 
 ## The bottom line
 
@@ -3700,7 +3700,7 @@ Semaglutide and tirzepatide differ clearly in how much weight they produce, and 
 
 **Q:** Does Ozempic or Mounjaro preserve more muscle?
 
-There is no clean head-to-head answer. The SURMOUNT-1 DXA substudy measured about 26 percent of the weight lost on tirzepatide (Mounjaro, Zepbound) as lean mass, while a separate review calculated roughly 45 percent for semaglutide (Ozempic, Wegovy) in STEP 1. Those figures come from different trials that used different methods, so they are not a fair comparison. Whichever medication you take, resistance training and adequate protein are the countermeasures that steer loss toward fat.
+There is no clean head-to-head answer. The SURMOUNT-1 DXA substudy measured about 26 percent of the weight lost on tirzepatide (Mounjaro, Zepbound) as lean mass. For semaglutide (Ozempic, Wegovy), the STEP 1 DXA substudy reported fat mass down 19.3 percent and lean mass down 9.7 percent from baseline, a different measure. Those figures come from different trials that used different methods, so they are not a fair comparison. Whichever medication you take, resistance training and adequate protein are the countermeasures that steer loss toward fat.
 
 **Q:** Is tirzepatide worse for muscle than semaglutide?
 
@@ -3722,11 +3722,13 @@ Medication choice belongs to you and your clinician, and it turns on efficacy, s
 
 - Look M, et al. Body composition changes during weight reduction with tirzepatide (SURMOUNT-1 DXA substudy). Diabetes, Obesity & Metabolism. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC11965027
 
-- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+- Wilding JPH, Batterham RL, Calanna S, et al. Impact of semaglutide on body composition in adults with overweight or obesity: exploratory analysis of the STEP 1 study. Journal of the Endocrine Society. 2021;5(Suppl 1):A16. doi.org/10.1210/jendso/bvab048.030
 
 - Jastreboff AM, et al. Triple-hormone-receptor agonist retatrutide for obesity (Phase 2). New England Journal of Medicine. 2023. pubmed.ncbi.nlm.nih.gov/37366315
 
 - Retatrutide Phase 3 obesity program (TRIUMPH-1). ClinicalTrials.gov NCT05929066. clinicaltrials.gov/study/NCT05929066
+
+- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
 - Murugadoss K, et al. Greater lean-body-mass decline with tirzepatide than semaglutide in routine care (preprint, not peer-reviewed). medRxiv. 2026. medrxiv.org
 
