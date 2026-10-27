@@ -603,6 +603,10 @@ footer { background: #16211d; color: #b9c7c1; padding: 52px 0 34px; font-size: 0
 .stat-link { opacity: 0; margin-left: 6px; color: var(--ink-soft); font-weight: 700; text-decoration: none; transition: opacity .15s ease; }
 .stat-row:hover .stat-link, .stat-link:focus { opacity: 1; color: var(--accent-text); }
 .stat-row:target { outline: 2px solid var(--accent); outline-offset: 3px; }
+/* Phones: the number sits above its sentence. Side by side, a wide figure such
+   as "51 / 31 kg" left the sentence a column two or three words wide. The rows
+   set flex-direction inline, hence !important. */
+@media (max-width: 560px) { .stat-row { flex-direction: column !important; gap: 6px !important; } }
 .cite-box { margin-top: 34px; background: var(--bg-alt); border: 1px solid var(--line); border-radius: var(--radius); padding: 26px 28px; }
 .cite-box h2 { margin: 0 0 10px; font-size: 1.15rem; }
 .cite-box p { color: var(--ink-soft); line-height: 1.6; margin: 0 0 14px; }
