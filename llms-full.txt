@@ -2107,6 +2107,8 @@ Want the number scaled to your own weight? The free calculator applies the prote
 
 - Aronne LJ, Sattar N, Horn DB, et al. Continued treatment with tirzepatide for maintenance of weight reduction in adults with obesity: the SURMOUNT-4 randomized clinical trial. JAMA. 2024;331(1):38–48. doi.org/10.1001/jama.2023.24945
 
+- Wharton S, Freitas P, Hjelmesæth J, et al. Once-weekly semaglutide 7.2 mg in adults with obesity (STEP UP): a randomised, controlled, phase 3b trial. Lancet Diabetes & Endocrinology. 2025;13(11):949–963. doi.org/10.1016/S2213-8587(25)00226-8
+
 Citing these figures? A link to this page or the underlying study is appreciated. This page is educational and not medical advice.
 
 ---
@@ -4291,15 +4293,15 @@ URL: https://getmuscleonglp.com/protein-food-calculator/
 
 Free tool
 
-Tap the foods you eat in a day and watch the total fill toward your protein target. Thirteen common foods, USDA values, nothing to sign up for.
+Tap the foods you eat in a day and watch the total fill toward your protein target. Twenty-three common foods, USDA values, nothing to sign up for.
 
 Short answer. A four-society joint advisory puts protein at about 1.2 to 1.6 g per kilogram of body weight a day during GLP-1 weight loss. [1] For a 90 kg (198 lb) adult that is 108 to 144 g. Chicken breast, cottage cheese and a whey shake each carry 24 to 31 g a serving, so three of them cover most of the low end. [2]
 
-## Protein per serving, 13 common foods
+## Protein per serving, 23 common foods
 
-FoodServingProtein Chicken breast, cooked100 g (3.5 oz)31 g Lean ground beef (93%), cooked100 g (3.5 oz)26 g Salmon, cooked100 g (3.5 oz)25 g Canned tuna, drained100 g (3.5 oz)25 g Shrimp, cooked100 g (3.5 oz)24 g Cottage cheese, low-fat1 cup (226 g)28 g Whey protein powder1 scoop (about 30 g)24 g Lentils, cooked1 cup (198 g)18 g Edamame, shelled1 cup18 g Greek yogurt, plain nonfat170 g (3/4 cup)17 g Tofu, firm100 g17 g Milk1 cup (240 mL)8 g Egg, large1 egg6 g
+FoodServingProtein Chicken breast, cooked100 g (3.5 oz)31 g Turkey breast, roasted100 g (3.5 oz)29 g Cottage cheese, low-fat1 cup (226 g)28 g Lean ground beef (93%), cooked100 g (3.5 oz)26 g Pork tenderloin, cooked100 g (3.5 oz)26 g Salmon, cooked100 g (3.5 oz)25 g Canned tuna, drained100 g (3.5 oz)25 g Shrimp, cooked100 g (3.5 oz)24 g Whey protein powder1 scoop (about 30 g)24 g Cod, cooked100 g (3.5 oz)23 g Tempeh100 g20 g Lentils, cooked1 cup (198 g)18 g Edamame, shelled1 cup18 g Greek yogurt, plain nonfat170 g (3/4 cup)17 g Tofu, firm100 g17 g Chickpeas, cooked1 cup (164 g)15 g Black beans, cooked1 cup (172 g)15 g Milk1 cup (240 mL)8 g Quinoa, cooked1 cup (185 g)8 g String cheese (part-skim mozzarella)1 stick (28 g)7 g Peanut butter2 tbsp (32 g)7 g Egg, large1 egg6 g Almonds1 oz (28 g)6 g
 
-Values are approximate figures from USDA FoodData Central, as compiled in the Protein Playbook. [2] Brands and cuts vary, so a label beats the table when you have one.
+Values are approximate figures from USDA FoodData Central; the first thirteen are the same table as in the Protein Playbook. [2] Brands and cuts vary, so a label beats the table when you have one.
 
 ## How the target is set
 
