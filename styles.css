@@ -871,3 +871,4 @@ form#calc.pf { overflow: visible; }
 .rb-fill.rb-mid, .rb-span.rb-mid { background: #b7791f; }
 .rb-key { margin: 2px 0 0; font-size: var(--fs-meta); color: var(--ink-soft); }
 @media (prefers-reduced-motion: reduce) { .rb-fill, .rb-span { transition: none; } }
+.success-h { font-size: clamp(1.6rem, 1.2rem + 1.6vw, 2.2rem); }
