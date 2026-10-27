@@ -872,3 +872,12 @@ form#calc.pf { overflow: visible; }
 .rb-key { margin: 2px 0 0; font-size: var(--fs-meta); color: var(--ink-soft); }
 @media (prefers-reduced-motion: reduce) { .rb-fill, .rb-span { transition: none; } }
 .success-h { font-size: clamp(1.9rem, 3.6vw, 2.9rem); text-wrap: balance; }
+
+/* Homepage calculator strip: tone-step tiles, the tool name first. */
+.tool-strip { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-top: 28px; text-align: left; }
+.tool-tile { display: flex; flex-direction: column; gap: 4px; padding: 16px 18px; border-radius: 14px; background: var(--bg-alt); color: var(--ink); text-decoration: none; transition: background-color .18s ease; }
+.tool-tile strong { font-family: var(--font-display); font-size: 1.08rem; color: var(--accent-text-strong); }
+.tool-tile span { font-size: var(--fs-meta); color: var(--ink-soft); line-height: 1.45; }
+.tool-tile:hover { background: var(--accent-light); }
+.tool-tile:focus-visible { outline: 2px solid var(--accent-text); outline-offset: 2px; }
+@media (prefers-color-scheme: dark) { .tool-tile { background: #172420; } .tool-tile:hover { background: #1c2c27; } }
