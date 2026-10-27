@@ -83,6 +83,7 @@
     var permealLabel = $("permealLabel");
     if (permealLabel) { permealLabel.textContent = "Protein / meal (×" + meals + ")"; }
     drawPlan(meals, pLow, pHigh);
+    drawMacros(target, pLow);
 
     if (goalKg > 0 && goalKg < kg) {
       var totalKg = kg - goalKg;
@@ -109,6 +110,26 @@
     announce("Calorie target " + fmt(target) + " kcal a day, " + fmt(deficit) + " below maintenance. Protein " + pLow + " to " + pHigh +
       " g a day, " + $("permeal").textContent.replace("–", " to ") + " per meal." +
       (!s.hidden ? " " + s.textContent : ""));
+  }
+
+  // Macros at the calorie target. Protein at the low end of the training range
+  // (1.6 g/kg), fat at 25% of calories (inside the 20-35% adult AMDR), carbs
+  // the remainder, fiber at 14 g per 1,000 kcal (Dietary Guidelines for
+  // Americans). Shown only when it adds up: a target too small to hold the
+  // protein plus a minimum of fat hides the row rather than print a negative.
+  var FAT_SHARE = 0.25, FIBER_PER_KCAL = 14 / 1000;
+  function drawMacros(target, proteinG) {
+    var row = $("macroRow"); if (!row) { return; }
+    var fatG = target * FAT_SHARE / 9;
+    var carbG = (target - proteinG * 4 - fatG * 9) / 4;
+    if (!(target > 0) || carbG < 0) { row.hidden = true; return; }
+    $("mProtein").textContent = fmt(proteinG) + " g";
+    $("mFat").textContent = fmt(fatG) + " g";
+    $("mCarb").textContent = fmt(carbG) + " g";
+    $("mFiber").textContent = fmt(target * FIBER_PER_KCAL) + " g";
+    $("mProteinPct").textContent = Math.round(proteinG * 4 / target * 100) + "% of calories";
+    $("mCarbPct").textContent = Math.round(carbG * 4 / target * 100) + "% of calories";
+    row.hidden = false;
   }
 
   // Timed meal schedule. Even split of the daily protein range across the

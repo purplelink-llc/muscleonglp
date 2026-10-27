@@ -729,7 +729,7 @@ For the best combination of outcomes, yes. Resistance training is the specific l
 
 ---
 
-# Can you take creatine with a GLP-1?
+# Can you take creatine with a GLP-1 like Ozempic, Zepbound or Mounjaro?
 
 URL: https://getmuscleonglp.com/learn/creatine-and-ozempic/
 Updated: 2026-07-10
@@ -3719,7 +3719,7 @@ The two-thirds figure comes from one population (semaglutide, STEP 1) and your r
 
 ---
 
-# GLP-1 calorie and protein calculator
+# GLP-1 calorie, protein and macro calculator
 
 URL: https://getmuscleonglp.com/protein-calculator/
 
@@ -3732,6 +3732,10 @@ Population-based estimates, not medical advice. It gives no medical or dosing ad
 Example person: woman, 45, 66 in, 210 lb, goal 170 lb, light activity, about 1 lb a week. Change any field above to use your own numbers.
 
 BMR (at rest) TDEE (maintenance) Calorie target Daily deficit Protein / day Protein / meal (×4) To reach goal
+
+## Macros at your calorie target
+
+Protein (1.6 g/kg) Fat 25% of calories Carbohydrate Fiber 14 g per 1,000 kcal
 
 If 1.6 to 2.2 g/kg is hard to reach, is the range a four-society GLP-1 advisory uses during active weight loss. The target is scaled to total body weight, so it can run high if you carry a lot of fat mass. People with kidney disease should ask a clinician before raising protein.
 
@@ -3766,6 +3770,8 @@ Total burn (TDEE). BMR is multiplied by a physical-activity factor (1.2 sedentar
 Weight-loss trajectory. The pace-to-deficit conversion uses the classic estimate that about 7,700 kcal equals one kilogram of body weight (3,500 kcal per pound). [3] This is a first approximation. Real loss slows over time as metabolism adapts, so a dynamic model predicts less than a straight line at the far end. [4] Treat the timeline as a planning estimate, not a promise.
 
 Protein target. The 1.6 to 2.2 g/kg range comes from lean-mass research, where benefit to fat-free mass leveled off near 1.6 g/kg. [5] A GLP-1 advisory from four medical societies uses a lower range, 1.2 to 1.6 g/kg, which the calculator shows beside it. People with kidney disease should ask a clinician before raising protein. The target is split across your chosen number of meals because distribution matters more than any single dose. [6]
+
+Macros and fiber. The macro row sets protein at 1.6 g/kg, fat at 25 percent of the calorie target (inside the 20 to 35 percent range the National Academies give for adults), and carbohydrate as what remains. [9] Fiber is 14 g per 1,000 calories, the Dietary Guidelines figure. [10] Fiber matters on a GLP-1 because constipation is one of the most common side effects. Raise it gradually and with fluids, since a sudden jump can worsen bloating.
 
 Meal timing on a small appetite. The same distribution logic is why the meal planner lets you spread the target across three to five meals: dividing protein into moderate servings through the day supports muscle better than concentrating it in one or two large meals, which is hard to eat anyway when a GLP-1 has cut your hunger. [6] On low-appetite days, eat protein first, front-load it earlier when hunger is highest, use liquid sources like a shake or Greek yogurt, and keep the biggest meal away from the peak side-effect window after a dose.
 
@@ -3818,6 +3824,10 @@ Total weight loss is driven by the calorie deficit and is similar either way. Wh
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Institute of Medicine. Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids. National Academies Press; 2005. doi.org/10.17226/10490
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2020–2025. 9th ed. 2020. dietaryguidelines.gov
 
 ---
 

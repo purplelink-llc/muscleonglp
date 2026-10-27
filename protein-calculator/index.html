@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GLP-1 Calorie &amp; Protein Calculator: Ozempic, Zepbound, Wegovy</title>
-<meta name="description" content="Free GLP-1 calorie and protein calculator for women and men on Ozempic, Wegovy, Mounjaro or Zepbound: calorie target, daily protein target and per-meal grams.">
+<title>GLP-1 Calorie, Protein &amp; Macro Calculator: Ozempic, Zepbound</title>
+<meta name="description" content="Free GLP-1 calorie, protein and macro calculator for Ozempic, Wegovy, Mounjaro or Zepbound: calorie target, protein per day and per meal, fat, carbs and fiber.">
 <meta name="keywords" content="glp-1 calorie calculator, calorie and protein calculator, glp-1 protein calculator, protein calculator for women on glp-1, tdee calculator ozempic, calorie deficit mounjaro, zepbound weight loss calculator, mifflin st jeor">
 <link rel="canonical" href="https://getmuscleonglp.com/protein-calculator/">
 <meta name="robots" content="index, follow, max-image-preview:large">
@@ -117,7 +117,7 @@
     <div class="wrap">
       <p class="crumbs"><a href="/">Home</a><span>/</span>Calculator</p>
       <p class="article-eyebrow">Free tool</p>
-      <h1>GLP-1 calorie and protein calculator</h1>
+      <h1>GLP-1 calorie, protein and macro calculator</h1>
       <p class="article-dek">Your calorie target, your daily protein target and per-meal grams, plus a projection of how much muscle you keep with versus without enough protein and training. Built on published equations, not guesses.</p>
     </div>
   </header>
@@ -200,6 +200,15 @@
           <div class="calc-stat"><span class="calc-n" id="permeal"></span><span class="calc-l" id="permealLabel">Protein / meal (×4)</span></div>
           <div class="calc-stat" id="weeksRow" hidden><span class="calc-n" id="weeks"></span><span class="calc-l">To reach goal</span></div>
         </div>
+        <div id="macroRow" hidden style="margin-top:18px">
+          <h2 style="margin:0 0 10px;font-size:var(--fs-head)">Macros at your calorie target</h2>
+          <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
+            <div class="calc-stat"><span class="calc-n" id="mProtein"></span><span class="calc-l">Protein (1.6 g/kg) <small id="mProteinPct"></small></span></div>
+            <div class="calc-stat"><span class="calc-n" id="mFat"></span><span class="calc-l">Fat <small>25% of calories</small></span></div>
+            <div class="calc-stat"><span class="calc-n" id="mCarb"></span><span class="calc-l">Carbohydrate <small id="mCarbPct"></small></span></div>
+            <div class="calc-stat"><span class="calc-n" id="mFiber"></span><span class="calc-l">Fiber <small>14 g per 1,000 kcal</small></span></div>
+          </div>
+        </div>
         <p class="calc-note"><strong>If 1.6 to 2.2 g/kg is hard to reach,</strong> <span id="advRange"></span> is the range a four-society GLP-1 advisory uses during active weight loss. The target is scaled to total body weight, so it can run high if you carry a lot of fat mass. <strong>People with kidney disease should ask a clinician before raising protein.</strong></p>
         <p id="safety" hidden class="calc-warn" role="alert"></p>
 
@@ -255,6 +264,7 @@
         <p><strong>Total burn (TDEE).</strong> BMR is multiplied by a physical-activity factor (1.2 sedentary to 1.9 very active), the standard way to scale resting metabolism to real-world expenditure.<sup><a href="#ref-2">2</a></sup> Your calorie target is TDEE minus the deficit implied by your chosen pace.</p>
         <p><strong>Weight-loss trajectory.</strong> The pace-to-deficit conversion uses the classic estimate that about 7,700 kcal equals one kilogram of body weight (3,500 kcal per pound).<sup><a href="#ref-3">3</a></sup> This is a first approximation. Real loss slows over time as metabolism adapts, so a dynamic model predicts less than a straight line at the far end.<sup><a href="#ref-4">4</a></sup> Treat the timeline as a planning estimate, not a promise.</p>
         <p><strong>Protein target.</strong> The 1.6 to 2.2 g/kg range comes from lean-mass research, where benefit to fat-free mass leveled off near 1.6 g/kg.<sup><a href="#ref-5">5</a></sup> A GLP-1 advisory from four medical societies uses a lower range, 1.2 to 1.6 g/kg, which the calculator shows beside it. People with kidney disease should ask a clinician before raising protein. The target is split across your chosen number of meals because distribution matters more than any single dose.<sup><a href="#ref-6">6</a></sup></p>
+        <p><strong>Macros and fiber.</strong> The macro row sets protein at 1.6 g/kg, fat at 25 percent of the calorie target (inside the 20 to 35 percent range the National Academies give for adults), and carbohydrate as what remains.<sup><a href="#ref-9">9</a></sup> Fiber is 14 g per 1,000 calories, the Dietary Guidelines figure.<sup><a href="#ref-10">10</a></sup> Fiber matters on a GLP-1 because constipation is one of the most common side effects. Raise it gradually and with fluids, since a sudden jump can worsen bloating.</p>
         <p><strong>Meal timing on a small appetite.</strong> The same distribution logic is why the meal planner lets you spread the target across three to five meals: dividing protein into moderate servings through the day supports muscle better than concentrating it in one or two large meals, which is hard to eat anyway when a GLP-1 has cut your hunger.<sup><a href="#ref-6">6</a></sup> On low-appetite days, eat protein first, front-load it earlier when hunger is highest, use liquid sources like a shake or Greek yogurt, and keep the biggest meal away from the peak side-effect window after a dose.</p>
         <p><strong>The two muscle lines.</strong> Reviews of the trial data put lean mass at roughly 15 to 40 percent of the weight lost on a GLP-1.<sup><a href="#ref-7">7</a></sup> The dashed red line models the high end, 40 percent, that occurs without countermeasures. The green band models the outcome with adequate protein and resistance training. Its lower edge, about 2 percent, applies the finding that resistance training offset about 93.5 percent of the lean mass that caloric restriction alone would cost<sup><a href="#ref-8">8</a></sup>; that result comes from older adults with obesity who were not taking a GLP-1, so it is an extrapolation. Its upper edge, 15 percent, is the lowest lean-mass share reported in GLP-1 trials. The muscle-loss calculator uses the same numbers. These are illustrative projections from published ranges, not a measurement of your body.</p>
 
@@ -314,6 +324,8 @@
           <li id="ref-6">Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? <em>Journal of the International Society of Sports Nutrition.</em> 2018. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5828430/">pmc.ncbi.nlm.nih.gov/articles/PMC5828430</a></li>
           <li id="ref-7">Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. <em>Diabetes, Obesity &amp; Metabolism.</em> 2024. <a href="https://doi.org/10.1111/dom.15728">doi.org/10.1111/dom.15728</a></li>
           <li id="ref-8">Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. <em>Nutrients.</em> 2018;10(4):423. <a href="https://www.mdpi.com/2072-6643/10/4/423">mdpi.com/2072-6643/10/4/423</a></li>
+          <li id="ref-9">Institute of Medicine. <em>Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids.</em> National Academies Press; 2005. <a href="https://doi.org/10.17226/10490">doi.org/10.17226/10490</a></li>
+          <li id="ref-10">U.S. Department of Agriculture and U.S. Department of Health and Human Services. <em>Dietary Guidelines for Americans, 2020&ndash;2025.</em> 9th ed. 2020. <a href="https://www.dietaryguidelines.gov/">dietaryguidelines.gov</a></li>
         </ol>
       </div>
     </div>
