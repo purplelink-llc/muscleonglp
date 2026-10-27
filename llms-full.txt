@@ -4590,7 +4590,9 @@ Grip strength in kilograms by age and sex: median and 10th centile
 | 80 | 32 kg | 23 kg | 19 kg | 13 kg |
 | 90 | 25 kg | 16 kg | 14 kg | 9 kg |
 
-The calculator above uses the full table (every fifth year, five centiles) and places your reading between the two nearest ages. A centile is a comparison with other people. The comparison that matters most on a GLP-1 is with your own earlier readings.
+The chair stand has age references too, though only from 60 up. A meta-analysis of 13 papers on older adults put the average time for five stands at 11.4 seconds for ages 60 to 69, 12.6 seconds for 70 to 79, and 14.8 seconds for 80 to 89. Slower than that is worse than average for the age group. [8]
+
+The calculator above uses the full grip table (every fifth year, five centiles) and places your reading between the two nearest ages. A centile is a comparison with other people. The comparison that matters most on a GLP-1 is with your own earlier readings.
 
 ## What the cut-offs mean
 
@@ -4631,3 +4633,5 @@ Every four weeks is enough to see a trend without chasing day-to-day noise. Use 
 - Machado LG, Siedschlag Schmidt PH, Tasca Petroski G, et al. Changes in muscle strength following semaglutide treatment in adults: a systematic review with meta-analysis of handgrip strength. Diabetes, Obesity & Metabolism. 2026. doi.org/10.1111/dom.71432
 
 - Langer HT, Gilmore NK, Hayden CMT, et al. Weight loss with GLP-1 medicines does not result in a disproportionate loss of muscle mass or function in obese mice and humans. Cell Reports Medicine. 2026;7(3):102665. doi.org/10.1016/j.xcrm.2026.102665
+
+- Bohannon RW. Reference values for the five-repetition sit-to-stand test: a descriptive meta-analysis of data from elders. Perceptual and Motor Skills. 2006;103(1):215-222. doi.org/10.2466/pms.103.1.215-222
