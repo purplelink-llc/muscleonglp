@@ -923,6 +923,8 @@ There is no dedicated clinical trial establishing an ideal scan interval for peo
 
 A DEXA-defined drop in "lean mass" includes water and organ tissue, not only contractile muscle, so even a well-run scan is an imperfect proxy for how strong or functional you are. [5] Clinicians use DEXA-measured appendicular lean mass as part of the formal criteria for diagnosing sarcopenia, [9] which tells you the measurement is clinically meaningful, but a single number below or above a population cutoff still is not the same thing as knowing how you actually perform in daily life.
 
+Already have a report? Enter its lean mass in the lean body mass calculator and it replaces the height-and-weight estimate, so the share of lean mass a planned GLP-1 loss could take is worked out from your own number.
+
 This is where a scan pairs best with something free: our calorie, protein and macro calculator gives you a starting daily protein target and an estimated composition baseline in a couple of minutes, no appointment or radiation required, and you can pair that with tracking what you can actually lift or carry over time. A periodic scan then becomes a confirming data point on top of that baseline, rather than the only source of information you have.
 
 ## What the evidence does not say
