@@ -277,7 +277,13 @@ Two things separate a high-quality protein from a low-quality one. First, whethe
 
 ## The comparison
 
-Protein Complete? Leucine Best for muscle on a GLP-1? Whey Yes Highest Best. Complete, leucine-rich, drinks easily when appetite is gone. Casein Yes High Very good, slower digesting; useful before a long gap or overnight. Soy Yes Moderate Good. The best single-source plant option; complete on its own. Pea + rice blend Yes (as a blend) Moderate Good. Pea and rice cover each other's gaps; size the serving up slightly. Collagen No (no tryptophan) Very low Wrong tool. Fine for skin and joints, not for muscle.
+| Protein | Complete? | Leucine | Best for muscle on a GLP-1? |
+| --- | --- | --- | --- |
+| Whey | Yes | Highest | Best. Complete, leucine-rich, drinks easily when appetite is gone. |
+| Casein | Yes | High | Very good, slower digesting; useful before a long gap or overnight. |
+| Soy | Yes | Moderate | Good. The best single-source plant option; complete on its own. |
+| Pea + rice blend | Yes (as a blend) | Moderate | Good. Pea and rice cover each other's gaps; size the serving up slightly. |
+| Collagen | No (no tryptophan) | Very low | Wrong tool. Fine for skin and joints, not for muscle. |
 
 ## Whey: the default for a reason
 
@@ -1232,7 +1238,13 @@ So this is a reference. Read the tables, then take the question to the person wh
 
 Same molecule, different labels, different indications, different ceilings. Ozempic is labeled for type 2 diabetes; Wegovy is labeled for chronic weight management and cardiovascular risk reduction. Their escalation schedules are not interchangeable, which is why the brand you were prescribed matters more than the ingredient.
 
-WeeksOzempicWegovy (injection) 1–40.25 mg0.25 mg 5–80.5 mg0.5 mg 9–121 mg (if needed)1 mg 13–16—1.7 mg 17+2 mg maximum2.4 mg, or 7.2 mg
+| Weeks | Ozempic | Wegovy (injection) |
+| --- | --- | --- |
+| 1–4 | 0.25 mg | 0.25 mg |
+| 5–8 | 0.5 mg | 0.5 mg |
+| 9–12 | 1 mg (if needed) | 1 mg |
+| 13–16 | — | 1.7 mg |
+| 17+ | 2 mg maximum | 2.4 mg, or 7.2 mg |
 
 Two details get lost in most summaries. Wegovy's 1.7 mg is an approved maintenance dose, not a waypoint: if 2.4 mg is intolerable, staying at 1.7 mg is a labeled option rather than a compromise. And a 7.2 mg once-weekly dose is approved for adults with obesity when additional weight reduction is clinically indicated. It is not approved for adolescents, and not for the cardiovascular risk reduction indication.
 
@@ -1242,7 +1254,14 @@ There is also an oral semaglutide tablet for weight management, which escalates 
 
 Again one molecule, two labels: Mounjaro for type 2 diabetes, Zepbound for weight management and obstructive sleep apnea in adults with obesity. The escalation is the same shape for both.
 
-WeeksDoseNote 1–42.5 mgStarting dose, not a treatment dose 5–85 mgFirst maintenance option 9–127.5 mgIncrease in 2.5 mg steps, no sooner than every 4 weeks, only as needed and tolerated 13–1610 mg 17–2012.5 mg 21+15 mg maximum
+| Weeks | Dose | Note |
+| --- | --- | --- |
+| 1–4 | 2.5 mg | Starting dose, not a treatment dose |
+| 5–8 | 5 mg | First maintenance option |
+| 9–12 | 7.5 mg | Increase in 2.5 mg steps, no sooner than every 4 weeks, only as needed and tolerated |
+| 13–16 | 10 mg |
+| 17–20 | 12.5 mg |
+| 21+ | 15 mg maximum |
 
 The steps beyond 5 mg are permissions, not a schedule to complete. Plenty of people stay at 5 or 10 mg long term. Reaching 15 mg is not the goal; the goal is the lowest dose that does the job.
 
@@ -1254,7 +1273,12 @@ That means there is no labeled dose schedule for retatrutide. None. What circula
 
 What can be reported honestly is what Lilly measured in the Phase 3 TRIUMPH-1 trial, under medical supervision, in people who were enrolled and monitored. Three doses were studied against placebo for 80 weeks. The trial was published in the New England Journal of Medicine in September 2026, and its primary analysis counts everyone randomized, including people who stopped the drug. [4] Lilly's earlier release reported higher figures from a different analysis. [3]
 
-Trial armPublished, all randomizedLilly release Retatrutide 4 mg17.6%19.0% Retatrutide 9 mg23.7%25.9% Retatrutide 12 mg25.0%28.3% Placebo3.9%2.2%
+| Trial arm | Published, all randomized | Lilly release |
+| --- | --- | --- |
+| Retatrutide 4 mg | 17.6% | 19.0% |
+| Retatrutide 9 mg | 23.7% | 25.9% |
+| Retatrutide 12 mg | 25.0% | 28.3% |
+| Placebo | 3.9% | 2.2% |
 
 Lilly's release also reported that, in a pre-specified extension for participants with a baseline BMI of 35 or above, those continuing on the highest dose averaged 30.3 percent, about 85 pounds, at 104 weeks. [3] Those are trial arms in a supervised study, not a titration plan, and the gap between the two is the entire point of this section.
 
@@ -1424,7 +1448,13 @@ None of those trials were in people taking a GLP-1, where slowed stomach emptyin
 
 The best fiber sources on a small appetite are the ones that also help the protein target. Legumes are the standout. Approximate values per serving, from USDA FoodData Central: [6]
 
-FoodServingFiberProtein Lentils, cooked1 cupabout 16 gabout 18 g Black beans, cooked1 cupabout 15 gabout 15 g Edamame, shelled1 cupabout 8 gabout 18 g Chia seeds1 oz (28 g)about 10 gabout 5 g Raspberries1 cupabout 8 gabout 1 g
+| Food | Serving | Fiber | Protein |
+| --- | --- | --- | --- |
+| Lentils, cooked | 1 cup | about 16 g | about 18 g |
+| Black beans, cooked | 1 cup | about 15 g | about 15 g |
+| Edamame, shelled | 1 cup | about 8 g | about 18 g |
+| Chia seeds | 1 oz (28 g) | about 10 g | about 5 g |
+| Raspberries | 1 cup | about 8 g | about 1 g |
 
 A cup of lentils covers most of a day's fiber gap and a sixth of a typical protein target at once. The plant protein guide has more legume options.
 
@@ -1493,7 +1523,14 @@ Short answer. A GLP-1 meal plan should be built around protein, not calories, be
 
 Every protein value comes from USDA FoodData Central. [3] Portions are small on purpose: each one should be something you can finish.
 
-WhenFoodProtein BreakfastPlain nonfat Greek yogurt, 6 oz (170 g), with 2 tbsp smooth peanut butter24.6 g Mid-morningWhey protein shake, 1 scoop (about 30 g powder)23 g LunchCanned light tuna in water, 3 oz (85 g), and 1 large egg22.2 g DinnerRoasted chicken breast, 3 oz (85 g)25.3 g EveningLow-fat cottage cheese, ½ cupabout 12 g Totalabout 107 g
+| When | Food | Protein |
+| --- | --- | --- |
+| Breakfast | Plain nonfat Greek yogurt, 6 oz (170 g), with 2 tbsp smooth peanut butter | 24.6 g |
+| Mid-morning | Whey protein shake, 1 scoop (about 30 g powder) | 23 g |
+| Lunch | Canned light tuna in water, 3 oz (85 g), and 1 large egg | 22.2 g |
+| Dinner | Roasted chicken breast, 3 oz (85 g) | 25.3 g |
+| Evening | Low-fat cottage cheese, ½ cup | about 12 g |
+| Total |  | about 107 g |
 
 ## Scale it to your weight
 
@@ -1905,7 +1942,12 @@ The Dietary Guidelines for Americans set fiber at 14 g per 1,000 calories. [4] C
 
 Take a 45-year-old woman, 5 ft 6 in and 210 lb, lightly active, aiming to lose about a pound a week. The calorie, protein and macro calculator puts her target near 1,725 calories. Protein at 1.6 g/kg is 152 g (35 percent of calories). Fat at 25 percent is 48 g. Carbohydrate takes the remaining 171 g (40 percent), above the 130 g floor. Fiber at 14 g per 1,000 calories is about 24 g.
 
-MacroGramsCaloriesShare Protein (1.6 g/kg)152 g60835% Fat (25%)48 g43125% Carbohydrate (the rest)171 g68640% Fiber24 g
+| Macro | Grams | Calories | Share |
+| --- | --- | --- | --- |
+| Protein (1.6 g/kg) | 152 g | 608 | 35% |
+| Fat (25%) | 48 g | 431 | 25% |
+| Carbohydrate (the rest) | 171 g | 686 | 40% |
+| Fiber | 24 g |  |  |
 
 Run your own numbers in the calculator; it shows the same four figures for your weight, height, age and pace. To see what 152 g of protein looks like as food, the protein food calculator adds up a day one serving at a time.
 
@@ -4197,7 +4239,8 @@ Total weight lost Lean mass lost, without enough protein + training (40% of loss
 
 Your protein target split across the day, so no single meal has to be large.
 
-Meal Time Protein
+| Meal | Time | Protein |
+| --- | --- | --- |
 
 Tactics for low-appetite days
 
@@ -4299,7 +4342,31 @@ Short answer. A four-society joint advisory puts protein at about 1.2 to 1.6 g p
 
 ## Protein per serving, 23 common foods
 
-FoodServingProtein Chicken breast, cooked100 g (3.5 oz)31 g Turkey breast, roasted100 g (3.5 oz)29 g Cottage cheese, low-fat1 cup (226 g)28 g Lean ground beef (93%), cooked100 g (3.5 oz)26 g Pork tenderloin, cooked100 g (3.5 oz)26 g Salmon, cooked100 g (3.5 oz)25 g Canned tuna, drained100 g (3.5 oz)25 g Shrimp, cooked100 g (3.5 oz)24 g Whey protein powder1 scoop (about 30 g)24 g Cod, cooked100 g (3.5 oz)23 g Tempeh100 g20 g Lentils, cooked1 cup (198 g)18 g Edamame, shelled1 cup18 g Greek yogurt, plain nonfat170 g (3/4 cup)17 g Tofu, firm100 g17 g Chickpeas, cooked1 cup (164 g)15 g Black beans, cooked1 cup (172 g)15 g Milk1 cup (240 mL)8 g Quinoa, cooked1 cup (185 g)8 g String cheese (part-skim mozzarella)1 stick (28 g)7 g Peanut butter2 tbsp (32 g)7 g Egg, large1 egg6 g Almonds1 oz (28 g)6 g
+| Food | Serving | Protein |
+| --- | --- | --- |
+| Chicken breast, cooked | 100 g (3.5 oz) | 31 g |
+| Turkey breast, roasted | 100 g (3.5 oz) | 29 g |
+| Cottage cheese, low-fat | 1 cup (226 g) | 28 g |
+| Lean ground beef (93%), cooked | 100 g (3.5 oz) | 26 g |
+| Pork tenderloin, cooked | 100 g (3.5 oz) | 26 g |
+| Salmon, cooked | 100 g (3.5 oz) | 25 g |
+| Canned tuna, drained | 100 g (3.5 oz) | 25 g |
+| Shrimp, cooked | 100 g (3.5 oz) | 24 g |
+| Whey protein powder | 1 scoop (about 30 g) | 24 g |
+| Cod, cooked | 100 g (3.5 oz) | 23 g |
+| Tempeh | 100 g | 20 g |
+| Lentils, cooked | 1 cup (198 g) | 18 g |
+| Edamame, shelled | 1 cup | 18 g |
+| Greek yogurt, plain nonfat | 170 g (3/4 cup) | 17 g |
+| Tofu, firm | 100 g | 17 g |
+| Chickpeas, cooked | 1 cup (164 g) | 15 g |
+| Black beans, cooked | 1 cup (172 g) | 15 g |
+| Milk | 1 cup (240 mL) | 8 g |
+| Quinoa, cooked | 1 cup (185 g) | 8 g |
+| String cheese (part-skim mozzarella) | 1 stick (28 g) | 7 g |
+| Peanut butter | 2 tbsp (32 g) | 7 g |
+| Egg, large | 1 egg | 6 g |
+| Almonds | 1 oz (28 g) | 6 g |
 
 Values are approximate figures from USDA FoodData Central; the first thirteen are the same table as in the Protein Playbook. [2] Brands and cuts vary, so a label beats the table when you have one.
 
@@ -4351,7 +4418,8 @@ Arithmetic only. This is not medical or dosing advice. It divides the weekly dos
 
 Example numbers: 1 mg a week split into 2 injections, semaglutide. Enter the weekly dose your prescriber set.
 
-DayDoseSpacing
+| Day | Dose | Spacing |
+| --- | --- | --- |
 
 Splitting a weekly dose is not the labeled schedule. Ozempic and Zepbound are labeled for one injection a week, and we know of no published trial of splitting a weekly dose into smaller injections, so it has not been shown to be safer, better tolerated or more effective. This tool only does the division. Tell your prescriber before you change how you inject, and ask your pharmacist whether your pen or vial can deliver the smaller dose.
 
@@ -4476,3 +4544,78 @@ Reviews of the trial data put lean mass at anywhere from about 15% to 40 to 60% 
 - Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. Diabetes, Obesity & Metabolism. 2022. doi.org/10.1111/dom.14725
 
 - Wharton S, Freitas P, Hjelmesæth J, et al. Once-weekly semaglutide 7.2 mg in adults with obesity (STEP UP): a randomised, controlled, phase 3b trial. Lancet Diabetes & Endocrinology. 2025;13(11):949–963. doi.org/10.1016/S2213-8587(25)00226-8
+
+---
+
+# Muscle strength check
+
+URL: https://getmuscleonglp.com/muscle-strength-check/
+
+Free tool
+
+Two tests you can do at home, compared with the cut-offs clinicians use for low muscle strength. Run it every four weeks on a GLP-1 and watch the trend, not the scale.
+
+Short answer. The European sarcopenia consensus flags low muscle strength at a grip below 27 kg in men or 16 kg in women, or a five-times chair stand slower than 15 seconds. [1] Strength is worth tracking on a GLP-1 because a meaningful share of the weight lost can be lean mass. [3]
+
+A screening check, not a diagnosis. Being below a cut-off is a reason to talk with a clinician, not a verdict. Stop a test if anything hurts, and skip the chair stand if standing up is unsafe for you.
+
+Grip strength
+
+Five chair stands cut-off 15 seconds; faster is better
+
+Keep the numbers somewhere. A trend needs a record. Note today's grip and chair-stand time with the date, or use the Muscle-on-GLP-1 Tracker ($9, printable): its weekly strength check works with any movement you retest, and these two are the easiest.
+
+## How to do the two tests
+
+Grip strength. Use a hand dynamometer. Stand, arm at your side with the elbow bent at a right angle, and squeeze as hard as you can for a few seconds. Do three squeezes with your stronger hand and record the best. Use the same hand and the same device every time, because readings differ between devices.
+
+Five-times chair stand. Sit in a standard chair with your back against it and your arms crossed over your chest. Time five full stands, sitting back down each time, as fast as you safely can. The test needs no equipment and gives highly consistent results from one session to the next. [2]
+
+## Grip strength by age
+
+Grip peaks in the thirties and falls with each decade after that. The figures below come from 60,803 grip measurements in twelve British studies. [5] The median is the typical value for that age, and the 10th centile is the reading that only one adult in ten of that age falls below.
+
+Grip strength in kilograms by age and sex: median and 10th centile
+
+| Age | Men, median | Men, 10th centile | Women, median | Women, 10th centile |
+| --- | --- | --- | --- | --- |
+| 20 | 40 kg | 30 kg | 28 kg | 21 kg |
+| 30 | 51 kg | 38 kg | 31 kg | 24 kg |
+| 40 | 50 kg | 38 kg | 31 kg | 23 kg |
+| 50 | 48 kg | 35 kg | 29 kg | 21 kg |
+| 60 | 45 kg | 33 kg | 27 kg | 18 kg |
+| 70 | 39 kg | 29 kg | 24 kg | 16 kg |
+| 80 | 32 kg | 23 kg | 19 kg | 13 kg |
+| 90 | 25 kg | 16 kg | 14 kg | 9 kg |
+
+The calculator above uses the full table (every fifth year, five centiles) and places your reading between the two nearest ages. A centile is a comparison with other people. The comparison that matters most on a GLP-1 is with your own earlier readings.
+
+## What the cut-offs mean
+
+The European Working Group on Sarcopenia in Older People (EWGSOP2) leads with low muscle strength when it screens for sarcopenia, and grip strength or the chair stand is how it measures that. [1] The cut-offs were set for older adults. A younger person can sit well above them and still be losing strength, which is why the change since your last reading is often the more useful number. On a GLP-1, resistance training and enough protein are the two levers with evidence for holding onto muscle. [3,4]
+
+## Frequently asked
+
+**Q:** What is a normal grip strength?
+
+The European sarcopenia consensus (EWGSOP2) treats grip strength below 27 kg in men or 16 kg in women as low muscle strength, one of its main warning signs. Typical grip also depends on age: in a study of 60,803 measurements, median grip peaked at about 51 kg in men and 31 kg in women in their thirties, then fell to about 39 kg and 24 kg at age 70. Your own trend over time tells you more than one reading.
+
+**Q:** How do you do the chair-stand test?
+
+Sit in a standard chair with your arms crossed over your chest. Time how long it takes to stand up fully and sit back down five times, as fast as you safely can. More than 15 seconds is the EWGSOP2 cut-off for low strength.
+
+**Q:** How often should I check grip strength on a GLP-1?
+
+Every four weeks is enough to see a trend without chasing day-to-day noise. Use the same hand, the same device and the same time of day, and record the best of three squeezes.
+
+## References
+
+- Cruz-Jentoft AJ, Bahat G, Bauer J, et al. Sarcopenia: revised European consensus on definition and diagnosis. Age and Ageing. 2019;48(1):16-31. academic.oup.com/ageing/article/48/1/16/5126243
+
+- Muñoz-Bermejo L, Adsuar JC, Mendoza-Muñoz M, et al. Test-retest reliability of five times sit to stand test (FTSST) in adults: a systematic review and meta-analysis. Biology. 2021;10(6):510. pmc.ncbi.nlm.nih.gov/articles/PMC8228261
+
+- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Dodds RM, Syddall HE, Cooper R, et al. Grip strength across the life course: normative data from twelve British studies. PLOS ONE. 2014;9(12):e113637. doi.org/10.1371/journal.pone.0113637

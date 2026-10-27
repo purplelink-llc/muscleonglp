@@ -15,6 +15,7 @@ class MD(HTMLParser):
     def __init__(self):
         super().__init__(convert_charrefs=True)
         self.out, self.skip, self.stack, self.href, self.buf = [], 0, [], None, []
+        self.row, self.rows_seen = None, 0
     def handle_starttag(self, tag, attrs):
         a = dict(attrs); cls = set((a.get("class") or "").split())
         skip = tag in SKIP_TAGS or bool(cls & SKIP_CLASSES)
@@ -24,6 +25,10 @@ class MD(HTMLParser):
         if skip: self.skip += 1; return
         if self.skip: return
         if tag in ("h1", "h2", "h3", "p", "li", "summary", "figcaption"): self.flush(); self.buf = []
+        # Tables become Markdown pipe tables, with a separator under the first row.
+        if tag == "table": self.flush(); self.rows_seen = 0
+        if tag == "tr": self.flush(); self.row = []
+        if tag in ("th", "td"): self.buf = []
         if tag == "a": self.href = a.get("href")
         if tag == "br": self.buf.append(" ")
         if tag == "sup": self.buf.append(" [")
@@ -38,6 +43,15 @@ class MD(HTMLParser):
             text = re.sub(r"\s+", " ", "".join(self.buf)).strip()
             if text: self.out.append((prefix or "") + text)
             self.buf = []
+        if tag in ("th", "td") and self.row is not None:
+            self.row.append(re.sub(r"\s+", " ", "".join(self.buf)).strip().replace("|", "/")); self.buf = []
+        if tag == "tr" and self.row:
+            line = "| " + " | ".join(self.row) + " |"
+            if self.rows_seen == 0: line += "\n|" + " --- |" * len(self.row)
+            # Rows join with single newlines; the page joins blocks with blank lines.
+            if self.rows_seen: self.out[-1] += "\n" + line
+            else: self.out.append(line)
+            self.rows_seen += 1; self.row = None
         if tag == "a": self.href = None
         if tag == "sup": self.buf.append("]")
     def handle_data(self, data):
@@ -61,7 +75,7 @@ def page_md(path, url):
 
 def main(site):
     site = Path(site)
-    pages = sorted(site.glob("learn/*/index.html")) + sorted(p for p in site.glob("*-calculator/index.html"))
+    pages = sorted(site.glob("learn/*/index.html")) + sorted(p for p in site.glob("*-calculator/index.html")) + [site / "muscle-strength-check/index.html"]
     parts = ["# MuscleOnGLP: full text\n\n> Every free article and calculator page on getmuscleonglp.com as plain text, for AI assistants and search engines. "
              "Educational, not medical advice. Each claim cites a peer-reviewed or official source; references follow each page. "
              "Index of pages: https://getmuscleonglp.com/llms.txt\n"]
