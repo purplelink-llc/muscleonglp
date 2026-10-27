@@ -631,7 +631,7 @@ Not yet with hypertrophy or strength gain as the primary outcome. A 2026 review 
 # Cardio vs. weights on a GLP-1: why muscle preservation needs resistance training
 
 URL: https://getmuscleonglp.com/learn/cardio-vs-weights-glp1/
-Updated: 2026-07-17
+Updated: 2026-10-27
 
 Training on a GLP-1
 
@@ -664,6 +664,8 @@ Cardio also does something resistance training cannot substitute for: cardioresp
 The same 119-person trial that found aerobic training matched resistance training on fat loss also found the opposite pattern for lean mass: resistance training and the combined aerobic-plus-resistance group increased lean body mass more than aerobic training alone. [1] Cardio was not neutral on muscle in that trial; it was outperformed by any protocol that included resistance work.
 
 A more direct test of this question in the population most likely to be reading this page comes from a 2017 randomized trial in the New England Journal of Medicine, which put obese older adults on a calorie-restricted diet alongside one of three exercise protocols: aerobic only, resistance only, or both combined, against a diet-only comparison. All three exercise groups lost a similar amount of weight, roughly 9 percent of body weight. But lean mass fell about 5 percent in the aerobic-only group, compared with about 3 percent in the resistance-only group and about 2 percent in the combined group, meaning resistance training, whether alone or paired with cardio, clearly outperformed aerobic exercise alone at protecting lean tissue during the same weight loss. [3] The same trial found the combined group had the largest gains in physical function, measured by a standardized performance test, ahead of either single-modality group. [3]
+
+Same weight loss, different muscle cost, by exercise type (Villareal 2017). [3]
 
 The mechanism behind this gap is well established outside of exercise trials specifically: muscle responds to mechanical tension and effort near failure, not to elevated heart rate. Cardio supplies cardiovascular stress; resistance training supplies the loading signal that tells the body a given muscle is still needed. In a meta-analysis of older adults dieting under caloric restriction, adding resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, a weighted mean difference of about 0.82 kg of muscle preserved. [2] No equivalent effect size exists anywhere in the aerobic-training literature, because aerobic exercise is not solving the same problem.
 
