@@ -2155,6 +2155,8 @@ Want the number scaled to your own weight? The free calculator applies the prote
 
 - Dodds RM, Syddall HE, Cooper R, et al. Grip strength across the life course: normative data from twelve British studies. PLOS ONE. 2014;9(12):e113637. doi.org/10.1371/journal.pone.0113637
 
+- Wharton S, Aronne LJ, Stefanski A, et al. Orforglipron, an oral small-molecule GLP-1 receptor agonist for obesity treatment (ATTAIN-1). New England Journal of Medicine. 2025;393(18):1796–1806. doi.org/10.1056/NEJMoa2511774
+
 Citing these figures? A link to this page or the underlying study is appreciated. This page is educational and not medical advice.
 
 ---
