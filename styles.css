@@ -368,6 +368,14 @@ img { max-width: 100%; display: block; }
 .gc-pages { font-size: 0.95rem; color: var(--ink-soft); }
 .gc-body .btn { width: 100%; justify-content: center; }
 .gc-body .checkout-status { margin-top: 10px; font-size: 0.8rem; }
+/* Phones: the homepage's eight free articles become a swipe row, with the
+   next card showing at the edge so the row reads as scrollable. Stacked, they
+   ran 2,400px. Every card stays in the page and in the tab order. */
+@media (max-width: 560px) {
+  #free-articles .learn-grid { display: grid; grid-auto-flow: column; grid-auto-columns: 82%; grid-template-columns: none;
+    overflow-x: auto; scroll-snap-type: x mandatory; gap: 14px; padding: 4px 2px 14px; -webkit-overflow-scrolling: touch; overscroll-behavior-x: contain; }
+  #free-articles .learn-card { scroll-snap-align: start; }
+}
 /* Phones: a small cover beside the text instead of a full-width cover on top.
    Full width, each card ran about 735px, so four guides took 3,000px of the
    homepage before the reader reached the free calculators. */
