@@ -4600,6 +4600,8 @@ The European Working Group on Sarcopenia in Older People (EWGSOP2) leads with lo
 
 On average, not much. A 2026 meta-analysis pooled ten studies with 660 people on semaglutide and found a grip change of −0.16 kg, too small to tell apart from no change (95% confidence interval −1.98 to 1.65 kg). [6] However, the studies disagreed widely: the range expected for a new study ran from about 6 kg lost to 6 kg gained. The authors rated the evidence very low certainty, mostly because the studies had no comparison group. An average near zero therefore says little about you. Retesting every four weeks shows which side of that range you are on.
 
+A 2026 study in Cell Reports Medicine points the same way. In obese mice, GLP-1 medicines lowered absolute muscle mass and strength but raised strength relative to body weight, and the mice ran better. In a small proof-of-concept trial, patients with obesity improved their body composition without losing strength. [7] Strength relative to body weight can rise while the absolute number falls, so watch both.
+
 ## Frequently asked
 
 **Q:** What is a normal grip strength?
@@ -4627,3 +4629,5 @@ Every four weeks is enough to see a trend without chasing day-to-day noise. Use 
 - Dodds RM, Syddall HE, Cooper R, et al. Grip strength across the life course: normative data from twelve British studies. PLOS ONE. 2014;9(12):e113637. doi.org/10.1371/journal.pone.0113637
 
 - Machado LG, Siedschlag Schmidt PH, Tasca Petroski G, et al. Changes in muscle strength following semaglutide treatment in adults: a systematic review with meta-analysis of handgrip strength. Diabetes, Obesity & Metabolism. 2026. doi.org/10.1111/dom.71432
+
+- Langer HT, Gilmore NK, Hayden CMT, et al. Weight loss with GLP-1 medicines does not result in a disproportionate loss of muscle mass or function in obese mice and humans. Cell Reports Medicine. 2026;7(3):102665. doi.org/10.1016/j.xcrm.2026.102665
