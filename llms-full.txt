@@ -1188,7 +1188,7 @@ Mechanical loading is the best-supported lever. In a randomized trial of 160 old
 # GLP-1 dose schedules, side by side
 
 URL: https://getmuscleonglp.com/learn/glp1-dose-schedules/
-Updated: 2026-08-13
+Updated: 2026-10-27
 
 Reference
 
@@ -1234,13 +1234,13 @@ Retatrutide, sometimes shortened to reta, is a triple agonist that has produced 
 
 That means there is no labeled dose schedule for retatrutide. None. What circulates online under that name is not a pharmaceutical product: it has not been through the identity, purity, potency, and sterility controls that approval requires, it is not dispensed by a pharmacy, and nobody is accountable for what is in the vial. The dose charts published by vendors selling it are marketing, not labeling, and we are not going to reproduce them here.
 
-What can be reported honestly is what Lilly measured in the Phase 3 TRIUMPH-1 trial, under medical supervision, in people who were enrolled and monitored. Three doses were studied against placebo, with results at 80 weeks:
+What can be reported honestly is what Lilly measured in the Phase 3 TRIUMPH-1 trial, under medical supervision, in people who were enrolled and monitored. Three doses were studied against placebo for 80 weeks. The trial was published in the New England Journal of Medicine in September 2026, and its primary analysis counts everyone randomized, including people who stopped the drug. [4] Lilly's earlier release reported higher figures from a different analysis. [3]
 
-Trial armWeight loss at 80 weeks Retatrutide 4 mg19.0% (47.2 lb) Retatrutide 9 mg25.9% (64.4 lb) Retatrutide 12 mg28.3% (70.3 lb) Placebo2.2% (5.5 lb)
+Trial armPublished, all randomizedLilly release Retatrutide 4 mg17.6%19.0% Retatrutide 9 mg23.7%25.9% Retatrutide 12 mg25.0%28.3% Placebo3.9%2.2%
 
-In a pre-specified extension for participants with a baseline BMI of 35 or above, those continuing on the highest dose averaged 30.3 percent, about 85 pounds, at 104 weeks. Those are trial arms in a supervised study, not a titration plan, and the gap between the two is the entire point of this section.
+Lilly's release also reported that, in a pre-specified extension for participants with a baseline BMI of 35 or above, those continuing on the highest dose averaged 30.3 percent, about 85 pounds, at 104 weeks. [3] Those are trial arms in a supervised study, not a titration plan, and the gap between the two is the entire point of this section.
 
-Lilly's release did not report lean mass or muscle outcomes, which is worth saying out loud rather than filling with a guess. We cover what the trial data does and does not show about lean tissue in retatrutide and muscle loss.
+Neither the release nor the published abstract reports lean mass or muscle outcomes, which is worth saying out loud rather than filling with a guess. We cover what the trial data does and does not show about lean tissue in retatrutide and muscle loss.
 
 ## Why the dose is a muscle question too
 
@@ -1269,6 +1269,8 @@ It is a reference to published labeling, not medical advice. It does not recomme
 - Novo Nordisk. Wegovy (semaglutide) dosing and administration. novomedlink.com
 
 - Eli Lilly and Company. Lilly's triple agonist, retatrutide, delivered powerful weight loss in pivotal Phase 3 obesity trial. 2026. prnewswire.com
+
+- Jastreboff AM, Kaplan LM, Davies MJ, et al. Retatrutide, a triple hormone receptor agonist, for treatment of obesity (TRIUMPH-1). New England Journal of Medicine. Published online September 29, 2026. nejm.org/doi/10.1056/NEJMoa2604169
 
 ---
 
@@ -3289,15 +3291,15 @@ Retatrutide is producing the largest weight loss yet reported for a GLP-1-class 
 
 ## Key takeaways
 
-- Retatrutide is not FDA-approved. It is an investigational triple agonist still in Phase 3 trials as of mid-2026.
+- Retatrutide is not FDA-approved. Eli Lilly plans to file for approval in the first quarter of 2027. [9]
 
 - In the Phase 2 obesity trial, the highest dose produced about 24.2 percent mean weight loss at 48 weeks. [1]
 
-- Topline Phase 3 results (not yet peer-reviewed) report up to 28.3 percent weight loss at 80 weeks, and 30.3 percent in a 104-week extension among people with higher starting BMI. [2]
+- The peer-reviewed Phase 3 TRIUMPH-1 trial reports 25.0 percent mean weight loss at 80 weeks on 12 mg, counting everyone randomized, against 3.9 percent on placebo. [8] Lilly's earlier release put the figure at 28.3 percent using a different analysis. [2]
 
 - A DXA body-composition substudy exists, but only in people with type 2 diabetes, and it did not publish an exact lean-mass percentage the way the tirzepatide SURMOUNT-1 substudy did. [3]
 
-- No composition data has been reported yet from the larger, more relevant Phase 3 obesity-only trials.
+- The published TRIUMPH-1 abstract reports no body-composition (DXA) data, so the lean share of retatrutide weight loss in people without diabetes is still unknown. [8]
 
 Retatrutide (LY3437943) is a once-weekly injectable that activates three receptors at once: GIP, GLP-1, and glucagon. Semaglutide (Ozempic, Wegovy) activates one of those. Tirzepatide (Mounjaro, Zepbound) activates two. The third receptor, glucagon, is what makes retatrutide different, and it is part of why the weight-loss numbers coming out of its trials are larger than anything reported for an approved GLP-1 medication.
 
@@ -3309,9 +3311,9 @@ The Phase 2 obesity trial, published in the New England Journal of Medicine in 2
 
 Average weight loss by dose in the retatrutide phase 2 trial. [1] Compare it with semaglutide and tirzepatide in the GLP-1 weight loss calculator.
 
-More recent, larger numbers come from Eli Lilly's Phase 3 program. On May 21, 2026, the company reported topline results from TRIUMPH-1, an 80-week trial of 2,339 adults with obesity or overweight and at least one weight-related condition, without diabetes. The 12 mg dose averaged about 28.3 percent weight loss at 80 weeks, the 9 mg dose about 25.9 percent, and the 4 mg dose about 19.0 percent, against roughly 2.2 percent on placebo. In a 104-week extension limited to participants with a starting BMI of 35 or higher, the 12 mg group averaged about 30.3 percent loss. [2]
+More recent, larger numbers come from Eli Lilly's Phase 3 program. TRIUMPH-1, an 80-week trial of 2,339 adults with obesity and without diabetes, was published in the New England Journal of Medicine on September 29, 2026. Counting everyone who was randomized (the intention-to-treat analysis, which includes people who stopped the drug), mean weight change was −17.6 percent on 4 mg, −23.7 percent on 9 mg and −25.0 percent on 12 mg, against −3.9 percent on placebo. [8] Lilly's May 2026 topline release reported higher figures (about 28.3 percent on 12 mg) from a different analysis, and about 30.3 percent on 12 mg in a 104-week extension limited to participants with a starting BMI of 35 or higher. That extension figure does not appear in the published abstract. [2]
 
-Two things are worth flagging about that Phase 3 number. First, it is topline, company-reported data from a press release, not yet a peer-reviewed publication with full methods and prespecified statistical detail. Second, retatrutide itself is still investigational: as of mid-2026 it carries no FDA approval, and full regulatory review has not begun for any indication.
+Two things are worth flagging about the Phase 3 result. First, the published abstract reports weight, knee-pain and sleep-apnea outcomes, but no body-composition data. Second, retatrutide is still investigational: it has no FDA approval, and Lilly has said it plans to file in the first quarter of 2027. [9]
 
 ## What the body-composition data actually shows
 
@@ -3319,7 +3321,7 @@ Weight-loss percentages do not tell you what was lost. For that you need a body-
 
 The substudy, led by Coskun and colleagues and published in The Lancet Diabetes & Endocrinology in 2025, enrolled 189 people with type 2 diabetes as part of a separate Phase 2 trial, with 103 completing baseline and 36-week DXA scans. Retatrutide produced dose-dependent fat-mass reductions of about 4.9 percent at 0.5 mg, 15.2 percent at 4 mg, 26.1 percent at 8 mg, and 23.2 percent at 12 mg, all clearly ahead of placebo (4.5 percent) and the comparator dulaglutide (2.6 percent). On lean mass specifically, the authors reported that the proportion of lean mass lost relative to total weight lost was similar to other obesity treatments, but the published abstract does not give a single precise lean-mass percentage the way the SURMOUNT-1 tirzepatide substudy reported "about 26 percent" of tirzepatide's weight loss as lean tissue. [3] [4]
 
-That is a meaningfully different population from the one asking this question. People with type 2 diabetes differ from the general obesity population in insulin sensitivity, baseline muscle mass, and typically age, all of which can affect how much lean tissue is lost during rapid weight loss. It is a real data point, and a reassuring one on its face, but it is not a substitute for a composition substudy inside the obesity-only trials, including TRIUMPH-1, which as of this writing has reported no DXA or lean-mass figures at all. [2]
+That is a meaningfully different population from the one asking this question. People with type 2 diabetes differ from the general obesity population in insulin sensitivity, baseline muscle mass, and typically age, all of which can affect how much lean tissue is lost during rapid weight loss. It is a real data point, and a reassuring one on its face, but it is not a substitute for a composition substudy inside the obesity-only trials, including TRIUMPH-1, whose published abstract reports no DXA or lean-mass figures. [8]
 
 ## Why the size of the loss raises the stakes
 
@@ -3335,7 +3337,7 @@ Hitting a protein target on an appetite that a triple agonist has suppressed har
 
 ## What the evidence does not say
 
-Several honest limits apply to everything above. The Phase 3 TRIUMPH-1 figures are topline, company-announced results, not a peer-reviewed publication; the numbers could shift, and important detail (confidence intervals, full adverse-event accounting, subgroup breakdowns) is not yet public. No DXA or other body-composition data has been reported from TRIUMPH-1 or any other retatrutide obesity trial as of this writing, so every claim about the fat-to-lean ratio of retatrutide weight loss in a non-diabetic population is an extrapolation from a different drug or a different population, not a direct finding. The one composition substudy that does exist was conducted in people with type 2 diabetes over 36 weeks, a shorter window and a different metabolic context than the 80-to-104-week obesity trials generating the largest headline numbers. And retatrutide is not FDA-approved; nothing here is guidance for obtaining or using an unapproved drug, and this article provides no dosing or titration information.
+Several honest limits apply to everything above. The TRIUMPH-1 figures here come from the published abstract and Lilly's earlier release, and the 104-week extension figure appears only in the release. No DXA or other body-composition data appears in the TRIUMPH-1 abstract or in any other retatrutide obesity trial we could find as of October 2026, so every claim about the fat-to-lean ratio of retatrutide weight loss in a non-diabetic population is an extrapolation from a different drug or a different population, not a direct finding. The one composition substudy that does exist was conducted in people with type 2 diabetes over 36 weeks, a shorter window and a different metabolic context than the 80-to-104-week obesity trials generating the largest headline numbers. And retatrutide is not FDA-approved; nothing here is guidance for obtaining or using an unapproved drug, and this article provides no dosing or titration information.
 
 ## The bottom line
 
@@ -3353,13 +3355,13 @@ That cannot be answered from published data yet. Retatrutide produces more total
 
 **Q:** Is retatrutide FDA approved?
 
-No. As of mid-2026, retatrutide is not approved by the FDA for any use. It remains an investigational drug in Eli Lilly's Phase 3 program, with topline results reported for several trials and full peer-reviewed publications still pending for most of them.
+No. As of October 2026, retatrutide is not approved by the FDA for any use. The first Phase 3 obesity trial (TRIUMPH-1) was published in the New England Journal of Medicine in September 2026, and Eli Lilly has said it plans to submit an FDA application in the first quarter of 2027.
 
 ## References
 
 - Jastreboff AM, Kaplan LM, Frías JP, et al. Triple-hormone-receptor agonist retatrutide for obesity: a Phase 2 trial. New England Journal of Medicine. 2023;389(6):514-526. pubmed.ncbi.nlm.nih.gov/37366315
 
-- Eli Lilly and Company. Lilly's triple agonist, retatrutide, delivered powerful weight loss in pivotal Phase 3 obesity trial (TRIUMPH-1, NCT05929066; topline results, not yet peer-reviewed). Press release, May 21, 2026. prnewswire.com
+- Eli Lilly and Company. Lilly's triple agonist, retatrutide, delivered powerful weight loss in pivotal Phase 3 obesity trial (TRIUMPH-1, NCT05929066; topline results). Press release, May 21, 2026. prnewswire.com
 
 - Coskun T, Wu Q, Schloot NC, et al. Effects of retatrutide on body composition in people with type 2 diabetes: a substudy of a phase 2, double-blind, parallel-group, placebo-controlled, randomised trial. The Lancet Diabetes & Endocrinology. 2025;13(8):674-684. pubmed.ncbi.nlm.nih.gov/40609566
 
@@ -3370,6 +3372,10 @@ No. As of mid-2026, retatrutide is not approved by the FDA for any use. It remai
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
 - Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+
+- Jastreboff AM, Kaplan LM, Davies MJ, et al. Retatrutide, a triple hormone receptor agonist, for treatment of obesity (TRIUMPH-1, NCT05929066). New England Journal of Medicine. Published online September 29, 2026. nejm.org/doi/10.1056/NEJMoa2604169
+
+- Jensen K. Lilly, with new data, to seek FDA approval of obesity drug retatrutide. BioPharma Dive. July 23, 2026. biopharmadive.com
 
 ---
 
