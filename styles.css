@@ -913,6 +913,8 @@ form#calc.pf { overflow: visible; }
 .sr-timer.running .sr-timer-t { color: var(--accent-text-strong); }
 .sr-timer.counting .sr-timer-t { color: #b7791f; }
 .sr-verdict { margin: 10px 0 0; font-size: var(--fs-body); color: var(--ink); }
+.sr-age { margin: 6px 0 0; font-size: 0.92rem; color: var(--ink-soft); }
+.sr-age:empty { display: none; }
 .sr-verdict.sr-low { color: #b7791f; font-weight: 600; }
 .sr-row:has(.sr-low) .sr-fill { background: #b7791f; }
 @media (prefers-color-scheme: dark) { .sr-verdict.sr-low { color: #e0a63c; } .sr-row:has(.sr-low) .sr-fill { background: #e0a63c; } }
