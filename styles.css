@@ -308,7 +308,7 @@ img { max-width: 100%; display: block; }
 .price-top .was { opacity: .7; text-decoration: line-through; }
 .price-body { padding: 30px 32px 34px; }
 .price-body ul { list-style: none; display: grid; gap: 13px; margin-bottom: 26px; }
-.price-body li { display: flex; gap: 12px; align-items: flex-start; }
+.price-body li { display: flex; gap: 12px; align-items: flex-start; text-align: left; }
 .price-body svg { flex: none; margin-top: 3px; color: var(--accent-text); }
 .price-body .btn { width: 100%; justify-content: center; }
 .guarantee { text-align: center; margin-top: 16px; font-size: 0.95rem; color: var(--ink-soft); }
@@ -368,6 +368,13 @@ img { max-width: 100%; display: block; }
 .gc-pages { font-size: 0.95rem; color: var(--ink-soft); }
 .gc-body .btn { width: 100%; justify-content: center; }
 .gc-body .checkout-status { margin-top: 10px; font-size: 0.8rem; }
+/* Phones: the buy buttons kept their 40px side padding inside a 259px card
+   body, which left about 180px for the label and wrapped every one onto two
+   lines. Less padding keeps them one line and the same tap height. */
+@media (max-width: 560px) {
+  .price-body { padding-left: 20px; padding-right: 20px; }
+  .price-body .btn-lg { padding: 17px 14px; font-size: 1rem; width: 100%; justify-content: center; }
+}
 /* Phones: the homepage's eight free articles become a swipe row, with the
    next card showing at the edge so the row reads as scrollable. Stacked, they
    ran 2,400px. Every card stays in the page and in the tab order. */
