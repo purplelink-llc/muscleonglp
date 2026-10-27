@@ -2196,9 +2196,9 @@ Each chart below is drawn only from the cited figures above, so you can reuse it
 
 Lean mass as a share of total weight lost on a GLP-1. Source: Neeland 2024. [5]
 
-Average percent weight loss by drug and dose in its main trial. Sources: STEP 1, STEP 2, SURMOUNT-1. [1–17] Apply these to your own weight with the GLP-1 weight loss calculator.
+Average percent weight loss by drug and dose in its main trial. Sources: STEP 1, STEP 2, SURMOUNT-1. [1–18] Apply these to your own weight with the GLP-1 weight loss calculator.
 
-STEP 1 extension: about two thirds of the lost weight returned within a year of stopping semaglutide. Lines join the three measured averages; the path between them was not reported in this form. Source: Wilding 2022. [14] Run your own numbers with the weight-regain calculator.
+STEP 1 extension: about two thirds of the lost weight returned within a year of stopping semaglutide. Lines join the three measured averages; the path between them was not reported in this form. Source: Wilding 2022. [15] Run your own numbers with the weight-regain calculator.
 
 ## How to cite or reuse these figures
 
@@ -2225,6 +2225,8 @@ Want the number scaled to your own weight? The free calculator applies the prote
 - Wharton S, Aronne LJ, Stefanski A, et al. Orforglipron, an oral small-molecule GLP-1 receptor agonist for obesity treatment (ATTAIN-1). New England Journal of Medicine. 2025;393(18):1796–1806. doi.org/10.1056/NEJMoa2511774
 
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+
+- Wilding JPH, Batterham RL, Calanna S, et al. Impact of semaglutide on body composition in adults with overweight or obesity: exploratory analysis of the STEP 1 study. Journal of the Endocrine Society. 2021;5(Suppl 1):A16. doi.org/10.1210/jendso/bvab048.030
 
 - Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
 
