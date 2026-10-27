@@ -149,7 +149,7 @@ img { max-width: 100%; display: block; }
 .hero-trust svg { flex: none; color: var(--accent-text); }
 .hero-visual { position: relative; display: grid; place-items: center; }
 .hero-stack { position: relative; display: inline-block; }
-.hero-cover { position: relative; z-index: 2; display: block; width: min(420px, 100%); border-radius: 14px; box-shadow: var(--shadow-lg); transform: rotate(2.5deg); transition: transform .4s cubic-bezier(.22,1,.36,1); border: 1px solid var(--line); }
+.hero-cover { position: relative; z-index: 2; display: block; width: min(420px, 100%); height: auto; border-radius: 14px; box-shadow: var(--shadow-lg); transform: rotate(2.5deg); transition: transform .4s cubic-bezier(.22,1,.36,1); border: 1px solid var(--line); }
 .hero-cover:hover { transform: rotate(0deg) translateY(-4px); }
 .hero-page { position: absolute; inset: 0; z-index: 1; border-radius: 14px; background: #fff; border: 1px solid var(--line); box-shadow: var(--shadow-md); }
 .hero-page-1 { transform: rotate(6.5deg) translate(16px, 8px); }
