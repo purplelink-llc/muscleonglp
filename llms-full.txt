@@ -1339,6 +1339,10 @@ Emerging research
 
 Muscle is not the only tissue that shrinks when weight comes off quickly. Bone does too, and it has been measured. Here is what has actually been recorded in GLP-1 users, what is borrowed from other weight-loss research, and why the fracture evidence points in two directions at once.
 
+## The short answer
+
+Some, mostly at the hip, and much of it comes from weight loss itself. Diet-only weight loss trims hip bone density by about 0.010 to 0.015 g/cm². [1] In a 52-week trial in 64 adults at high fracture risk, semaglutide lowered total hip density 0.020 g/cm² more than placebo. [2] Whether that means more broken bones is unproven.
+
 ## Key takeaways
 
 - Diet-induced weight loss reduces hip bone density even without any medication. A meta-analysis of 41 trials found decreases of about 0.010 to 0.015 g/cm² at the total hip, with no consistent change at the spine or whole body. [1]
@@ -1363,7 +1367,7 @@ This is not theoretical. A systematic review and meta-analysis of 41 clinical tr
 
 That is the baseline against which any GLP-1-specific finding should be read. Some bone loss during substantial weight loss is expected, medication or not. The question is whether GLP-1 therapy adds to it.
 
-## What has actually been measured in GLP-1 users
+## Do GLP-1s cause bone loss? What has been measured
 
 The most direct evidence comes from a randomized, double-blinded, two-centre phase 2 trial published in 2024. Sixty-four adults, 86 percent of them postmenopausal women with a mean age of 63, all with a T-score below minus 1.0 at the hip or spine or a prior low-energy fracture, received weekly semaglutide 1.0 mg or placebo for 52 weeks. Semaglutide produced 6.8 kg more weight loss than placebo. It also produced significantly greater declines in lumbar spine areal bone density (a difference of minus 0.018 g/cm², p = 0.007) and total hip density (minus 0.020 g/cm², p = 0.001). Femoral neck density did not differ significantly. Tibial cortical thickness fell by a relative 1.8 percent in the semaglutide group. The trial's primary outcome, the bone formation marker P1NP, showed no difference, but the resorption marker CTX rose significantly in the semaglutide group. [2]
 
@@ -1431,7 +1435,7 @@ Bone density falls during substantial weight loss whether or not a medication is
 
 **Q:** Do GLP-1 medications cause bone loss?
 
-Some bone density loss has been measured. In a 52-week randomized trial of 64 adults who already had low bone density or a prior low-energy fracture, weekly semaglutide produced significantly larger declines in lumbar spine and total hip bone density than placebo, alongside a rise in a bone resorption marker. A smaller 20-week pilot in older adults found no significant between-group difference in bone density, and a retrospective DXA study found that people on semaglutide or tirzepatide lost bone at broadly the same rate as matched non-users. Bone loss also accompanies diet-induced weight loss without any medication, so it is not clear how much of the effect is the drug rather than the weight loss itself.
+Some, mostly at the hip, and much of it comes from the weight loss itself. In a 52-week randomized trial of 64 adults who already had low bone density or a prior low-energy fracture, weekly semaglutide lowered total hip bone density by 0.020 g/cm² and lumbar spine density by 0.018 g/cm² more than placebo, alongside a rise in a bone resorption marker. A smaller 20-week pilot in older adults found no significant between-group difference in bone density, and a retrospective DXA study found that people on semaglutide or tirzepatide lost bone at broadly the same rate as matched non-users. Bone loss also accompanies diet-induced weight loss without any medication, so it is not clear how much of the effect is the drug rather than the weight loss itself.
 
 **Q:** Does taking a GLP-1 increase your risk of breaking a bone?
 
@@ -2293,11 +2297,15 @@ Constipation was among the most common side effects in the semaglutide trials, a
 # The GLP-1 micronutrient checklist: vitamin D, B12, and iron
 
 URL: https://getmuscleonglp.com/learn/glp1-micronutrients-vitamin-d-b12-iron/
-Updated: 2026-07-16
+Updated: 2026-10-27
 
 Nutrition
 
 Eating far less changes more than the number on the scale. Here is what the actual incidence data says about running low on vitamin D, B12, and iron on a GLP-1, why it matters for muscle and energy, and food-first ways to close the gap.
+
+## The short answer
+
+Not directly, but eating far less raises your risk. In 461,382 new GLP-1 users, 13.6 percent had vitamin D deficiency diagnosed within a year. [1] Users also had 26 to 30 percent lower ferritin than SGLT2-inhibitor users, and B12 deficits grew with time on treatment. [2] On metformin? Low or borderline B12 was twice as common versus placebo, so ask about testing. [3]
 
 ## Key takeaways
 
@@ -2307,9 +2315,9 @@ Eating far less changes more than the number on the scale. Here is what the actu
 
 - A separate review found GLP-1 users had 26 to 30 percent lower ferritin levels than comparable diabetes-medication users, and over 60 percent consumed below the estimated requirement for iron. [2]
 
-- People with obesity already carry a higher baseline risk of vitamin D deficiency before starting any medication. [3]
+- People with obesity already carry a higher baseline risk of vitamin D deficiency before starting any medication. [4]
 
-- Vitamin D and iron status are mechanistically tied to muscle strength and physical function, not just general health. [4] [5]
+- Vitamin D and iron status are mechanistically tied to muscle strength and physical function, not just general health. [5] [6]
 
 Most of the attention on GLP-1 side effects goes to nausea, muscle loss, and the scale. Micronutrients get less coverage, but the mechanism that puts them at risk is the same one behind everything else: you are eating a fraction of what you used to, for months at a time, and a smaller volume of food carries a smaller total supply of vitamins and minerals, even when the food itself is reasonably healthy.
 
@@ -2325,25 +2333,25 @@ Two things are worth noting about these numbers. First, they come from real-worl
 
 ## Vitamin D: already a risk before the medication
 
-Vitamin D deficiency is not new to people carrying excess body fat. A meta-analysis of 23 studies found the prevalence of vitamin D deficiency was 35 percent higher in people with obesity than in people at a healthy weight, and 24 percent higher than in people who were overweight, a pattern the authors attributed partly to vitamin D being fat-soluble and sequestered in adipose tissue rather than circulating in blood. [3] A GLP-1-driven drop in food intake adds a second layer of risk on top of that baseline.
+Vitamin D deficiency is not new to people carrying excess body fat. A meta-analysis of 23 studies found the prevalence of vitamin D deficiency was 35 percent higher in people with obesity than in people at a healthy weight, and 24 percent higher than in people who were overweight, a pattern the authors attributed partly to vitamin D being fat-soluble and sequestered in adipose tissue rather than circulating in blood. [4] A GLP-1-driven drop in food intake adds a second layer of risk on top of that baseline.
 
-The muscle connection is direct, not incidental. Low serum vitamin D is consistently associated with decreased muscle strength, reduced physical performance, and a higher prevalence of sarcopenia, acting through pathways that affect calcium handling, mitochondrial function, and oxidative stress inside muscle tissue itself. [4] For someone already working to protect lean mass through training and protein, a vitamin D shortfall works against that effort at the cellular level, not just on a lab report.
+The muscle connection is direct, not incidental. Low serum vitamin D is consistently associated with decreased muscle strength, reduced physical performance, and a higher prevalence of sarcopenia, acting through pathways that affect calcium handling, mitochondrial function, and oxidative stress inside muscle tissue itself. [5] For someone already working to protect lean mass through training and protein, a vitamin D shortfall works against that effort at the cellular level, not just on a lab report.
 
-The adult RDA is 600 IU (15 mcg) per day through age 70, rising to 800 IU (20 mcg) after 70. Food sources are limited but real: fatty fish like sockeye salmon (about 570 IU per 3-ounce cooked serving) or farmed trout (about 645 IU), UV-exposed mushrooms, and fortified milk or plant milk (around 100 to 144 IU per cup). [6] Because food sources alone rarely close a real deficit, this is one of the nutrients most worth asking your clinician about testing, particularly given how common a baseline deficiency already is in this population.
+The adult RDA is 600 IU (15 mcg) per day through age 70, rising to 800 IU (20 mcg) after 70. Food sources are limited but real: fatty fish like sockeye salmon (about 570 IU per 3-ounce cooked serving) or farmed trout (about 645 IU), UV-exposed mushrooms, and fortified milk or plant milk (around 100 to 144 IU per cup). [7] Because food sources alone rarely close a real deficit, this is one of the nutrients most worth asking your clinician about testing, particularly given how common a baseline deficiency already is in this population.
 
-## Vitamin B12: the slow-building risk
+## Does a GLP-1 cause B12 deficiency?
 
-B12 deficiency tends to develop quietly. The body stores several years' worth, so symptoms, fatigue, weakness, and in more advanced cases nerve-related issues, can take a long time to appear even after intake drops. [7] That lag is exactly why the review above found cobalamin deficits increasing the longer someone stayed on a GLP-1: the effect compounds with time on therapy rather than showing up early.
+B12 deficiency tends to develop quietly. The body stores several years' worth, so symptoms, fatigue, weakness, and in more advanced cases nerve-related issues, can take a long time to appear even after intake drops. [8] That lag is exactly why the review above found cobalamin deficits increasing the longer someone stayed on a GLP-1: the effect compounds with time on therapy rather than showing up early.
 
-B12 sits almost entirely in animal foods, which matters directly for GLP-1 users, since meat is often one of the first foods people find hard to tolerate on a suppressed appetite. The RDA is 2.4 mcg per day. A 3-ounce serving of clams supplies roughly 17 mcg, oysters about 15 mcg, salmon about 2.6 mcg, and a cup of milk or fortified cereal a smaller but still meaningful amount. [7] For the large share of GLP-1 users who also have type 2 diabetes, it is worth knowing that long-term metformin use independently reduces B12 absorption, so someone on both drugs carries two separate reasons for lower B12, not one. [7]
+B12 sits almost entirely in animal foods, which matters directly for GLP-1 users, since meat is often one of the first foods people find hard to tolerate on a suppressed appetite. The RDA is 2.4 mcg per day. A 3-ounce serving of clams supplies roughly 17 mcg, oysters about 15 mcg, salmon about 2.6 mcg, and a cup of milk or fortified cereal a smaller but still meaningful amount. [8] For the large share of GLP-1 users who also have type 2 diabetes, it is worth knowing that metformin is a well-known drug cause of low B12. [8] In the long-term follow-up of a large diabetes prevention trial, low or borderline B12 was about twice as common on metformin as on placebo at five years (19.1 versus 9.5 percent), and each year of metformin use raised the odds of deficiency by about 13 percent. The authors concluded that routine B12 testing should be considered for people taking metformin. [3] If you take both drugs, you carry two separate reasons for lower B12, not one.
 
 ## Iron: the nutrient with the clearest deficit
 
 Of the three nutrients here, iron has the most consistent real-world signal. The 26 to 30 percent lower ferritin levels and the finding that over 60 percent of users fell below the estimated iron requirement are not edge cases; they describe a large share of the studied population. [2]
 
-Iron deficiency, even without full-blown anemia, has a documented effect on muscle function specifically. In a study of 224 older hospitalized patients, those with iron deficiency showed a clear pattern of fatigue and slower functional recovery, and iron supplementation during the hospital stay was the strongest predictor of improved knee extension strength. [5] The mechanism is straightforward: iron is required for oxygen transport and for enzymes inside muscle cells that generate usable energy, so a shortfall shows up as fatigue and reduced exercise capacity before it shows up as a diagnosed anemia.
+Iron deficiency, even without full-blown anemia, has a documented effect on muscle function specifically. In a study of 224 older hospitalized patients, those with iron deficiency showed a clear pattern of fatigue and slower functional recovery, and iron supplementation during the hospital stay was the strongest predictor of improved knee extension strength. [6] The mechanism is straightforward: iron is required for oxygen transport and for enzymes inside muscle cells that generate usable energy, so a shortfall shows up as fatigue and reduced exercise capacity before it shows up as a diagnosed anemia.
 
-The RDA is 8 mg per day for adult men and postmenopausal women, and 18 mg for women aged 19 to 50. Heme iron, the form in animal foods, is better absorbed: oysters supply about 8 mg per 3-ounce serving, beef liver about 5 mg, and braised beef about 2 mg. Plant sources, lentils, white beans, spinach, and fortified cereal, provide non-heme iron, which absorbs less efficiently but adds up when paired with a source of vitamin C at the same meal. [8]
+The RDA is 8 mg per day for adult men and postmenopausal women, and 18 mg for women aged 19 to 50. Heme iron, the form in animal foods, is better absorbed: oysters supply about 8 mg per 3-ounce serving, beef liver about 5 mg, and braised beef about 2 mg. Plant sources, lentils, white beans, spinach, and fortified cereal, provide non-heme iron, which absorbs less efficiently but adds up when paired with a source of vitamin C at the same meal. [9]
 
 ## A food-first approach that fits a small appetite
 
@@ -2373,11 +2381,21 @@ Vitamin D, iron, and B vitamins including B12 show up most consistently in the r
 
 Often yes, with deliberate choices, since a small number of nutrient-dense foods, fatty fish, eggs, fortified dairy, shellfish, and lean red meat, cover a large share of the vitamin D, B12, and iron target in a small volume of food. Persistent fatigue, or lab work ordered by your clinician showing a deficiency, is a signal to discuss supplementation rather than relying on food alone.
 
+**Q:** Does a GLP-1 cause B12 deficiency?
+
+Not directly, and the signal is weaker than for vitamin D or iron. A 2026 review found B12 deficits tended to grow the longer people stayed on a GLP-1, but it gave no single percentage. A well-known drug cause of low B12 is metformin, which many GLP-1 users with type 2 diabetes also take. In a long-term diabetes prevention trial, low or borderline B12 was about twice as common on metformin as on placebo at five years (19.1 versus 9.5 percent), and each extra year of metformin raised the odds of deficiency. B12 also comes almost entirely from animal foods, which many people find harder to eat on a suppressed appetite.
+
+**Q:** Who should get vitamin D, B12, or iron tested on a GLP-1?
+
+Ask your clinician about testing if you feel persistently tired, have been eating very little for months, or fit a higher-risk group. Vitamin D deficiency is about 35 percent more common in people with obesity, before any medication. If you also take metformin, the authors of the long-term metformin trial advise that routine B12 testing be considered. Ferritin (stored iron) is worth checking because GLP-1 users ran 26 to 30 percent lower than a comparison group. Testing decisions belong with your clinician.
+
 ## References
 
 - Butsch WS, et al. Nutritional deficiencies and muscle loss in adults with type 2 diabetes using GLP-1 receptor agonists: a retrospective observational study. Obesity Pillars. 2025;15:100186. doi.org/10.1016/j.obpill.2025.100186
 
 - Urbina J, Salinas-Ruiz LE, Valenciano C, Clapp B. Micronutrient and nutritional deficiencies associated with GLP-1 receptor agonist therapy: a narrative review. Clinical Obesity. 2026;16(1):e70070. doi.org/10.1111/cob.70070
+
+- Aroda VR, Edelstein SL, Goldberg RB, et al. Long-term metformin use and vitamin B12 deficiency in the Diabetes Prevention Program Outcomes Study. Journal of Clinical Endocrinology & Metabolism. 2016;101(4):1754-1761. doi.org/10.1210/jc.2015-3754
 
 - Pereira-Santos M, Costa PRF, Assis AMO, Santos CAST, Santos DB. Obesity and vitamin D deficiency: a systematic review and meta-analysis. Obesity Reviews. 2015;16(4):341-349. doi.org/10.1111/obr.12239
 
@@ -2883,21 +2901,25 @@ The best-studied habits are regular endurance training and yoga, which lowered r
 # GLP-1s, rapid weight loss, and tendon or joint health: what's known
 
 URL: https://getmuscleonglp.com/learn/glp1-tendon-joint-injury-risk/
-Updated: 2026-07-17
+Updated: 2026-10-27
 
 Emerging research
 
 Losing weight fast changes how much load your joints and connective tissue carry. This is a genuinely emerging question: direct evidence on GLP-1s and tendon injury is thin and mostly preliminary. Here is what has, and has not, actually been studied.
 
+## The short answer
+
+Not proven. A 2026 conference analysis (not yet peer reviewed) linked GLP-1 use in obesity to moderately more shoulder, Achilles and chest tendon ruptures, at low absolute rates. [1] Peer-reviewed studies found users did no worse after tendon repair surgery. [2] [3] Knees gain: in older adults with knee arthritis, each kilogram lost took about 40 newtons off the knee while walking. [4]
+
 ## Key takeaways
 
-- Weight loss reduces mechanical load on the knee in a well-established way: each kilogram lost is associated with roughly a fourfold reduction in compressive force during walking. [1]
+- Weight loss reduces mechanical load on the knee in a well-established way: each kilogram lost is associated with roughly a fourfold reduction in compressive force during walking. [4]
 
-- Direct, peer-reviewed evidence that GLP-1s injure tendons is sparse. The clearest signal so far is a 2026 conference presentation that has not completed peer review.
+- Direct, peer-reviewed evidence that GLP-1s injure tendons is sparse. The clearest signal so far is a 2026 conference presentation that has not completed peer review. [1]
 
-- A peer-reviewed, matched analysis of more than 73,000 GLP-1 users with type 2 diabetes and obesity found meaningfully higher five-year rates of osteoporosis, gout, and osteomalacia versus matched non-users. [2]
+- A matched analysis of more than 73,000 GLP-1 users with type 2 diabetes and obesity, also presented at the 2026 meeting and not yet peer reviewed, found higher five-year rates of osteoporosis, gout, and osteomalacia versus matched non-users. [5]
 
-- Two small studies of tendon-repair surgery outcomes found GLP-1 users did not fare worse than non-users, and on some measures did better. [3] [4]
+- Two small studies of tendon-repair surgery outcomes found GLP-1 users did not fare worse than non-users, and on some measures did better. [2] [3]
 
 - No dedicated, peer-reviewed trial has isolated tendon-injury risk in GLP-1 users specifically; resistance training and adequate protein remain the two evidence-based ways to support connective tissue during rapid weight loss.
 
@@ -2907,27 +2929,27 @@ The honest answer is that this is an emerging area, not a settled one. Some of w
 
 ## The joint-loading upside is well established
 
-Start with the good news, because it is easy to lose sight of it in a discussion about risk. Carrying less body weight means less mechanical load on weight-bearing joints, and this relationship has been measured directly. In a study of 142 older adults with knee osteoarthritis who completed an 18-month diet-and-exercise trial, researchers used 3D gait analysis to measure the forces moving through the knee while walking. Each kilogram of body weight lost was associated with about a 40.6-newton reduction in compressive force on the knee, roughly a fourfold reduction in load relative to the amount of weight lost. [1]
+Start with the good news, because it is easy to lose sight of it in a discussion about risk. Carrying less body weight means less mechanical load on weight-bearing joints, and this relationship has been measured directly. In a study of 142 older adults with knee osteoarthritis who completed an 18-month diet-and-exercise trial, researchers used 3D gait analysis to measure the forces moving through the knee while walking. Each kilogram of body weight lost was associated with about a 40.6-newton reduction in compressive force on the knee, roughly a fourfold reduction in load relative to the amount of weight lost. [4]
 
 That relationship compounds over thousands of steps a day. For someone with knee osteoarthritis or early joint wear, the weight loss a GLP-1 produces is, mechanically, a genuine break for the joint. This part of the picture is not in question.
 
 ## What rapid weight loss can do to connective tissue, generally
 
-Tendons and ligaments are different tissue from cartilage and bone, and they depend heavily on collagen, the structural protein that gives connective tissue its tensile strength. Collagen turns over slowly, and there is real evidence that fast, large-scale weight loss can outpace it. The clearest data comes not from GLP-1 users but from bariatric surgery patients. In a study of skin samples taken during body-contouring procedures roughly 20 months after surgery, following an average weight loss of about 132 pounds, histological analysis found poorly organized collagen structure, elastin degradation, and scarring in tissue that looked normal on the surface. [5]
+Tendons and ligaments are different tissue from cartilage and bone, and they depend heavily on collagen, the structural protein that gives connective tissue its tensile strength. Collagen turns over slowly, and there is real evidence that fast, large-scale weight loss can outpace it. The clearest data comes not from GLP-1 users but from bariatric surgery patients. In a study of skin samples taken during body-contouring procedures roughly 20 months after surgery, following an average weight loss of about 132 pounds, histological analysis found poorly organized collagen structure, elastin degradation, and scarring in tissue that looked normal on the surface. [6]
 
 That study looked at skin, not tendon, and bariatric surgery is a different intervention than a GLP-1 medication. The extrapolation is reasonable, since both produce large, fast reductions in body mass and both would be expected to place similar demands on collagen turnover throughout the body, but it is an extrapolation, not a direct finding. Nobody has published a comparable histological study of tendon tissue in GLP-1 users.
 
 ## What has actually been measured in GLP-1 users' bones and joints
 
-The most solid, peer-review-adjacent data point specific to GLP-1 users and the skeleton comes from a large retrospective cohort study presented at the 2026 Annual Meeting of the American Academy of Orthopaedic Surgeons. Researchers matched 73,483 patients with type 2 diabetes and obesity who were treated with a GLP-1 receptor agonist to controls, balancing for age, sex, race, BMI, HbA1c, tobacco use, and comorbid conditions including chronic kidney disease and baseline osteoporosis. After five years, GLP-1 users showed a significantly higher risk of osteoporosis (4.1 percent versus 3.2 percent; risk ratio 1.29), gout (7.4 percent versus 6.6 percent; risk ratio 1.12), and osteomalacia (0.2 percent versus 0.1 percent; risk ratio 2.55), all statistically significant. [2]
+The largest data point specific to GLP-1 users and the skeleton comes from a large retrospective cohort study presented at the 2026 Annual Meeting of the American Academy of Orthopaedic Surgeons. Researchers matched 73,483 patients with type 2 diabetes and obesity who were treated with a GLP-1 receptor agonist to controls, balancing for age, sex, race, BMI, HbA1c, tobacco use, and comorbid conditions including chronic kidney disease and baseline osteoporosis. After five years, GLP-1 users showed a significantly higher risk of osteoporosis (4.1 percent versus 3.2 percent; risk ratio 1.29), gout (7.4 percent versus 6.6 percent; risk ratio 1.12), and osteomalacia (0.2 percent versus 0.1 percent; risk ratio 2.55), all statistically significant. [5]
 
 That study is about bone, not tendon, and it was presented at a conference rather than published as a peer-reviewed article, so it should be read as an early, credible signal rather than a settled finding. But it does establish something concrete: in a large, carefully matched population, GLP-1 use tracked with higher rates of at least one category of skeletal complication over five years. Whether a similar pattern holds for tendon tissue specifically is exactly the open question this article is about.
 
 ## What has, and has not, been studied about tendons specifically
 
-A separate analysis, also presented at the 2026 AAOS meeting and using a different national health-record database, reported statistically significant, moderately higher rates of rotator cuff, Achilles, and pectoralis major tendon ruptures among GLP-1 users with obesity compared with matched non-users, tracked over five years. Absolute rupture rates remained low in both groups. As with the bone-health study above, this is conference-presented data that has not yet completed peer review, and the researchers themselves described it as showing an association, not proof that the medication causes the injuries. [6]
+A separate analysis, also presented at the 2026 AAOS meeting and using a different national health-record database, reported statistically significant, moderately higher rates of rotator cuff, Achilles, and pectoralis major tendon ruptures among GLP-1 users with obesity compared with matched non-users, tracked over five years. Absolute rupture rates remained low in both groups. As with the bone-health study above, this is conference-presented data that has not yet completed peer review, and the researchers themselves described it as showing an association, not proof that the medication causes the injuries. [1]
 
-Set against that, two smaller peer-reviewed studies looking specifically at surgical outcomes in people who already had a tendon injury found no evidence that GLP-1 use makes things worse, and some evidence it may help. In a study of 337 patients who underwent surgical repair of a ruptured Achilles tendon, GLP-1 users had a significantly lower risk of wound infection than non-users (odds ratio 0.19), with numerically lower rates of blood clots, hospital readmission, and reintervention that did not reach statistical significance. [3] In a separate matched-cohort study of arthroscopic rotator cuff repair, GLP-1 users had significantly lower 90-day hospital readmission (2.7 percent versus 3.6 percent) and lower rates of needing a second rotator cuff repair within two years (4.5 percent versus 5.7 percent), with no meaningful difference in infection, pneumonia, blood clots, or emergency visits. [4]
+Set against that, two smaller peer-reviewed studies looking specifically at surgical outcomes in people who already had a tendon injury found no evidence that GLP-1 use makes things worse, and some evidence it may help. In a study of 337 patients who underwent surgical repair of a ruptured Achilles tendon, GLP-1 users had a significantly lower risk of wound infection than non-users (odds ratio 0.19), with numerically lower rates of blood clots, hospital readmission, and reintervention that did not reach statistical significance. [2] In a separate matched-cohort study of arthroscopic rotator cuff repair, GLP-1 users had significantly lower 90-day hospital readmission (2.7 percent versus 3.6 percent) and lower rates of needing a second rotator cuff repair within two years (4.5 percent versus 5.7 percent), with no meaningful difference in infection, pneumonia, blood clots, or emergency visits. [3]
 
 At the cellular level, one 2026 laboratory study found that liraglutide, an older GLP-1 receptor agonist, reduced inflammation and cell stress in tendon cells and improved biomechanical healing strength in a rat model of rotator cuff injury, working through a GLP-1 receptor pathway distinct from the drug's effect on appetite. [7] That is an animal and bench study, not evidence about injury risk in people, but it is a reminder that GLP-1 receptors exist in tendon tissue itself and their effects there are not automatically harmful.
 
@@ -2949,9 +2971,13 @@ Several honest limits apply here. No prospective, peer-reviewed trial has been d
 
 ## The bottom line
 
-Rapid weight loss is unambiguously good news for your joints in the purely mechanical sense: less body mass means less compressive force with every step. Whether it carries a meaningful cost for tendons specifically is a genuinely open question, supported by one preliminary, not-yet-peer-reviewed signal on tendon ruptures, one peer-reviewed and more firmly established signal on bone-related complications, and reassuring, though narrower, surgical-outcomes data on the tendon side. Until dedicated trials exist, the same two habits that protect muscle, resistance training progressed gradually and adequate protein, are also the most defensible way to support tendons and joints through the transition.
+Rapid weight loss is unambiguously good news for your joints in the purely mechanical sense: less body mass means less compressive force with every step. Whether it carries a meaningful cost for tendons specifically is a genuinely open question, supported by one preliminary, not-yet-peer-reviewed signal on tendon ruptures, one larger signal on bone-related complications that is also conference-presented rather than peer reviewed, and reassuring, though narrower, surgical-outcomes data on the tendon side. Until dedicated trials exist, the same two habits that protect muscle, resistance training progressed gradually and adequate protein, are also the most defensible way to support tendons and joints through the transition.
 
 ## Frequently asked
+
+**Q:** Can a GLP-1 cause tendon or joint pain?
+
+No study has shown that GLP-1 medications cause tendon or joint pain directly, and the studies behind this page did not look at pain in a specific spot such as the shoulder or collarbone. The closest signal is a 2026 conference analysis, not yet peer reviewed, that found moderately higher rates of rotator cuff (shoulder), Achilles, and pectoralis major (chest) tendon ruptures in GLP-1 users with obesity, with low absolute rates in both groups. The researchers suggested reasons that have not been tested: less protein in a smaller diet, muscle loss shifting load onto tendons, and ramping up activity faster than tendons adapt. New or lasting tendon or joint pain is worth showing a clinician.
 
 **Q:** Do GLP-1 medications cause tendon injuries?
 
@@ -2967,17 +2993,17 @@ The same two levers with the strongest evidence for muscle also apply here: prog
 
 ## References
 
-- Messier SP, Gutekunst DJ, Davis C, DeVita P. Weight loss reduces knee-joint loads in overweight and obese older adults with knee osteoarthritis. Arthritis & Rheumatism. 2005;52(7):2026-2032. pubmed.ncbi.nlm.nih.gov/15986358
-
-- American Academy of Orthopaedic Surgeons. GLP receptor agonist use is associated with increased risk of osteoporosis, gout and osteomalacia in adults with Type 2 diabetes and obesity (Wajahath M, et al; presented at the 2026 AAOS Annual Meeting, conference presentation, not yet peer-reviewed). Press release, March 2, 2026. aaos-annualmeeting-presskit.org
+- Lawand J, et al. Tendon rupture risk linked with GLP-1 use in patients with obesity (retrospective cohort study using the TriNetX Research Network; presented at the 2026 AAOS Annual Meeting, conference presentation, not yet peer-reviewed). Reported March 2026. poterehealthmd.com
 
 - Rai C, Woodrow J, O'Neill C, et al. Association of GLP-1 receptor agonists with post-operative outcomes after Achilles tendon repair in obese patients. Journal of Foot and Ankle Surgery. 2026;65(4):124.e1-124.e4. pubmed.ncbi.nlm.nih.gov/41690504
 
 - Lauck BJ, Colson CB, Bank NC, et al. Effect of glucagon-like peptide-1 receptor agonists on outcomes and complications following arthroscopic rotator cuff repair: a matched-cohort analysis. Orthopaedic Journal of Sports Medicine. 2026;14(2). pmc.ncbi.nlm.nih.gov/articles/PMC12873108
 
-- Light D, Arvanitis GM, Abramson D, Glasberg SB. Effect of weight loss after bariatric surgery on skin and the extracellular matrix. Plastic and Reconstructive Surgery. 2010;125(1):343-351. pubmed.ncbi.nlm.nih.gov/20048625
+- Messier SP, Gutekunst DJ, Davis C, DeVita P. Weight loss reduces knee-joint loads in overweight and obese older adults with knee osteoarthritis. Arthritis & Rheumatism. 2005;52(7):2026-2032. pubmed.ncbi.nlm.nih.gov/15986358
 
-- Lawand J, et al. Tendon rupture risk linked with GLP-1 use in patients with obesity (retrospective cohort study using the TriNetX Research Network; presented at the 2026 AAOS Annual Meeting, conference presentation, not yet peer-reviewed). Reported March 2026. poterehealthmd.com
+- American Academy of Orthopaedic Surgeons. GLP receptor agonist use is associated with increased risk of osteoporosis, gout and osteomalacia in adults with Type 2 diabetes and obesity (Wajahath M, et al; presented at the 2026 AAOS Annual Meeting, conference presentation, not yet peer-reviewed). Press release, March 2, 2026. aaos-annualmeeting-presskit.org
+
+- Light D, Arvanitis GM, Abramson D, Glasberg SB. Effect of weight loss after bariatric surgery on skin and the extracellular matrix. Plastic and Reconstructive Surgery. 2010;125(1):343-351. pubmed.ncbi.nlm.nih.gov/20048625
 
 - Zhang X, Chi R, Xu J, et al. GLP-1 receptor agonist liraglutide facilitates rotator cuff healing by reducing tendon cell inflammation and endoplasmic reticulum stress through the GLP-1R-AMPK/SIRT1 pathway. International Immunopharmacology. 2026;169:116010. pubmed.ncbi.nlm.nih.gov/41386184
 
