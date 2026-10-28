@@ -54,3 +54,16 @@ protein-on-glp1, signs-of-muscle-loss-glp1, glp1-muscle-loss-women-over-50, glp1
 build-new-muscle-on-glp1. Primary metric: indexing status in Search Console (URL Inspection) by 2026-11-11;
 secondary: impressions and position once indexed. The other three unindexed pages (statistics, Ozempic
 face, home tests) were recrawl-requested without rewrites, a rough comparison group.
+
+## Test 5: answer-first, batch 5 (live at the first scheduled build after merge)
+Short-answer box, answer-first title and meta description with a figure, and a main-question FAQ on:
+- /learn/home-tests-muscle-loss-glp1/ ("which at-home test shows muscle loss on a glp-1"; was "crawled, not indexed")
+- /learn/ozempic-body-face-muscle/ ("is ozempic face muscle loss"; was "crawled, not indexed")
+- /learn/muscle-after-stopping-ozempic/ ("do you regain muscle after stopping ozempic")
+- /learn/ozempic-weight-loss-plateau-muscle/ ("is a glp-1 plateau muscle loss")
+- /learn/dexa-inbody-scan-glp1/ ("is inbody accurate for muscle")
+- /learn/best-protein-shakes-glp1/ ("best protein shake on a glp-1")
+Home tests and Ozempic face were the last two rewrite-free "crawled, not indexed" pages, so test 4's comparison
+group is now only /learn/glp1-muscle-loss-statistics/. Primary metric: Google position and impressions per page,
+28 days before vs after (matched weekdays), minus the control batch from test 1; for the two unindexed pages,
+indexing status first. Read-out: 2026-11-25 or later.
