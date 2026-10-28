@@ -12,6 +12,7 @@ Warnings (exit 0):
   - references not numbered in the order they are first cited
 """
 import glob, html, json, os, re, sys
+from pathlib import Path
 
 SKIP = ("node_modules",)
 
@@ -92,6 +93,15 @@ def main():
                 warnings.append(f"{f}: title {tl} characters")
             if d and not 70 <= dl <= 160:
                 warnings.append(f"{f}: description {dl} characters")
+
+    # Every sitemap URL must be a page that exists (a dated roundup URL once
+    # pointed at a file that was never written and served 404).
+    sm = Path("sitemap.xml")
+    if sm.exists():
+        for loc in re.findall(r"<loc>https://getmuscleonglp\.com/([^<]*)</loc>", sm.read_text(encoding="utf-8")):
+            target = Path(loc) / "index.html" if loc.endswith("/") or loc == "" else Path(loc)
+            if not target.exists():
+                errors.append(f"sitemap.xml lists /{loc}, which has no file")
 
     for w in warnings:
         print("warning:", w)
