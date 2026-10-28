@@ -3224,6 +3224,181 @@ Weekly for your loaded-movement training log, since you are already doing the mo
 
 ---
 
+# How to keep muscle on a GLP-1: the 5-part plan
+
+URL: https://getmuscleonglp.com/learn/keep-muscle-on-glp1/
+Updated: 2026-10-28
+
+GLP-1 & muscle
+
+Everything this site covers in depth, in the order it matters: protein, resistance training, a pace you can eat through, measuring strength, and the plan for coming off. Each part links to the full article behind it.
+
+## The short answer
+
+Eat about 1.2 to 1.6 g of protein per kg of body weight a day, [1] lift weights 2 to 3 times a week and add load over time, [2] keep eating on low-appetite days, and track your strength, not just the scale. In one meta-analysis, resistance training offset about 93.5 percent of the lean mass dieting alone cost. [3]
+
+A GLP-1 medication such as semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound) takes weight off fast, and not all of it is fat. Keeping muscle is not one trick. It is five habits that work together, and most of them cost nothing. This page is the plan in one place; every part ends with the deeper article that covers it in full.
+
+## How much muscle do people lose?
+
+Reviews of the GLP-1 trials that measured body composition place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, depending on the study. [4] The best-measured figure comes from the SURMOUNT-1 DXA substudy: about 26 percent of the weight lost on tirzepatide was lean tissue, against about 25 percent on placebo, which tells you most of the loss comes from losing weight itself rather than from the drug acting on muscle. [5]
+
+For semaglutide, the headline STEP 1 trial produced about 14.9 percent average weight loss over 68 weeks. [6] In its DXA substudy of 140 people, fat mass fell 19.3 percent and lean mass 9.7 percent, so fat came off about twice as fast as lean tissue. [7] A quarter of a loss that large is still a lot of muscle to give up without a fight.
+
+One honest caveat: "lean mass" on a scan includes water and organ tissue, not just muscle. A 2026 review found that short-to-mid-term GLP-1 trials often saw grip strength hold steady even as lean mass fell, and concluded that lean-mass loss is an unreliable predictor of strength. [8] That is why part 4 of this plan measures strength. Every headline figure, with its source, is collected in GLP-1 muscle loss statistics.
+
+## 1. Hit a daily protein target
+
+Protein is the raw material your body uses to keep muscle while you eat less. A 2025 joint advisory on nutrition during GLP-1 treatment recommends about 1.2 to 1.6 g of protein per kg of body weight a day during active weight loss. [1] A dose-response meta-analysis of 49 studies found the benefit to fat-free mass levels off near 1.6 g/kg, with the confidence interval reaching about 2.2 g/kg. [9] The 2025–2030 Dietary Guidelines for Americans now set the same 1.2 to 1.6 g/kg range for everyone. [10] For a 70 kg (154 lb) person, 1.6 g/kg is about 112 g a day.
+
+How you spread it matters too. About 0.4 g/kg per meal across at least four meals is the pattern worked out to reach 1.6 g/kg reliably. [11] That matters on a GLP-1 because protein is usually the first thing to slip: in one cross-sectional study, only about 43 percent of GLP-1 users met even a modest protein minimum. [12] Plan your protein rather than waiting to feel hungry for it.
+
+Go deeper: get your number in grams with the protein calculator, read the full case in how much protein you need on a GLP-1, and see whether timing matters in protein timing on a GLP-1.
+
+## 2. Lift weights 2 to 3 times a week, and progress
+
+Resistance training is the signal that tells your body the muscle is worth keeping. In a meta-analysis of older adults losing weight through caloric restriction, adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced, roughly 0.82 kg of lean tissue kept. [3] No other single habit comes close.
+
+You do not need an elaborate program. A widely used starting scaffold for novices, from the American College of Sports Medicine, is 2 to 3 sessions a week, 8 to 12 repetitions per set at roughly 60 to 70 percent of your one-repetition maximum. [2] You do not need to train to failure either: stopping with about 2 to 3 repetitions in reserve is enough to drive gains. [13] What you do need is progression, a little more weight or one more rep when a set starts to feel easy.
+
+Equipment is not the barrier people think it is. A meta-analysis of 13 studies and 1,016 participants found no meaningful difference in muscle growth between free weights and machines, [14] and the same principle of effort and progression carries over to bodyweight and band training at home.
+
+Go deeper: start from zero with beginner resistance training on a GLP-1, pick your movements in the best exercises to preserve muscle, or train at home with keeping muscle without a gym.
+
+## 3. Lose at a pace you can still eat through
+
+A GLP-1 makes eating less easy. The risk is eating too little to support your muscle. In a review of dietary intake on GLP-1 and dual GIP/GLP-1 medications, calorie intake fell by 16 to 39 percent in the studies that measured it, and the authors flagged that protein intake during that drop may not be enough to protect muscle. [15] A very fast drop on the scale, combined with low protein and no training, is the setup most likely to cost you muscle.
+
+Low-appetite days are predictable. In the pooled STEP 1 to 3 trials, 43.9 percent of people on semaglutide 2.4 mg reported nausea, against 16.1 percent on placebo; most cases were mild to moderate and clustered around dose increases. [16] On those days, shrink the meals and add more of them rather than skipping: a shake, Greek yogurt or cottage cheese often goes down when a plate of food does not. Keep the daily protein number the same.
+
+On training days, fuel the day rather than the workout. A meal or shake with about 25 to 30 g of protein in the hours after training is a practical way to put a dent in your daily target. [11] If your loss feels faster than you can eat and train through, that is a conversation for your prescriber; this page gives no dosing advice.
+
+Go deeper: see high-protein meals for nausea days and how to fuel workouts when you are barely hungry.
+
+## 4. Measure strength, not just weight
+
+The scale weighs fat, muscle, water and food at once, so it cannot tell you what left. Strength can. Grip strength is one of the two core criteria in the European consensus definition of sarcopenia: below 27 kg in men or 16 kg in women flags low muscle strength. [17] It also tracks health broadly: in the PURE study of nearly 140,000 adults, every 5 kg drop in grip strength was linked to about a 16 percent higher risk of death from any cause. [18]
+
+No dynamometer? The five-times sit-to-stand test needs only a chair and a stopwatch, has excellent test-retest reliability (ICC 0.937), [19] and the same consensus treats more than 15 seconds for five stands as a low-strength flag. [17] Your own training log is the most sensitive test of all: if the weights you lift keep holding or rising while the scale falls, you are keeping muscle.
+
+A body-composition scan adds a second view. DEXA is the research standard; a consumer InBody-style scan correlated strongly with DEXA for lean mass (coefficients of 0.95 or higher) but runs systematically lower, so compare each device only with itself. [20] Because lean mass is an imperfect stand-in for strength, treat a scan as a trend line, not a verdict. [8]
+
+Go deeper: take the free muscle strength check, try the five home tests for muscle loss, learn the signs you are losing muscle, not fat, and compare DEXA and InBody scans.
+
+## 5. Plan the off-ramp before you need it
+
+Most people stop a GLP-1 at some point: in real-world data, roughly 65 percent of people starting a weight-loss GLP-1 had stopped within 12 months. [21] When the medication stops, appetite returns and weight tends to follow. In the STEP 1 extension, about two thirds of the lost weight came back within a year of stopping semaglutide, with average net loss falling from 17.3 percent to 5.6 percent. [22] In SURMOUNT-4, people switched from tirzepatide to placebo regained 14.0 percent of body weight over a year, while those who stayed on it lost another 5.5 percent. [23]
+
+Those trials did not measure whether regained weight was fat or muscle, so the claim that it is "all fat" is not established. The practical point is narrower: muscle is slow to rebuild and quick to lose, so the transition is the worst time to stop training. Keep lifting, keep protein near your target as appetite comes back, and keep checking strength. Any change to the medication itself is a decision for you and your prescriber.
+
+Go deeper: read what happens to your muscle when you stop Ozempic and run the weight regain calculator.
+
+## Who should take extra care
+
+The plan is the same for everyone, but some people start with less muscle in reserve.
+
+Women over 50. In a Finnish cohort, postmenopausal women carried about 0.8 kg (roughly 4 percent) less lean mass in their arms and legs than premenopausal women of similar age. [24] In the SEMALEAN study of 106 adults on semaglutide, the drop in weight, fat mass and lean mass was significantly greater in women than in men. [25] See GLP-1 muscle loss in women over 50.
+
+Older adults. Sarcopenia already affects roughly 10 to 27 percent of adults 60 and older, depending on the criteria used, before any medication. [26] The resistance-training evidence in part 2 comes from exactly this group, which is good news: it works. See the GLP-1 off-ramp for older adults.
+
+Type 2 diabetes. Sarcopenia is more common with type 2 diabetes: 28.4 percent against 18.7 percent in matched controls in one meta-analysis. [27] People with diabetes also lose less weight on semaglutide 2.4 mg (about 6.3 percent against 11.6 percent without it, in pooled trials), [28] yet lean mass still falls: about 2.3 kg over 52 weeks on semaglutide in the SUSTAIN 8 DXA substudy. [29] See Ozempic, type 2 diabetes and muscle.
+
+## What the evidence does not say
+
+No long-term trial has yet tested a combined protein and resistance-training program specifically in people taking a GLP-1. The training figure in this plan comes from older adults dieting without the medication, and the protein targets come from general weight-loss and training research and a consensus advisory. The trials report lean mass, which is not the same as muscle or strength. None of that weakens the plan; it means the exact size of the benefit for you is an estimate. This page gives no dosing advice, and decisions about your medication belong to you and your prescriber.
+
+## The bottom line
+
+Keeping muscle on a GLP-1 comes down to five habits: a daily protein target, resistance training you progress, eating enough on hard days, measuring strength, and a plan for coming off. None of them is exotic, and together they shift what you lose toward fat. Start with the one you are doing least.
+
+## Frequently asked
+
+**Q:** How do I keep muscle on Ozempic?
+
+Do two things every week: lift weights 2 to 3 times, adding load or reps over time, and eat about 1.2 to 1.6 g of protein per kg of body weight a day. In a meta-analysis of dieting older adults, resistance training offset about 93.5% of the lean mass lost to dieting alone. Track your strength so you know it is working.
+
+**Q:** How much protein do I need on a GLP-1 to keep muscle?
+
+A 2025 joint advisory on GLP-1 nutrition recommends 1.2 to 1.6 g of protein per kg of body weight a day during active weight loss. Pooled training studies found the benefit to lean mass levels off near 1.6 g/kg. For a 70 kg (154 lb) person, 1.6 g/kg is about 112 g a day, best split across about four meals.
+
+**Q:** Can you build muscle on a GLP-1?
+
+Some people can, especially beginners, but for most the realistic goal while losing weight is to keep what you have. Lean mass made up about 26% of the weight lost on tirzepatide in the SURMOUNT-1 body-composition study. Progressive resistance training and enough protein are what shift that balance toward fat loss and, for some, new muscle.
+
+**Q:** How often should I lift weights on a GLP-1?
+
+Two to three full-body sessions a week is a widely used starting point for novices, with 8 to 12 repetitions per set at a weight you could lift a few more times. Stopping about 2 to 3 repetitions short of failure is enough to drive gains. Add a little weight or a rep when sets start to feel easy.
+
+**Q:** How do I know if I'm losing muscle?
+
+Track strength, not just weight. Log your main lifts, and check grip strength or a five-times chair stand every few weeks. Grip below 27 kg in men or 16 kg in women, or more than 15 seconds for five stands, is a clinical flag for low strength. A DEXA or InBody scan adds a lean-mass trend.
+
+**Q:** Will I lose muscle when I stop my GLP-1?
+
+Weight usually comes back: about two thirds of the weight lost returned within a year of stopping semaglutide in the STEP 1 extension. Whether that regain is fat or muscle was not measured. Keep training and keep protein high through the transition, because muscle is far easier to keep than to rebuild.
+
+## References
+
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+
+- American College of Sports Medicine. Position Stand: Progression Models in Resistance Training for Healthy Adults. Medicine & Science in Sports & Exercise. 2009;41(3):687-708. doi.org/10.1249/MSS.0b013e3181915670
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. doi.org/10.3390/nu10040423
+
+- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+
+- Look M, et al. Body composition changes during weight reduction with tirzepatide (SURMOUNT-1 DXA substudy). Diabetes, Obesity & Metabolism. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC11965027
+
+- Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021;384:989–1002. doi.org/10.1056/NEJMoa2032183
+
+- Wilding JPH, Batterham RL, Calanna S, et al. Impact of semaglutide on body composition in adults with overweight or obesity: exploratory analysis of the STEP 1 study. Journal of the Endocrine Society. 2021;5(Suppl 1):A16. doi.org/10.1210/jendso/bvab048.030
+
+- Prokopidis K. Glucagon-like peptide-1 receptor agonists and muscle strength changes in older adults: risks beyond muscle mass reductions. British Journal of Pharmacology. 2026. pubmed.ncbi.nlm.nih.gov/41577337
+
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+
+- U.S. Department of Agriculture and U.S. Department of Health and Human Services. Dietary Guidelines for Americans, 2025–2030. 2026. realfood.gov
+
+- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution. Journal of the International Society of Sports Nutrition. 2018;15:10. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
+
+- Investigating nutrient intake during use of GLP-1 receptor agonist: a cross-sectional study. Frontiers in Nutrition. 2025. frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1566498/full
+
+- Currier BS, et al. ACSM Position Stand: Resistance Training Prescription (Overview of Reviews). Medicine & Science in Sports & Exercise. 2026. pmc.ncbi.nlm.nih.gov/articles/PMC12965823
+
+- Effect of free-weight versus machine-based strength training on maximal strength and hypertrophy: a systematic review and meta-analysis. BMC Sports Science, Medicine & Rehabilitation. 2023. pmc.ncbi.nlm.nih.gov/articles/PMC10426227
+
+- Christensen S, Robinson K, Thomas S, Williams DR. Dietary intake by patients taking GLP-1 and dual GIP/GLP-1 receptor agonists: a narrative review and discussion of research needs. Obesity Pillars. 2024;11:100121. pmc.ncbi.nlm.nih.gov/articles/PMC11340591
+
+- Wharton S, et al. Gastrointestinal tolerability of once-weekly semaglutide 2.4 mg (STEP 1–3 pooled analysis). Diabetes, Obesity & Metabolism. 2022. pmc.ncbi.nlm.nih.gov/articles/PMC9293236
+
+- Cruz-Jentoft AJ, Bahat G, Bauer J, et al. Sarcopenia: revised European consensus on definition and diagnosis. Age and Ageing. 2019;48(1):16-31. doi.org/10.1093/ageing/afy169
+
+- Leong DP, Teo KK, Rangarajan S, et al. Prognostic value of grip strength: findings from the Prospective Urban Rural Epidemiology (PURE) study. The Lancet. 2015;386(9990):266-273. pubmed.ncbi.nlm.nih.gov/25982160
+
+- Muñoz-Bermejo L, Adsuar JC, Mendoza-Muñoz M, et al. Test-retest reliability of five times sit to stand test (FTSST) in adults: a systematic review and meta-analysis. Biology. 2021;10(6):510. pmc.ncbi.nlm.nih.gov/articles/PMC8228261
+
+- Yi Y, Baek JY, Lee E, Jung HW, Jang IY. A comparative study of high-frequency bioelectrical impedance analysis and dual-energy X-ray absorptiometry for estimating body composition. Life (Basel). 2022;12(7):994. pmc.ncbi.nlm.nih.gov/articles/PMC9323664
+
+- Trends in 1-year persistence and adherence among initiators of weight-loss-indicated GLP-1 receptor agonists. 2024. pmc.ncbi.nlm.nih.gov/articles/PMC12948759
+
+- Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. Diabetes, Obesity & Metabolism. 2022. pmc.ncbi.nlm.nih.gov/articles/PMC9542252
+
+- Aronne LJ, Sattar N, Horn DB, et al. Continued treatment with tirzepatide for maintenance of weight reduction in adults with obesity: the SURMOUNT-4 randomized clinical trial. JAMA. 2024;331(1):38–48. doi.org/10.1001/jama.2023.24945
+
+- Sipilä S, Törmäkangas T, Sillanpää E, et al. Muscle and bone mass in middle-aged women: role of menopausal status and physical activity. Journal of Cachexia, Sarcopenia and Muscle. 2020;11(3):698-709. pmc.ncbi.nlm.nih.gov/articles/PMC7296268
+
+- Alissou M, Demangeat T, Folope V, et al. Impact of semaglutide on fat mass, lean mass and muscle function in patients with obesity: the SEMALEAN study. Diabetes, Obesity & Metabolism. 2026;28(1):112-121. pmc.ncbi.nlm.nih.gov/articles/PMC12673431
+
+- Petermann-Rocha F, et al. Global prevalence of sarcopenia and severe sarcopenia: a systematic review and meta-analysis. Journal of Cachexia, Sarcopenia and Muscle. 2022;13(1):86-99. pmc.ncbi.nlm.nih.gov/articles/PMC8818604
+
+- Izzo A, Massimino E, Riccardi G, Della Pepa G. A narrative review on sarcopenia in type 2 diabetes mellitus: prevalence and associated factors. Nutrients. 2021;13(1):183. pmc.ncbi.nlm.nih.gov/articles/PMC7826709
+
+- Hong B, Kim H, Lee D, Kim K. Weight loss effects of once-weekly semaglutide 2.4 mg in adults with and without type 2 diabetes: a systematic review and meta-analysis. Pharmaceuticals. 2025;18(7):1058. pmc.ncbi.nlm.nih.gov/articles/PMC12300051
+
+- McCrimmon RJ, Catarig AM, Frias JP, et al. Effects of once-weekly semaglutide vs once-daily canagliflozin on body composition in type 2 diabetes: a substudy of the SUSTAIN 8 randomised controlled clinical trial. Diabetologia. 2020;63(3):473-485. pmc.ncbi.nlm.nih.gov/articles/PMC6997246
+
+---
+
 # What happens to your muscle when you stop Ozempic?
 
 URL: https://getmuscleonglp.com/learn/muscle-after-stopping-ozempic/
@@ -3710,7 +3885,7 @@ Two levers have strong evidence behind them, and they are the same two the appet
 
 Resistance training. In a meta-analysis of older adults losing weight through caloric restriction, adding resistance training offset about 93.5 percent of the lean-mass loss, a difference of roughly 0.82 kg of preserved lean tissue versus dieting alone. [3] You do not need to be an athlete or even own equipment; you need to load your major muscle groups a few times a week and progress over time.
 
-Protein. A dose-response meta-analysis of 49 studies found that protein supplementation improved resistance-training gains up to a breakpoint of about 1.6 grams per kilogram of body weight per day, beyond which more protein added little. [4] During active weight loss, most lean-mass research supports aiming for the 1.6 to 2.2 g/kg range. That is roughly double the standard 0.8 g/kg dietary reference intake, and hitting it on a suppressed appetite takes a deliberate plan.
+Protein. A dose-response meta-analysis of 49 studies found that protein supplementation improved resistance-training gains up to a breakpoint of about 1.6 grams per kilogram of body weight per day, beyond which more protein added little. [4] During active weight loss, most lean-mass research supports aiming for the 1.6 to 2.2 g/kg range. That is roughly double the standard 0.8 g/kg dietary reference intake, and hitting it on a suppressed appetite takes a deliberate plan. For both levers in order, plus pace, strength checks and coming off, see how to keep muscle on a GLP-1.
 
 ## What the evidence does not say
 
@@ -4150,7 +4325,7 @@ For reference, a few common foods carry most of the load: 100 grams of cooked ch
 
 ## Protein is only half the job
 
-One correction before you leave, because it is the most common mistake. Protein supplies the raw material for keeping muscle, but something still has to tell your body the material is worth keeping. That signal is training. In a meta-analysis of randomized trials in older adults under caloric restriction, resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost. [11] Protein without training will not preserve muscle on its own. If you take one thing from this page, take the protein target. If you take two, take the target and a resistance-training routine.
+One correction before you leave, because it is the most common mistake. Protein supplies the raw material for keeping muscle, but something still has to tell your body the material is worth keeping. That signal is training. In a meta-analysis of randomized trials in older adults under caloric restriction, resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost. [11] Protein without training will not preserve muscle on its own. If you take one thing from this page, take the protein target. If you take two, take the target and a resistance-training routine. The full plan, with both levers and three more, is in how to keep muscle on a GLP-1.
 
 ## What this does not tell you
 
