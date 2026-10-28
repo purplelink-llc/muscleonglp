@@ -4347,7 +4347,7 @@ Aim for at least 1.2 to 1.6 g of protein per kilogram a day, and up to 2.2 g/kg 
 
 ## Key takeaways
 
-- For preserving muscle during weight loss, most research supports 1.6 to 2.2 g/kg per day, with benefit to fat-free mass leveling off near 1.6 g/kg in the pooled data. [1]
+- In resistance-training studies, extra protein stopped adding to fat-free mass at about 1.6 g/kg a day (the confidence interval reaches about 2.2 g/kg), so 1.6 to 2.2 g/kg is a sensible ceiling to aim for. [1]
 
 - A GLP-1-specific advisory from four medical societies recommends a more conservative 1.2 to 1.6 g/kg during active weight loss. [2]
 
