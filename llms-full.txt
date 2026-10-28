@@ -4573,13 +4573,13 @@ The two muscle lines. Reviews of the trial data put lean mass at anywhere from a
 
 ## Honest limits
 
-Every number here is an estimate. Predictive BMR equations carry error at the individual level, the 7,700 kcal rule overstates loss over months, and the muscle split is modeled from population ranges rather than a scan of you. A target scaled to total body weight is a starting point, not a prescription, and it can overestimate protein for people carrying more fat mass. Use this as a framework, and confirm the specifics with your clinician, especially the calorie floor while on a GLP-1.
+Every number here is an estimate. Predictive BMR equations carry error at the individual level, the 7,700 kcal rule overstates loss over months, and the muscle split is modeled from population ranges rather than a scan of you. A target scaled to total body weight is a starting point, not a prescription, and it can overestimate protein for people carrying more fat mass. For reference, the 2013 adult obesity guideline suggests 1,200 to 1,500 kcal a day for women and 1,500 to 1,800 for men, or a 500 to 750 kcal daily deficit. [12] Use this as a framework, and confirm the specifics with your clinician, especially the calorie floor while on a GLP-1.
 
 ## Frequently asked
 
 **Q:** How many calories should I eat on a GLP-1?
 
-There is no single right number. The calculator estimates your maintenance calories (TDEE) from your sex, age, height, weight and activity level, then subtracts the deficit that matches the pace you pick, using the classic estimate of 7,700 kcal per kilogram of body weight. Change the pace and the target moves. It is a planning estimate: confirm the calorie floor with your clinician while on a GLP-1.
+It depends on your size and activity. Obesity guidelines suggest 1,200 to 1,500 calories a day for women and 1,500 to 1,800 for men, or a deficit of 500 to 750 calories below maintenance. The calculator estimates your maintenance calories (TDEE) from your sex, age, height, weight and activity level, then subtracts the deficit for the pace you pick, using 7,700 kcal per kilogram of body weight. For the example on this page (a 45-year-old woman, 5 ft 6 in and 210 lb, lightly active), maintenance is about 2,220 calories and losing about 1 lb a week puts the target near 1,725. Confirm the calorie floor with your clinician while on a GLP-1.
 
 **Q:** How does this calculator estimate my calories?
 
@@ -4632,6 +4632,8 @@ Total weight loss is driven by the calorie deficit and is similar either way. Wh
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Jensen MD, Ryan DH, Apovian CM, et al. 2013 AHA/ACC/TOS guideline for the management of overweight and obesity in adults. Circulation. 2014;129(25 Suppl 2):S102–S138. doi:10.1161/01.cir.0000437739.71477.ee
 
 ---
 
