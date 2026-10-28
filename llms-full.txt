@@ -566,11 +566,15 @@ Two to three full-body sessions a week, with 2 to 3 sets of 8 to 15 repetitions 
 # Can you build new muscle on a GLP-1, or only preserve what you have?
 
 URL: https://getmuscleonglp.com/learn/build-new-muscle-on-glp1/
-Updated: 2026-07-16
+Updated: 2026-10-28
 
 Training & recomposition
 
 Most GLP-1 muscle advice is about slowing a loss. This is the question people actually ask next: can you come out the other side with more muscle than you started with? Here is what the recomposition evidence says, what nobody has tested yet, and what a realistic outcome looks like.
+
+## The short answer
+
+Yes, some people can, mostly beginners and people with more body fat. Across 62 calorie-restriction trials, resistance training held lean mass loss near zero. [1] Young men in a 40 percent deficit who ate 2.4 g/kg of protein and trained hard gained 1.2 kg of lean mass in four weeks. [2] No GLP-1 study has yet shown a meaningful strength gain. [3]
 
 ## Key takeaways
 
@@ -578,7 +582,7 @@ Most GLP-1 muscle advice is about slowing a loss. This is the question people ac
 
 - A 2025 network meta-analysis of 62 trials found low-to-moderate intensity resistance training paired with caloric restriction produced close to zero lean mass loss, versus a meaningful loss with restriction alone. [1]
 
-- In a classic trial, young men on a 40 percent energy deficit who ate 2.4 g/kg of protein and trained intensely gained lean mass instead of losing it. [2]
+- In a 2016 trial, young men on a 40 percent energy deficit who ate 2.4 g/kg of protein and trained intensely gained about 1.2 kg of lean mass in four weeks. [2]
 
 - No trial has tested structured hypertrophy training specifically in GLP-1 users with muscle gain as the outcome. A 2026 review states plainly that no study has yet shown a clinically significant strength increase with these drugs. [3]
 
@@ -592,7 +596,7 @@ The honest answer has two parts. The general science of building muscle in a cal
 
 Yes, in specific circumstances, and the mechanism has a name: body recomposition, gaining lean tissue and losing fat mass at the same time. It is not a myth, but it is also not the default outcome of any weight-loss plan that happens to include a few workouts.
 
-The clearest evidence comes from a 2016 randomized trial that put young, previously untrained men into an aggressive 40 percent energy deficit for four weeks while training six days a week, resistance work, sprint intervals, and plyometrics combined. One group ate 1.2 g/kg of protein per day, the other 2.4 g/kg. The higher-protein group gained lean mass despite the deficit, while the lower-protein group lost some. Fat loss was similar in both groups, meaning the extra protein and the training stimulus, not the deficit itself, decided which direction lean mass moved. [2]
+The clearest evidence comes from a 2016 randomized trial that put young, previously untrained men into an aggressive 40 percent energy deficit for four weeks while training six days a week, resistance work, sprint intervals, and plyometrics combined. One group ate 1.2 g/kg of protein per day, the other 2.4 g/kg. The higher-protein group gained about 1.2 kg of lean mass despite the deficit, while the lower-protein group barely changed (about 0.1 kg). The higher-protein group also lost more fat, about 4.8 kg versus 3.5 kg, so with the same training, the extra protein decided whether lean mass grew or merely held. [2]
 
 A larger, more recent 2025 network meta-analysis pooling 62 randomized trials and 4,429 participants reinforces the pattern at a population level. Compared with caloric restriction alone, which produced a measurable lean mass loss, low- and moderate-intensity resistance training combined with caloric restriction produced changes close to zero, statistically indistinguishable from no lean mass change at all. [1] That is not the same as guaranteed muscle growth, but it means "deficit equals muscle loss" is not a fixed law. Training and protein intake are doing the actual work.
 
@@ -602,7 +606,7 @@ Who benefits most from this effect is fairly consistent across the sports-scienc
 
 Everything in the section above comes from general weight-loss and sports-nutrition research, not GLP-1 trials. The physiology of muscle protein synthesis does not know what drug produced your appetite suppression, but the practical logistics of hitting the recomposition formula, adequate protein plus a real training stimulus, get harder on a GLP-1 for reasons unique to these medications.
 
-Appetite suppression on semaglutide or tirzepatide is often severe enough that hitting 1.6 to 2.2 g/kg of protein daily, the range that supported lean mass gain in the trial above, takes deliberate planning rather than normal eating. Nausea and low energy during dose escalation can also derail training in exactly the window where consistency matters most. None of this makes recomposition impossible on a GLP-1. It makes the two inputs that drive it, protein and training load, harder to hit consistently than they are for someone eating normally.
+Appetite suppression on semaglutide or tirzepatide is often severe enough that hitting 1.6 to 2.2 g/kg of protein daily (the trial above used 2.4 g/kg) takes deliberate planning rather than normal eating. Nausea and low energy during dose escalation can also derail training in exactly the window where consistency matters most. None of this makes recomposition impossible on a GLP-1. It makes the two inputs that drive it, protein and training load, harder to hit consistently than they are for someone eating normally.
 
 ## What the evidence does not yet show
 
@@ -612,13 +616,13 @@ That gap is closing. A Stage 1 Registered Report published in 2025 has pre-regis
 
 ## Recomposition vs. net muscle gain: setting the right target
 
-Given all of that, the most useful framing is not "will I build muscle" as a yes-or-no question, but where you sit on a spectrum. At one end is pure preservation: training and protein intake that slow lean mass loss without reversing it, which is the realistic floor supported by the strongest GLP-1-specific evidence, including a meta-analysis showing resistance training offset about 93.5 percent of diet-induced lean mass loss in a general weight-loss population. [6] At the other end is meaningful net hypertrophy, adding visibly more muscle than you had before starting, which is the outcome least supported by direct evidence in GLP-1 users specifically, even though the general recomposition literature makes it plausible for some people.
+Given all of that, the most useful framing is not "will I build muscle" as a yes-or-no question, but where you sit on a spectrum. At one end is pure preservation: training and protein intake that slow lean mass loss without reversing it, which is the realistic floor supported by the strongest evidence, including a meta-analysis showing resistance training offset about 93.5 percent of diet-induced lean mass loss in older adults with obesity on calorie restriction (not GLP-1 users). [6] At the other end is meaningful net hypertrophy, adding visibly more muscle than you had before starting, which is the outcome least supported by direct evidence in GLP-1 users specifically, even though the general recomposition literature makes it plausible for some people.
 
 Most people on a GLP-1 who train consistently and hit their protein target should expect to land somewhere in the middle: measurable improvements in strength and muscle definition as they get leaner, driven partly by genuine training adaptation and partly by fat loss revealing muscle that was already there, without necessarily adding a large amount of new tissue. That is still a good outcome. It is just a different claim than "you can build muscle on Ozempic," and the difference matters if you are setting expectations for yourself.
 
 ## What the two proven levers still are
 
-Whether your personal ceiling is preservation or modest recomposition, the levers that move you toward it have not changed. Progressive resistance training two to four times a week, hitting your major muscle groups and adding load or reps over time, is the intervention with the most consistent evidence behind it. [6] Protein intake in the 1.6 to 2.2 g/kg range, the point beyond which a large pooled analysis found added protein stopped improving training outcomes, is the second. [7] Our guide to the best exercises for preserving muscle covers exactly which movements to prioritize, and our calorie, protein and macro calculator can estimate your personal target based on your weight and goals.
+Whether your personal ceiling is preservation or modest recomposition, the levers that move you toward it have not changed. Progressive resistance training two to four times a week, hitting your major muscle groups and adding load or reps over time, is the intervention with the most consistent evidence behind it. [6] Protein intake in the 1.6 to 2.2 g/kg range, the point beyond which a large pooled analysis found added protein stopped improving training outcomes, is the second. [7] Our guide to the best exercises for preserving muscle covers exactly which movements to prioritize, and our calorie, protein and macro calculator can estimate your personal target based on your weight and goals. For the full preservation plan, see how to keep muscle on a GLP-1.
 
 If a gym is not accessible, that is not a reason to skip training. Our bodyweight training guide covers how to load and progress without equipment, which matters for this question specifically, because the recomposition trials above depended on real training effort, not on any particular piece of equipment.
 
@@ -632,9 +636,9 @@ Yes, some people can build new muscle while taking a GLP-1, and the general body
 
 ## Frequently asked
 
-**Q:** Can you build new muscle while taking a GLP-1?
+**Q:** Can you build muscle on a GLP-1?
 
-Some people can, mainly those new to resistance training or carrying a higher starting body fat percentage, through a process called body recomposition: losing fat while holding or slightly gaining lean tissue. A 2025 network meta-analysis of 62 trials found low-to-moderate intensity resistance training during caloric restriction produced roughly no lean mass loss, versus a meaningful loss with diet alone. No trial has tested this specifically in GLP-1 users doing a structured hypertrophy program.
+Some people can, mainly those new to resistance training or carrying a higher starting body fat percentage, through body recomposition: losing fat while holding or gaining lean tissue. In a 2016 trial, young men in a 40 percent calorie deficit who ate 2.4 g/kg of protein and trained six days a week gained about 1.2 kg of lean mass in four weeks. A 2025 network meta-analysis of 62 trials found low-to-moderate intensity resistance training during caloric restriction produced roughly no lean mass loss, versus a meaningful loss with diet alone. No trial has tested this specifically in GLP-1 users doing a structured hypertrophy program.
 
 **Q:** Is it better to focus on preserving muscle or building it on a GLP-1?
 
@@ -2489,23 +2493,27 @@ Citing these figures? A link to this page or the underlying study is appreciated
 # GLP-1s and muscle loss in women over 50: why menopause changes the math
 
 URL: https://getmuscleonglp.com/learn/glp1-muscle-loss-women-over-50/
-Updated: 2026-10-27
+Updated: 2026-10-28
 
 Women's health
 
 Menopause already puts muscle and bone on a faster downward slope before a GLP-1 ever enters the picture. Here is what the menopause research actually shows, what GLP-1 trials do and do not report about women, and what genuinely protects muscle after 50.
 
+## The short answer
+
+Probably more, though no GLP-1 trial has measured it by menopausal status. Menopause alone costs muscle: postmenopausal women carried about 0.8 kg (4 percent) less arm and leg lean mass than premenopausal women of similar age. [1] In the one semaglutide study that split results by sex (106 adults, 69 percent women), women lost significantly more lean mass than men. [2]
+
 ## Key takeaways
 
 - Postmenopausal women carry meaningfully less appendicular lean mass than premenopausal women, even after adjustment. [1]
 
-- Bone loss accelerates sharply in late perimenopause and continues at a similarly rapid pace through early postmenopause. [2]
+- Bone loss accelerates sharply in late perimenopause and continues at a similarly rapid pace through early postmenopause. [3]
 
-- Declining estradiol is mechanistically linked to reduced muscle satellite-cell activity and greater inflammatory muscle breakdown. [3]
+- Declining estradiol is mechanistically linked to reduced muscle satellite-cell activity and greater inflammatory muscle breakdown. [4]
 
-- Most pooled GLP-1 body-composition data is not broken out by sex or menopausal status. [4]
+- Most pooled GLP-1 body-composition data is not broken out by sex or menopausal status. [5]
 
-- The one recent trial that did stratify by sex found women lost significantly more weight, fat, and lean mass than men on semaglutide. [5]
+- The one recent trial that did stratify by sex found women lost significantly more weight, fat, and lean mass than men on semaglutide. [2]
 
 If you are a woman over 50 taking Ozempic, Wegovy, Mounjaro, or Zepbound, you are managing two things happening at once, and most GLP-1 coverage only talks about one of them. The medication is doing what it is meant to do: suppressing appetite and driving weight loss, a meaningful share of which is lean mass rather than fat, as it is for anyone on these drugs. But you are also, most likely, somewhere in or past the menopause transition, a period independently linked to faster muscle and bone loss that has nothing to do with any medication. Layer a large, fast, appetite-suppressed weight loss on top of that baseline decline, and the math for a woman over 50 is not quite the same math being run in a general-population GLP-1 trial.
 
@@ -2515,23 +2523,23 @@ This article walks through what the menopause research says about baseline muscl
 
 Menopause is not just a hormonal event; it is a measurable acceleration in tissue loss that begins before most women expect it. A Finnish cohort study that measured appendicular lean mass directly in middle-aged women found postmenopausal participants carried about 0.8 kg, roughly 4 percent, less lean mass in their arms and legs than premenopausal women of similar age, a gap that held up as statistically significant after adjustment. [1] A separate 2025 study similarly tracked muscle mass index declining across the perimenopausal-to-postmenopausal transition, reporting an average loss on the order of 0.6 percent of muscle mass per year once the transition is underway, and found the decline was partly mediated by falling estrogen levels. [6]
 
-Bone follows a similar, arguably steeper, pattern. In the Study of Women's Health Across the Nation (SWAN), one of the largest longitudinal cohorts to track this directly in a multiethnic population of nearly 1,900 women, bone mineral density loss accelerated substantially once women entered late perimenopause, with spine and hip loss continuing at a similarly rapid pace through the first postmenopausal years before slowing again. [2] None of this requires a GLP-1 medication to happen. It is simply what the menopause transition does to the musculoskeletal system, on its own timeline, in essentially every woman who goes through it.
+Bone follows a similar, arguably steeper, pattern. In the Study of Women's Health Across the Nation (SWAN), one of the largest longitudinal cohorts to track this directly in a multiethnic population of nearly 1,900 women, bone mineral density loss accelerated substantially once women entered late perimenopause, with spine and hip loss continuing at a similarly rapid pace through the first postmenopausal years before slowing again. [3] None of this requires a GLP-1 medication to happen. It is simply what the menopause transition does to the musculoskeletal system, on its own timeline, in essentially every woman who goes through it.
 
 ## Why estrogen decline plausibly compounds the mechanism
 
-There is also a coherent biological reason menopause and GLP-1-driven weight loss might interact rather than simply add up. Estradiol is not just a reproductive hormone; it acts directly on skeletal muscle, supporting the activity of satellite cells, the stem cells muscle relies on to repair and maintain itself, and limiting the inflammatory signaling that would otherwise degrade muscle protein. Reviews of this mechanism describe estrogen deficiency as accelerating sarcopenia through reduced satellite-cell proliferation, greater oxidative and inflammatory stress on muscle fibers, and a decline in muscle quality that goes beyond the raw amount of tissue present. [3]
+There is also a coherent biological reason menopause and GLP-1-driven weight loss might interact rather than simply add up. Estradiol is not just a reproductive hormone; it acts directly on skeletal muscle, supporting the activity of satellite cells, the stem cells muscle relies on to repair and maintain itself, and limiting the inflammatory signaling that would otherwise degrade muscle protein. Reviews of this mechanism describe estrogen deficiency as accelerating sarcopenia through reduced satellite-cell proliferation, greater oxidative and inflammatory stress on muscle fibers, and a decline in muscle quality that goes beyond the raw amount of tissue present. [4]
 
 That matters here because a GLP-1 medication creates exactly the conditions under which muscle maintenance depends most on those same protective mechanisms: a large caloric deficit, suppressed appetite, and often reduced protein intake. If postmenopausal women are working with less satellite-cell support and more baseline inflammatory signaling against muscle, in theory the same caloric deficit could cost more muscle in a postmenopausal woman than in a premenopausal one, or in a man of the same age. This is a coherent, biologically grounded hypothesis. It is not, however, a hypothesis that has been directly tested inside a GLP-1 trial. No published study has isolated menopausal status as a variable predicting lean-mass loss on semaglutide or tirzepatide specifically.
 
 ## What GLP-1 trials show, and do not show, about women
 
-This is the honest limit at the center of this topic, and it is worth stating plainly before going further. The large GLP-1 trials behind the lean-mass figures cited across this site (anywhere from about 15 percent to 40 to 60 percent of weight lost, depending on the study) [7], including the SURMOUNT-1 DXA substudy that measured about 26 percent of tirzepatide's weight loss as lean tissue, [8] report their body-composition results for the trial population as a whole. A 2025 systematic review and network meta-analysis pooling the GLP-1 body-composition literature likewise reports pooled lean-mass effects without a sex-stratified breakdown. [4] Menopausal status is essentially never reported as a variable at all. That is not unique to GLP-1 research; body-composition trials across many fields under-report sex-specific and menopause-specific subgroup results. But it means the precise, quantified answer to "how much worse is this for a postmenopausal woman" does not currently exist in the published literature.
+This is the honest limit at the center of this topic, and it is worth stating plainly before going further. The large GLP-1 trials behind the lean-mass figures cited across this site (anywhere from about 15 percent to 40 to 60 percent of weight lost, depending on the study) [7], including the SURMOUNT-1 DXA substudy that measured about 26 percent of tirzepatide's weight loss as lean tissue, [8] report their body-composition results for the trial population as a whole. A 2025 systematic review and network meta-analysis pooling the GLP-1 body-composition literature likewise reports pooled lean-mass effects without a sex-stratified breakdown. [5] Menopausal status is essentially never reported as a variable at all. That is not unique to GLP-1 research; body-composition trials across many fields under-report sex-specific and menopause-specific subgroup results. But it means the precise, quantified answer to "how much worse is this for a postmenopausal woman" does not currently exist in the published literature.
 
-One recent exception is instructive. The SEMALEAN study, a 2026 cohort of 106 adults with obesity on semaglutide that was 68.9 percent female, explicitly compared outcomes by sex. It found that the decrease in body weight, fat mass, and lean mass was significantly greater in women than in men, and the authors proposed that sex hormones, including estrogens, along with differences in fat distribution and appetite suppression, plausibly explain the gap. [5] That is a real, sex-stratified data point, and it points in the direction this article's hypothesis would predict: women losing more, not less. But it is one study, in a mixed-age population not specifically selected for menopausal status, and it measured lean mass, not muscle strength or function. It is evidence worth taking seriously, not evidence that settles the question.
+One recent exception is instructive. The SEMALEAN study, a 2026 cohort of 106 adults with obesity on semaglutide that was 68.9 percent female, explicitly compared outcomes by sex. It found that the decrease in body weight, fat mass, and lean mass was significantly greater in women than in men, and the authors proposed that sex hormones, including estrogens, along with differences in fat distribution and appetite suppression, plausibly explain the gap. [2] That is a real, sex-stratified data point, and it points in the direction this article's hypothesis would predict: women losing more, not less. But it is one study, in a mixed-age population not specifically selected for menopausal status, and it measured lean mass, not muscle strength or function. It is evidence worth taking seriously, not evidence that settles the question.
 
 ## What preserves muscle after 50, regardless of the mechanism
 
-The two protective levers with the strongest evidence are not menopause-specific, and that is good news: you do not need a special protocol, you need to actually do the two things that work. In a meta-analysis of six randomized trials in older adults losing weight through caloric restriction, adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced, a difference of roughly 0.82 kg of preserved lean tissue. [9] That trial population skewed toward exactly the age range relevant here, so this is not evidence borrowed from young athletes; it was measured in older adults under a caloric deficit.
+The two protective levers with the strongest evidence are not menopause-specific, and that is good news: you do not need a special protocol, you need to actually do the two things that work. In a meta-analysis of six randomized trials in older adults losing weight through caloric restriction, adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced, a difference of roughly 0.82 kg of preserved lean tissue. [9] That trial population skewed toward exactly the age range relevant here, so this is not evidence borrowed from young athletes; it was measured in older adults under a caloric deficit. The full plan, with training, protein and the other levers, is in how to keep muscle on a GLP-1.
 
 Protein is the second lever, and it may matter even more when appetite is suppressed by medication rather than by willpower alone. A dose-response meta-analysis of 49 studies found that protein supplementation continued improving resistance-training outcomes up to about 1.6 grams per kilogram of body weight per day, a target roughly double the standard 0.8 g/kg dietary reference intake. [10] Hitting that target while eating a fraction of your normal volume takes deliberate planning; our free calorie, protein and macro calculator will estimate a specific gram target from your weight and goals rather than leaving you to do the math from a general range.
 
@@ -2544,6 +2552,10 @@ Several honest limits apply here, and they matter more in this topic than in mos
 Menopause puts muscle and bone on a faster downward path on its own, and a GLP-1's rapid, appetite-suppressed weight loss is added on top of that baseline, not instead of it. The biology behind why that combination might cost more muscle in a postmenopausal woman is coherent and well described, but the direct proof, a trial that measured lean-mass loss by menopausal status inside a GLP-1 study, does not yet exist, apart from one sex-stratified cohort suggesting women lose more than men. Until that data exists, the responsible position is to treat the combined risk as plausible and act accordingly: train with resistance work, hit a real protein target, and track your strength rather than only the scale. And because roughly two-thirds of lost weight returned within a year of stopping semaglutide in the STEP 1 extension, [11] the muscle a woman over 50 protects now is also what she carries into any future decision to come off the medication.
 
 ## Frequently asked
+
+**Q:** Do women over 50 lose more muscle on a GLP-1?
+
+Probably, but it has not been measured directly. Menopause on its own lowers lean mass: in a Finnish cohort, postmenopausal women carried about 0.8 kg, roughly 4 percent, less arm and leg lean mass than premenopausal women of similar age. In the SEMALEAN study of 106 adults on semaglutide (68.9 percent women), women lost significantly more body weight, fat mass, and lean mass than men. No GLP-1 trial has reported lean-mass loss by menopausal status, so the size of the extra loss after 50 is not known.
 
 **Q:** Does menopause make GLP-1 muscle loss worse for women over 50?
 
@@ -2561,13 +2573,13 @@ The same two levers with the strongest evidence for anyone: resistance training 
 
 - Sipilä S, Törmäkangas T, Sillanpää E, et al. Muscle and bone mass in middle-aged women: role of menopausal status and physical activity. Journal of Cachexia, Sarcopenia and Muscle. 2020;11(3):698-709. pmc.ncbi.nlm.nih.gov/articles/PMC7296268
 
+- Alissou M, Demangeat T, Folope V, et al. Impact of semaglutide on fat mass, lean mass and muscle function in patients with obesity: the SEMALEAN study. Diabetes, Obesity & Metabolism. 2026;28(1):112-121. pmc.ncbi.nlm.nih.gov/articles/PMC12673431
+
 - Finkelstein JS, Brockwell SE, Mehta V, et al. Bone mineral density changes during the menopause transition in a multiethnic cohort of women. Journal of Clinical Endocrinology & Metabolism. 2008;93(3):861-868. pubmed.ncbi.nlm.nih.gov/18160467
 
 - Geraci A, Calvani R, Ferri E, Marzetti E, Arosio B, Cesari M. Sarcopenia and menopause: the role of estradiol. Frontiers in Endocrinology. 2021;12:682012. pmc.ncbi.nlm.nih.gov/articles/PMC8170301
 
 - Karakasis P, Patoulias D, Fragakis N, Mantzoros CS. Effect of glucagon-like peptide-1 receptor agonists and co-agonists on body composition: systematic review and network meta-analysis. Metabolism. 2025;164:156113. pubmed.ncbi.nlm.nih.gov/39719170
-
-- Alissou M, Demangeat T, Folope V, et al. Impact of semaglutide on fat mass, lean mass and muscle function in patients with obesity: the SEMALEAN study. Diabetes, Obesity & Metabolism. 2026;28(1):112-121. pmc.ncbi.nlm.nih.gov/articles/PMC12673431
 
 - Wang X, Yang D, Li J, et al. Association between menopause-related symptoms and muscle mass index among perimenopausal and postmenopausal women and the mediating role of estrogen levels. Frontiers in Endocrinology. 2025;16:1628612. pmc.ncbi.nlm.nih.gov/articles/PMC12325020
 
@@ -2691,23 +2703,27 @@ Keep resistance training and a real protein target in place through the transiti
 # Protein timing on a GLP-1: does when you eat protein matter for muscle?
 
 URL: https://getmuscleonglp.com/learn/glp1-protein-timing-muscle/
-Updated: 2026-10-27
+Updated: 2026-10-28
 
 Nutrition
 
 You already know roughly how much protein you need. This page is about a different question: does spreading it out, hitting a per-meal threshold, or eating close to a workout actually change how much muscle you keep, or is the daily total all that matters? Here is what the research shows, separated from the "anabolic window" folklore.
 
+## The short answer
+
+A little, but your daily total matters far more. [1] Spread protein over three or four meals of about 30 grams each instead of one big dinner. [2] In one trial, an even split gave about 25 percent more muscle protein synthesis over 24 hours than a dinner-heavy day. [3] The post-workout "anabolic window" mostly disappears once total protein is counted. [4]
+
 ## Key takeaways
 
-- Total daily protein remains the primary driver of muscle retention; a dose-response meta-analysis found benefits leveling off near 1.6 g/kg per day. [1]
+- Total daily protein remains the primary driver of muscle retention; a review of the evidence puts the point where resistance-training gains level off near 1.6 g/kg per day. [1]
 
-- A study comparing distribution patterns found a moderate pattern, about 20 g every 3 hours, stimulated 31 to 48 percent more muscle protein synthesis over 12 hours than either very frequent small doses or two large boluses of the same total. [2]
+- A study comparing distribution patterns found a moderate pattern, about 20 g every 3 hours, stimulated 31 to 48 percent more muscle protein synthesis over 12 hours than either very frequent small doses or two large boluses of the same total. [5]
 
 - Evenly spreading protein across three meals produced about 25 percent higher 24-hour muscle protein synthesis than concentrating the same total at dinner. [3]
 
-- Roughly 25 to 30 grams of protein, about 2.5 to 3 g of leucine, appears to maximize the response to a single meal; adults over 60 need closer to 30 g / 2.8 g leucine. [4]
+- Roughly 25 to 30 grams of protein, about 2.5 to 3 g of leucine, appears to maximize the response to a single meal; adults over 60 need closer to 30 g / 2.8 g leucine. [2]
 
-- The post-workout "anabolic window" is largely a myth: a meta-analysis found its apparent effect was mostly explained by higher total protein intake, not the timing itself. [5]
+- The post-workout "anabolic window" is largely a myth: a meta-analysis found its apparent effect was mostly explained by higher total protein intake, not the timing itself. [4]
 
 Our guide to how much protein you need on a GLP-1 covers the daily number: 1.6 to 2.2 grams per kilogram of body weight for most people, or the more conservative 1.2 to 1.6 g/kg from a GLP-1-specific nutrition advisory. This page is about a narrower, more contested question: does it matter when you eat that protein, not just how much? The internet has strong opinions here, most built around a tight post-workout "anabolic window" you supposedly have to hit or the workout was wasted. That specific claim does not hold up well. But whether spreading protein across the day beats concentrating it, and whether each meal needs to clear a minimum to count, has real evidence behind it, and it matters more on a GLP-1 than almost anywhere else, because a suppressed appetite makes every eating opportunity scarce.
 
@@ -2717,31 +2733,31 @@ Our guide to how much protein you need on a GLP-1 covers the daily number: 1.6 t
 
 ## Does spreading protein across the day matter?
 
-This is the best-supported of the three claims. In a controlled trial, 24 trained men consumed 80 grams of whey protein over 12 hours of post-exercise recovery in one of three patterns: eight doses of 10 grams every 1.5 hours, four doses of 20 grams every 3 hours, or two doses of 40 grams every 6 hours. The moderate, four-dose pattern produced significantly greater muscle protein synthesis than either the very frequent small-dose pattern or the two-large-dose pattern, by roughly 31 to 48 percent over the 12-hour window, even though total protein intake was identical across all three groups. [2]
+This is the best-supported of the three claims. In a controlled trial, 24 trained men consumed 80 grams of whey protein over 12 hours of post-exercise recovery in one of three patterns: eight doses of 10 grams every 1.5 hours, four doses of 20 grams every 3 hours, or two doses of 40 grams every 6 hours. The moderate, four-dose pattern produced significantly greater muscle protein synthesis than either the very frequent small-dose pattern or the two-large-dose pattern, by roughly 31 to 48 percent over the 12-hour window, even though total protein intake was identical across all three groups. [5]
 
 A separate trial tested a more everyday comparison: the same total daily protein, distributed either evenly across breakfast, lunch, and dinner at about 30 grams each, or skewed so most of it landed at dinner. The evenly distributed pattern produced about 25 percent higher 24-hour muscle protein synthesis than the skewed one, and the advantage held up after a week of following each pattern, so it was not just a novelty effect of a new eating rhythm. [3] Taken together, these two trials point in the same direction: three to five roughly even, moderate-sized protein servings across the day outperforms either grazing on very small amounts or loading almost everything into one sitting.
 
 ## The leucine threshold: why a per-meal minimum exists at all
 
-The mechanism behind those distribution findings is a specific amino acid, leucine, which acts as the trigger for muscle protein synthesis rather than just a building block for it. A meal needs to supply enough leucine to cross that trigger threshold before the muscle-building signal turns on strongly; below the threshold, the response is muted regardless of how much total protein the meal contains. The practical amount usually cited is about 25 to 30 grams of high-quality protein, providing roughly 2.5 to 3 grams of leucine, as the point that maximizes the single-meal response in most adults. [4] A review focused specifically on per-meal protein amounts found that spreading intake across a minimum of four meals at about 0.4 grams per kilogram of body weight each is the pattern that reliably reaches a 1.6 g/kg daily target while keeping each meal above a useful threshold; going meaningfully higher than that per meal, up to about 0.55 g/kg, adds little further benefit to muscle protein synthesis specifically, even though it still counts toward the day's total. [1]
+The mechanism behind those distribution findings is a specific amino acid, leucine, which acts as the trigger for muscle protein synthesis rather than just a building block for it. A meal needs to supply enough leucine to cross that trigger threshold before the muscle-building signal turns on strongly; below the threshold, the response is muted regardless of how much total protein the meal contains. The practical amount usually cited is about 25 to 30 grams of high-quality protein, providing roughly 2.5 to 3 grams of leucine, as the point that maximizes the single-meal response in most adults. [2] A review focused specifically on per-meal protein amounts found that spreading intake across a minimum of four meals at about 0.4 grams per kilogram of body weight each is the pattern that reliably reaches a 1.6 g/kg daily target while keeping each meal above a useful threshold; going meaningfully higher than that per meal, up to about 0.55 g/kg, adds little further benefit to muscle protein synthesis specifically, even though it still counts toward the day's total. [1]
 
-Age changes the number. Adults over about 60 show a blunted response to protein at low doses, a phenomenon sometimes called anabolic resistance, and need closer to 30 grams of protein, about 2.8 grams of leucine, in a single meal to trigger the same response that a younger adult gets from a smaller amount. [4] If that describes you, treat 30 grams as your practical per-meal floor rather than calculating down from a smaller weight-based number.
+Age changes the number. Adults over about 60 show a blunted response to protein at low doses, a phenomenon sometimes called anabolic resistance, and need closer to 30 grams of protein, about 2.8 grams of leucine, in a single meal to trigger the same response that a younger adult gets from a smaller amount. [2] If that describes you, treat 30 grams as your practical per-meal floor rather than calculating down from a smaller weight-based number.
 
 ## Does the post-workout "anabolic window" matter?
 
-This is the claim with the weakest support, despite being the most repeated one. A meta-analysis of 20 studies, comprising 525 subjects and 132 effect sizes, tested whether consuming protein close to a resistance-training session produces more muscle growth than consuming the same protein at a different time of day. It found only a small effect favoring protein timed around exercise, and when the researchers accounted for total daily protein intake, that small effect was almost entirely explained by people in the "timing" group simply eating more protein overall, not by proximity to the workout itself. [5] In other words, if you time your protein around training and also happen to eat more protein that day, the extra protein is doing the work, not the clock.
+This is the claim with the weakest support, despite being the most repeated one. A meta-analysis of 20 studies, comprising 525 subjects and 132 effect sizes, tested whether consuming protein close to a resistance-training session produces more muscle growth than consuming the same protein at a different time of day. It found only a small effect favoring protein timed around exercise, and when the researchers accounted for total daily protein intake, that small effect was almost entirely explained by people in the "timing" group simply eating more protein overall, not by proximity to the workout itself. [4] In other words, if you time your protein around training and also happen to eat more protein that day, the extra protein is doing the work, not the clock.
 
 That does not make post-workout eating pointless. Eating a solid meal within a few hours of training is a perfectly reasonable habit and an easy one to build a routine around. It means the specific, urgent version of the claim, that missing a 30-to-60-minute window after training erases the session's benefit, is not supported by the evidence and is not worth the anxiety it tends to produce.
 
 ## So does timing matter, or not?
 
-Both things above are true at once. The tight post-workout window does not matter nearly as much as its reputation suggests, since total protein intake explains almost all of what looked like a timing effect. [5] Meanwhile, distribution across the day, three to five meals each clearing roughly the leucine threshold, does modestly outperform very skewed or fragmented patterns. [2] [3] The daily total remains the dominant lever by a wide margin, with benefits to fat-free mass leveling off near 1.6 g/kg per day regardless of distribution, [1] and reasonable distribution is a real but secondary optimization on top of it, not a substitute for it.
+Both things above are true at once. The tight post-workout window does not matter nearly as much as its reputation suggests, since total protein intake explains almost all of what looked like a timing effect. [4] Meanwhile, distribution across the day, three to five meals each clearing roughly the leucine threshold, does modestly outperform very skewed or fragmented patterns. [5] [3] The daily total remains the dominant lever by a wide margin, with resistance-training gains leveling off near 1.6 g/kg per day, [1] and reasonable distribution is a real but secondary optimization on top of it, not a substitute for it.
 
 ## Making this practical on a suppressed appetite
 
 The leucine-threshold finding changes the practical advice here more than it would for someone with a normal appetite. If each meal needs roughly 25 to 30 grams to fully count, dividing a limited appetite into many small snacks, each well under that threshold, is worse than fewer, more protein-concentrated occasions. Three to four meals a day, each built around a genuine protein source at or above that threshold, beats six tiny nibbles that never individually cross it, even at the same daily total.
 
-On days when solid food is hard to manage, a protein shake is an efficient way to hit the per-meal threshold without needing much stomach volume; our high-protein meals and shakes for nausea days guide lists specific options built for exactly that problem. And if you have not worked out your personal daily target yet, the calorie, protein and macro calculator converts your body weight into a number, which this page's per-meal guidance can then be divided across.
+On days when solid food is hard to manage, a protein shake is an efficient way to hit the per-meal threshold without needing much stomach volume; our high-protein meals and shakes for nausea days guide lists specific options built for exactly that problem. And if you have not worked out your personal daily target yet, the calorie, protein and macro calculator converts your body weight into a number, which this page's per-meal guidance can then be divided across. Timing is one small part of the bigger plan in how to keep muscle on a GLP-1.
 
 ## What the evidence does not say
 
@@ -2753,9 +2769,9 @@ Total daily protein is still the number that matters most, and nothing about tim
 
 ## Frequently asked
 
-**Q:** Does protein timing actually matter for muscle on a GLP-1?
+**Q:** Does protein timing matter on a GLP-1?
 
-At the margin, yes, but total daily protein intake is still the dominant factor. A study directly comparing distribution patterns found a moderate pattern, about 20 grams every 3 hours, stimulated significantly more muscle protein synthesis over 12 hours than either very frequent small doses or two large boluses of the same total protein. Evenly spreading protein across meals has also been shown to modestly outperform concentrating it into one large meal. But a meta-analysis of protein timing around exercise found that its apparent benefit was mostly explained by people in the timing group simply eating more total protein, not by the timing itself.
+A little, but total daily protein is still the dominant factor. In one trial, spreading the same protein evenly across three meals of about 30 grams produced about 25 percent more muscle protein synthesis over 24 hours than eating most of it at dinner. Another found a moderate pattern, about 20 grams every 3 hours, stimulated more muscle protein synthesis than either very frequent small doses or two large boluses of the same total. But a meta-analysis of protein timing around exercise found its apparent benefit was mostly explained by people in the timing group eating more total protein, not by the timing itself.
 
 **Q:** How much protein do I need per meal for it to count toward building muscle?
 
@@ -2769,13 +2785,13 @@ Not urgently. A meta-analysis of trials testing protein timing around resistance
 
 - Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution. Journal of the International Society of Sports Nutrition. 2018;15:10. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
 
-- Areta JL, Burke LM, Ross ML, et al. Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis. The Journal of Physiology. 2013;591(9):2319-2331. pubmed.ncbi.nlm.nih.gov/23459753
+- Layman DK. Impacts of protein quantity and distribution on body composition. Frontiers in Nutrition. 2024. pmc.ncbi.nlm.nih.gov/articles/PMC11099237
 
 - Mamerow MM, Mettler JA, English KL, et al. Dietary protein distribution positively influences 24-h muscle protein synthesis in healthy adults. The Journal of Nutrition. 2014;144(6):876-880. pmc.ncbi.nlm.nih.gov/articles/PMC4018950
 
-- Layman DK. Impacts of protein quantity and distribution on body composition. Frontiers in Nutrition. 2024. pmc.ncbi.nlm.nih.gov/articles/PMC11099237
-
 - Schoenfeld BJ, Aragon AA, Krieger JW. The effect of protein timing on muscle strength and hypertrophy: a meta-analysis. Journal of the International Society of Sports Nutrition. 2013;10:53. pmc.ncbi.nlm.nih.gov/articles/PMC3879660
+
+- Areta JL, Burke LM, Ross ML, et al. Timing and distribution of protein ingestion during prolonged recovery from resistance exercise alters myofibrillar protein synthesis. The Journal of Physiology. 2013;591(9):2319-2331. pubmed.ncbi.nlm.nih.gov/23459753
 
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
@@ -4319,15 +4335,19 @@ It is a plausible contributor, though not a proven one. Because muscle is metabo
 # How much protein do you actually need on a GLP-1?
 
 URL: https://getmuscleonglp.com/learn/protein-on-glp1/
-Updated: 2026-10-27
+Updated: 2026-10-28
 
 GLP-1 & protein
 
 There is a target range for protecting muscle while you lose weight, and there is the harder problem of hitting it when the medication has taken your appetite away. Here is the number, the evidence behind it, and how to reach it meal by meal.
 
+## The short answer
+
+Aim for at least 1.2 to 1.6 g of protein per kilogram a day, and up to 2.2 g/kg if you can. In pooled resistance-training trials, extra protein stopped adding muscle near 1.6 g/kg. [1] A four-society GLP-1 advisory sets 1.2 to 1.6 g/kg during weight loss. [2] At 70 kg (154 lb), 1.6 g/kg is about 112 grams a day.
+
 ## Key takeaways
 
-- For preserving muscle during weight loss, most research supports 1.6 to 2.2 g/kg per day, with benefit to fat-free mass leveling off near 1.6 g/kg in the pooled data. [1]
+- In resistance-training studies, extra protein stopped adding to fat-free mass at about 1.6 g/kg a day (the confidence interval reaches about 2.2 g/kg), so 1.6 to 2.2 g/kg is a sensible ceiling to aim for. [1]
 
 - A GLP-1-specific advisory from four medical societies recommends a more conservative 1.2 to 1.6 g/kg during active weight loss. [2]
 
@@ -4395,9 +4415,9 @@ Aim for 1.6 to 2.2 grams of protein per kilogram of body weight per day, or the 
 
 ## Frequently asked
 
-**Q:** How much protein should I eat on Ozempic, Wegovy, or Mounjaro?
+**Q:** How much protein do I need on a GLP-1 like Ozempic, Wegovy, or Mounjaro?
 
-For preserving muscle during weight loss, most lean-mass research supports 1.6 to 2.2 grams of protein per kilogram of body weight per day. A dose-response meta-analysis found benefits to fat-free mass leveled off near 1.6 g/kg. A GLP-1-specific nutrition advisory from four medical societies recommends a more conservative 1.2 to 1.6 g/kg during active weight loss. Whichever end you target, it is well above the standard 0.8 g/kg dietary reference intake.
+Aim for at least 1.2 to 1.6 grams of protein per kilogram of body weight per day, and up to 2.2 g/kg if you can. A GLP-1-specific nutrition advisory from four medical societies recommends 1.2 to 1.6 g/kg during active weight loss. A dose-response meta-analysis of resistance-training trials found the benefit to fat-free mass leveled off near 1.6 g/kg, with the upper confidence limit near 2.2 g/kg. For a 70 kg (154 lb) person, 1.2 to 2.2 g/kg is roughly 84 to 154 grams a day, and 1.6 g/kg is about 112 grams. All of these are well above the standard 0.8 g/kg dietary reference intake.
 
 **Q:** Why is it so hard to eat enough protein on a GLP-1?
 
@@ -4537,11 +4557,15 @@ No. As of October 2026, retatrutide is not approved by the FDA for any use. The 
 # Signs you're losing muscle, not just fat, on a GLP-1
 
 URL: https://getmuscleonglp.com/learn/signs-of-muscle-loss-glp1/
-Updated: 2026-10-27
+Updated: 2026-10-28
 
 GLP-1 & muscle
 
 The scale drops, but is it fat or muscle? Here are the honest at-home signs, why the scale and even a DXA scan can mislead you, and the one signal actually worth tracking.
+
+## The short answer
+
+The clearest sign is strength falling on the same movements for weeks while your weight drops, especially if you eat little protein and skip resistance training. The scale cannot tell fat from muscle. Lean tissue makes up anywhere from about 15 percent to 40 to 60 percent of GLP-1 weight loss, [1] about 26 percent in the best-measured tirzepatide trial. [2]
 
 ## Key takeaways
 
@@ -4583,7 +4607,7 @@ You might assume a body-composition scan settles the question. It helps, but it 
 
 If you track one thing, track your strength. It is free, it is specific, and it is the outcome that actually matters. Pick a few basic movements, a squat or a sit-to-stand, a push, a pull, and a carry, and record what you can do every week or two: the weight, the reps, or how many repetitions before it gets hard. Rising or steady strength at a lower body weight is strong evidence you are keeping muscle. A clear, sustained decline over several weeks, not a single off day, is the signal to change something.
 
-What you change is well established. In a meta-analysis of older adults losing weight through caloric restriction, adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone would have cost. [4] And a dose-response meta-analysis found that protein intake up to about 1.6 grams per kilogram of body weight per day improved training results, roughly double the standard 0.8 g/kg dietary reference intake. [5] Training and protein are the two levers, and they are the same two the appetite suppression works against.
+What you change is well established. In a meta-analysis of older adults losing weight through caloric restriction, adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone would have cost. [4] And a dose-response meta-analysis found that protein intake up to about 1.6 grams per kilogram of body weight per day improved training results, roughly double the standard 0.8 g/kg dietary reference intake. [5] Training and protein are the two levers, and they are the same two the appetite suppression works against. The full plan for both is in how to keep muscle on a GLP-1.
 
 ## When to talk to a clinician
 
@@ -4594,6 +4618,10 @@ This article is educational and cannot diagnose you. Bring it to your clinician 
 Some lean-mass loss comes with any large, fast weight loss, and a GLP-1 produces exactly that. The scale will not tell you what left, and even a DXA number is only part of the picture, so the most reliable thing you can do is watch your own strength over time and pay attention when familiar effort starts feeling harder. Muscle is also the reserve you carry into the day you come off the medication: about two-thirds of lost weight returned within a year of stopping semaglutide in the STEP 1 extension, [9] which is exactly why the muscle you protect now is worth the attention. If the signs point one way, the answer is not to stop losing weight; it is to add resistance training and protein so the weight you lose is the weight you meant to lose.
 
 ## Frequently asked
+
+**Q:** What are the signs of muscle loss on a GLP-1?
+
+The main signs are strength dropping on the same movements over several weeks, weakness or breathlessness beyond what eating less explains, a fast scale drop while you eat little protein and do no resistance training, and looking softer rather than leaner as your clothes loosen. None is proof on its own, so read them together. The concern is real: reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of GLP-1 weight lost, and in one study only 43 percent of GLP-1 users met even a modest protein minimum.
 
 **Q:** How can I tell if I'm losing muscle or just fat on a GLP-1?
 

@@ -47,3 +47,10 @@ Bing AI Performance, 2026-10-09 to 10-25 (citations): glp1-tendon-joint-injury-r
 glp1-micronutrients-vitamin-d-b12-iron 1 (best-protein-for-muscle-on-glp1, 18, changed in test 2).
 Primary metric: Bing AI citations per page (Bing Webmaster Tools > AI Performance > Pages), 28 days before vs after.
 Secondary: Google position for each page. Read-out: 2026-11-25 or later.
+
+## Test 4: answer-first on the "crawled, not indexed" pages (#129, live at the first scheduled build after 2026-10-28 merge)
+Pages Google crawled in July/August and left out of the index; recrawl requested 2026-10-27:
+protein-on-glp1, signs-of-muscle-loss-glp1, glp1-muscle-loss-women-over-50, glp1-protein-timing-muscle,
+build-new-muscle-on-glp1. Primary metric: indexing status in Search Console (URL Inspection) by 2026-11-11;
+secondary: impressions and position once indexed. The other three unindexed pages (statistics, Ozempic
+face, home tests) were recrawl-requested without rewrites, a rough comparison group.
