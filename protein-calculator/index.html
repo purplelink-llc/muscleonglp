@@ -3,15 +3,15 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GLP-1 Calorie, Protein &amp; Macro Calculator: Ozempic, Zepbound</title>
-<meta name="description" content="Free GLP-1 calorie, protein and macro calculator for Ozempic, Wegovy, Mounjaro or Zepbound: calorie target, protein per day and per meal, fat, carbs and fiber.">
+<title>GLP-1 Protein &amp; Calorie Calculator: Zepbound, Ozempic</title>
+<meta name="description" content="Free GLP-1 protein calculator for Ozempic, Wegovy, Mounjaro and Zepbound: daily protein, grams per meal, your calorie target, macros and fiber.">
 <meta name="keywords" content="glp-1 calorie calculator, calorie and protein calculator, glp-1 protein calculator, protein calculator for women on glp-1, tdee calculator ozempic, calorie deficit mounjaro, zepbound weight loss calculator, mifflin st jeor">
 <link rel="canonical" href="https://getmuscleonglp.com/protein-calculator/">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="author" content="MuscleOnGLP">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MuscleOnGLP">
-<meta property="og:title" content="GLP-1 Calorie and Protein Calculator">
+<meta property="og:title" content="GLP-1 Protein and Calorie Calculator">
 <meta property="og:description" content="BMR, TDEE, calorie and protein targets, plus a chart of how much muscle you keep with vs without enough protein and training. Based on published equations.">
 <meta property="og:url" content="https://getmuscleonglp.com/protein-calculator/">
 <meta property="og:image" content="https://getmuscleonglp.com/assets/og/protein-calculator.jpg">
@@ -19,14 +19,14 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="GLP-1 Calorie and Protein Calculator: your daily targets, built for a small appetite">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="GLP-1 Calorie and Protein Calculator">
+<meta name="twitter:title" content="GLP-1 Protein and Calorie Calculator">
 <meta name="twitter:description" content="BMR, TDEE, calorie and protein targets, plus a muscle-preservation chart. Based on published equations.">
 <meta name="twitter:image" content="https://getmuscleonglp.com/assets/og/protein-calculator.jpg">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "GLP-1 Calorie, Protein and Macro Calculator",
+  "name": "GLP-1 Protein, Calorie and Macro Calculator",
   "url": "https://getmuscleonglp.com/protein-calculator/",
   "applicationCategory": "HealthApplication",
   "operatingSystem": "Any (web browser)",
@@ -77,6 +77,14 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Obesity guidelines suggest 1,200 to 1,500 calories a day for women and 1,500 to 1,800 for men, or a deficit of 500 to 750 calories below maintenance, depending on your size and activity. The calculator estimates your maintenance calories (TDEE) from your sex, age, height, weight and activity level, then subtracts the deficit for the pace you pick, using 7,700 kcal per kilogram of body weight. For the example on this page (a 45-year-old woman, 5 ft 6 in and 210 lb, lightly active), maintenance is about 2,220 calories and losing about 1 lb a week puts the target near 1,725. Confirm the calorie floor with your clinician while on a GLP-1."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much protein do I need on Zepbound or Mounjaro?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The same as on any GLP-1: the target is set by your body weight, not the drug. The 2025-2030 Dietary Guidelines and a four-society GLP-1 advisory use 1.2 to 1.6 g per kilogram a day; lean-mass research supports 1.6 to 2.2 g/kg during weight loss, the range this calculator shows first. For a 210 lb (95 kg) person that is about 114 to 152 g a day on the advisory range, or 152 to 210 g on the higher one."
       }
     },
     {
@@ -133,8 +141,8 @@
     <div class="wrap">
       <p class="crumbs"><a href="/">Home</a><span>/</span>Calculator</p>
       <p class="article-eyebrow">Free tool</p>
-      <h1>GLP-1 calorie, protein and macro calculator</h1>
-      <p class="article-dek">Your calorie target, your daily protein target and per-meal grams, plus a projection of how much muscle you keep with versus without enough protein and training. Built on published equations, not guesses.</p>
+      <h1>GLP-1 protein and calorie calculator</h1>
+      <p class="article-dek">A protein calculator for Ozempic, Wegovy, Mounjaro and Zepbound: your daily protein target and per-meal grams, your calorie target and macros, plus a projection of how much muscle you keep with versus without enough protein and training. Built on published equations, not guesses.</p>
     </div>
   </header>
 
@@ -190,6 +198,14 @@
               </select>
             </div>
             <div>
+              <label for="med" class="calc-label">Medication</label>
+              <select id="med" name="med" class="calc-in">
+                <option value="sema">Semaglutide (Ozempic / Wegovy)</option>
+                <option value="tirz">Tirzepatide (Mounjaro / Zepbound)</option>
+                <option value="other">Other GLP-1, incl. the pills</option>
+              </select>
+            </div>
+            <div>
               <label for="meals" class="calc-label">Meals per day</label>
               <select id="meals" name="meals" class="calc-in">
                 <option value="3">3 meals</option>
@@ -212,10 +228,11 @@
           <div class="calc-stat"><span class="calc-n" id="tdee"></span><span class="calc-l">TDEE (maintenance)</span></div>
           <div class="calc-stat"><span class="calc-n" id="target"></span><span class="calc-l">Calorie target</span></div>
           <div class="calc-stat"><span class="calc-n" id="deficit"></span><span class="calc-l">Daily deficit</span></div>
-          <div class="calc-stat"><span class="calc-n" id="protein"></span><span class="calc-l">Protein / day</span></div>
+          <div class="calc-stat"><span class="calc-n" id="protein"></span><span class="calc-l">Protein / day <small id="proteinLb"></small></span></div>
           <div class="calc-stat"><span class="calc-n" id="permeal"></span><span class="calc-l" id="permealLabel">Protein / meal (×4)</span></div>
           <div class="calc-stat" id="weeksRow" hidden><span class="calc-n" id="weeks"></span><span class="calc-l">To reach goal</span></div>
         </div>
+        <p id="medNote" class="calc-note" hidden></p>
         <div id="macroRow" hidden style="margin-top:18px">
           <h2 style="margin:0 0 10px;font-size:var(--fs-head)">Macros at your calorie target</h2>
           <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
@@ -297,6 +314,7 @@
         <h2>Frequently asked</h2>
         <div class="faq-list">
           <details><summary>How many calories should I eat on a GLP-1?</summary><p>Obesity guidelines suggest 1,200 to 1,500 calories a day for women and 1,500 to 1,800 for men, or a deficit of 500 to 750 calories below maintenance, depending on your size and activity. The calculator estimates your maintenance calories (TDEE) from your sex, age, height, weight and activity level, then subtracts the deficit for the pace you pick, using 7,700 kcal per kilogram of body weight. For the example on this page (a 45-year-old woman, 5 ft 6 in and 210 lb, lightly active), maintenance is about 2,220 calories and losing about 1 lb a week puts the target near 1,725. Confirm the calorie floor with your clinician while on a GLP-1.</p></details>
+          <details><summary>How much protein do I need on Zepbound or Mounjaro?</summary><p>The same as on any GLP-1: the target is set by your body weight, not the drug. The 2025-2030 Dietary Guidelines and a four-society GLP-1 advisory use 1.2 to 1.6 g per kilogram a day; lean-mass research supports 1.6 to 2.2 g/kg during weight loss, the range this calculator shows first. For a 210 lb (95 kg) person that is about 114 to 152 g a day on the advisory range, or 152 to 210 g on the higher one.</p></details>
           <details><summary>How does this calculator estimate my calories?</summary><p>It uses the Mifflin-St Jeor equation for basal metabolic rate (BMR), the most validated predictive equation for healthy adults, then multiplies by a physical-activity factor to estimate total daily energy expenditure (TDEE). Your calorie target is TDEE minus the deficit implied by your chosen pace of weight loss.</p></details>
           <details><summary>How much protein does it recommend, and of what type?</summary><p>It applies the 1.6 to 2.2 g/kg of body weight range that lean-mass research supports during weight loss, split across four meals. Hit it from complete, leucine-rich sources; collagen is low in leucine and does little for muscle despite the label.</p></details>
           <details><summary>What macros should I eat on a GLP-1?</summary><p>Protein first: 1.6 g per kilogram of body weight a day is where the benefit to lean mass levels off, with 1.2 to 1.6 g/kg as the GLP-1 advisory range. Fat at 20 to 35 percent of calories is the adult range the National Academies give; the calculator uses 25 percent. Carbohydrate fills the rest of the calorie target. The calculator shows all three in grams for your numbers.</p></details>

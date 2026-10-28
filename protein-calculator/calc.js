@@ -78,6 +78,9 @@
     $("target").textContent = fmt(target) + " kcal";
     $("deficit").textContent = "−" + fmt(deficit) + " kcal";
     $("protein").textContent = pLow + "–" + pHigh + " g";
+    // The same target per pound of body weight, the unit most US searchers use.
+    if ($("proteinLb")) { $("proteinLb").textContent = "(" + (P_LOW * LB).toFixed(2) + "–" + (P_HIGH * LB).toFixed(1) + " g/lb)"; }
+    medNote();
     $("advRange").textContent = aLow + " to " + aHigh + " g a day (" + ADV_LOW + " to " + ADV_HIGH + " g/kg)";
     $("permeal").textContent = Math.round(pLow / meals) + "–" + Math.round(pHigh / meals) + " g";
     var permealLabel = $("permealLabel");
@@ -110,6 +113,22 @@
     announce("Calorie target " + fmt(target) + " kcal a day, " + fmt(deficit) + " below maintenance. Protein " + pLow + " to " + pHigh +
       " g a day, " + $("permeal").textContent.replace("–", " to ") + " per meal." +
       (!s.hidden ? " " + s.textContent : ""));
+  }
+
+  // The protein target is set by body weight, not by the drug; the note says so
+  // for the medication picked, and points to the per-drug weight-loss figures.
+  var MED_NOTE = {
+    sema: "On semaglutide (Ozempic, Wegovy)",
+    tirz: "On tirzepatide (Mounjaro, Zepbound)",
+    other: "On other GLP-1s, including the Wegovy and Foundayo pills"
+  };
+  function medNote() {
+    var el = $("medNote"), m = $("med");
+    if (!el || !m || !MED_NOTE[m.value]) return;
+    el.innerHTML = "<strong>" + MED_NOTE[m.value] + ",</strong> the protein target is the same as on any GLP-1: it is set by your body weight, not the drug. " +
+      "What differs by drug is how fast and how far weight falls; see the average loss for your medication in the " +
+      '<a href="/weight-loss-calculator/">weight loss calculator</a>.';
+    el.hidden = false;
   }
 
   // Macros at the calorie target. Protein at the low end of the training range
@@ -237,6 +256,7 @@
       goal: '170',
       activity: '1.375',
       pace: '0.45',
+      med: 'sema',
       meals: '4'
   };
   var touched = false;
