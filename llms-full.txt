@@ -1851,7 +1851,7 @@ Yes. In a pooled analysis of the STEP 1 to 3 trials, 43.9 percent of people on s
 
 ---
 
-# Intermittent fasting on a GLP-1: does it make muscle loss worse?
+# Intermittent fasting on a GLP-1: is it safe for muscle?
 
 URL: https://getmuscleonglp.com/learn/glp1-intermittent-fasting-muscle/
 Updated: 2026-10-27
@@ -1860,19 +1860,23 @@ Nutrition
 
 A compressed eating window stacked on top of an appetite already suppressed by medication sounds efficient. Here is what the evidence on fasting and lean mass actually shows, why GLP-1s change the calculation, and what is still extrapolation rather than proof.
 
+Short answer. You can combine them, but stacking a fasting window on a drug that already suppresses appetite makes your protein target harder to reach, and under-eating protein is the main muscle risk. [1] If you take insulin or a sulfonylurea, both the GLP-1 and the fasting add to the risk of low blood sugar, so plan any fasting with your clinician. [2,3]
+
 ## Key takeaways
 
 - No published trial has tested intermittent fasting specifically in people taking a GLP-1 medication; everything below about the combination is a reasoned extrapolation, stated as such.
 
-- A meta-analysis of 8 RCTs found time-restricted eating (8:16) did not significantly reduce lean mass overall, but did in adults over 40, by about 0.88 kg. [1]
+- A meta-analysis of 8 RCTs found time-restricted eating (16:8) did not significantly reduce lean mass overall, but did in adults over 40, by about 0.88 kg. [4]
 
-- A 12-month trial found lean-mass changes with time-restricted eating plus calorie restriction were consistent with the primary weight-loss result: no significant difference from calorie restriction alone. [2]
+- A 12-month trial found lean-mass changes with time-restricted eating plus calorie restriction were consistent with the primary weight-loss result: no significant difference from calorie restriction alone. [5]
 
-- A 2025 review flags that appetite suppression from GLP-1s combined with a restricted feeding window may limit meal size enough to reduce protein and lean mass unless deliberately managed. [3]
+- A 2025 review flags that appetite suppression from GLP-1s combined with a restricted feeding window may limit meal size enough to reduce protein and lean mass unless deliberately managed. [1]
+
+- On insulin or a sulfonylurea, a GLP-1 raises the risk of low blood sugar, and long gaps without food add to it. Plan any fasting, including Ramadan, with your clinician first. [2,3]
 
 - This is not dosing, eating-window, or eating-disorder advice. Talk to your prescribing clinician before combining fasting with a GLP-1.
 
-Intermittent fasting and GLP-1 medications share a mechanism, in effect if not in biology: both reduce how much you eat. Semaglutide and tirzepatide slow gastric emptying and blunt hunger signals directly. [3] Time-restricted eating does something similar by simply removing hours of the day from the table. Combine them and, on paper, you get a very efficient way to run a large calorie deficit. That efficiency is exactly what should raise the muscle question, because a large deficit reached through two overlapping appetite-suppressing mechanisms leaves less room for the two things that protect lean mass: enough protein, and enough meals to distribute it across.
+Intermittent fasting and GLP-1 medications share a mechanism, in effect if not in biology: both reduce how much you eat. Semaglutide and tirzepatide slow gastric emptying and blunt hunger signals directly. [1] Time-restricted eating does something similar by simply removing hours of the day from the table. Combine them and, on paper, you get a very efficient way to run a large calorie deficit. That efficiency is exactly what should raise the muscle question, because a large deficit reached through two overlapping appetite-suppressing mechanisms leaves less room for the two things that protect lean mass: enough protein, and enough meals to distribute it across.
 
 This article separates what fasting research shows on its own, what a 2025 clinical review says about stacking it with a GLP-1 specifically, and where the honest answer is still "we do not know yet."
 
@@ -1880,37 +1884,56 @@ This article separates what fasting research shows on its own, what a 2025 clini
 
 Set the GLP-1 question aside for a moment. In people not taking any weight-loss medication, does compressing eating into a window cost more muscle than a normal eating schedule at the same calorie deficit? The literature is more reassuring here than most headlines suggest, with an important exception.
 
-A systematic review and meta-analysis of 8 randomized controlled trials, 464 participants total, examined 8:16 time-restricted eating (eating within an 8-hour window, fasting the other 16) in adults with overweight or obesity. Pooled across all trials, there was no significant difference in lean mass change between the time-restricted group and controls (mean difference −0.48 kg, 95% CI −1.02 to 0.05). [1] But a subgroup analysis of participants aged 40 and older found a significant lean-mass reduction of about 0.88 kg (95% CI −1.44 to −0.32) that did not appear in the younger group. [1] That age split matters here: a large share of GLP-1 users are in or past their forties, the exact group where this signal showed up.
+A systematic review and meta-analysis of 8 randomized controlled trials, 464 participants total, examined 16:8 time-restricted eating (eating within an 8-hour window, fasting the other 16) in adults with overweight or obesity. Pooled across all trials, there was no significant difference in lean mass change between the time-restricted group and controls (mean difference −0.48 kg, 95% CI −1.02 to 0.05). [4] But a subgroup analysis of participants aged 40 and older found a significant lean-mass reduction of about 0.88 kg (95% CI −1.44 to −0.32) that did not appear in the younger group. [4] That age split matters here: a large share of GLP-1 users are in or past their forties, the exact group where this signal showed up.
 
-A separate, larger trial reinforces the "no clear penalty, but no clear benefit" picture. A 12-month randomized trial of 139 adults with obesity compared daily calorie restriction alone against the same calorie restriction combined with an 8-hour eating window (8 a.m. to 4 p.m.). Body lean mass results were reported as consistent with the trial's primary weight-loss outcome, which found no significant difference between the two groups. [2] In other words, adding a compressed window to a calorie-controlled diet did not measurably help or hurt lean mass beyond what the calorie deficit itself was already doing, at least at 12 months in people not taking a GLP-1.
+A separate, larger trial reinforces the "no clear penalty, but no clear benefit" picture. A 12-month randomized trial of 139 adults with obesity compared daily calorie restriction alone against the same calorie restriction combined with an 8-hour eating window (8 a.m. to 4 p.m.). Body lean mass results were reported as consistent with the trial's primary weight-loss outcome, which found no significant difference between the two groups. [5] In other words, adding a compressed window to a calorie-controlled diet did not measurably help or hurt lean mass beyond what the calorie deficit itself was already doing, at least at 12 months in people not taking a GLP-1.
 
 ## Why a GLP-1 changes the calculation
 
-Both of the trials above controlled calorie intake deliberately, either through a prescribed target or a structured diet. A GLP-1 does not work that way. It suppresses appetite pharmacologically, which means the deficit it produces is not a chosen number, it is however much the drug leaves you wanting to eat. Lean mass already runs anywhere from about 15 percent to 40 to 60 percent of total weight lost across GLP-1 studies in general, [4] which tells you the appetite-suppression effect alone, with no fasting window added, already puts muscle at some risk.
+Both of the trials above controlled calorie intake deliberately, either through a prescribed target or a structured diet. A GLP-1 does not work that way. It suppresses appetite pharmacologically, which means the deficit it produces is not a chosen number, it is however much the drug leaves you wanting to eat. Lean mass already runs anywhere from about 15 percent to 40 to 60 percent of total weight lost across GLP-1 studies in general, [6] which tells you the appetite-suppression effect alone, with no fasting window added, already puts muscle at some risk.
 
-A 2025 clinical review focused specifically on combining GLP-1 receptor agonists with intermittent fasting states the concern directly: GLP-1RAs blunt early hunger signals in a way that can ease a person into a fasting window, but "appetite suppression can reduce overall protein and energy intake, which may contribute to lean-mass loss if not balanced with protein-rich meals and regular resistance exercise." [3] The same review notes that achieving adequate protein intake is already a challenge in real-world GLP-1 use, and that a restricted feeding window layered on top can further limit how much food, and therefore protein, a person is physically able to eat in a sitting. [3]
+A 2025 clinical review focused specifically on combining GLP-1 receptor agonists with intermittent fasting states the concern directly: GLP-1RAs blunt early hunger signals in a way that can ease a person into a fasting window, but "appetite suppression can reduce overall protein and energy intake, which may contribute to lean-mass loss if not balanced with protein-rich meals and regular resistance exercise." [1] The same review notes that achieving adequate protein intake is already a challenge in real-world GLP-1 use, and that a restricted feeding window layered on top can further limit how much food, and therefore protein, a person is physically able to eat in a sitting. [1]
 
-There is a mechanical version of this problem too, separate from total appetite. Reaching a daily protein target of around 1.6 g/kg is easier when it is spread across at least four meals at roughly 0.4 g/kg each, since muscle protein synthesis responds to the protein in a given meal only up to a point. [5] A compressed eating window mathematically removes meals. Someone eating in an 8-hour window has fewer practical opportunities to hit four separate protein doses than someone eating across 12 or 14 hours, which means each remaining meal has to carry more protein to reach the same daily total, at exactly the moment a GLP-1 has made large meals harder to finish.
+There is a mechanical version of this problem too, separate from total appetite. Reaching a daily protein target of around 1.6 g/kg is easier when it is spread across at least four meals at roughly 0.4 g/kg each, since muscle protein synthesis responds to the protein in a given meal only up to a point. [7] A compressed eating window mathematically removes meals. Someone eating in an 8-hour window has fewer practical opportunities to hit four separate protein doses than someone eating across 12 or 14 hours, which means each remaining meal has to carry more protein to reach the same daily total, at exactly the moment a GLP-1 has made large meals harder to finish.
 
 ## What is evidence and what is extrapolation
 
-To be precise about where the line falls: it is evidence-based that time-restricted eating alone does not clearly worsen lean-mass loss in most adults, with a documented exception in people over 40. [1] It is evidence-based that GLP-1 medications already put a meaningful share of weight loss at risk of being lean tissue, independent of any fasting pattern. [4] It is evidence-based that per-meal protein distribution matters for muscle protein synthesis and that fewer meals mean fewer chances to hit that distribution. [5]
+To be precise about where the line falls: it is evidence-based that time-restricted eating alone does not clearly worsen lean-mass loss in most adults, with a documented exception in people over 40. [4] It is evidence-based that GLP-1 medications already put a meaningful share of weight loss at risk of being lean tissue, independent of any fasting pattern. [6] It is evidence-based that per-meal protein distribution matters for muscle protein synthesis and that fewer meals mean fewer chances to hit that distribution. [7]
 
-What is extrapolation is the specific claim that stacking intermittent fasting on top of a GLP-1 produces more muscle loss than either one alone. No randomized trial has tested that combination directly. The 2025 review that raises the concern is a narrative clinical review built from adjacent evidence and clinical reasoning, not a trial with its own muscle-outcome data on fasting-plus-GLP-1 patients. [3] The honest position is that the mechanism is plausible and worth taking seriously, not that it has been demonstrated.
+What is extrapolation is the specific claim that stacking intermittent fasting on top of a GLP-1 produces more muscle loss than either one alone. No randomized trial has tested that combination directly. The 2025 review that raises the concern is a narrative clinical review built from adjacent evidence and clinical reasoning, not a trial with its own muscle-outcome data on fasting-plus-GLP-1 patients. [1] The honest position is that the mechanism is plausible and worth taking seriously, not that it has been demonstrated.
 
 ## If you do combine them, what actually protects muscle
 
-The two levers that protect lean mass during any GLP-1-driven weight loss do not change just because you have added a fasting window. Resistance training offset about 93.5 percent of diet-induced lean-mass loss in a meta-analysis of older adults losing weight through caloric restriction. [6] Hitting your total daily protein number, even if you have to concentrate it into two or three larger doses instead of four spread-out ones inside a shorter window, matters more than the exact meal count. See our protein target guide for the daily number, and our guide to high-protein meals and shakes for low-appetite days for concrete foods that pack protein into a smaller volume, which is exactly what a compressed window and a suppressed appetite both demand at once.
+The two levers that protect lean mass during any GLP-1-driven weight loss do not change just because you have added a fasting window. Resistance training offset about 93.5 percent of diet-induced lean-mass loss in a meta-analysis of older adults losing weight through caloric restriction. [8] Hitting your total daily protein number, even if you have to concentrate it into two or three larger doses instead of four spread-out ones inside a shorter window, matters more than the exact meal count. See our protein target guide for the daily number, and our guide to high-protein meals and shakes for low-appetite days for concrete foods that pack protein into a smaller volume, which is exactly what a compressed window and a suppressed appetite both demand at once.
 
 If you consistently cannot hit your protein target inside your fasting window, that is a signal to widen the window or drop the fasting pattern, not a signal to push through on less protein. The window is a tool in service of the calorie and protein targets, not the other way around.
 
+## Common fasting schedules and what they mean for protein
+
+Time-restricted eating usually means eating within an 8 to 12 hour window each day, and the 5:2 pattern means eating no more than about 500 calories on two days a week. [9] In the usual notation the first number is hours of fasting, so 16:8 means a 16-hour fast and an 8-hour eating window. [1] The protein notes assume the four meals of about 0.4 g/kg each that make a 1.6 g/kg day easiest to reach. [7]
+
+| Schedule | Eating window | Protein planning |
+| --- | --- | --- |
+| 12:12 | 12 hours a day | Room for four protein meals |
+| 14:10 | 10 hours a day | Three or four meals, start with protein |
+| 16:8 | 8 hours a day | Two or three larger protein meals |
+| 5:2 | Normal five days; about 500 calories on two | Spend the low days mostly on protein |
+
+## Low blood sugar on insulin or a sulfonylurea
+
+For most people taking a GLP-1 for weight, the main fasting risk is under-eating. People with type 2 diabetes who also take insulin or a sulfonylurea have a second one. The Ozempic prescribing information warns that semaglutide taken with an insulin secretagogue such as a sulfonylurea, or with insulin, can increase the risk of hypoglycemia, including severe hypoglycemia, and tells prescribers to inform patients of that risk and teach the signs. [2] Long gaps without food add to it: a 2025 review lists hypoglycemia in people with diabetes on insulin as a safety concern of intermittent fasting, [1] and diabetes fasting guidance asks people on sulfonylureas or insulin to check their blood glucose regularly while fasting. [3] Any change to those medications is for your prescriber to make, so talk to them before you start a fasting schedule, not after a low.
+
+## Ramadan and other religious fasts
+
+A religious fast is not a chosen 16:8 window. During Ramadan, food and water stop from dawn to sunset, and most people eat two meals: suhoor before dawn and iftar after sunset. [3] The Australian Diabetes Society position statement, which draws on the International Diabetes Federation and DAR International Alliance guidelines, recommends planning with a health professional one to two months before Ramadan. It describes GLP-1 receptor agonists as well tolerated and a safer choice than sulfonylureas during the fast, asks people on sulfonylureas or insulin to monitor their glucose, and advises against strenuous activity toward the end of a fasting day. [3] For muscle, Ramadan is the protein problem in its sharpest form: two meals have to carry the whole day, so each needs a substantial protein serving, [7] and resistance training fits better after iftar than late in the fast. Medication timing during Ramadan is a question for your clinician, not this article.
+
 ## What the evidence does not say
 
-No randomized controlled trial has tested intermittent fasting or time-restricted eating specifically in people taking a GLP-1 medication; every point of intersection between the two bodies of evidence above is a reasoned combination, not a direct finding. The time-restricted eating trials cited were conducted in people not taking a GLP-1, at calorie deficits the participants or researchers controlled directly, which is a different situation from an appetite suppressed pharmacologically. The subgroup finding of lean-mass loss in adults over 40 came from a relatively small pooled sample within an 8-trial meta-analysis and has not been independently replicated in a dedicated trial of that age group. [1] This article is not dosing, titration, or eating-window advice, and it is not guidance for anyone with a current or past eating disorder, for whom combining appetite suppression with a restricted eating window carries risks well beyond muscle loss; that combination should only be considered with direct clinical supervision.
+No randomized controlled trial has tested intermittent fasting or time-restricted eating specifically in people taking a GLP-1 medication; every point of intersection between the two bodies of evidence above is a reasoned combination, not a direct finding. The time-restricted eating trials cited were conducted in people not taking a GLP-1, at calorie deficits the participants or researchers controlled directly, which is a different situation from an appetite suppressed pharmacologically. The subgroup finding of lean-mass loss in adults over 40 came from a relatively small pooled sample within an 8-trial meta-analysis and has not been independently replicated in a dedicated trial of that age group. [4] This article is not dosing, titration, or eating-window advice, and it is not guidance for anyone with a current or past eating disorder, for whom combining appetite suppression with a restricted eating window carries risks well beyond muscle loss; that combination should only be considered with direct clinical supervision.
 
 ## The bottom line
 
-Intermittent fasting by itself has a fairly reassuring track record on lean mass in the general population, with a real exception in adults over 40. Stacked on top of a GLP-1's own appetite suppression, the concern is plausible and specific: fewer meals mean fewer chances to hit the protein-per-meal targets that help preserve muscle, at the exact moment total appetite is already reduced by the medication. [3] That has not been tested directly, so treat it as a reason for caution and a firm protein target, not as a settled verdict against the combination. If you want to try it, the plan is the same as it is without fasting: hit your daily protein number by whatever meal pattern actually lets you reach it, keep resistance training in the week, and loop in your clinician, especially if appetite is already a struggle.
+Intermittent fasting by itself has a fairly reassuring track record on lean mass in the general population, with a real exception in adults over 40. Stacked on top of a GLP-1's own appetite suppression, the concern is plausible and specific: fewer meals mean fewer chances to hit the protein-per-meal targets that help preserve muscle, at the exact moment total appetite is already reduced by the medication. [1] That has not been tested directly, so treat it as a reason for caution and a firm protein target, not as a settled verdict against the combination. If you want to try it, the plan is the same as it is without fasting: hit your daily protein number by whatever meal pattern actually lets you reach it, keep resistance training in the week, and loop in your clinician, especially if appetite is already a struggle.
 
 ## Frequently asked
 
@@ -1926,19 +1949,33 @@ This is a decision for you and your prescribing clinician, not something this ar
 
 Prioritize hitting your total daily protein target inside whatever window you eat in, even if that means fewer, larger protein doses instead of the four-meal spread usually recommended. Keep resistance training in your week regardless of the eating pattern, since it is one of the two levers with strong evidence for preserving lean mass during weight loss. And treat a compressed window as something to adjust or abandon if you cannot consistently hit your protein number inside it.
 
+**Q:** Can intermittent fasting on a GLP-1 cause low blood sugar?
+
+For most people taking a GLP-1 alone, low blood sugar is not the main risk. It is a real one for people with type 2 diabetes who also take insulin or a sulfonylurea: the Ozempic prescribing information warns that combining semaglutide with those drugs can increase the risk of hypoglycemia, including severe hypoglycemia, and long gaps without food add to it. Plan any fasting schedule with your prescriber first.
+
+**Q:** Can I fast during Ramadan while taking a GLP-1?
+
+Many people with diabetes choose to fast. If you do, plan it with your clinician one to two months ahead, as diabetes guidance recommends. The Australian Diabetes Society, drawing on IDF-DAR guidelines, describes GLP-1 receptor agonists as well tolerated and a safer choice than sulfonylureas during Ramadan. People on insulin or a sulfonylurea should monitor their glucose. For muscle, make both suhoor and iftar protein-rich, since two meals carry the whole day.
+
 ## References
+
+- Cozma D, Văcărescu C, Stoicescu C. Added value to GLP-1 receptor agonist: intermittent fasting and lifestyle modification to improve therapeutic effects and outcomes. Biomedicines. 2025;13(12):3079. pmc.ncbi.nlm.nih.gov/articles/PMC12730251
+
+- Novo Nordisk. OZEMPIC (semaglutide) injection: prescribing information, section 5.5, Hypoglycemia with concomitant use of insulin secretagogues or insulin. Revised 5/2026. dailymed.nlm.nih.gov
+
+- Baqar S, Sheen J, Andrikopoulos S, Ekinci EI. Australian Diabetes Society position statement: management of people with diabetes who choose to fast during Ramadan. Australian Diabetes Society; 2022. diabetessociety.com.au
 
 - Huang L, Chen Y, Wen S, Lu D, Shen X, Deng H, Xu L. Is time-restricted eating (8/16) beneficial for body weight and metabolism of obese and overweight adults? A systematic review and meta-analysis of randomized controlled trials. Food Science & Nutrition. 2023;11(3):1187-1200. pmc.ncbi.nlm.nih.gov/articles/PMC10002957
 
 - Liu D, Huang Y, Huang C, et al. Calorie restriction with or without time-restricted eating in weight loss. New England Journal of Medicine. 2022;386(16):1495-1504. pubmed.ncbi.nlm.nih.gov/35443107
-
-- Cozma D, Văcărescu C, Stoicescu C. Added value to GLP-1 receptor agonist: intermittent fasting and lifestyle modification to improve therapeutic effects and outcomes. Biomedicines. 2025;13(12):3079. pmc.ncbi.nlm.nih.gov/articles/PMC12730251
 
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
 - Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Journal of the International Society of Sports Nutrition. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+
+- Anton SD, Moehl K, Donahoo WT, et al. Flipping the metabolic switch: understanding and applying the health benefits of fasting. Obesity (Silver Spring). 2018;26(2):254-268. pmc.ncbi.nlm.nih.gov/articles/PMC5783752
 
 ---
 
@@ -3506,14 +3543,14 @@ That has not been directly tested. Excess skin after major weight loss is well d
 
 ---
 
-# Does Ozempic cause muscle loss? What the research actually shows
+# Does Ozempic cause muscle loss? How much, and how to stop it
 
 URL: https://getmuscleonglp.com/learn/ozempic-muscle-loss/
 Updated: 2026-10-27
 
 GLP-1 & muscle
 
-Yes, partly. Depending on the study, anywhere from about 15 percent to 40 to 60 percent of the weight lost on a GLP-1 is lean mass, not fat. Here is what the trial data shows, why it happens, and the two things proven to protect your muscle.
+Yes, partly. Most of the lean mass lost tracks the weight loss itself rather than a direct effect of the drug on muscle, but part of the weight you lose is still lean mass: anywhere from about 15 percent to 40 to 60 percent, depending on the study. Here is what the trial data shows, why it happens, and the two things proven to protect your muscle.
 
 ## Key takeaways
 
@@ -3527,6 +3564,8 @@ Yes, partly. Depending on the study, anywhere from about 15 percent to 40 to 60 
 
 - Protein near 1.6 g/kg per day is where added protein stops improving training gains in pooled data. [4]
 
+Two things are true at once. Most of the lean mass lost on a GLP-1 comes from the weight loss itself rather than a direct effect of the drug on muscle: in the SURMOUNT-1 body-composition substudy, lean mass made up about 26 percent of the weight lost on tirzepatide and about 25 percent on placebo, and the authors note that diet studies report similar proportions. [2] But part of the weight lost is still lean mass, anywhere from about 15 percent to 40 to 60 percent across studies. [1]
+
 GLP-1 medications like semaglutide (Ozempic, Wegovy) and tirzepatide (Mounjaro, Zepbound) produce weight loss that used to require surgery. That is exactly why the composition of the weight matters. The number on the scale does not distinguish fat from muscle, and a portion of what disappears is lean tissue: the skeletal muscle that keeps you strong, mobile, and metabolically healthy.
 
 This is not a reason to avoid the medication. It is a reason to train and eat in a way that steers the loss toward fat. Below is what the published evidence says, stated plainly, including where it runs out.
@@ -3536,6 +3575,15 @@ This is not a reason to avoid the medication. It is a reason to train and eat in
 Across the GLP-1 trials that measured body composition, reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [1] The single most useful data point comes from the SURMOUNT-1 DXA substudy, which used dual-energy X-ray absorptiometry to separate fat from lean tissue in people taking tirzepatide. About 74 percent of the weight lost was fat and about 26 percent was lean mass. [2]
 
 For semaglutide itself, the drug in Ozempic and Wegovy, the closest data is a DXA substudy of 140 people in the STEP 1 trial. Over 68 weeks on semaglutide 2.4 mg, total fat mass fell 19.3 percent and total lean mass fell 9.7 percent from baseline, so fat came off about twice as fast as lean tissue. Because fat fell faster, the share of the body made up of lean mass rose by 3 percentage points. [5] Lean mass still fell, which is the part worth protecting.
+
+Two different percentages get quoted for the same trials, and they are easy to mix up:
+
+| Trial (DXA substudy) | Share of weight lost that was lean mass | Change in lean mass from baseline |
+| --- | --- | --- |
+| SURMOUNT-1, tirzepatide, 72 weeks | about 26% [2] | −10.9% [2] |
+| STEP 1, semaglutide 2.4 mg, 68 weeks | about 40% [2] | −9.7% [5] |
+
+The two numbers differ because they divide by different things: the first is lean mass lost as a share of total weight lost, while the second is lean mass lost as a share of all the lean mass you started with, which is a much larger number. The STEP 1 share comes from the SURMOUNT-1 authors’ summary of that trial, since the STEP 1 abstract reports only the percent changes. [2,5]
 
 For context, the headline trials produced large losses: semaglutide 2.4 mg drove about 14.9 percent mean weight loss over 68 weeks in STEP 1, [6] and tirzepatide reached about 20.9 percent at its highest dose in SURMOUNT-1. [7] A quarter of a loss that large is a substantial amount of muscle. One routine-care preprint, which has not yet been peer reviewed, reported a greater lean-mass decline on tirzepatide than on semaglutide outside of trial conditions. [8]
 
@@ -3592,6 +3640,14 @@ Reviews of the GLP-1 trials that measured body composition place lean mass at an
 **Q:** Do Wegovy, Mounjaro and Zepbound cause muscle loss too?
 
 Yes, the pattern applies across the class. Ozempic and Wegovy are semaglutide; Mounjaro and Zepbound are tirzepatide. Lean-mass loss has been measured with both, and the same two countermeasures, resistance training and enough protein, are the evidence-based response.
+
+**Q:** Does muscle come back after stopping Ozempic?
+
+Not on its own. About two-thirds of lost weight returned within a year of stopping semaglutide in the STEP 1 extension, but that trial reported body weight, not body composition, so there is no trial answer yet on how much of the regain is muscle. Muscle is rebuilt the same way it is protected, with resistance training and enough protein. See our guide to muscle after stopping Ozempic.
+
+**Q:** What are the signs of muscle loss on Ozempic?
+
+Watch strength and function rather than the scale: the same lifts or carries getting harder over several weeks, or getting up from a chair or the floor becoming harder. A DXA lean-mass reading includes water and organ tissue, so it is an imperfect proxy for muscle, and short-term trials often showed grip strength holding steady even as lean mass fell. See our guide to the signs of muscle loss on a GLP-1.
 
 ## References
 
