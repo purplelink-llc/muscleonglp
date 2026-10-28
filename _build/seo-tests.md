@@ -28,3 +28,16 @@ Control (untouched for 28 days): /learn/best-exercises-preserve-muscle-glp1/ (15
 /learn/cardio-vs-weights-glp1/ (8.0), /learn/glp1-knee-osteoarthritis-pain/ (11.9),
 /learn/ozempic-loose-skin-vs-muscle/ (9.7), /learn/retatrutide-muscle-loss/ (8.5).
 Read-out: 2026-11-25 or later.
+
+## Test 2: answer-first titles and short-answer boxes, batch 2 (#126, live at the 2026-10-28 06:00 build)
+These pages showed at average position 8-10 with 0 clicks (a snippet problem, not a ranking one).
+Primary metric here: impressions and clicks at matched position, with page-level position as a guard.
+- /learn/build-muscle-glp1-no-gym/ (346 impressions, pos 8.7)
+- /learn/glp1-high-protein-meals-nausea/ (281, pos 9.9)
+- /learn/best-protein-for-muscle-on-glp1/ (146, pos 8.4)
+- /learn/beginner-resistance-training-glp1/ (863, pos 7.7; most impressions are bot "repetitions in reserve" lookups, so filter those queries out)
+Control: the same five pages as test 1. Read-out: 2026-11-25 or later.
+
+## New page: /learn/keep-muscle-on-glp1/ (#127)
+Pillar for "how to maintain muscle on glp 1" (86-95), "how to build muscle on glp 1" (82), "glp1 workouts" (79).
+No baseline page; track whether it indexes and which queries it picks up.
