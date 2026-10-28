@@ -41,3 +41,9 @@ Control: the same five pages as test 1. Read-out: 2026-11-25 or later.
 ## New page: /learn/keep-muscle-on-glp1/ (#127)
 Pillar for "how to maintain muscle on glp 1" (86-95), "how to build muscle on glp 1" (82), "glp1 workouts" (79).
 No baseline page; track whether it indexes and which queries it picks up.
+
+## Test 3: answer-first on the pages Copilot already cites (#128, live at the first scheduled build after 2026-10-28 merge)
+Bing AI Performance, 2026-10-09 to 10-25 (citations): glp1-tendon-joint-injury-risk 11, glp1-bone-density-fracture-risk 6,
+glp1-micronutrients-vitamin-d-b12-iron 1 (best-protein-for-muscle-on-glp1, 18, changed in test 2).
+Primary metric: Bing AI citations per page (Bing Webmaster Tools > AI Performance > Pages), 28 days before vs after.
+Secondary: Google position for each page. Read-out: 2026-11-25 or later.
