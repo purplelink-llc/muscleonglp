@@ -362,15 +362,19 @@ Roughly 1.6 to 2.2 grams of protein per kilogram of body weight per day. A dose-
 # Best protein shakes for GLP-1 users: a 5-point label checklist
 
 URL: https://getmuscleonglp.com/learn/best-protein-shakes-glp1/
-Updated: 2026-10-27
+Updated: 2026-10-28
 
 GLP-1 & protein
 
 On a GLP-1, a protein shake often carries a whole meal's worth of muscle protection. Here is how to read the label, which format fits your stomach, and what to skip.
 
+## The short answer
+
+Pick one you can finish with 25 to 30 g of complete protein. From whey, that is about 2.5 to 3 g of leucine, the per-meal amount linked to a full muscle-building response, especially after 60. [1] Whey isolate does it in one scoop. Clear whey or a ready-to-drink shake is easier on nausea days. Look for a testing seal.
+
 ## Key takeaways
 
-- Look for 25 to 30 grams of protein per serving, which supplies about 2.5 to 3 grams of leucine, the per-meal amount that appears to maximize the muscle-building response. [1]
+- Look for 25 to 30 grams of protein per serving. From whey, that supplies about 2.5 to 3 grams of leucine, the per-meal amount linked to a full muscle-building response, especially in adults over 60. [1]
 
 - Choose a complete protein: whey, milk, soy, or a pea and rice blend. Collagen does not count toward muscle.
 
@@ -380,19 +384,17 @@ On a GLP-1, a protein shake often carries a whole meal's worth of muscle protect
 
 - A shake supports a daily target of about 1.2 to 1.6 g/kg of body weight. [4] It protects muscle only alongside resistance training.
 
-Short answer. The best protein shake on a GLP-1 is one you can finish that delivers 25 to 30 grams of complete protein. [1] Whey isolate meets that in one scoop. Clear whey and small ready-to-drink shakes are easier on nausea days. A third-party seal is your best evidence that the label matches the tub.
-
-The reason a shake matters more on a GLP-1 is arithmetic. Reviews of the trial data put lean mass (everything that is not fat, mostly muscle) at anywhere from about 15 percent to 40 to 60 percent of the weight lost on these drugs, depending on the study. [5] Protein is one of the two levers with evidence for shrinking that share. However, a suppressed appetite makes protein the hardest nutrient to eat. A shake solves that by putting a full meal's protein into a few hundred milliliters.
+The reason a shake matters more on a GLP-1 is arithmetic. A 2024 review of the trial data found lean mass (everything that is not fat, mostly muscle) ranging from about 15 percent or less to 40 to 60 percent of the weight lost on these drugs, depending on the study. [5] Protein is one of the two levers with evidence for shrinking that share. However, a suppressed appetite makes protein the hardest nutrient to eat. A shake solves that by putting a full meal's protein into a few hundred milliliters.
 
 ## The 5-point label checklist
 
-1. Protein per serving: 25 to 30 grams. That amount of high-quality protein supplies about 2.5 to 3 grams of leucine (the amino acid that switches on muscle protein synthesis). That is the per-meal dose that appears to maximize the muscle-building response in most adults. [1] Adults over about 60 need closer to 30 grams for the same response. A shake with 10 or 15 grams is a snack, not a protein meal.
+1. Protein per serving: 25 to 30 grams. From whey, that amount supplies about 2.5 to 3 grams of leucine (the amino acid that switches on muscle protein synthesis). A minimum of about 2.5 grams of leucine per meal is the amount linked to a full response, and adults over about 60 need at least 2.8 grams, about 30 grams of protein; younger adults respond to less. [1] Spread across the day, a practical per-meal target is about 0.4 g/kg of body weight. [6] A shake with 10 or 15 grams is a snack, not a protein meal.
 
-2. A complete protein source. Whey, casein, milk protein and soy are complete on their own. Pea protein is low in methionine and rice protein is low in lysine, so a pea and rice blend covers what each lacks. Collagen is the exception to avoid as your main protein. It is low in leucine and lacks the essential amino acid tryptophan, so it does little for muscle however many grams the label shows. [6]
+2. A complete protein source. Whey, casein, milk protein and soy are complete on their own. Pea protein is low in methionine and rice protein is low in lysine, so a pea and rice blend covers what each lacks. Collagen is the exception to avoid as your main protein. It is low in leucine and lacks the essential amino acid tryptophan, so it does little for muscle however many grams the label shows.
 
 3. A format you can actually finish. Nausea is common on these drugs: in a pooled analysis of the STEP 1 to 3 trials, 43.9 percent of people on semaglutide 2.4 mg reported it, versus 16.1 percent on placebo. [2] Symptoms clustered around dose increases. On those days, a thick creamy shake you leave half-full delivers half the protein. Thin, cold and small formats tend to go down more easily.
 
-4. Third-party testing. The FDA does not review dietary supplements for safety or effectiveness before they reach the shelf. [3] Independent certification programs (e.g., NSF Certified for Sport, Informed Choice) test products against their labels and screen for contaminants. [7] A certification seal is the closest thing to proof that the 25 grams on the label is in the scoop.
+4. Third-party testing. The FDA does not approve or test dietary supplements before they are sold. [3] Independent certification programs such as NSF Certified for Sport test products against their labels, screen for contaminants and banned substances, and inspect the facilities that make them. [7] A certification seal is the closest thing to proof that the 25 grams on the label is in the scoop.
 
 5. Ingredients that work against you. If your stomach is already unsettled, read the ingredient list for sugar alcohols and added fiber, which some people find bloating. Skip "proprietary blends" that hide how much of each protein is inside. If dairy bothers you, whey isolate is processed to remove most of the lactose that whey concentrate keeps.
 
@@ -402,15 +404,15 @@ The same 25 to 30 grams can arrive in several formats. Match the format to your 
 
 ## What a shake cannot do
 
-Protein supplies the raw material. Resistance training is the signal that tells your body to keep muscle while you lose weight, and protein without training does far less. [8] Plan the shake for the meals your appetite will skip, and pair the week with two or three strength sessions. The best exercises to preserve muscle covers that half.
+Protein supplies the raw material. Resistance training is the signal that tells your body to keep muscle while you lose weight, and a four-society advisory warns that more protein alone is likely not enough to keep muscle without structured resistance training. [4] Plan the shake for the meals your appetite will skip, and pair the week with two or three strength sessions. The best exercises to preserve muscle covers that half, and how to keep muscle on a GLP-1 puts both levers in one plan.
 
 A shake also does not set your daily target. The joint advisory from four medical societies suggests 1.2 to 1.6 g/kg a day during active GLP-1 weight loss. [4] The calorie, protein and macro calculator turns that into grams, and the protein timing guide shows how to split it across a small appetite.
 
 ## Frequently asked
 
-**Q:** What is the best protein shake for someone on a GLP-1?
+**Q:** What is the best protein shake on a GLP-1?
 
-The best shake is one you can finish that delivers about 25 to 30 grams of complete protein, which supplies roughly 2.5 to 3 grams of leucine. Whey isolate meets that in one scoop. On nausea days, a clear whey or a small ready-to-drink shake is often easier to get down. Prefer a product with third-party testing.
+The one you can finish that gives you 25 to 30 grams of complete protein. From whey, that supplies about 2.5 to 3 grams of leucine, the per-meal amount linked to a full muscle-building response, especially in adults over 60. Whey isolate meets that in one scoop. On nausea days, a clear whey or a small ready-to-drink shake is often easier to get down. Prefer a product with third-party testing.
 
 **Q:** Are plant-based protein shakes good enough on Ozempic?
 
@@ -422,25 +424,25 @@ Thin, cold, low-volume options tend to go down more easily than thick creamy sha
 
 **Q:** How much protein do I need a day on a GLP-1?
 
-A joint advisory from four medical societies suggests 1.2 to 1.6 g/kg of body weight a day during active weight loss. The benefit of protein for fat-free mass leveled off near 1.6 g/kg in a large meta-analysis. [8]
+A joint advisory from four medical societies suggests 1.2 to 1.6 g/kg of body weight a day during active weight loss, or a fixed 80 to 120 g a day, since basing the target on actual weight can overestimate needs with a lot of excess weight. In people doing resistance training, extra protein stopped adding fat-free mass at about 1.6 g/kg a day in a large meta-analysis. [8]
 
 ## References
 
-- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution. Journal of the International Society of Sports Nutrition. 2018;15:10. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
+- Layman DK. Impacts of protein quantity and distribution on body composition. Frontiers in Nutrition. 2024;11:1388986. pmc.ncbi.nlm.nih.gov/articles/PMC11099237
 
-- Wharton S, Calanna S, Davies M, et al. Gastrointestinal tolerability of once-weekly semaglutide 2.4 mg in adults with overweight or obesity (STEP 1–3 pooled analysis). Diabetes, Obesity & Metabolism. 2022;24(1):94–105. pmc.ncbi.nlm.nih.gov/articles/PMC9293236
+- Wharton S, Calanna S, Davies M, et al. Gastrointestinal tolerability of once-weekly semaglutide 2.4 mg in adults with overweight or obesity, and the relationship between gastrointestinal adverse events and weight loss (STEP 1–3 pooled analysis). Diabetes, Obesity & Metabolism. 2022;24(1):94–105. pmc.ncbi.nlm.nih.gov/articles/PMC9293236
 
 - U.S. Food and Drug Administration. Questions and answers on dietary supplements. fda.gov
 
-- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
+- Mozaffarian D, Agarwal M, et al. Nutritional priorities to support GLP-1 therapy for obesity: a joint advisory. Obesity. 2025;33(8):1475-1503. pmc.ncbi.nlm.nih.gov/articles/PMC12304835
 
-- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+- Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024;26(Suppl 4):16-27. doi.org/10.1111/dom.15728
 
-- Layman DK. Impacts of protein quantity and distribution on body composition. Frontiers in Nutrition. 2024. pmc.ncbi.nlm.nih.gov/articles/PMC11099237
+- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution. Journal of the International Society of Sports Nutrition. 2018;15:10. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
 
-- NSF International. NSF Certified for Sport program: what certification tests. nsfsport.com
+- NSF. Get certified: NSF Certified for Sport (label claim, contaminant and banned-substance testing, facility inspections). nsfsport.com/get-certified.php
 
-- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains in muscle mass and strength in healthy adults. British Journal of Sports Medicine. 2018;52(6):376-384. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
 
 ---
 
@@ -951,19 +953,23 @@ It can. Creatine is converted to creatinine, so supplementing can raise serum cr
 # Is a DEXA or InBody scan worth it on a GLP-1?
 
 URL: https://getmuscleonglp.com/learn/dexa-inbody-scan-glp1/
-Updated: 2026-07-17
+Updated: 2026-10-28
 
 Body composition
 
 Both promise to tell you whether the weight coming off is fat or muscle. Here is what each one actually measures, how accurate they really are, what they cost, and whether you need one at all.
 
+## The short answer
+
+Close enough for a trend, not for an exact number. DEXA measures fat, lean tissue and bone with two X-ray energies; InBody estimates them from an electrical signal. [1] In 109 adults, an InBody 970 read arm-and-leg lean mass about 1 kg lower and fat-free mass about 1.6 kg higher than DEXA. [2] Use one device, fasted, and read the trend.
+
 ## Key takeaways
 
 - DEXA directly measures fat, lean tissue, and bone with two X-ray energies; InBody and other bioelectrical impedance (BIA) devices estimate composition from an electrical signal. [1]
 
-- High-frequency BIA correlates strongly with DEXA (β ≥ 0.95 for lean mass) but systematically underestimates lean mass and overestimates fat-free mass compared with DEXA. [2]
+- High-frequency BIA tracks DEXA closely (standardized β ≥ 0.95 for arm-and-leg lean mass), but in one study it read arm-and-leg lean mass about 1 kg lower and total fat-free mass about 1.6 kg higher than DEXA. [2]
 
-- A whole-body DEXA scan delivers about 4 to 5 microsieverts of radiation, roughly a day's worth of natural background exposure. [1]
+- A whole-body DEXA scan delivers about 4 to 5 microsieverts of radiation, less than one day of natural background exposure (about 6.7 microsieverts). [1]
 
 - Small changes are easy to over-read: DEXA researchers advise scanning fasted, on the same machine, because real change has to exceed the scan's own measurement noise. [3]
 
@@ -981,15 +987,15 @@ An InBody or similar BIA device works differently. It sends a small, imperceptib
 
 ## How accurate is each one, really
 
-A 2022 comparison of high-frequency BIA devices, including an InBody model, against DEXA in Korean adults found strong statistical agreement: standardized coefficients of 0.95 or higher for appendicular lean mass and 0.98 or higher for fat-free mass, with the two methods tracking each other closely across individuals. [2] That sounds like a green light for BIA. But the same study reported a systematic bias underneath that correlation: BIA consistently underestimated appendicular lean mass and body-fat percentage while overestimating fat-free mass relative to DEXA. [2] Strong correlation and accurate agreement are not the same thing, and this is the gap that matters if you are trying to read a single number off a report.
+A 2022 comparison of three high-frequency BIA devices, all InBody products, against DEXA in 109 Korean adults found strong statistical agreement: standardized coefficients of 0.95 or higher for appendicular (arm-and-leg) lean mass and 0.98 or higher for fat-free mass, so the methods ranked people in much the same order. [2] That sounds like a green light for BIA. But the same study reported a systematic bias underneath that correlation: BIA consistently underestimated appendicular lean mass and body-fat percentage while overestimating fat-free mass relative to DEXA. For the InBody 970, that was about 1 kg less arm-and-leg lean mass and 1.6 kg more fat-free mass on average, and the lean-mass error was not constant: too low in people with more muscle, too high in people with less. [2] Strong correlation and accurate agreement are not the same thing, and this is the gap that matters if you are trying to read a single number off a report.
 
 BIA also reacts to things that have nothing to do with your actual muscle: hydration status, whether you ate or exercised recently, and even room temperature can shift the reading. That does not make it useless, a consistent bias is still useful for tracking a trend if conditions are held constant, but it means a single InBody printout is a rough estimate, not a lab-grade measurement.
 
-DEXA is not immune to its own version of this problem. A methodology review focused on athletic populations found that DEXA precision depends heavily on standardized scanning conditions, consistent positioning, a controlled fasting and hydration state, and, ideally, the same scanner and analysis settings on every visit. [3] A follow-up scan run on a different machine, or without the same prep, can introduce enough noise to make a small real change look bigger or smaller than it is, or to manufacture a change that is not really there. [6]
+DEXA is not immune to its own version of this problem. A methodology review focused on athletic populations found that DEXA precision depends heavily on standardized scanning conditions, consistent positioning, a controlled fasting and hydration state, and, ideally, the same scanner and analysis settings on every visit. [3] A follow-up scan run on a different machine, or without the same prep, can introduce enough noise to make a small real change look bigger or smaller than it is, or to manufacture a change that is not really there. [1]
 
 ## Cost and access: the tradeoff that actually decides this
 
-DEXA machines are medical-grade X-ray equipment, so scans are generally offered through specialty body-composition clinics, some gyms, or imaging centers, and they tend to cost more per session and be less widely available than a BIA scan. [7] InBody and similar BIA devices are common in commercial gyms, sometimes included free with membership, and produce a result in under a minute with no radiation exposure at all.
+DEXA machines are medical-grade X-ray equipment, so scans are generally offered through specialty body-composition clinics, some gyms, or imaging centers, and they tend to cost more per session and be less widely available than a BIA scan. [6] InBody and similar BIA devices are common in commercial gyms, sometimes included free with membership, and produce a result in under a minute with no radiation exposure at all.
 
 That access gap is worth being honest about. A slightly-less-precise number you can get for free every week is often more useful in practice than a more precise number you have to pay for and drive to a clinic to get every few months. The right tool depends on what you are actually trying to answer, and how often you are willing and able to check.
 
@@ -997,11 +1003,11 @@ That access gap is worth being honest about. A slightly-less-precise number you 
 
 More frequent is not automatically better. DEXA's own precision literature is explicit that a change has to be large enough to exceed the scan's measurement noise before it means anything, which is why researchers standardize fasting state and, where possible, use the same densitometer for every follow-up scan on the same person. [3] Scanning weekly on a device with a few percent of built-in variability will mostly show you noise, not progress.
 
-There is no dedicated clinical trial establishing an ideal scan interval for people on a GLP-1 specifically. As a practical, non-clinical reference point, DEXA-focused providers commonly suggest roughly every 8 to 12 weeks as an interval long enough for a real body-composition change to plausibly clear the noise floor for most people. [8] That is a provider recommendation, not a trial finding, and it should be treated as a reasonable starting rhythm rather than a rule.
+There is no dedicated clinical trial establishing an ideal scan interval for people on a GLP-1 specifically. As a practical, non-clinical reference point, one DEXA provider suggests roughly every 8 to 12 weeks as an interval long enough for a real body-composition change to plausibly clear the noise floor for most people. [7] That is a provider recommendation, not a trial finding, and it should be treated as a reasonable starting rhythm rather than a rule.
 
 ## What a scan can and cannot tell you
 
-A DEXA-defined drop in "lean mass" includes water and organ tissue, not only contractile muscle, so even a well-run scan is an imperfect proxy for how strong or functional you are. [5] Clinicians use DEXA-measured appendicular lean mass as part of the formal criteria for diagnosing sarcopenia, [9] which tells you the measurement is clinically meaningful, but a single number below or above a population cutoff still is not the same thing as knowing how you actually perform in daily life.
+A DEXA-defined drop in "lean mass" includes water and organ tissue, not only contractile muscle, so even a well-run scan is an imperfect proxy for how strong or functional you are. [5] The European sarcopenia criteria start with low strength and confirm it with low appendicular lean mass, measured by DEXA or BIA, [8] which tells you the measurement is clinically meaningful, but a single number below or above a population cutoff still is not the same thing as knowing how you actually perform in daily life.
 
 Already have a report? Enter its lean mass in the lean body mass calculator and it replaces the height-and-weight estimate, so the share of lean mass a planned GLP-1 loss could take is worked out from your own number.
 
@@ -1009,13 +1015,17 @@ This is where a scan pairs best with something free: our calorie, protein and ma
 
 ## What the evidence does not say
 
-No published trial has compared DEXA and InBody head-to-head specifically in people taking a GLP-1 medication; the accuracy data above comes from general adult populations, and rapid fluid shifts from a new medication or a diuretic-like effect in early treatment could plausibly affect a BIA reading in ways not captured by validation studies done outside that context. The 8-to-12-week scanning interval mentioned above is industry guidance from DEXA providers, not a result from a randomized trial, and no study has established an optimal re-scan schedule for tracking lean mass during active GLP-1 treatment specifically. Cost figures for scans vary widely by provider, region, and whether a package or single session is purchased, so no specific price is quoted here; check current pricing locally before booking.
+No published trial has compared DEXA and InBody head-to-head specifically in people taking a GLP-1 medication; the accuracy data above comes from general adult populations, and rapid fluid shifts from a new medication or a diuretic-like effect in early treatment could plausibly affect a BIA reading in ways not captured by validation studies done outside that context. The 8-to-12-week scanning interval mentioned above is guidance from a DEXA provider, not a result from a randomized trial, and no study has established an optimal re-scan schedule for tracking lean mass during active GLP-1 treatment specifically. Cost figures for scans vary widely by provider, region, and whether a package or single session is purchased, so no specific price is quoted here; check current pricing locally before booking.
 
 ## The bottom line
 
-DEXA is the more accurate tool for a single snapshot, and it is why researchers use it in the trials this site cites elsewhere. InBody and other BIA devices are close enough, correlated at 0.95 or better with DEXA for lean mass, to be genuinely useful for tracking a trend, as long as you accept a known bias and control for hydration and timing between checks. [2] Neither replaces the free, always-available signal of your own protein intake and the weight on the bar. A scan is worth it if you want a periodic confirming data point and can afford the cost or access; it is not a requirement for doing the two things, protein and resistance training, that the evidence says actually protect your muscle. [10]
+DEXA is the more accurate tool for a single snapshot, and it is why researchers use it in the trials this site cites elsewhere. InBody and other BIA devices are close enough, with standardized agreement coefficients of 0.95 or higher for arm-and-leg lean mass, to be genuinely useful for tracking a trend, as long as you accept a known bias and control for hydration and timing between checks. [2] Neither replaces the free, always-available signal of your own protein intake and the weight on the bar. A scan is worth it if you want a periodic confirming data point and can afford the cost or access; it is not a requirement for doing the two things, protein and resistance training, that the evidence says actually protect your muscle (resistance training alone offset about 93.5 percent of diet-induced lean-mass loss in older adults with obesity). [9] The full plan is in how to keep muscle on a GLP-1.
 
 ## Frequently asked
+
+**Q:** Is InBody accurate for muscle on a GLP-1?
+
+Close enough to follow a trend, not to trust an exact number. In a study of 109 Korean adults, an InBody 970 read arm-and-leg lean mass about 1 kg lower and fat-free mass about 1.6 kg higher than DEXA, with typical prediction errors around 1.6 kg. No study has tested it in people on a GLP-1, where early fluid shifts may move the reading. Measure on the same device, at the same time of day, fasted and before exercise, and compare readings weeks apart.
 
 **Q:** Is a DEXA scan or an InBody scan more accurate?
 
@@ -1023,7 +1033,7 @@ DEXA is generally considered the more accurate method because it directly measur
 
 **Q:** How often should I get a DEXA or InBody scan while losing weight on a GLP-1?
 
-There is no clinical trial that has established an ideal interval for GLP-1 users specifically. DEXA researchers advise scanning under standardized conditions, such as an overnight fast and the same machine each time, because real change needs to exceed the scan's measurement noise to be meaningful. Many providers suggest roughly every 8 to 12 weeks as a practical interval; scanning more often than that on a home BIA scale can create more noise than signal.
+There is no clinical trial that has established an ideal interval for GLP-1 users specifically. DEXA researchers advise scanning under standardized conditions, such as an overnight fast and the same machine each time, because real change needs to exceed the scan's measurement noise to be meaningful. One DEXA provider suggests roughly every 8 to 12 weeks as a practical interval; scanning more often than that on a home BIA scale can create more noise than signal.
 
 **Q:** Do I need a DEXA scan to know if I'm losing muscle on a GLP-1?
 
@@ -1037,13 +1047,11 @@ No. A scan is a useful data point, not a requirement. A free protein-target calc
 
 - Nana A, Slater GJ, Stewart AD, Burke LM. Methodology review: using dual-energy X-ray absorptiometry (DXA) for the assessment of body composition in athletes and active people. International Journal of Sport Nutrition and Exercise Metabolism. 2015;25(2):198-215. pubmed.ncbi.nlm.nih.gov/25029265
 
-- Look M, et al. Body composition changes during weight reduction with tirzepatide (SURMOUNT-1 DXA substudy). Diabetes, Obesity & Metabolism. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC11965027
+- Look M, et al. Body composition changes during weight reduction with tirzepatide in the SURMOUNT-1 study of adults with obesity or overweight. Diabetes, Obesity & Metabolism. 2025;27(5):2720-2729. pmc.ncbi.nlm.nih.gov/articles/PMC11965027
 
-- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+- Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024;26(Suppl 4):16-27. doi.org/10.1111/dom.15728
 
-- Messina C, Albano D, Gitto S, et al. Body composition with dual energy X-ray absorptiometry: from basics to new tools (follow-up scan standardization guidance). Quantitative Imaging in Medicine and Surgery. 2020;10(8):1687-1698. qims.amegroups.org/article/view/41830
-
-- DexaFit. InBody Test vs DEXA Scan: Decoding Body Composition Analysis (provider comparison, cost and availability). 2026. dexafit.com
+- DexaFit. InBody Test vs DEXA Scan: Decoding Body Composition Analysis (provider comparison, cost and availability). dexafit.com
 
 - BodySpec. DEXA Scan Accuracy Guide (provider guidance on scan interval and measurement precision, not a peer-reviewed trial). 2026. bodyspec.com
 
@@ -3206,11 +3214,15 @@ Three chocolate ready-to-drink plant shakes we checked on 2026-10-27 list 0 g of
 # 5 at-home ways to tell if you're losing muscle on a GLP-1
 
 URL: https://getmuscleonglp.com/learn/home-tests-muscle-loss-glp1/
-Updated: 2026-10-27
+Updated: 2026-10-28
 
 Body composition
 
 "Track what you can load" is good advice, but it is a principle, not a routine. Here is a concrete, five-part protocol you can run with a chair, a tape measure, and your phone, each part drawn from a real clinical or research tool.
+
+## The short answer
+
+Time five chair stands and test your grip. Needing over 15 seconds to stand up five times without your arms, or a grip under 27 kg (men) or 16 kg (women), flags low strength in the European sarcopenia criteria. [1] Retest monthly. A steady drop while your weight falls fast is your cue to change the plan.
 
 ## Key takeaways
 
@@ -3226,29 +3238,29 @@ Body composition
 
 The advice you will find elsewhere on this site is simple: track what you can load, not just what the scale says. But "track what you can load" is a principle, not a routine, and if you have never done it, the practical question is what exactly to measure, how often, and what a bad trend actually looks like. This article turns that principle into a concrete, five-part protocol you can run at home with nothing more than a chair, a tape measure, and your phone.
 
-None of these five tests can diagnose sarcopenia on its own. Several are drawn from tools clinicians use for exactly that purpose, adapted here for someone tracking themselves rather than being assessed in a clinic, which matters because reviews of GLP-1 trials place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [5] Used together and repeated over weeks, not days, these five tests give you a genuinely useful signal for whether the weight you are losing is coming disproportionately from muscle.
+None of these five tests can diagnose sarcopenia on its own. Several are drawn from tools clinicians use for exactly that purpose, adapted here for someone tracking themselves rather than being assessed in a clinic, which matters because a 2024 review of GLP-1 trials found lean mass ranging from about 15 percent or less to 40 to 60 percent of total weight lost. [5] Used together and repeated over weeks, not days, these five tests give you a genuinely useful signal for whether the weight you are losing is coming disproportionately from muscle.
 
 ## Test 1: Grip strength
 
-Grip strength is not a proxy invented for this article; it is one of the two core diagnostic criteria in the leading clinical definition of sarcopenia. The European Working Group on Sarcopenia in Older People's 2019 consensus (EWGSOP2) flags low muscle strength using grip strength below 27 kg in men or below 16 kg in women, measured with a handgrip dynamometer. [1] It is also one of the most-studied vital signs in medicine: in the Prospective Urban Rural Epidemiology (PURE) study of nearly 140,000 adults across 17 countries, every 5 kg reduction in grip strength was associated with roughly a 16 percent higher risk of all-cause death, a stronger association than systolic blood pressure showed in the same cohort. [2]
+Grip strength is not a proxy invented for this article; it is one of the two core diagnostic criteria in the leading clinical definition of sarcopenia. The European Working Group on Sarcopenia in Older People's 2019 consensus (EWGSOP2) flags low muscle strength using grip strength below 27 kg in men or below 16 kg in women, measured with a handgrip dynamometer. [1] It is also one of the most-studied vital signs in medicine: in the Prospective Urban Rural Epidemiology (PURE) study of nearly 140,000 adults aged 35 to 70 across 17 countries, every 5 kg reduction in grip strength was associated with roughly a 16 percent higher risk of all-cause death, a stronger association than systolic blood pressure showed in the same cohort. [2]
 
 At home, a basic hand dynamometer costs about the same as a week of takeout and gives you a real number to log. Test both hands, three attempts each, seated with your elbow at 90 degrees, and record the best score. What matters for tracking yourself is less the single absolute number and more the trend: test monthly, and watch whether it holds steady, or falls, as your body weight drops. A meaningful, sustained decline while your weight is falling fast is exactly the pattern that would concern a clinician using this same test.
 
 ## Test 2: The five-times sit-to-stand test
 
-If you do not want to buy a dynamometer, the five-times sit-to-stand test measures lower-body strength with nothing but a chair and a stopwatch, and it is well studied on its own terms: a systematic review and meta-analysis of eight studies found excellent test-retest reliability (ICC = 0.937) across healthy adults and people managing a range of health conditions. [3] EWGSOP2 uses the same test as an alternative low-strength flag, with a cutoff of longer than 15 seconds to complete five full stands, or an inability to complete the test without using your arms, both counted as signs of low muscle strength. [1]
+If you do not want to buy a dynamometer, the five-times sit-to-stand test measures lower-body strength with nothing but a chair and a stopwatch, and it is well studied on its own terms: a systematic review and meta-analysis of eight studies found excellent test-retest reliability (ICC = 0.937) across healthy adults and people managing a range of health conditions. [3] EWGSOP2 uses the same test, done without using your arms, as an alternative low-strength flag, with a cutoff of more than 15 seconds for five full stands. [1]
 
 To run it: sit in a straight-backed, armless chair with your feet flat and arms crossed over your chest. Time how long it takes to stand up fully and sit back down five times in a row, as quickly as you can with good form. Log the time. Repeat every two to four weeks. A slowing trend, especially one that tracks with a fast scale drop, is worth taking seriously.
 
 ## Test 3: Loaded-movement tracking
 
-Grip strength and the chair-stand test are useful because they are standardized, but your own training log is arguably the most sensitive test of all, because it is specific to you. Pick four or five basic movements that cover the major patterns, a squat, a hinge, a push, a pull, and a carry, and record what you actually do every session: the load, the reps, or how many repetitions before it gets genuinely hard. This is the same principle behind resistance training's proven protective effect: in a meta-analysis of older adults dieting under caloric restriction, adding resistance training offset about 93.5 percent of the diet-induced lean-mass loss that dieting alone produced. [6]
+Grip strength and the chair-stand test are useful because they are standardized, but your own training log is arguably the most sensitive test of all, because it is specific to you. Pick four or five basic movements that cover the major patterns, a squat, a hinge, a push, a pull, and a carry, and record what you actually do every session: the load, the reps, or how many repetitions before it gets genuinely hard. This is the same principle behind resistance training's proven protective effect: in a meta-analysis of six randomized trials in older adults with obesity on calorie-restricted diets, adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [6]
 
 The read is simple. If your numbers on the same movements are flat or rising while your body weight falls, that is strong evidence you are keeping muscle. If they are sliding, clearly and over several sessions rather than one off day, that is the most direct signal you have that something, usually protein or training volume, needs to change.
 
 ## Test 4: Circumference measurements
 
-A soft tape measure gives you a fourth data point, and it is the one clinicians reach for when a dynamometer is not available. Calf circumference is used as a low-cost anthropometric marker of muscle mass in the SARC-CalF screening tool, which combines a strength questionnaire with a calf measurement, commonly a cutoff around 31 cm, flagged as a risk signal. [4] It is worth being honest about where this tool comes from: it was developed and validated in older-adult and clinical populations, not in GLP-1 users specifically, so treat the exact cutoff as a reference point rather than a diagnosis.
+A soft tape measure gives you a fourth data point, and it is the one clinicians reach for when a dynamometer is not available. Calf circumference is used as a low-cost marker of muscle mass in the SARC-CalF screening tool, which adds a calf measurement to a strength questionnaire. [4] EWGSOP2 separately suggests a calf under 31 cm as a rough muscle-mass proxy when no other method is available. [1] It is worth being honest about where these numbers come from: SARC-CalF was developed in community-dwelling adults aged 60 and over in southern Brazil, not in GLP-1 users, so treat any cutoff as a reference point rather than a diagnosis.
 
 Measure the widest part of your calf, standing, with a flexible non-elastic tape, and record both legs. A thigh or upper-arm measurement at a fixed, marked point works the same way and is worth adding if you want more coverage. Measure monthly rather than weekly; body-composition change at this pace is slow enough that weekly measurements mostly capture water fluctuation and measurement noise, not real tissue change.
 
@@ -3258,11 +3270,11 @@ Photos are the least quantifiable test on this list and the easiest to get wrong
 
 ## Putting it together: a simple monthly routine
 
-None of these five measurements means much as a single data point; the pattern across all of them, tracked consistently, is what actually tells you something. A practical cadence: log your loaded-movement numbers every training session, since you are already there; test grip strength and the chair-stand time monthly; measure your calf and one other circumference monthly; and take photos every four weeks. Write it all in one place, even a plain notes app, so you can see the trend rather than relying on memory. If three or more of the five are moving the wrong direction at the same time your body weight is falling quickly, that combination, not any single number, is the signal to add resistance training, raise your protein intake, or talk to your clinician.
+None of these five measurements means much as a single data point; the pattern across all of them, tracked consistently, is what actually tells you something. A practical cadence: log your loaded-movement numbers every training session, since you are already there; test grip strength and the chair-stand time monthly; measure your calf and one other circumference monthly; and take photos every four weeks. Write it all in one place, even a plain notes app, so you can see the trend rather than relying on memory. If three or more of the five are moving the wrong direction at the same time your body weight is falling quickly, that combination, not any single number, is the signal to add resistance training, raise your protein intake, or talk to your clinician. The full plan for both levers is in how to keep muscle on a GLP-1.
 
 ## What the evidence does not say
 
-Several honest limits apply here. None of these five tests, alone or combined, constitutes a sarcopenia diagnosis; EWGSOP2's grip-strength and chair-stand cutoffs were developed and validated primarily in older-adult and clinical populations, not in GLP-1 users in their 30s, 40s, or 50s, so a result below the clinical cutoff is a signal to look closer, not a diagnosis on its own. Calf circumference and the SARC-CalF cutoff carry the same caveat. No published study has validated this exact five-part home protocol as a package; each component is drawn from a validated clinical tool or a well-established training principle, but the combination itself has not been tested for accuracy. And a single bad reading on any of these, especially grip strength or the chair-stand test, is often noise, fatigue, a bad night's sleep, dehydration, rather than muscle loss; the trend over several weeks is what carries the signal, not any one session. If several of these point the same direction and you are concerned, that is a reason to bring the data to your clinician, not to self-diagnose.
+Several honest limits apply here. None of these five tests, alone or combined, constitutes a sarcopenia diagnosis; EWGSOP2's grip-strength and chair-stand cutoffs were set for diagnosing sarcopenia in older adults (the grip cutoffs come from young-adult reference values), not for GLP-1 users in their 30s, 40s, or 50s, so a result below the clinical cutoff is a signal to look closer, not a diagnosis on its own. Calf circumference and the SARC-CalF cutoff carry the same caveat. No published study has validated this exact five-part home protocol as a package; each component is drawn from a validated clinical tool or a well-established training principle, but the combination itself has not been tested for accuracy. And a single bad reading on any of these, especially grip strength or the chair-stand test, is often noise, fatigue, a bad night's sleep, dehydration, rather than muscle loss; the trend over several weeks is what carries the signal, not any one session. If several of these point the same direction and you are concerned, that is a reason to bring the data to your clinician, not to self-diagnose.
 
 ## The bottom line
 
@@ -3270,9 +3282,9 @@ You do not need a DXA scan or a research lab to get a real signal on whether you
 
 ## Frequently asked
 
-**Q:** What is the best at-home test for muscle loss on a GLP-1?
+**Q:** Which at-home test shows muscle loss on a GLP-1?
 
-Grip strength and the five-times sit-to-stand test are the two most clinically validated options, both drawn from the EWGSOP2 sarcopenia criteria (grip below 27 kg for men or 16 kg for women, or more than 15 seconds for five stands, flags low strength), but tracking your own loaded-movement numbers over time is the most personalized signal. Used together with monthly circumference measurements and progress photos, they give a more reliable picture than any one test alone.
+The five-times sit-to-stand test and grip strength. Both come from the European sarcopenia criteria (EWGSOP2): taking more than 15 seconds to stand up five times without using your arms, or a grip under 27 kg for men or 16 kg for women, flags low muscle strength. Neither one diagnoses muscle loss on its own, so repeat them monthly, log your lifts every session, and add a monthly tape measure and photos. A steady drop across several of these while your weight falls fast is the real signal.
 
 **Q:** Can I test for muscle loss without a dynamometer?
 
@@ -3292,7 +3304,7 @@ Weekly for your loaded-movement training log, since you are already doing the mo
 
 - Barbosa-Silva TG, Menezes AMB, Bielemann RM, Malmstrom TK, Gonzalez MC. Enhancing SARC-F: improving sarcopenia screening in the clinical practice. Journal of the American Medical Directors Association. 2016;17(12):1136-1141. pubmed.ncbi.nlm.nih.gov/27650212
 
-- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+- Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024;26(Suppl 4):16-27. doi.org/10.1111/dom.15728
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
@@ -3476,21 +3488,25 @@ Weight usually comes back: about two thirds of the weight lost returned within a
 # What happens to your muscle when you stop Ozempic?
 
 URL: https://getmuscleonglp.com/learn/muscle-after-stopping-ozempic/
-Updated: 2026-10-27
+Updated: 2026-10-28
 
 GLP-1 & muscle
 
 Almost everything written about GLP-1 medications concerns the part where you are taking them. The harder problem starts on the day you stop. Here is what the trial data shows about weight regain, and why the muscle you keep now is the variable that matters most.
 
+## The short answer
+
+No one has shown that you do. In the STEP 1 extension, people regained about two-thirds of their lost weight within a year of stopping semaglutide (net loss fell from 17.3 to 5.6 percent), but the trial did not measure whether that was fat or muscle. [1] Keep lifting and keep protein high through the exit.
+
 ## Key takeaways
 
 - About two-thirds of lost weight returned within a year of stopping semaglutide; mean net loss fell from 17.3 percent to 5.6 percent in the STEP 1 extension. [1]
 
-- In real-world data, roughly 65 percent of users had discontinued their GLP-1 within 12 months. [2]
+- In real-world data on 125,474 adults, 64.8 percent of those without type 2 diabetes had stopped their GLP-1 within 12 months. [2]
 
 - The STEP trials did not measure fat-versus-muscle composition during regain, so the common claim that regained weight is "all fat" is not something those trials show. [1]
 
-- Muscle preserved during the loss phase is your reserve for maintenance; regaining fat while muscle stays low trends toward sarcopenic obesity. [3]
+- Muscle preserved during the loss phase is your reserve for maintenance. Weight-cycling research (not GLP-1-specific) raises an unsettled concern that repeated regain favors fat over muscle, a path toward sarcopenic obesity. [3]
 
 - Track strength directly, not the lean-mass number. Lean tissue loss is an unreliable predictor of strength. [4]
 
@@ -3500,7 +3516,7 @@ This article is about that exit: what the trials say happens to your weight when
 
 ## Most people stop, sooner than they expect
 
-Discontinuation is not an edge case. In a real-world analysis of 125,474 adults without type 2 diabetes who started a weight-loss-indicated GLP-1, roughly 65 percent had discontinued within 12 months. [2] People stop for many reasons: cost, insurance, supply, side effects, pregnancy, reaching a goal, or simply deciding they are done.
+Discontinuation is not an edge case. In a real-world analysis of 125,474 US adults with overweight or obesity who started a GLP-1, 64.8 percent of those without type 2 diabetes (and 46.5 percent of those with it) had stopped within 12 months. [2] People stop for many reasons: cost, insurance, supply, side effects, pregnancy, reaching a goal, or simply deciding they are done.
 
 Whatever the reason, the numbers say the same thing. If you are on one of these medications, planning for a future without it is planning for the likely case, not the unusual one.
 
@@ -3518,39 +3534,43 @@ Here the honest answer is less satisfying than the confident one you will find e
 
 What exists is adjacent evidence. The broader weight-cycling literature raises a mechanistic concern that regained weight can be disproportionately fat, with incomplete recovery of lean mass across repeated cycles, trending toward a sarcopenic-obesity phenotype. [3] That literature is mixed rather than settled.
 
-So the argument for protecting muscle is not that regain is proven to be all fat. The argument is narrower and sturdier: muscle is hard to rebuild, easy to lose, and the loss phase is when you have the most control over the outcome. Reviews of GLP-1 body-composition data already place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [5] Arriving at your exit with muscle intact is the one variable you can still influence.
+So the argument for protecting muscle is not that regain is proven to be all fat. The argument is narrower and sturdier: muscle is hard to rebuild, easy to lose, and the loss phase is when you have the most control over the outcome. A 2024 review of GLP-1 body-composition data found lean mass ranging from about 15 percent or less to 40 to 60 percent of total weight lost. [5] Arriving at your exit with muscle intact is the one variable you can still influence.
 
 ## The failure mode has a name
 
-Sarcopenic obesity is the coexistence of reduced muscle mass or function with excess body fat. [6] It is associated with elevated cardiometabolic risk and frailty beyond what either low muscle or high fat carries alone, [6] and it can develop in anyone who loses weight rapidly without a muscle-preserving countermeasure. [7]
+Sarcopenic obesity is the coexistence of reduced muscle mass or function with excess body fat. [6] It is associated with worse health outcomes than either low muscle or excess fat alone, [6] and muscle lost during weight loss may matter most for people who start with low muscle mass, such as older adults. [7]
 
 The scenario worth avoiding is specific and unglamorous: you finish your course of medication, regain a portion of the weight as fat, and end up at a similar bodyweight with less muscle than you started with. Lighter for a while, then heavier, and weaker throughout. The muscle you preserve during the loss phase is precisely what keeps a modest fat regain from becoming that outcome.
 
 ## Track strength, not the lean-mass number
 
-A recent review of GLP-1 receptor agonists and muscle strength reframes what you should be measuring. Short-to-mid-term trials of semaglutide or liraglutide in adults with obesity showed statistically preserved handgrip strength despite reductions in lean soft-tissue mass, suggesting that strength does not always decline in proportion to mass. However, longer-term research in older adults with type 2 diabetes has reported reductions in handgrip strength and accelerated sarcopenia with prolonged use. The review concludes that lean tissue loss is an unreliable predictor of strength changes. [4]
+A recent review of GLP-1 receptor agonists and muscle strength reframes what you should be measuring. Short-to-mid-term trials of semaglutide or liraglutide in adults with obesity showed largely preserved handgrip strength despite reductions in lean soft-tissue mass, suggesting that strength does not always decline in proportion to mass. However, longer-term research in older adults with type 2 diabetes has reported reductions in handgrip strength and accelerated sarcopenia with prolonged use. The review concludes that lean tissue loss is an unreliable predictor of strength changes. [4]
 
 Two things follow. First, a drop in lean mass on a scan is not automatically a drop in function. Second, and more importantly, you cannot infer your strength from your body composition. Measure strength directly, and keep measuring it through the transition. Log what you can actually lift or how many repetitions you can do in a few basic movements, and retest those same numbers as you come off. If strength is holding or rising, a few pounds on the scale is not an emergency.
 
 ## What to do before and after you stop
 
-Two levers have strong evidence behind them, and they are the same two that appetite and side effects work against.
+Two levers have strong evidence behind them, and they are the same two that appetite and side effects work against (the full plan for both is in how to keep muscle on a GLP-1).
 
-Do not stop training. The moment the medication stops is precisely the wrong moment to stop lifting. Resistance training is the intervention with direct evidence for preserving lean mass under caloric restriction: in a meta-analysis of older adults, it offset roughly 93.5 percent of the lean mass that dieting alone would have cost, about 0.82 kg preserved. [8] Keep the same schedule you had on the medication. If anything, this is the phase to add a session, not subtract one.
+Do not stop training. The moment the medication stops is precisely the wrong moment to stop lifting. Resistance training is the intervention with direct evidence for preserving lean mass under caloric restriction: in a meta-analysis of older adults with obesity, it offset roughly 93.5 percent of the lean mass that dieting alone would have cost, about 0.82 kg preserved. [8] Keep the same schedule you had on the medication. If anything, this is the phase to add a session, not subtract one.
 
-Keep protein high as appetite returns. A dose-response meta-analysis of 49 studies identified roughly 1.6 grams of protein per kilogram of body weight per day as the point beyond which added protein stopped improving training-related gains, with the confidence interval extending to about 2.2 g/kg. [9] On the medication, hitting that number was a struggle against absent appetite. Coming off it, the number becomes easy, and the temptation is to stop counting. The returning appetite is a chance to finally hit your protein target without effort, not a signal that the target no longer matters.
+Keep protein high as appetite returns. A dose-response meta-analysis of 49 studies identified roughly 1.6 grams of protein per kilogram of body weight per day as the point beyond which added protein stopped improving lean-mass gains from training in healthy adults, with the confidence interval extending to about 2.2 g/kg. [9] On the medication, hitting that number was a struggle against absent appetite. Coming off it, the number becomes easy, and the temptation is to stop counting. The returning appetite is a chance to finally hit your protein target without effort, not a signal that the target no longer matters.
 
 One more thing the medication was quietly doing: supplying structure. It decided when you stopped eating and removed the constant background negotiation with food. When it stops, that job comes back to you all at once. The people who hold their results are the ones who had a system, scheduled meals, protein first, a rough food log for the first weeks, in place before appetite returned, rather than building one while it arrived. Any change to the medication itself, including stopping it, is a decision to make with your prescribing clinician.
 
 ## What the evidence does not settle
 
-Two honest limits are worth stating plainly. First, as above, the STEP trials did not track fat-versus-muscle composition during weight regain, so no trial has confirmed what the regained weight is made of. Second, no long-term trial has isolated the effect of a structured resistance-training and protein program specifically during GLP-1 discontinuation. The training and protein evidence is strong, but it is extrapolated from broader weight-loss populations rather than measured in people coming off these drugs. Treat the protocol as well-founded, not as proven in this exact setting.
+Two honest limits are worth stating plainly. First, as above, the STEP trials did not track fat-versus-muscle composition during weight regain, so those trials cannot tell you what the regained weight is made of. Second, no long-term trial has isolated the effect of a structured resistance-training and protein program specifically during GLP-1 discontinuation. The training and protein evidence is strong, but it is extrapolated from broader weight-loss populations rather than measured in people coming off these drugs. Treat the protocol as well-founded, not as proven in this exact setting.
 
 ## The bottom line
 
-When you stop Ozempic, appetite returns and weight tends to follow, about two-thirds of it within a year in the best-documented trial. [1] Most people will face that transition, since roughly 65 percent discontinue within twelve months. [2] You cannot control the appetite that comes back, but you can control the muscle you carry into that moment. Preserving muscle is not a way to prevent all regain. It is a way to make regain less costly and recovery more possible. If you want the full training, protein, and maintenance system rather than the exit alone, the complete handbook covers it end to end.
+When you stop Ozempic, appetite returns and weight tends to follow, about two-thirds of it within a year in the best-documented trial. [1] Most people will face that transition, since about 65 percent of people without diabetes stop within twelve months. [2] You cannot control the appetite that comes back, but you can control the muscle you carry into that moment. Preserving muscle is not a way to prevent all regain. It is a way to make regain less costly and recovery more possible. If you want the full training, protein, and maintenance system rather than the exit alone, the complete handbook covers it end to end.
 
 ## Frequently asked
+
+**Q:** Do you regain muscle after stopping Ozempic?
+
+No one has shown that you do. In the STEP 1 extension, people regained about two-thirds of the weight they had lost within a year of stopping semaglutide (mean net loss fell from 17.3 percent to 5.6 percent), but the trial did not measure whether that regain was fat or muscle. Treat muscle as something you rebuild on purpose: keep resistance training at least as often as you did on the medication, and keep protein high as your appetite returns.
 
 **Q:** What happens to your muscle when you stop Ozempic?
 
@@ -3558,7 +3578,7 @@ When you stop a GLP-1 medication, appetite returns and weight tends to come back
 
 **Q:** Will I regain weight after stopping Wegovy or Mounjaro?
 
-Regain is common. About two-thirds of lost weight returned within a year of stopping semaglutide in the STEP 1 extension, and in a real-world analysis of more than 125,000 adults, roughly 65 percent had discontinued within 12 months. Regain is the documented behavior of the medication rather than a personal failure. Keeping resistance training and adequate protein in place across the transition is what makes maintenance, and any future restart, easier.
+Regain is common. About two-thirds of lost weight returned within a year of stopping semaglutide in the STEP 1 extension, and in a real-world analysis of more than 125,000 adults, about 65 percent of those without type 2 diabetes had stopped within 12 months. Regain is the documented behavior of the medication rather than a personal failure. Keeping resistance training and adequate protein in place across the transition is what makes maintenance, and any future restart, easier.
 
 **Q:** Is the weight you regain after stopping Ozempic all fat?
 
@@ -3568,21 +3588,21 @@ No trial shows that. The STEP trials did not track fat-versus-muscle composition
 
 - Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: the STEP 1 trial extension. Diabetes, Obesity & Metabolism. 2022. pmc.ncbi.nlm.nih.gov/articles/PMC9542252
 
-- Trends in 1-year persistence and adherence among initiators of weight-loss-indicated GLP-1 receptor agonists. 2024. pmc.ncbi.nlm.nih.gov/articles/PMC12948759
+- Rodriguez PJ, Zhang V, Gratzl S, et al. Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists among US adults with overweight or obesity. JAMA Network Open. 2025;8(1):e2457349. pmc.ncbi.nlm.nih.gov/articles/PMC11786232
 
-- Weight cycling and its effects on muscle mass, sarcopenia and sarcopenic obesity. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12534291
+- Zamboni M, Giani A, Fantin F, et al. Weight cycling and its effects on muscle mass, sarcopenia and sarcopenic obesity. Reviews in Endocrine and Metabolic Disorders. 2025;26(5):767-783. pmc.ncbi.nlm.nih.gov/articles/PMC12534291
 
 - Prokopidis K. GLP-1 receptor agonists and muscle strength changes in older adults: risks beyond muscle mass reductions. British Journal of Pharmacology. 2026. pubmed.ncbi.nlm.nih.gov/41577337
 
-- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+- Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024;26(Suppl 4):16-27. doi.org/10.1111/dom.15728
 
-- Sarcopenic obesity: a review. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC11967173
+- Borba VZC, Costa TMDRL. Sarcopenic obesity: a review. Archives of Endocrinology and Metabolism. 2025;68:e240084. pmc.ncbi.nlm.nih.gov/articles/PMC11967173
 
-- Sarcopenic obesity and weight loss-induced muscle mass loss. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC12147736
+- Caturano A, Amaro A, Berra CC, Conte C. Sarcopenic obesity and weight loss-induced muscle mass loss. Current Opinion in Clinical Nutrition and Metabolic Care. 2025;28(4):339-350. pmc.ncbi.nlm.nih.gov/articles/PMC12147736
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
-- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains in muscle mass and strength in healthy adults. British Journal of Sports Medicine. 2018;52(6):376-384. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
 
 ---
 
@@ -3688,23 +3708,27 @@ Yes. The FDA approved orforglipron for chronic weight management on April 1, 202
 # "Ozempic body," "Ozempic face," and "Ozempic butt": how much is actually muscle loss?
 
 URL: https://getmuscleonglp.com/learn/ozempic-body-face-muscle/
-Updated: 2026-10-27
+Updated: 2026-10-28
 
 Body composition
 
 These terms get treated as skin-deep cosmetic problems, and mostly they are. But underneath the viral language is a real body-composition question, and part of the answer is the same lean-mass loss the rest of this site covers.
 
+## The short answer
+
+Mostly no. Ozempic face is lost facial fat plus skin that has become less elastic, and it follows any rapid weight loss, not the drug itself. [1] Ozempic butt is different: the glutes are a large muscle, and big weight loss shrinks fat and muscle together. [2] In a tirzepatide trial, about 26 percent of the weight lost was lean tissue. [3]
+
 ## Key takeaways
 
 - "Ozempic face" and "Ozempic butt" are not drug side effects; they are consequences of rapid weight loss, and they happen after bariatric surgery and aggressive dieting too.
 
-- Facial changes are driven mostly by fat loss from facial fat compartments and skin that has not had time to retract, not by muscle loss. [1]
+- Facial changes come from lost facial fat and skin that has become less elastic; [1] facial muscle plays only a small part.
 
 - Gluteal ("Ozempic butt") changes are a mix of subcutaneous fat loss and genuine muscle reduction, since the glutes are a large muscle group. [2]
 
-- Across GLP-1 trials generally, reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [3]
+- Across GLP-1 trials, a 2024 review found lean mass ranging from about 15 percent or less to 40 to 60 percent of total weight lost. [4]
 
-- Resistance training during weight loss offset about 93.5 percent of diet-induced lean-mass loss in a meta-analysis, but it does not rebuild lost facial fat or skin elasticity. [4]
+- Resistance training during weight loss offset about 93.5 percent of diet-induced lean-mass loss in a meta-analysis of older adults with obesity, but it does not rebuild lost facial fat or skin elasticity. [5]
 
 "Ozempic face," "Ozempic butt," and more recently "Ozempic body" are the kind of terms that spread on social media faster than any clinical explanation can keep up with. They are usually framed as a cosmetic side effect of the drug itself, something dermatologists and plastic surgeons need to fix with fillers or a lift. That framing is not wrong, exactly, but it is incomplete, and it is almost entirely fat-and-skin focused. It rarely asks the question this site is built around: how much of what people are seeing in the mirror is muscle?
 
@@ -3712,17 +3736,17 @@ The honest answer is that it depends on which body part you are talking about. S
 
 ## "Ozempic face": mostly fat and skin, not muscle
 
-"Ozempic face" describes gauntness, sunken cheeks, new wrinkles, and loose skin on the face and neck that shows up after rapid weight loss. [1] Facial fat sits in distinct compartments around the cheeks, temples, and under the eyes, and those compartments provide the three-dimensional volume that keeps a face looking full. When weight loss is fast, those compartments deflate quickly, and the skin covering them, which was stretched to fit the previous volume, does not have time to retract and shrink to match. [1]
+"Ozempic face" describes gauntness, sunken cheeks, new wrinkles, and loose skin on the face and neck that shows up after rapid weight loss. [1] Weight loss shrinks the fat pads and the fat under the skin that give your face its volume, and rapid loss leaves skin less elastic, so it sags instead of tightening to fit. [1]
 
-Clinicians describe this as a fat-loss and skin-elasticity problem specifically, not a muscle problem, and not a direct drug effect. It happens after bariatric surgery, after extreme dieting, and after any other cause of fast weight loss; GLP-1 medications are simply producing weight loss at a scale and speed that makes it common enough to earn its own name. [1] Facial muscle mass is a small contributor to the visible change compared with fat volume and skin quality. A small clinical trial testing a topical volumizing cream in adults with rapid weight loss from GLP-1/GIP agonists, bariatric surgery, or other interventions (33 participants, mostly on GLP-1 or GIP/GLP-1 co-agonist therapy) measured meaningful gains in skin thickness and elasticity over 12 weeks, which is more evidence that the underlying issue in the face is fat volume and skin structure, the kind of thing a topical or filler treatment can meaningfully address, not something a training program targets. [5]
+Cleveland Clinic describes it as a result of fat loss and less elastic skin, not a side effect of the medication itself. It happens after bariatric surgery, after extreme dieting, and after any other cause of fast weight loss; GLP-1 medications are simply producing weight loss at a scale and speed that makes it common enough to earn its own name. [1] Facial muscle is likely a small contributor to the visible change compared with fat volume and skin quality. A small open-label study of a topical volumizing cream in adults with rapid weight loss from GLP-1/GIP agonists, bariatric surgery, or other causes (33 participants, mostly on GLP-1 or GIP/GLP-1 co-agonist therapy) reported gains in skin thickness and elasticity over 12 weeks. It had no control group and was funded by the cream's maker, so read it as a sign that the face is a skin-and-volume question, not as proof the cream works, and not as something a training program targets. [6]
 
-Slower weight loss gives skin more time to adapt: losing roughly one to two pounds a week, versus a faster pace, is associated with better skin retraction and less pronounced sagging in the weight-loss literature generally. [6] That is a rate-of-loss lever, not a training or protein lever, which is why it sits outside what the rest of this site can help you control.
+Slower weight loss gives skin more time to adapt: Cleveland Clinic suggests aiming for about one to two pounds a week to limit these facial changes. [1] That is a rate-of-loss lever, not a training or protein lever, which is why it sits outside what the rest of this site can help you control.
 
 ## "Ozempic butt": where fat loss and muscle loss actually overlap
 
-"Ozempic butt" describes flattening, sagging, or loss of definition in the gluteal region during GLP-1-driven weight loss. [2] Part of this is the same story as the face: the buttocks carry a thick layer of subcutaneous fat, and that fat is mobilized readily during a sustained calorie deficit, leaving skin that has not caught up.
+"Ozempic butt" describes sagging skin and a flatter, "deflated" look in the gluteal region during GLP-1-driven weight loss. [2] Part of this is the same story as the face: the buttocks carry a thick layer of subcutaneous fat, and that fat is mobilized readily during a sustained calorie deficit, leaving skin that has not caught up.
 
-But the glutes are also one of the largest muscle groups in the body, and this is where the "it's just fat and skin" framing breaks down. Cleveland Clinic's obesity medicine team describes the mechanism plainly: when someone loses a significant amount of weight, there is a reduction in fat mass and a reduction in muscle mass together, because the body no longer needs to carry or power the previous frame. [2] That is a description of lean-mass loss, the same phenomenon covered in depth in our main article on GLP-1 and muscle loss. Reviews of GLP-1 trial data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost across the medications and populations studied, [3] and the best single data point, the SURMOUNT-1 DXA substudy in people taking tirzepatide, measured about 26 percent of total weight lost as lean tissue. [7] None of these substudies isolated the gluteal muscles specifically, so there is no published number for "percent of Ozempic butt that is muscle." What is published is that lean-mass loss is a real, quantified part of GLP-1 weight loss overall, and the glutes, as a large muscle group, are not exempt from it.
+But the glutes are also one of the largest muscle groups in the body, and this is where the "it's just fat and skin" framing breaks down. An obesity medicine specialist interviewed by Cleveland Clinic describes the mechanism plainly: when someone loses a significant amount of weight, fat mass and muscle mass both fall, because the body no longer needs to carry the previous weight. [2] That is a description of lean-mass loss, the same phenomenon covered in depth in our main article on GLP-1 and muscle loss. A 2024 review of GLP-1 trial data found lean mass ranging from about 15 percent or less to 40 to 60 percent of total weight lost across the medications and populations studied, [4] and the best single data point, the SURMOUNT-1 DXA substudy in people taking tirzepatide, measured about 26 percent of total weight lost as lean tissue (about 25 percent on placebo, so the share reflects weight loss itself, not the drug). [3] None of these substudies isolated the gluteal muscles specifically, so there is no published number for "percent of Ozempic butt that is muscle." What is published is that lean-mass loss is a real, quantified part of GLP-1 weight loss overall, and the glutes, as a large muscle group, are not exempt from it.
 
 This is the part of "Ozempic butt" that training can actually reach. Fat loss and skin laxity in that area are not things a workout program reverses. Muscle volume is. For the fuller list of signs your body is losing lean mass, not just fat, and how to tell the difference at home without a DXA scan, see our dedicated article on that question.
 
@@ -3730,19 +3754,19 @@ This is the part of "Ozempic butt" that training can actually reach. Fat loss an
 
 "Ozempic body" is the newest and vaguest of the three terms, used loosely to describe an overall thinner, sometimes described as "deflated," look: less definition everywhere, not just the face or glutes. Stripped of the social-media framing, this is close to asking the actual question of body composition: how much of a large GLP-1 weight loss is fat, and how much is lean mass, across the whole body rather than one visible spot.
 
-The trial-level answer does not change based on which body part someone is worried about. Across the headline trials, semaglutide 2.4 mg produced about 14.9 percent mean weight loss over 68 weeks in STEP 1, and tirzepatide reached about 20.9 percent at its highest dose in SURMOUNT-1. [8] [9] At the roughly quarter-lean-mass ratio measured in the SURMOUNT-1 DXA substudy, a loss that large represents a meaningful, whole-body amount of muscle, not a spot problem in any one area. [7] A "deflated" look is consistent with a body that lost a large fraction of both fat and lean tissue quickly, everywhere fat and muscle were previously carried, which is exactly what large-scale GLP-1 weight loss without a training and protein plan tends to produce.
+The trial-level answer does not change based on which body part someone is worried about. Across the headline trials, semaglutide 2.4 mg produced about 14.9 percent mean weight loss over 68 weeks in STEP 1, and tirzepatide reached about 20.9 percent at its highest dose over 72 weeks in SURMOUNT-1. [7] [8] At the roughly quarter-lean-mass ratio measured in the SURMOUNT-1 DXA substudy, a loss that large represents a meaningful, whole-body amount of muscle, not a spot problem in any one area. [3] A "deflated" look is consistent with a body that lost a large fraction of both fat and lean tissue quickly, everywhere fat and muscle were previously carried, which is exactly what large-scale GLP-1 weight loss without a training and protein plan tends to produce.
 
 ## What you can and can't do about each one
 
 It is worth being precise about what training and nutrition can and cannot fix here, because conflating them sets people up to expect a workout to solve a skin problem.
 
-Skin laxity and facial volume loss are not addressed by resistance training or protein intake. The evidence-based levers are slower weight loss where medically appropriate, and, for people who want it, dermatologic or surgical intervention; a small trial of a topical volumizing cream showed measurable gains in skin thickness and elasticity over 12 weeks in people with rapid weight loss from GLP-1 therapy. [5] That is a separate conversation from muscle, and outside what this site covers in depth.
+Skin laxity and facial volume loss are not addressed by resistance training or protein intake. The evidence-based levers are slower weight loss where medically appropriate, and, for people who want it, dermatologic or surgical intervention; a small trial of a topical volumizing cream showed measurable gains in skin thickness and elasticity over 12 weeks in people with rapid weight loss from GLP-1 therapy, bariatric surgery or other causes, though the study had no control group. [6] That is a separate conversation from muscle, and outside what this site covers in depth.
 
-Lean-mass loss, the part of "Ozempic butt" and "Ozempic body" that is genuinely about muscle, responds to the same two levers as GLP-1 muscle loss everywhere else in the body. A meta-analysis of older adults losing weight through caloric restriction found that adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [4] On the nutrition side, a dose-response meta-analysis of 49 studies found protein supplementation kept improving resistance-training outcomes up to about 1.6 grams per kilogram of body weight per day. [10] Neither lever needs a gym: our guide to preserving muscle on a GLP-1 without a gym covers loaded bodyweight work that trains the glutes and the rest of the major muscle groups, and our calorie, protein and macro calculator turns the 1.6 g/kg target into a daily gram number for your body weight.
+Lean-mass loss, the part of "Ozempic butt" and "Ozempic body" that is genuinely about muscle, responds to the same two levers as GLP-1 muscle loss everywhere else in the body (the full plan is in how to keep muscle on a GLP-1). A meta-analysis of older adults with obesity losing weight through caloric restriction found that adding resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced. [5] On the nutrition side, a meta-analysis of 49 trials in healthy adults doing resistance training found extra protein stopped adding lean-mass gains beyond a total intake of about 1.6 grams per kilogram of body weight per day. [9] Neither lever needs a gym: our guide to preserving muscle on a GLP-1 without a gym covers loaded bodyweight work that trains the glutes and the rest of the major muscle groups, and our calorie, protein and macro calculator turns the 1.6 g/kg target into a daily gram number for your body weight.
 
 ## What the evidence does not say
 
-No published trial has measured facial, gluteal, or other localized muscle loss specifically on a GLP-1 medication; the lean-mass figures cited here (anywhere from about 15 percent to 40 to 60 percent depending on the study, and about 26 percent in the SURMOUNT-1 DXA substudy) are whole-body DXA measurements, not spot measurements of the face or glutes, and spot reduction of fat or targeted preservation of muscle in one specific area is not something the training literature supports as achievable beyond training that area's muscle directly. The topical-cream study cited above is small (33 participants, 29 completing), was not GLP-1-exclusive, and was not designed to isolate muscle from fat or skin effects. There is also no trial comparing "Ozempic face" or "Ozempic butt" severity between different GLP-1 medications, doses, or rates of weight loss; the rate-of-loss and skin-retraction relationship is drawn from the broader weight-loss and skin literature, not GLP-1-specific research. Nothing in this article is dosing, titration, or cosmetic-procedure guidance; questions about fillers, lifts, or medical rate of weight loss belong with a qualified clinician.
+No published trial has measured facial, gluteal, or other localized muscle loss specifically on a GLP-1 medication; the lean-mass figures cited here (from about 15 percent or less to 40 to 60 percent depending on the study, and about 26 percent in the SURMOUNT-1 DXA substudy) are whole-body DXA measurements, not spot measurements of the face or glutes, and spot reduction of fat or targeted preservation of muscle in one specific area is not something the training literature supports as achievable beyond training that area's muscle directly. The topical-cream study cited above is small (33 participants, 29 completing), open-label with no control group, funded by the cream's maker, was not GLP-1-exclusive, and was not designed to isolate muscle from fat or skin effects. There is also no trial comparing "Ozempic face" or "Ozempic butt" severity between different GLP-1 medications, doses, or rates of weight loss; the one-to-two-pounds-a-week advice is clinician guidance, not a GLP-1 trial result. Nothing in this article is dosing, titration, or cosmetic-procedure guidance; questions about fillers, lifts, or medical rate of weight loss belong with a qualified clinician.
 
 ## The bottom line
 
@@ -3750,39 +3774,37 @@ No published trial has measured facial, gluteal, or other localized muscle loss 
 
 ## Frequently asked
 
-**Q:** Is Ozempic face caused by muscle loss?
+**Q:** Is Ozempic face muscle loss?
 
-Mostly no. Ozempic face is primarily fat loss from facial fat compartments plus skin that has not had time to retract, not muscle loss. It happens with any rapid weight loss, including bariatric surgery and aggressive dieting, and is not a direct drug side effect. Facial muscle contributes little to the visible change compared to fat volume and skin elasticity.
+Mostly no. Ozempic face is lost fat from the face plus skin that has become less elastic, and it follows any rapid weight loss, including bariatric surgery, rather than being a side effect of the drug itself. Muscle matters more below the neck: in the SURMOUNT-1 body-scan substudy, about 26 percent of the weight lost on tirzepatide was lean tissue (about 25 percent on placebo). For the face, clinicians suggest slower loss, about 1 to 2 pounds a week.
 
 **Q:** Is Ozempic butt fat loss or muscle loss?
 
-Both, in most cases. The gluteal region loses subcutaneous fat, which accounts for most of the visible flattening, but the glutes are also a large muscle group, and GLP-1-driven weight loss carries a lean-mass cost like any other. Reviews of GLP-1 trial data put lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, and the SURMOUNT-1 DXA substudy measured about 26 percent of tirzepatide weight loss as lean tissue.
+Both, in most cases. The gluteal region loses fat under the skin, but the glutes are also a large muscle group, and GLP-1-driven weight loss carries a lean-mass cost like any other. A 2024 review of GLP-1 trial data found lean mass ranging from about 15 percent or less to 40 to 60 percent of total weight lost, and the SURMOUNT-1 DXA substudy measured about 26 percent of tirzepatide weight loss as lean tissue.
 
 **Q:** Can you prevent Ozempic face and Ozempic butt?
 
-You cannot fully prevent skin laxity or facial volume loss with training, but slower weight loss gives skin more time to adapt, and resistance training plus adequate protein directly protects the muscle share of the loss. A meta-analysis found resistance training offset about 93.5 percent of diet-induced lean-mass loss during caloric restriction. Neither training nor protein rebuilds lost facial fat pads or skin elastin; those are separate problems from muscle.
+You cannot fully prevent skin laxity or facial volume loss with training, but slower weight loss gives skin more time to adapt, and resistance training plus adequate protein directly protects the muscle share of the loss. A meta-analysis in older adults with obesity found resistance training offset about 93.5 percent of diet-induced lean-mass loss during caloric restriction. Neither training nor protein rebuilds lost facial fat pads or skin elastin; those are separate problems from muscle.
 
 ## References
 
-- Cleveland Clinic. "Ozempic Face": What It Is and How to Avoid It. Reviewed March 5, 2025. health.clevelandclinic.org/ozempic-face
+- Cleveland Clinic. "Ozempic Face": What It Is and How to Avoid It. Published March 5, 2025. health.clevelandclinic.org/ozempic-face
 
-- Cleveland Clinic. Ozempic Butt Explained: How to Avoid It. Reviewed December 3, 2025. health.clevelandclinic.org/ozempic-butt
+- Cleveland Clinic. Ozempic Butt Explained: How to Avoid It. Published December 3, 2025. health.clevelandclinic.org/ozempic-butt
 
-- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+- Look M, et al. Body composition changes during weight reduction with tirzepatide in the SURMOUNT-1 study of adults with obesity or overweight. Diabetes, Obesity & Metabolism. 2025;27(5):2720-2729. pmc.ncbi.nlm.nih.gov/articles/PMC11965027
+
+- Neeland IJ, Linge J, Birkenfeld AL. Changes in lean body mass with glucagon-like peptide-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024;26(Suppl 4):16-27. doi.org/10.1111/dom.15728
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
 - Nguyen N, et al. Topical volumizing cream improves facial volume and skin health in adults with rapid weight loss from pharmacologic (GLP-1/GIP agonists), surgical, or behavioral interventions. Journal of Cosmetic Dermatology. 2026;25(1):e70681. pmc.ncbi.nlm.nih.gov/articles/PMC12817327
 
-- GoodRx Health. Loose Skin After Weight Loss: Causes and Treatment Options. goodrx.com/conditions/weight-loss/loose-skin-after-weight-loss
-
-- Look M, et al. Body composition changes during weight reduction with tirzepatide (SURMOUNT-1 DXA substudy). Diabetes, Obesity & Metabolism. 2025. pmc.ncbi.nlm.nih.gov/articles/PMC11965027
-
 - Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021. pubmed.ncbi.nlm.nih.gov/33567185
 
 - Jastreboff AM, et al. Tirzepatide once weekly for the treatment of obesity (SURMOUNT-1). New England Journal of Medicine. 2022. pubmed.ncbi.nlm.nih.gov/35658024
 
-- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains in muscle mass and strength in healthy adults. British Journal of Sports Medicine. 2018;52(6):376-384. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
 
 ---
 
@@ -4250,11 +4272,15 @@ Medication choice belongs to you and your clinician, and it turns on efficacy, s
 # GLP-1 weight-loss plateau: fat loss stalling, or muscle loss catching up?
 
 URL: https://getmuscleonglp.com/learn/ozempic-weight-loss-plateau-muscle/
-Updated: 2026-07-16
+Updated: 2026-10-28
 
 Body composition
 
 The scale has stopped moving. Trial data shows that is normal and expected by around a year in. But the reason it happens may have as much to do with muscle and metabolic adaptation as with fat loss simply running its course.
+
+## The short answer
+
+Not mainly. A plateau is the normal curve: in STEP 5, semaglutide weight loss leveled off around week 60 and held at about 15.2 percent through two years. [1] Lost muscle may add to it: muscle supplies about 20 percent of your resting calorie burn. [2] If your lifts hold, muscle is probably not the main story.
 
 ## Key takeaways
 
@@ -4264,7 +4290,7 @@ The scale has stopped moving. Trial data shows that is normal and expected by ar
 
 - Adaptive thermogenesis, a slowdown beyond what smaller body size explains on its own, may account for roughly 40 percent of the drop in energy expenditure during weight loss. [2]
 
-- Because muscle burns calories at rest, losing lean mass can itself narrow the deficit and contribute to a stall, a mechanism raised specifically for GLP-1-class drugs in recent literature. [2]
+- Muscle supplies only about 20 percent of resting calorie burn. A 2025 commentary argues the bigger GLP-1 issue may be muscle burning less energy during activity, which could narrow the deficit and feed a stall. [2]
 
 - Resistance training and adequate protein are the two levers with the strongest evidence for keeping a plateau from becoming muscle loss in disguise. [3] [4]
 
@@ -4272,13 +4298,13 @@ Somewhere between month 12 and month 18 on a GLP-1, most people hit the same wal
 
 ## The plateau is in the trial data, not just your experience
 
-The clearest look at this comes from STEP 5, a two-year semaglutide trial. Weight loss was substantial and fairly steady through the first year, then plateaued at around week 60, roughly 14 months in, and stayed flat for the remainder of the study. At 104 weeks, mean weight loss was about 15.2 percent on semaglutide versus 2.6 percent on placebo, meaning the plateau was a durable new baseline, not a temporary stall before further loss or a prelude to regain. [1] The shorter STEP 1 trial showed a similar shape over its 68 weeks, with most of the loss occurring in the first several months and the rate of loss slowing well before the trial ended. [5]
+The clearest look at this comes from STEP 5, a two-year semaglutide trial in 304 adults without diabetes. Weight loss was substantial and fairly steady through the first year, then plateaued at around week 60, roughly 14 months in, and stayed flat for the remainder of the study. At 104 weeks, mean weight loss was about 15.2 percent on semaglutide versus 2.6 percent on placebo, meaning the plateau was a durable new baseline, not a temporary stall before further loss or a prelude to regain. [1] The shorter STEP 1 trial showed the same shape: weight kept falling until a low point around week 60, then leveled off, ending at about 14.9 percent loss versus 2.4 percent on placebo at week 68. [5]
 
-Two mechanisms are generally understood to produce this pattern. First, the body defends a weight range, and as you lose weight your body's own hunger and energy-regulation signals shift to resist further loss; the medication's appetite suppression and this resistance eventually reach something like equilibrium. Second, and less often discussed, is metabolic adaptation: energy expenditure drops as weight drops, partly because a smaller body simply needs fewer calories, and partly through an additional active slowdown known as adaptive thermogenesis. GLP-1 medications suppress appetite powerfully, but they do not appear to block this adaptive slowdown, which is a normal feature of weight loss regardless of method.
+Two mechanisms are generally understood to produce this pattern. First, the body defends a weight range, and as you lose weight your body's own hunger and energy-regulation signals shift to resist further loss; the medication's appetite suppression and this resistance eventually reach something like equilibrium. Second, and less often discussed, is metabolic adaptation: energy expenditure drops as weight drops, partly because a smaller body simply needs fewer calories, and partly through an additional active slowdown known as adaptive thermogenesis. GLP-1 medications suppress appetite powerfully, but a tirzepatide study suggests they do not block this adaptive slowdown, [2] which is a normal feature of weight loss regardless of method.
 
 ## Where muscle comes into the plateau question
 
-This is the part most plateau advice skips. Skeletal muscle is metabolically active tissue: it burns calories at rest and substantially more during activity. If a meaningful share of what you have lost is lean mass rather than fat, your resting and active energy expenditure both drop by more than fat loss alone would explain, which narrows your calorie deficit and can produce a plateau even while your medication and eating pattern have not changed. A 2025 commentary in Cell Reports Medicine argued this mechanism applies specifically to GLP-1-class drugs: that the lean mass lost during rapid, medication-driven weight loss lowers energy expenditure enough to contribute meaningfully to both plateaus and the weight regain often seen after stopping, and that adaptive thermogenesis broadly accounts for a substantial share, roughly 40 percent in some estimates, of the total drop in energy expenditure seen during weight loss. [2]
+This is the part most plateau advice skips. Skeletal muscle is metabolically active tissue: it burns calories at rest and substantially more during activity. If a meaningful share of what you have lost is lean mass rather than fat, your resting and active energy expenditure both drop by more than fat loss alone would explain, which narrows your calorie deficit and can produce a plateau even while your medication and eating pattern have not changed. A 2025 commentary in Cell Reports Medicine takes this further for GLP-1-class drugs. It notes that adaptive thermogenesis accounts for roughly 40 percent of the drop in energy expenditure during weight loss, that muscle supplies only about 20 percent of resting calorie burn, and that GLP-1 therapies lowered the energy burned outside of rest by about 170 kcal a day in the studies it reviewed. Its argument is that muscle burning less energy during activity, more than a lower resting burn, may drive both plateaus and the regain often seen after stopping. [2]
 
 Read that carefully: this is a mechanistic argument built from prior metabolic research, not a GLP-1 trial that tracked body composition and energy expenditure together through an actual plateau. It is a reasonable and increasingly discussed hypothesis, not a demonstrated fact. But it reframes the plateau question usefully. Instead of asking only "why did my weight loss stop," it is worth asking "what, specifically, stopped changing," because the scale cannot tell fat loss and lean-mass loss apart, and a stall could mean either that fat loss has genuinely finished for now, or that muscle loss has quietly eaten into the deficit that used to show up as fat loss on the scale.
 
@@ -4292,7 +4318,7 @@ If you want your protein and calorie targets calculated from your own numbers ra
 
 ## What to actually do at a plateau
 
-The two levers with the strongest evidence do not change at a plateau; if anything they matter more, because they are the two factors that most directly protect the metabolically active tissue driving the energy-expenditure side of the equation. In a meta-analysis of older adults losing weight through caloric restriction, resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced, a difference of roughly 0.82 kg of preserved lean tissue. [3] A separate dose-response meta-analysis of 49 studies found protein intake improved resistance-training outcomes up to a breakpoint of about 1.6 grams per kilogram of body weight per day, beyond which additional protein added little. [4] Neither of these findings is specific to a plateau, but a stalled scale is exactly when it is easiest to let training and protein slide, since the visible motivation of a dropping number has disappeared.
+The two levers with the strongest evidence (laid out in full in how to keep muscle on a GLP-1) do not change at a plateau; if anything they matter more, because they are the two factors that most directly protect the metabolically active tissue driving the energy-expenditure side of the equation. In a meta-analysis of six randomized trials in older adults with obesity losing weight through caloric restriction, resistance training offset about 93.5 percent of the lean-mass loss that dieting alone produced, a difference of roughly 0.82 kg of preserved lean tissue. [3] A separate meta-analysis of 49 studies in healthy adults found protein improved lean-mass gains from resistance training up to a total intake of about 1.6 grams per kilogram of body weight per day, beyond which additional protein added little. [4] Neither of these findings is specific to a plateau, but a stalled scale is exactly when it is easiest to let training and protein slide, since the visible motivation of a dropping number has disappeared.
 
 What a plateau is not, on its own, is a signal to increase your dose, extend a fast, or cut calories further. If lean mass loss is part of what has narrowed your deficit, a harder deficit without addressing training and protein risks trading more muscle for a temporary reopening of the scale gap, which is the opposite of what protects you if you ever come off the medication.
 
@@ -4312,11 +4338,11 @@ In the STEP 5 trial, semaglutide-driven weight loss plateaued at around week 60,
 
 **Q:** Why does GLP-1 weight loss plateau?
 
-Two things converge. First, the body's defended weight, sometimes called a set point, adjusts downward as you lose weight and eventually catches up to the medication's appetite suppression, so the deficit narrows. Second, metabolic adaptation lowers energy expenditure as weight drops; adaptive thermogenesis, an active slowdown beyond what reduced body size alone explains, accounts for roughly 40 percent of that decline in some estimates, and GLP-1 medications do not appear to prevent it.
+Two things converge. First, the body's defended weight, sometimes called a set point, adjusts downward as you lose weight and eventually catches up to the medication's appetite suppression, so the deficit narrows. Second, metabolic adaptation lowers energy expenditure as weight drops; adaptive thermogenesis, an active slowdown beyond what reduced body size alone explains, accounts for roughly 40 percent of that decline in some estimates, and one tirzepatide study suggests GLP-1 medications do not prevent it.
 
-**Q:** Could my plateau actually be muscle loss, not fat loss stopping?
+**Q:** Is a GLP-1 plateau muscle loss?
 
-It is a plausible contributor, though not a proven one. Because muscle is metabolically active tissue, losing lean mass lowers the calories you burn at rest and during activity, which can narrow the deficit and produce a plateau even while some fat loss continues. A 2025 commentary raised this mechanism specifically for GLP-1-class drugs, but it has not been confirmed with GLP-1-specific data tracking body composition and energy expenditure together through a full plateau.
+Not mainly, as far as the evidence shows. A plateau is the expected shape of the curve: in STEP 5, semaglutide weight loss leveled off around week 60 and held at about 15.2 percent through two years. Lost muscle may contribute, since muscle supplies about 20 percent of resting calorie burn, and a 2025 commentary argues that muscle burning less energy during activity may help drive GLP-1 plateaus. No GLP-1 trial has tracked body composition and energy expenditure together through a plateau, so check your strength trend rather than guessing.
 
 ## References
 
@@ -4326,7 +4352,7 @@ It is a plausible contributor, though not a proven one. Because muscle is metabo
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
-- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains in muscle mass and strength in healthy adults. British Journal of Sports Medicine. 2018;52(6):376-384. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
 
 - Wilding JPH, et al. Once-weekly semaglutide in adults with overweight or obesity (STEP 1). New England Journal of Medicine. 2021. pubmed.ncbi.nlm.nih.gov/33567185
 
