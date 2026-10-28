@@ -8,10 +8,6 @@
 [functions]
   directory = "netlify/functions"
 
-# The purchasable PDFs are not deployed with the site at all: they live in the
-# `guide-files` Netlify Blobs store and are streamed by download.mjs only after
-# it verifies a paid session and a recorded Terms acceptance. Keep this 404 so
-# any stale link to the old location cannot resolve.
 # One hop from http://www to the https apex (was http->https->apex, two 301s).
 [[redirects]]
   from = "http://www.getmuscleonglp.com/*"
@@ -19,6 +15,10 @@
   status = 301
   force = true
 
+# The purchasable PDFs are not deployed with the site at all: they live in the
+# `guide-files` Netlify Blobs store and are streamed by download.mjs only after
+# it verifies a paid session and a recorded Terms acceptance. Keep this 404 so
+# any stale link to the old location cannot resolve.
 [[redirects]]
   from = "/private/*"
   to = "/terms/"
