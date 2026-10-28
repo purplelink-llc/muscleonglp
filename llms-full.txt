@@ -3060,7 +3060,7 @@ You do not need a DXA scan or a research lab to get a real signal on whether you
 
 **Q:** What is the best at-home test for muscle loss on a GLP-1?
 
-No single test is best. Grip strength and the five-times sit-to-stand test are the two most clinically validated options, both drawn from the EWGSOP2 sarcopenia criteria, but tracking your own loaded-movement numbers over time is the most personalized signal. Used together with monthly circumference measurements and progress photos, they give a more reliable picture than any one test alone.
+Grip strength and the five-times sit-to-stand test are the two most clinically validated options, both drawn from the EWGSOP2 sarcopenia criteria (grip below 27 kg for men or 16 kg for women, or more than 15 seconds for five stands, flags low strength), but tracking your own loaded-movement numbers over time is the most personalized signal. Used together with monthly circumference measurements and progress photos, they give a more reliable picture than any one test alone.
 
 **Q:** Can I test for muscle loss without a dynamometer?
 
@@ -4579,7 +4579,7 @@ Every number here is an estimate. Predictive BMR equations carry error at the in
 
 **Q:** How many calories should I eat on a GLP-1?
 
-It depends on your size and activity. Obesity guidelines suggest 1,200 to 1,500 calories a day for women and 1,500 to 1,800 for men, or a deficit of 500 to 750 calories below maintenance. The calculator estimates your maintenance calories (TDEE) from your sex, age, height, weight and activity level, then subtracts the deficit for the pace you pick, using 7,700 kcal per kilogram of body weight. For the example on this page (a 45-year-old woman, 5 ft 6 in and 210 lb, lightly active), maintenance is about 2,220 calories and losing about 1 lb a week puts the target near 1,725. Confirm the calorie floor with your clinician while on a GLP-1.
+Obesity guidelines suggest 1,200 to 1,500 calories a day for women and 1,500 to 1,800 for men, or a deficit of 500 to 750 calories below maintenance, depending on your size and activity. The calculator estimates your maintenance calories (TDEE) from your sex, age, height, weight and activity level, then subtracts the deficit for the pace you pick, using 7,700 kcal per kilogram of body weight. For the example on this page (a 45-year-old woman, 5 ft 6 in and 210 lb, lightly active), maintenance is about 2,220 calories and losing about 1 lb a week puts the target near 1,725. Confirm the calorie floor with your clinician while on a GLP-1.
 
 **Q:** How does this calculator estimate my calories?
 
@@ -4826,7 +4826,7 @@ In STEP 1, adults without diabetes on semaglutide 2.4 mg lost an average of 14.9
 
 **Q:** How much weight do people lose on Zepbound or Mounjaro?
 
-Both are tirzepatide. In SURMOUNT-1, adults without diabetes lost an average of 15.0%, 19.5% and 20.9% of body weight over 72 weeks on the 5, 10 and 15 mg doses, compared with 3.1% on placebo.
+About 15 to 21 percent of body weight on average. Both are tirzepatide: in SURMOUNT-1, adults without diabetes lost 15.0%, 19.5% and 20.9% over 72 weeks on the 5, 10 and 15 mg doses, compared with 3.1% on placebo.
 
 **Q:** How much weight do people lose on Ozempic?
 
@@ -4838,7 +4838,7 @@ Orforglipron, sold as Foundayo, is a once-daily GLP-1 pill. In the ATTAIN-1 tria
 
 **Q:** How much weight do people lose on the Wegovy pill?
 
-The Wegovy pill is semaglutide taken by mouth once a day. In the OASIS 4 trial, adults without diabetes on oral semaglutide 25 mg lost an average of 13.6% of body weight over 64 weeks, against 2.2% on placebo. It is taken on an empty stomach, with a 30-minute wait before eating. [10]
+About 13.6 percent of body weight on average. The Wegovy pill is semaglutide taken by mouth once a day: in the OASIS 4 trial, adults without diabetes on 25 mg lost 13.6% over 64 weeks, against 2.2% on placebo. It is taken on an empty stomach, with a 30-minute wait before eating. [10]
 
 **Q:** How much of GLP-1 weight loss is muscle?
 
