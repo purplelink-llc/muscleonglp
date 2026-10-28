@@ -13,13 +13,17 @@ Training
 
 You have a membership, but you have never lifted a weight in your life. That is a different problem than not having a gym at all, and it deserves its own plan: which exercises to start with, how many sets and reps, how often to train, and how to progress without hurting yourself while your bodyweight changes week to week.
 
+## The short answer
+
+Train twice a week on six machines: leg press, hamstring curl, chest press, shoulder press, seated row and lat pulldown. Do 2 to 3 sets of 8 to 12 reps at 60 to 70 percent of your one-rep max, [1] stopping 2 to 3 reps short of failure. [2] Training offset about 93.5 percent of diet-driven lean-mass loss in older adults. [3]
+
 ## Key takeaways
 
-- Adding resistance training to caloric restriction offset about 93.5 percent of the diet-induced lean-mass loss that dieting alone produced, in a meta-analysis of older adults. [1]
+- Adding resistance training to caloric restriction offset about 93.5 percent of the diet-induced lean-mass loss that dieting alone produced, in a meta-analysis of older adults. [3]
 
-- A widely used starting scaffold for novices is 2 to 3 sessions per week, 8 to 12 repetitions per set at roughly 60 to 70 percent of your one-repetition maximum. [2]
+- A widely used starting scaffold for novices is 2 to 3 sessions per week, 8 to 12 repetitions per set at roughly 60 to 70 percent of your one-repetition maximum. [1]
 
-- You do not need to train to failure. Stopping with about 2 to 3 repetitions in reserve is enough to drive gains and is safer while you are learning technique. [3]
+- You do not need to train to failure. Stopping with about 2 to 3 repetitions in reserve is enough to drive gains and is safer while you are learning technique. [2]
 
 - Free weights and machines produced no meaningful difference in muscle growth across 13 studies and 1,016 participants, so starting on machines is a legitimate choice, not a compromise. [4]
 
@@ -31,7 +35,9 @@ This article is written for that person specifically. It assumes you can access 
 
 ## Why bother, when the medication is already working
 
-The scale is moving, so it can feel like the hard part is handled. It is not, entirely. Reviews of GLP-1 body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, meaning a real share of what leaves your body is muscle, not fat. [5] In a meta-analysis of six randomized trials in older adults under caloric restriction, adding resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, about 0.82 kg of muscle preserved. [1] Nothing else studied comes close to that effect size, and you do not need to become a serious lifter to capture most of it. You need a simple, safe program you will actually repeat.
+The scale is moving, so it can feel like the hard part is handled. It is not, entirely. Reviews of GLP-1 body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost, meaning a real share of what leaves your body is muscle, not fat. [5] In a meta-analysis of six randomized trials in older adults under caloric restriction, adding resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, about 0.82 kg of muscle preserved. [3] Nothing else studied comes close to that effect size, and you do not need to become a serious lifter to capture most of it. You need a simple, safe program you will actually repeat.
+
+If you are a woman over 50, menopause already speeds up muscle and bone loss before a GLP-1 enters the picture; our article on GLP-1 muscle loss in women over 50 explains why, and why this same training matters even more.
 
 ## Your first exercises: start with machines, and here is why that is not a lesser choice
 
@@ -59,15 +65,15 @@ One machine per pattern, twice a week, is a complete beginner program. You do no
 
 ## Sets, reps, and how heavy to go
 
-You will not know your true one-repetition maximum on day one, and you should not test it. Instead, pick a weight light enough to move with clean, controlled form, and treat your first session or two as calibration. A widely used starting scaffold for novices, from the American College of Sports Medicine's position stand on resistance-training progression, is 8 to 12 repetitions per set at roughly 60 to 70 percent of your one-repetition maximum, 2 to 3 sessions per week. [2] In practice: choose a weight where reps 1 through 8 feel manageable and reps 9 through 12 feel genuinely hard.
+You will not know your true one-repetition maximum on day one, and you should not test it. Instead, pick a weight light enough to move with clean, controlled form, and treat your first session or two as calibration. A widely used starting scaffold for novices, from the American College of Sports Medicine's position stand on resistance-training progression, is 8 to 12 repetitions per set at roughly 60 to 70 percent of your one-repetition maximum, 2 to 3 sessions per week. [1] In practice: choose a weight where reps 1 through 8 feel manageable and reps 9 through 12 feel genuinely hard.
 
-You also do not need to push each set to complete failure to benefit. A recent overview of the resistance-training literature concluded that training to momentary muscular failure does not enhance gains in strength, hypertrophy, or power beyond what training near failure achieves, and recommended stopping about 2 to 3 repetitions short of failure instead, and it notes that inexperienced lifters in particular should keep loads conservative while progression does the work over time. [3] That is good news twice over: it is less intimidating, and it keeps your form intact on movements you are still learning, which is where most beginner injuries happen.
+You also do not need to push each set to complete failure to benefit. A recent overview of the resistance-training literature concluded that training to momentary muscular failure does not enhance gains in strength, hypertrophy, or power beyond what training near failure achieves, and recommended stopping about 2 to 3 repetitions short of failure instead, and it notes that inexperienced lifters in particular should keep loads conservative while progression does the work over time. [2] That is good news twice over: it is less intimidating, and it keeps your form intact on movements you are still learning, which is where most beginner injuries happen.
 
 Do 2 to 3 sets per exercise, with 1 to 2 minutes of rest between sets. Six exercises at 2 to 3 sets each is a complete, unrushed session that most beginners can finish in 45 minutes to an hour.
 
 ## How often, and how to progress
 
-Two full-body sessions a week, on non-consecutive days, is the right starting frequency, matching the low end of the novice scaffold above. [2] This is not a compromise version of a "real" program: two sessions leave more recovery time, which matters more than usual on a GLP-1, since recovery depends partly on how much you are eating, and appetite is exactly what the medication suppresses. Add a third session only once two feels comfortably manageable for a few weeks running.
+Two full-body sessions a week, on non-consecutive days, is the right starting frequency, matching the low end of the novice scaffold above. [1] This is not a compromise version of a "real" program: two sessions leave more recovery time, which matters more than usual on a GLP-1, since recovery depends partly on how much you are eating, and appetite is exactly what the medication suppresses. Add a third session only once two feels comfortably manageable for a few weeks running.
 
 Progression as a beginner is simple: once you can complete all your sets at the top of the 8-to-12 rep range with 2 to 3 reps in reserve, add a small amount of weight the following session and let the rep count drop back toward 8 before climbing again. Resist the urge to jump weight quickly just because a session felt easy; a slow, steady climb keeps every session safe while you learn what your body can handle.
 
@@ -83,7 +89,7 @@ None of this is an argument against cardio; a full plan includes both. Resistanc
 
 ## What the evidence does not say
 
-A few honest limits. The novice scaffold cited here comes from the ACSM's general position stand on healthy adults, not a trial built around GLP-1 users; no randomized trial has tested this exact protocol, machines-first and reps-in-reserve, in people losing weight on semaglutide or tirzepatide. [2] The free-weight-versus-machine meta-analysis pooled a range of prior training experience, not exclusively complete beginners, and none of its participants were on GLP-1 medication. [4] And the resistance-training-offsets-lean-mass finding comes from dieting older adults under conventional caloric restriction, not a GLP-1-driven deficit specifically, though the direction is consistent enough across the broader literature to act on today. [1] This article provides no dosing or medical guidance; talk to your clinician before starting a new exercise program, particularly with a preexisting heart, joint, or metabolic condition.
+A few honest limits. The novice scaffold cited here comes from the ACSM's general position stand on healthy adults, not a trial built around GLP-1 users; no randomized trial has tested this exact protocol, machines-first and reps-in-reserve, in people losing weight on semaglutide or tirzepatide. [1] The free-weight-versus-machine meta-analysis pooled a range of prior training experience, not exclusively complete beginners, and none of its participants were on GLP-1 medication. [4] And the resistance-training-offsets-lean-mass finding comes from dieting older adults under conventional caloric restriction, not a GLP-1-driven deficit specifically, though the direction is consistent enough across the broader literature to act on today. [3] This article provides no dosing or medical guidance; talk to your clinician before starting a new exercise program, particularly with a preexisting heart, joint, or metabolic condition.
 
 ## The bottom line
 
@@ -103,13 +109,17 @@ No. A recent overview of the resistance-training evidence concluded that trainin
 
 Either works. A 2023 systematic review and meta-analysis of 13 studies and 1,016 participants found no meaningful difference in muscle growth between free-weight and machine training; strength gains were somewhat specific to the equipment trained, but hypertrophy was not. Machines offer a fixed, supported path of motion that lowers the technical skill required, which can be an advantage while you are new to training and your bodyweight and energy levels are both changing. Free weights are equally valid once you are comfortable with the basic patterns.
 
-## References
+**Q:** How many days a week should a beginner lift on a GLP-1?
 
-- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
+Start with two full-body sessions a week on non-consecutive days, with 2 to 3 sets of 8 to 12 repetitions per exercise. That matches the low end of the American College of Sports Medicine's novice scaffold of 2 to 3 sessions per week. Add a third session only once two feels comfortably manageable for a few weeks. Six exercises at 2 to 3 sets each takes most beginners 45 minutes to an hour.
+
+## References
 
 - American College of Sports Medicine. Position Stand: Progression Models in Resistance Training for Healthy Adults. Medicine & Science in Sports & Exercise. 2009;41(3):687-708. doi.org/10.1249/MSS.0b013e3181915670
 
 - Currier BS, et al. ACSM Position Stand: Resistance Training Prescription (Overview of Reviews). Medicine & Science in Sports & Exercise. 2026. pmc.ncbi.nlm.nih.gov/articles/PMC12965823
+
+- Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
 - Effect of free-weight versus machine-based strength training on maximal strength and hypertrophy: a systematic review and meta-analysis. BMC Sports Science, Medicine & Rehabilitation. 2023. pmc.ncbi.nlm.nih.gov/articles/PMC10426227
 
@@ -263,17 +273,21 @@ Not when it is programmed sensibly. An updated 2022 meta-analysis found that con
 # Whey, plant, or collagen: the best protein for muscle on a GLP-1
 
 URL: https://getmuscleonglp.com/learn/best-protein-for-muscle-on-glp1/
-Updated: 2026-07-14
+Updated: 2026-10-27
 
 GLP-1 & protein quality
 
 Hitting your protein target is half the battle. The other half is spending a limited appetite on protein that actually protects muscle. Here is how the common sources compare, and why the most popular one is the wrong pick for the job.
 
-Once you know the number, roughly 1.6 to 2.2 grams of protein per kilogram of body weight per day to protect muscle during weight loss, [1] the next question is which protein to reach for. On a normal appetite this barely matters: eat enough total protein and the details wash out. On a GLP-1 it matters a lot, because the medication caps how much you can eat. When every serving is scarce, the quality of the protein, not just the quantity, decides how much muscle-building signal you actually get. [2]
+## The short answer
+
+Whey, if you tolerate dairy. It is complete and the richest common source of leucine, the amino acid that switches on muscle protein synthesis. [1] Without dairy, pick soy or a pea-and-rice blend. Do not count collagen: it lacks tryptophan and is very low in leucine. [2] Aim for about 1.6 to 2.2 g/kg of protein a day. [3]
+
+Once you know the number, roughly 1.6 to 2.2 grams of protein per kilogram of body weight per day to protect muscle during weight loss, [3] the next question is which protein to reach for. On a normal appetite this barely matters: eat enough total protein and the details wash out. On a GLP-1 it matters a lot, because the medication caps how much you can eat. When every serving is scarce, the quality of the protein, not just the quantity, decides how much muscle-building signal you actually get. [2]
 
 ## What "quality" means for muscle
 
-Two things separate a high-quality protein from a low-quality one. First, whether it is complete: does it contain all nine essential amino acids your body cannot make. Second, how much leucine it carries. Leucine is the amino acid that flips the switch on muscle protein synthesis, the process that builds and retains muscle; a serving needs enough of it to trigger the response. [3] A protein can be technically complete and still be a poor muscle food if it is too low in leucine to pull the trigger. This is the single idea that sorts the options below.
+Two things separate a high-quality protein from a low-quality one. First, whether it is complete: does it contain all nine essential amino acids your body cannot make. Second, how much leucine it carries. Leucine is the amino acid that flips the switch on muscle protein synthesis, the process that builds and retains muscle; a serving needs enough of it to trigger the response. [1] A protein can be technically complete and still be a poor muscle food if it is too low in leucine to pull the trigger. This is the single idea that sorts the options below.
 
 ## The comparison
 
@@ -287,11 +301,11 @@ Two things separate a high-quality protein from a low-quality one. First, whethe
 
 ## Whey: the default for a reason
 
-Whey is a complete protein and the richest common source of leucine, which is why it produces the strongest muscle-building signal per gram. [3] On a GLP-1 it has a second, underrated advantage: it goes down as a shake. The hardest days are after a dose increase, when solid food is unappealing and nausea is real; a whey shake delivering 20 to 30 grams of protein is often the only way the target gets met at all. If you tolerate dairy, whey is the efficient default.
+Whey is a complete protein and the richest common source of leucine, which is why it produces the strongest muscle-building signal per gram. [1] On a GLP-1 it has a second, underrated advantage: it goes down as a shake. The hardest days are after a dose increase, when solid food is unappealing and nausea is real; a whey shake delivering 20 to 30 grams of protein is often the only way the target gets met at all. If you tolerate dairy, whey is the efficient default.
 
 ## Plant protein: good, with two adjustments
 
-Plant proteins carry a reputation for being second-rate for muscle. That is half true and fixable. Most single-source plant proteins are lower in leucine than whey, and some are not complete on their own: rice is low in lysine, pea is low in methionine. The fix is to use a source that is already complete, like soy, or a blend that covers the gaps, like pea and rice together, and to size the serving up modestly so the leucine reaches the threshold. [3] Done that way, plant protein supports muscle retention well and is the right choice for anyone avoiding dairy.
+Plant proteins carry a reputation for being second-rate for muscle. That is half true and fixable. Most single-source plant proteins are lower in leucine than whey, and some are not complete on their own: rice is low in lysine, pea is low in methionine. The fix is to use a source that is already complete, like soy, or a blend that covers the gaps, like pea and rice together, and to size the serving up modestly so the leucine reaches the threshold. [1] Done that way, plant protein supports muscle retention well and is the right choice for anyone avoiding dairy.
 
 ## Collagen: popular, and the wrong tool
 
@@ -299,7 +313,7 @@ Collagen is everywhere, and for muscle it is the wrong choice. It is an incomple
 
 ## Protein without training is only half the job
 
-One correction before you optimise your shake. Protein supplies the raw material for keeping muscle, but training is what tells your body the material is worth keeping. In a meta-analysis of randomized trials in older adults under caloric restriction, resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost. [4] The best protein in the world will not preserve muscle on its own. Pair whatever source you choose with resistance training two to three times a week.
+One correction before you optimise your shake. Protein supplies the raw material for keeping muscle, but training is what tells your body the material is worth keeping. In a meta-analysis of randomized trials in older adults under caloric restriction, resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost. [4] The best protein in the world will not preserve muscle on its own. Pair whatever source you choose with resistance training two to three times a week. If you want to add muscle rather than only keep it, our article on building new muscle on a GLP-1 covers what the recomposition research shows and what no trial has tested yet.
 
 ## What this does not tell you
 
@@ -327,13 +341,17 @@ It can be, with two adjustments: use a complete source (soy) or a blend (pea and
 
 Because the medication caps how much you eat. With a large total intake, quality differences wash out; with a suppressed appetite, every serving has to work harder, so a complete, leucine-rich protein does more per bite. Quality is a lever you can pull without eating more.
 
+**Q:** How much protein do I need a day to keep muscle on a GLP-1?
+
+Roughly 1.6 to 2.2 grams of protein per kilogram of body weight per day. A dose-response meta-analysis found added protein stopped improving resistance-training gains at about 1.6 g/kg in the pooled data. Spread it across meals, since more protein in one sitting is not proportionally better, and count collagen as a supplement rather than part of that total.
+
 ## References
 
-- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains in muscle mass and strength. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution. Journal of the International Society of Sports Nutrition. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
 
 - Layman DK. Impacts of protein quantity and distribution on body composition. Frontiers in Nutrition. 2024. pmc.ncbi.nlm.nih.gov/articles/PMC11099237
 
-- Schoenfeld BJ, Aragon AA. How much protein can the body use in a single meal for muscle-building? Implications for daily protein distribution. Journal of the International Society of Sports Nutrition. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5828430
+- Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains in muscle mass and strength. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
@@ -435,15 +453,19 @@ GLP-1 & muscle
 
 No membership, no barbell, and still enough stimulus to hold onto muscle. Here is what the research says about training with your own bodyweight, and how to load and progress it at home while you lose weight.
 
+## The short answer
+
+Yes. Muscle answers to tension and effort, not equipment: a meta-analysis of 13 studies (1,016 people) found no meaningful difference in muscle growth between free weights and machines. [1] Train a push, pull, squat, hinge and core brace 2 to 3 times a week, 2 to 3 hard sets of 8 to 15 reps, [2] and make each move harder over time.
+
 ## Key takeaways
 
 - A 2023 meta-analysis of 13 studies (1,016 participants) found no meaningful difference in muscle growth between free weights and machines. [1]
 
-- What drives growth is mechanical tension and effort near failure, not the equipment. Bodyweight training supplies both when you load it correctly. [2]
+- What drives growth is mechanical tension and effort near failure, not the equipment. Bodyweight training supplies both when you load it correctly. [3]
 
-- Reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of GLP-1 weight lost, and resistance training offset about 93.5 percent of diet-induced lean-mass loss in a meta-analysis. [3] [4]
+- Reviews place lean mass at anywhere from about 15 percent to 40 to 60 percent of GLP-1 weight lost, and resistance training offset about 93.5 percent of diet-induced lean-mass loss in a meta-analysis. [4] [5]
 
-- You progress without a dumbbell by adding reps, slowing the tempo, or moving to a harder variation. [5]
+- You progress without a dumbbell by adding reps, slowing the tempo, or moving to a harder variation. [2]
 
 - On a nauseated or flattened day, a short minimum viable session keeps the habit alive.
 
@@ -459,9 +481,11 @@ The equipment is not the active ingredient. What drives muscle growth is enough 
 
 ## Why this matters more on a GLP-1
 
-Reviews of GLP-1 body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [3] That muscle is not handed back to you if you regain weight later; once it is gone, it has to be rebuilt the same slow way it is built under any other circumstance. So the muscle you defend now is the reserve you keep for later.
+Reviews of GLP-1 body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [4] That muscle is not handed back to you if you regain weight later; once it is gone, it has to be rebuilt the same slow way it is built under any other circumstance. So the muscle you defend now is the reserve you keep for later.
 
-Resistance training is the countermeasure with direct evidence behind it. In a meta-analysis of randomized trials in older adults under caloric restriction, adding resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, a difference of about 0.82 kg of preserved lean tissue versus dieting with no training. [4] Combine that with the free-weights-versus-machines finding above, and the takeaway is direct: the training is what protects your muscle, and the training does not require a gym.
+Resistance training is the countermeasure with direct evidence behind it. In a meta-analysis of randomized trials in older adults under caloric restriction, adding resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, a difference of about 0.82 kg of preserved lean tissue versus dieting with no training. [5] Combine that with the free-weights-versus-machines finding above, and the takeaway is direct: the training is what protects your muscle, and the training does not require a gym.
+
+If your goal is to add muscle rather than only hold on to it, our article on whether you can build new muscle on a GLP-1 covers what the recomposition research shows and what no trial has tested yet.
 
 ## Progressive overload without a barbell
 
@@ -473,13 +497,13 @@ Slow the tempo. Taking three seconds to lower into a squat or a pushup increases
 
 Change the leverage or go single-limb. Raise your feet during a pushup, move to a split squat or a single-leg hinge, or shift from a knee pushup to a full pushup. Each change puts more of your bodyweight through fewer muscles, which is functionally the same as adding load.
 
-The governing idea is the same one that applies with weights: over time you must do more, or the stimulus stops keeping pace with your adaptation and progress stalls. A 2026 American College of Sports Medicine overview of reviews argues against rigid rep-and-set formulas and instead emphasizes training near failure with enough weekly volume, then progressing it. [2] On a bodyweight program, you regulate that effort by choosing a variation hard enough that your target reps land close to failure, rather than by turning a dial.
+The governing idea is the same one that applies with weights: over time you must do more, or the stimulus stops keeping pace with your adaptation and progress stalls. A 2026 American College of Sports Medicine overview of reviews argues against rigid rep-and-set formulas and instead emphasizes training near failure with enough weekly volume, then progressing it. [3] On a bodyweight program, you regulate that effort by choosing a variation hard enough that your target reps land close to failure, rather than by turning a dial.
 
 ## Train the major movement patterns, twice a week or more
 
 You do not need a different exercise for every muscle. You need to cover the basic human movement patterns and train them consistently: a horizontal push (pushup variations), a pull (rows), a squat, a hip hinge, and a core brace. Cover those and you have trained nearly everything that matters for keeping muscle.
 
-A practical, evidence-based starting structure comes from the American College of Sports Medicine's 2009 progression position stand: two to three sessions per week, two to three sets of 8 to 15 repetitions per exercise. [5] Two full-body sessions a week is a genuine floor that works; three is better if your schedule and energy allow it. Because you cannot add weight, you regulate difficulty by picking the variation that makes 8 to 15 reps genuinely hard, then progressing it with the three levers above.
+A practical, evidence-based starting structure comes from the American College of Sports Medicine's 2009 progression position stand: two to three sessions per week, two to three sets of 8 to 15 repetitions per exercise. [2] Two full-body sessions a week is a genuine floor that works; three is better if your schedule and energy allow it. Because you cannot add weight, you regulate difficulty by picking the variation that makes 8 to 15 reps genuinely hard, then progressing it with the three levers above.
 
 The pattern people quietly drop is the pull, because it seems to need a bar. It does not. A towel looped around a sturdy door handle, a row under a solid dining table, a loaded backpack rowed one arm at a time, or a single resistance band all train the same muscles. Skipping the pull is what produces a visibly imbalanced back and shoulders, so it is worth solving rather than avoiding.
 
@@ -515,17 +539,21 @@ For the pull pattern, the one most people skip without a bar, use a towel looped
 
 Run a short minimum viable session instead of skipping entirely. In pooled data from the STEP 1 to 3 trials, gastrointestinal side effects on semaglutide were mostly mild to moderate, concentrated around dose escalation, and diminished over time. On a bad day, do one easy set of each major movement pattern for 10 to 15 minutes. The stimulus is modest; the point is that the habit survives the bad week.
 
+**Q:** How many days a week should I train at home on a GLP-1?
+
+Two to three full-body sessions a week, with 2 to 3 sets of 8 to 15 repetitions per exercise, is an evidence-based starting structure from the American College of Sports Medicine. Two sessions a week is a floor that works; three is better if your schedule and energy allow it. Cover a push, a pull, a squat, a hinge and a core brace, and pick a variation hard enough that your target reps land close to failure.
+
 ## References
 
 - Effect of free-weight versus machine-based strength training on maximal strength and hypertrophy: a systematic review and meta-analysis. BMC Sports Science, Medicine and Rehabilitation. 2023. pmc.ncbi.nlm.nih.gov/articles/PMC10426227
+
+- American College of Sports Medicine. Position Stand: Progression Models in Resistance Training for Healthy Adults. Medicine & Science in Sports & Exercise. 2009. doi.org/10.1249/MSS.0b013e3181915670
 
 - Currier BS, et al. ACSM Position Stand: Resistance Training Prescription (Overview of Reviews). Medicine & Science in Sports & Exercise. 2026. pmc.ncbi.nlm.nih.gov/articles/PMC12965823
 
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
-
-- American College of Sports Medicine. Position Stand: Progression Models in Resistance Training for Healthy Adults. Medicine & Science in Sports & Exercise. 2009. doi.org/10.1249/MSS.0b013e3181915670
 
 - Wharton S, et al. Gastrointestinal tolerability of once-weekly semaglutide 2.4 mg (STEP 1–3 pooled). Diabetes, Obesity & Metabolism. 2022. pmc.ncbi.nlm.nih.gov/articles/PMC9293236
 
@@ -1809,11 +1837,15 @@ Nutrition
 
 Nausea and a suppressed appetite hit at exactly the moment your protein target matters most. Here are concrete, realistic foods and shakes that tend to go down anyway, with approximate protein per serving.
 
+## The short answer
+
+Keep the target, shrink the portions. Small, cold, low-fat servings tend to go down best: a whey shake (23 g protein per scoop), plain Greek yogurt (17.5 g per 6 oz) or cottage cheese (25 g per cup). [1] Spread five or six across the day toward about 1.6 g/kg. [2] A nausea episode lasted a median of about 8 days. [3]
+
 ## Key takeaways
 
-- Nausea is common: 43.9 percent of people on semaglutide 2.4 mg reported it in a pooled STEP 1–3 analysis, versus 16.1 percent on placebo. [1]
+- Nausea is common: 43.9 percent of people on semaglutide 2.4 mg reported it in a pooled STEP 1–3 analysis, versus 16.1 percent on placebo. [3]
 
-- Nausea clusters around dose increases and typically resolves within about a week per episode; new cases level off by roughly week 20. [1]
+- Nausea clusters around dose increases and typically resolves within about a week per episode; new cases level off by roughly week 20. [3]
 
 - Cold, low-fat, low-volume foods tend to be better tolerated than hot, greasy, or large meals during a flare.
 
@@ -1821,21 +1853,21 @@ Nausea and a suppressed appetite hit at exactly the moment your protein target m
 
 - The protein target does not change on a bad day: 1.6 to 2.2 g/kg is still the goal, spread across small servings rather than skipped. [2]
 
-Nausea is the most common reason people describe struggling to eat enough on a GLP-1, and it tends to arrive in waves tied to dose increases rather than as a steady background problem. In a pooled analysis of the STEP 1 through 3 trials, 43.9 percent of people taking semaglutide 2.4 mg reported nausea, compared with 16.1 percent on placebo, and 72.9 percent reported some gastrointestinal adverse event of any kind. [1] The good news buried in that data: symptoms cluster during and shortly after each dose escalation, the median nausea episode lasted about 8 days, and new cases leveled off by around week 20. [1] This is not a permanent state. It is a series of bad windows you need to eat through.
+Nausea is the most common reason people describe struggling to eat enough on a GLP-1, and it tends to arrive in waves tied to dose increases rather than as a steady background problem. In a pooled analysis of the STEP 1 through 3 trials, 43.9 percent of people taking semaglutide 2.4 mg reported nausea, compared with 16.1 percent on placebo, and 72.9 percent reported some gastrointestinal adverse event of any kind. [3] The good news buried in that data: symptoms cluster during and shortly after each dose escalation, the median nausea episode lasted about 8 days, and new cases leveled off by around week 20. [3] This is not a permanent state. It is a series of bad windows you need to eat through.
 
-Those windows matter because they line up exactly with the appetite suppression that puts protein at risk in the first place. A broader review of dietary intake in people on GLP-1 and dual GIP/GLP-1 medications found calorie intake fell by 16 to 39 percent in the studies that measured it, and flagged that reduced protein intake during that drop may not be enough to protect muscle. [3] The same review found people's food preferences shift away from high-fat and non-sweet foods during treatment, [3] which is a useful clue: the foods that are easiest to tolerate are often not the ones highest in protein, and a nausea day is exactly when you need a short list of foods that satisfy both.
+Those windows matter because they line up exactly with the appetite suppression that puts protein at risk in the first place. A broader review of dietary intake in people on GLP-1 and dual GIP/GLP-1 medications found calorie intake fell by 16 to 39 percent in the studies that measured it, and flagged that reduced protein intake during that drop may not be enough to protect muscle. [4] The same review found people's food preferences shift away from high-fat and non-sweet foods during treatment, [4] which is a useful clue: the foods that are easiest to tolerate are often not the ones highest in protein, and a nausea day is exactly when you need a short list of foods that satisfy both.
 
 ## Why protein still matters on the days you can't stomach much
 
-A large share of GLP-1 weight loss is lean mass, not fat: reviews of the trial data put it at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [4] Protein is one of the two evidence-based levers that pushes that ratio back toward fat, alongside resistance training, and a dose-response meta-analysis found protein intake up to about 1.6 grams per kilogram of body weight per day kept improving muscle-related outcomes. [2] For the full target and how to calculate it for your weight, see our main protein article or run your number through the calorie, protein and macro calculator. None of that changes on a nausea day. What changes is how you get there: fewer, smaller opportunities to eat, so each one needs to carry more protein per bite than usual.
+A large share of GLP-1 weight loss is lean mass, not fat: reviews of the trial data put it at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [5] That lost muscle is part of what people notice as a flatter, less defined body, and our article on "Ozempic body," "Ozempic face" and "Ozempic butt" separates the muscle part from fat and skin. Protein is one of the two evidence-based levers that pushes that ratio back toward fat, alongside resistance training, and a dose-response meta-analysis found protein intake up to about 1.6 grams per kilogram of body weight per day kept improving muscle-related outcomes. [2] For the full target and how to calculate it for your weight, see our main protein article or run your number through the calorie, protein and macro calculator. None of that changes on a nausea day. What changes is how you get there: fewer, smaller opportunities to eat, so each one needs to carry more protein per bite than usual.
 
 ## What tends to be tolerable, and what doesn't
 
-Nobody has run a controlled trial on which specific foods GLP-1 users tolerate best during a nausea flare, so the following is practical guidance drawn from general nausea-management principles and the food-preference shift documented above, not a cited clinical finding on its own. A few patterns show up consistently: cold or room-temperature foods are generally easier than hot ones, low-fat options are easier than greasy or fried ones (consistent with the reduced preference for high-fat foods seen in GLP-1 users), [3] bland and mildly flavored foods beat spicy or strongly seasoned ones, and small volumes eaten slowly beat a normal-sized plate. Liquids and semi-liquids, which require little chewing and pass through an already-slowed stomach more easily, are frequently the last thing standing when solid food is not an option.
+Nobody has run a controlled trial on which specific foods GLP-1 users tolerate best during a nausea flare, so the following is practical guidance drawn from general nausea-management principles and the food-preference shift documented above, not a cited clinical finding on its own. A few patterns show up consistently: cold or room-temperature foods are generally easier than hot ones, low-fat options are easier than greasy or fried ones (consistent with the reduced preference for high-fat foods seen in GLP-1 users), [4] bland and mildly flavored foods beat spicy or strongly seasoned ones, and small volumes eaten slowly beat a normal-sized plate. Liquids and semi-liquids, which require little chewing and pass through an already-slowed stomach more easily, are frequently the last thing standing when solid food is not an option.
 
 ## The list: high-protein foods that tend to go down on a bad day
 
-These are common, widely available foods with protein content verified against the USDA FoodData Central database. [5] Treat the gram figures as approximate: brand, preparation, and fat percentage all shift the exact number, sometimes by a few grams either direction.
+These are common, widely available foods with protein content verified against the USDA FoodData Central database. [1] Treat the gram figures as approximate: brand, preparation, and fat percentage all shift the exact number, sometimes by a few grams either direction.
 
 - Plain nonfat Greek yogurt, 6 oz (170 g): about 17.5 g protein. Cold, low-fat, minimal chewing, and mild if you skip flavored varieties, which run higher in sugar.
 
@@ -1865,7 +1897,7 @@ If nausea is severe enough that you cannot keep fluids down, that is a question 
 
 ## What the evidence does not say
 
-No published trial has tested a specific food list against nausea tolerability or muscle preservation in GLP-1 users; the food-tolerability guidance in this article is drawn from general principles of nausea management and the food-preference shift documented in a broader dietary-intake review, not from a study designed to answer that question directly. [3] The GI adverse-event percentages come from trial safety reporting in people without diabetes on semaglutide specifically; tirzepatide and other GLP-1-class drugs report broadly similar patterns but were not pooled into that same analysis, so the exact percentages should not be assumed to transfer drug for drug. The protein gram values are drawn from USDA reference entries for generic or common preparations; a specific brand, cut, or recipe in your kitchen can run higher or lower. [5]
+No published trial has tested a specific food list against nausea tolerability or muscle preservation in GLP-1 users; the food-tolerability guidance in this article is drawn from general principles of nausea management and the food-preference shift documented in a broader dietary-intake review, not from a study designed to answer that question directly. [4] The GI adverse-event percentages come from trial safety reporting in people without diabetes on semaglutide specifically; tirzepatide and other GLP-1-class drugs report broadly similar patterns but were not pooled into that same analysis, so the exact percentages should not be assumed to transfer drug for drug. The protein gram values are drawn from USDA reference entries for generic or common preparations; a specific brand, cut, or recipe in your kitchen can run higher or lower. [1]
 
 ## The bottom line
 
@@ -1887,15 +1919,15 @@ Yes. In a pooled analysis of the STEP 1 to 3 trials, 43.9 percent of people on s
 
 ## References
 
-- Wharton S, Calanna S, Davies M, et al. Gastrointestinal tolerability of once-weekly semaglutide 2.4 mg in adults with overweight or obesity, and the relationship between gastrointestinal adverse events and weight loss (STEP 1–3 pooled analysis). Diabetes, Obesity & Metabolism. 2022;24(1):94-105. pmc.ncbi.nlm.nih.gov/articles/PMC9293236
+- USDA FoodData Central. Agricultural Research Service, U.S. Department of Agriculture. Entries used: Yogurt, Greek, plain, nonfat (fdcId 330137); Cheese, cottage, lowfat, 2% milkfat (fdcId 328841); Protein powder, whey based (fdcId 173180); Tofu, raw, firm, prepared with calcium sulfate (fdcId 172475); Edamame, frozen, prepared (fdcId 168411); Fish, tuna, light, canned in water, drained solids (fdcId 334194); Chicken, broilers or fryers, breast, meat and skin, cooked, roasted (fdcId 171075); Egg, whole, cooked, fried (fdcId 173423); Peanut butter, smooth style, without salt (fdcId 172470). fdc.nal.usda.gov
 
 - Morton RW, et al. A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance-training-induced gains. British Journal of Sports Medicine. 2018. pmc.ncbi.nlm.nih.gov/articles/PMC5867436
+
+- Wharton S, Calanna S, Davies M, et al. Gastrointestinal tolerability of once-weekly semaglutide 2.4 mg in adults with overweight or obesity, and the relationship between gastrointestinal adverse events and weight loss (STEP 1–3 pooled analysis). Diabetes, Obesity & Metabolism. 2022;24(1):94-105. pmc.ncbi.nlm.nih.gov/articles/PMC9293236
 
 - Christensen S, Robinson K, Thomas S, Williams DR. Dietary intake by patients taking GLP-1 and dual GIP/GLP-1 receptor agonists: a narrative review and discussion of research needs. Obesity Pillars. 2024;11:100121. pmc.ncbi.nlm.nih.gov/articles/PMC11340591
 
 - Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
-
-- USDA FoodData Central. Agricultural Research Service, U.S. Department of Agriculture. Entries used: Yogurt, Greek, plain, nonfat (fdcId 330137); Cheese, cottage, lowfat, 2% milkfat (fdcId 328841); Protein powder, whey based (fdcId 173180); Tofu, raw, firm, prepared with calcium sulfate (fdcId 172475); Edamame, frozen, prepared (fdcId 168411); Fish, tuna, light, canned in water, drained solids (fdcId 334194); Chicken, broilers or fryers, breast, meat and skin, cooked, roasted (fdcId 171075); Egg, whole, cooked, fried (fdcId 173423); Peanut butter, smooth style, without salt (fdcId 172470). fdc.nal.usda.gov
 
 ---
 
