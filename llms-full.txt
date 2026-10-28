@@ -744,19 +744,23 @@ GLP-1 & supplements
 
 Creatine is the second-most-proven supplement for muscle, and one of the most misunderstood. Here is what the evidence actually says about taking it on a GLP-1, the kidney myth, the scale bump nobody warns you about, and the one thing no study can yet tell you.
 
+## The short answer
+
+Yes, for most healthy adults. There is no known interaction between creatine and semaglutide or tirzepatide, though no trial has tested the pair. Take 3 to 5 g of creatine monohydrate a day. [1] Expect some water weight on the scale (1 to 3 kg if you load). [2] Creatine raises serum creatinine, so tell your clinician before kidney blood tests. [3]
+
 ## Key takeaways
 
-- A meaningful share of GLP-1 weight loss is lean mass: reviews place it at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [1]
+- A meaningful share of GLP-1 weight loss is lean mass: reviews place it at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [4]
 
-- The ISSN position stand found no compelling evidence of harm in otherwise healthy people at intakes studied up to 30 g/day for five years; typical maintenance sits around 3 to 5 g/day. [2]
+- The ISSN position stand found no compelling evidence of harm in otherwise healthy people at intakes studied up to 30 g/day for five years; typical maintenance sits around 3 to 5 g/day. [1]
 
 - The kidney fear is a measurement artifact: creatine raises serum creatinine because it becomes creatinine, not because it harms the kidney. [3]
 
-- With resistance training, creatine added about +1.37 kg more lean tissue than training alone in an older-adult meta-analysis. [4]
+- With resistance training, creatine added about +1.37 kg more lean tissue than training alone in an older-adult meta-analysis. [5]
 
-- Expect a small early rise in scale weight from intramuscular water, and know that no trial has tested creatine specifically in GLP-1 users. [2] [5]
+- Expect a small early rise in scale weight from intramuscular water, and know that no trial has tested creatine specifically in GLP-1 users. [1] [6]
 
-Creatine is one of the most studied supplements in existence, and one of the most misunderstood. If you are losing weight on a GLP-1 medication like semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), you have a specific reason to ask about it. A meaningful share of GLP-1 weight loss is lean mass, not fat: reviews of the body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [1] Creatine is one of the few supplements with real evidence for adding and keeping muscle, it is inexpensive, and it asks you to eat nothing, which counts for a lot on a suppressed appetite.
+Creatine is one of the most studied supplements in existence, and one of the most misunderstood. If you are losing weight on a GLP-1 medication like semaglutide (Ozempic, Wegovy) or tirzepatide (Mounjaro, Zepbound), you have a specific reason to ask about it. A meaningful share of GLP-1 weight loss is lean mass, not fat: reviews of the body-composition data place lean mass at anywhere from about 15 percent to 40 to 60 percent of total weight lost. [4] Creatine is one of the few supplements with real evidence for adding and keeping muscle, it is inexpensive, and it asks you to eat nothing, which counts for a lot on a suppressed appetite.
 
 The short answer is that for otherwise healthy people, the safety record for creatine is among the strongest of any supplement on the shelf. The longer answer includes a myth worth dismantling, a scale quirk worth expecting, and one honest gap nobody can fill yet.
 
@@ -768,15 +772,39 @@ That mechanism matters for one reason. Creatine does not build muscle on its own
 
 ## Is creatine safe to take with Ozempic?
 
-The International Society of Sports Nutrition (ISSN) reviewed the creatine literature and concluded there is no compelling scientific evidence that short- or long-term use of creatine monohydrate, at intakes studied up to 30 grams per day for five years, has any detrimental effects on otherwise healthy individuals. [2] Creatine monohydrate is among the most heavily studied supplements in the scientific literature, and the ISSN describes it as the most extensively studied and clinically effective form. [2] Typical maintenance intakes in that research sit around 3 to 5 grams per day. [2]
+The International Society of Sports Nutrition (ISSN) reviewed the creatine literature and concluded there is no compelling scientific evidence that short- or long-term use of creatine monohydrate, at intakes studied up to 30 grams per day for five years, has any detrimental effects on otherwise healthy individuals. [1] Creatine monohydrate is among the most heavily studied supplements in the scientific literature, and the ISSN describes it as the most extensively studied and clinically effective form. [1] Typical maintenance intakes in that research sit around 3 to 5 grams per day. [1]
 
 Two words in that conclusion carry weight: otherwise healthy. If you have kidney disease, liver disease, are pregnant or nursing, are under 18, or take other medications, this is a conversation with your clinician before it is a purchase. As for the medication itself, GLP-1 drugs do not appear on any established list of creatine interactions. But "no known interaction" is not the same as a trial that tested the combination, and none has yet been published. We return to that gap at the end, because it is the single most honest thing this page can tell you.
 
+## Creatine with semaglutide (Ozempic, Wegovy)
+
+Ozempic and Wegovy are both semaglutide, so one answer covers both. Semaglutide does not appear on any established list of creatine interactions, and no published trial has tested the two together. The reason to consider creatine is the lean-mass problem at the top of this page: a meaningful share of weight lost on GLP-1 therapy is muscle and other lean tissue. [4]
+
 ## Creatine with tirzepatide (Zepbound, Mounjaro)
 
-Everything above applies to tirzepatide as it does to semaglutide. Tirzepatide does not appear on any established list of creatine interactions, and no published trial has tested the two together. The reason to take creatine is the same too: in the SURMOUNT-1 body-composition substudy, about a quarter of the weight lost on tirzepatide was lean mass. [1]
+Everything above applies to tirzepatide as it does to semaglutide. Tirzepatide does not appear on any established list of creatine interactions, and no published trial has tested the two together. The reason to take creatine is the same too: in the SURMOUNT-1 body-composition substudy, about a quarter of the weight lost on tirzepatide was lean mass. [4]
 
-One practical choice differs on a GLP-1. Many creatine guides start with a loading phase of about 20 g a day for five to seven days. The ISSN notes that a steady 3 to 5 g a day fills muscle stores just as fully, over about a month instead of a week. [2] On a medication whose most common side effects are nausea and stomach upset, the slower route asks less of your stomach and loses nothing by week four.
+One practical choice differs on a GLP-1. Many creatine guides start with a loading phase of about 20 g a day for five to seven days. The ISSN notes that a steady 3 to 5 g a day fills muscle stores just as fully, over about a month instead of a week. [1] On a medication whose most common side effects are nausea and stomach upset, the slower route asks less of your stomach and loses nothing by week four.
+
+## Creatine with the GLP-1 pills (Wegovy pill, Foundayo)
+
+The Wegovy pill is oral semaglutide 25 mg, the same molecule as the Ozempic and Wegovy injections. [7] Foundayo is orforglipron, a GLP-1 receptor agonist that is a small molecule rather than a peptide. [8] [9] No study has tested creatine with either pill, and neither appears on any established list of creatine interactions, so the evidence and cautions on this page carry over unchanged. If you take a pill, follow its own label instructions on food and water first; Foundayo vs the Wegovy pill covers how the two differ.
+
+## How much creatine to take on a GLP-1
+
+These are the intakes used in the research, not a prescription. Your clinician has the final word if any of the conditions in the last row apply to you.
+
+| Topic | What to do | Why |
+| --- | --- | --- |
+| Daily dose | 3 to 5 g of creatine monohydrate | The maintenance intake in the ISSN position stand [1] |
+| Loading phase | Optional: about 20 g a day, split into four 5 g doses, for 5 to 7 days | Fills muscle stores fastest [1] |
+| Loading on a GLP-1 | Skip it | 3 to 5 g a day fills the same stores over 3 to 4 weeks [1] |
+| Serving size | Keep each serving at 10 g or less | Larger single servings can cause diarrhea [2] |
+| Timing | Any time of day you will remember | Stores fill from steady daily intake [1] |
+| Fluid | Drink as usual, with no special creatine rule | Creatine has not been shown to cause dehydration or cramping [2] |
+| Scale weight | Expect a rise, mostly water | A loading week typically adds 1 to 3 kg [2] |
+| Kidney blood tests | Tell whoever orders them that you take creatine | Creatine raises serum creatinine without harming the kidney [3] |
+| When to ask a clinician first | Kidney or liver disease, pregnancy or nursing, under 18, or other medications | The safety evidence covers otherwise healthy people [1] |
 
 ## The kidney myth
 
@@ -784,7 +812,7 @@ The most persistent fear is that creatine damages the kidneys. The origin of tha
 
 Creatine is converted in the body to creatinine, which the kidneys excrete. Serum creatinine is one of the markers clinicians use to estimate kidney function: when it rises, it can suggest the kidneys are filtering less well. Creatine supplementation raises serum creatinine simply because you are consuming more of the substance that becomes creatinine. The marker moves. The kidney has not changed. A narrative review of creatine and kidney function concluded that controlled trials show no evidence of harm to kidney function in healthy people. [3]
 
-Two practical consequences follow. If you have kidney disease or reduced kidney function, discuss creatine with your clinician before taking it. [2] [3] And if you take creatine and have bloodwork done, tell whoever ordered it, because an unexplained creatinine bump on a lab report can otherwise trigger an unnecessary workup.
+Two practical consequences follow. If you have kidney disease or reduced kidney function, discuss creatine with your clinician before taking it. [1] [3] And if you take creatine and have bloodwork done, tell whoever ordered it, because an unexplained creatinine bump on a lab report can otherwise trigger an unnecessary workup.
 
 ## Does it matter which GLP-1 you are on?
 
@@ -798,31 +826,31 @@ The same reasoning extends to newer agents such as retatrutide, with one additio
 
 ## The scale will go up, and that is water, not fat
 
-This is the section that matters most for a GLP-1 user, and the one most guides omit. Creatine has osmotic properties: it draws water into muscle cells, raising intracellular water. [2] The predictable result is a small, fairly rapid increase in scale weight over the first days to weeks. In fact, weight gain is the only side effect consistently reported across the creatine literature. [2]
+This is the section that matters most for a GLP-1 user, and the one most guides omit. Creatine has osmotic properties: it draws water into muscle cells, raising intracellular water. [1] The predictable result is a small, fairly rapid increase in scale weight over the first days to weeks. In fact, weight gain is the only side effect consistently reported across the creatine literature. [1]
 
 You are on a medication whose entire visible feedback loop is the number on the scale. Starting creatine will, for a short window, push that number the wrong way, and the extra weight is water held inside muscle cells. Expect it, so it does not read as failure. Judge progress over that window by your strength log, your measurements, and how your clothes fit, rather than by scale weight alone. And if a temporary, unexplained bump would genuinely derail your adherence to the medication, it is reasonable to postpone creatine until you are settled. Nothing about it is urgent.
 
 ## What the muscle evidence actually shows
 
-The strongest evidence for the outcome you care about, preserving lean tissue, comes from older adults, who, like people in rapid weight loss, are a population at elevated risk of losing muscle. A meta-analysis of creatine supplementation during resistance training in older adults found that the creatine groups gained about 1.37 kg more lean tissue mass than the training-alone groups, along with greater chest-press and leg-press strength gains. [4] Creatine's benefit shows up clearly against exactly the backdrop that concerns a GLP-1 user.
+The strongest evidence for the outcome you care about, preserving lean tissue, comes from older adults, who, like people in rapid weight loss, are a population at elevated risk of losing muscle. A meta-analysis of creatine supplementation during resistance training in older adults found that the creatine groups gained about 1.37 kg more lean tissue mass than the training-alone groups, along with greater chest-press and leg-press strength gains. [5] Creatine's benefit shows up clearly against exactly the backdrop that concerns a GLP-1 user.
 
-But notice the order of operations, because it is not negotiable. The foundation underneath everything is resistance training. In a meta-analysis of older adults under caloric restriction, resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, a weighted mean difference of about 0.82 kg preserved. [6] Protein is the next lever: a dose-response meta-analysis found protein supplementation improved training gains up to a breakpoint near 1.6 grams per kilogram of body weight per day. [7] Creatine is third. It amplifies the training, but there is no established lean-tissue benefit to amplify without it. Training first, protein second, creatine third.
+But notice the order of operations, because it is not negotiable. The foundation underneath everything is resistance training. In a meta-analysis of older adults under caloric restriction, resistance training offset roughly 93.5 percent of the lean mass that dieting alone would have cost, a weighted mean difference of about 0.82 kg preserved. [10] Protein is the next lever: a dose-response meta-analysis found protein supplementation improved training gains up to a breakpoint near 1.6 grams per kilogram of body weight per day. [11] Creatine is third. It amplifies the training, but there is no established lean-tissue benefit to amplify without it. Training first, protein second, creatine third.
 
 ## The honest limitation
 
-Here is what nobody can currently tell you: there are no published trials of creatine supplementation specifically in people taking GLP-1 medications. Everything above is extrapolated. The creatine evidence comes from resistance-training and older-adult populations; the muscle-loss problem comes from the GLP-1 body-composition literature. [1] Joining those two bodies of evidence is reasonable, because the physiology of muscle retention does not obviously change because the caloric deficit came from a medication rather than a diet. But it is an inference, not a finding.
+Here is what nobody can currently tell you: there are no published trials of creatine supplementation specifically in people taking GLP-1 medications. Everything above is extrapolated. The creatine evidence comes from resistance-training and older-adult populations; the muscle-loss problem comes from the GLP-1 body-composition literature. [4] Joining those two bodies of evidence is reasonable, because the physiology of muscle retention does not obviously change because the caloric deficit came from a medication rather than a diet. But it is an inference, not a finding.
 
-The research is moving toward filling this gap. A registered trial, LEAN-PREP (NCT06885736), is enrolling to test resistance exercise and protein during semaglutide and tirzepatide therapy, though it studies exercise and protein, not creatine. [5] Supplementation and monitoring in GLP-1 users is likewise an active area of clinical attention. [8] Anyone who tells you creatine is proven to preserve muscle on Ozempic is overstating the literature. What can be said is narrower and still useful: creatine has strong evidence for adding lean tissue and strength alongside training, a long safety record in healthy people, and no known reason its mechanism would fail in a GLP-1 user.
+The research is moving toward filling this gap. A registered trial, LEAN-PREP (NCT06885736), is enrolling to test resistance exercise and protein during semaglutide and tirzepatide therapy, though it studies exercise and protein, not creatine. [6] Supplementation and monitoring in GLP-1 users is likewise an active area of clinical attention. [12] Anyone who tells you creatine is proven to preserve muscle on Ozempic is overstating the literature. What can be said is narrower and still useful: creatine has strong evidence for adding lean tissue and strength alongside training, a long safety record in healthy people, and no known reason its mechanism would fail in a GLP-1 user.
 
 ## Practical notes for GLP-1 users
 
-What to buy. Choose plain creatine monohydrate; the ISSN calls it the most extensively studied and clinically effective form, and the exotic variants carry a price premium on a thinner evidence base. [2] Prefer products carrying third-party testing certification, since supplements are not pre-approved for purity by the FDA, and be skeptical of proprietary blends that do not disclose their creatine content.
+What to buy. Choose plain creatine monohydrate; the ISSN calls it the most extensively studied and clinically effective form, and the exotic variants carry a price premium on a thinner evidence base. [1] Prefer products carrying third-party testing certification, since supplements are not pre-approved for purity by the FDA, and be skeptical of proprietary blends that do not disclose their creatine content.
 
-Fluids and constipation. Creatine is not food. A few grams of powder carry no meaningful calories and no protein, so it does not compete for the stomach capacity you are rationing. Separately, constipation is a common side effect of GLP-1 medications, and standard management is adequate fluids and fiber. [9] Staying well hydrated is sensible on any GLP-1, and it costs you nothing while taking creatine.
+Fluids and constipation. Creatine is not food. A few grams of powder carry no meaningful calories and no protein, so it does not compete for the stomach capacity you are rationing. Separately, constipation is a common side effect of GLP-1 medications, and standard management is adequate fluids and fiber. [13] Staying well hydrated is sensible on any GLP-1, and it costs you nothing while taking creatine.
 
 ## The bottom line
 
-For otherwise healthy people, creatine is one of the safest and best-studied supplements available, and the kidney fear is a lab-value artifact rather than a real injury. It has genuine evidence for adding lean tissue and strength, best demonstrated in a population also at risk of losing muscle, and it asks nothing of an appetite you may not have. Expect a small, early rise on the scale from intramuscular water and do not misread it as fat. Keep the order straight: resistance training preserves muscle, protein supports it, and creatine amplifies the training on top of both. And hold the conclusion loosely, because no trial has yet tested creatine specifically in GLP-1 users. [5] If you have kidney disease or any other significant condition, ask your clinician before starting. [2] [3]
+For otherwise healthy people, creatine is one of the safest and best-studied supplements available, and the kidney fear is a lab-value artifact rather than a real injury. It has genuine evidence for adding lean tissue and strength, best demonstrated in a population also at risk of losing muscle, and it asks nothing of an appetite you may not have. Expect a small, early rise on the scale from intramuscular water and do not misread it as fat. Keep the order straight: resistance training preserves muscle, protein supports it, and creatine amplifies the training on top of both. And hold the conclusion loosely, because no trial has yet tested creatine specifically in GLP-1 users. [6] If you have kidney disease or any other significant condition, ask your clinician before starting. [1] [3]
 
 ## Frequently asked
 
@@ -846,17 +874,37 @@ The kidney fear comes from a measurement artifact. Creatine is converted in the 
 
 Creatine draws water into muscle cells, which produces a small, fairly rapid rise in scale weight over the first days to weeks. Weight gain is the only side effect consistently reported in the creatine literature, and it is intracellular water, not fat. On a GLP-1, where the scale is the main feedback loop, expect this bump so it does not read as failure, and judge progress by strength, measurements, and how clothes fit during that window.
 
-## References
+**Q:** When should I take creatine on a GLP-1?
 
-- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
+Any time of day you will reliably remember. What fills muscle creatine stores is steady daily intake: 3 to 5 grams a day saturates them over about 3 to 4 weeks, according to the ISSN position stand. Because creatine is not food, it does not compete for the stomach room a suppressed appetite leaves. If you take a GLP-1 pill, follow its own label instructions on food and water first.
+
+**Q:** Will creatine make me bloated on Zepbound?
+
+It can add some water weight, but that water is held inside muscle cells rather than in your gut. A loading phase of about 20 grams a day typically adds 1 to 3 kg in the first week, mostly water, and a steady 3 to 5 grams a day skips that phase. Single servings above 10 grams can cause diarrhea, so keep each serving small. The ISSN found no evidence that creatine increases stomach upset at studied intakes; if bloating persists on Zepbound, raise it with your prescriber.
+
+**Q:** Does creatine affect kidney blood tests?
+
+It can. Creatine is converted to creatinine, so supplementing can raise serum creatinine, a marker used to estimate kidney function, without any change in the kidney itself. That can make kidney function look worse on paper than it is. Tell whoever orders your bloodwork that you take creatine, so an unexplained creatinine bump does not trigger an unnecessary workup. If you already have kidney disease, discuss creatine with your clinician before starting.
+
+## References
 
 - Kreider RB, et al. International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. Journal of the International Society of Sports Nutrition. 2017. pmc.ncbi.nlm.nih.gov/articles/PMC5469049
 
+- Antonio J, Candow DG, Forbes SC, et al. Common questions and misconceptions about creatine supplementation: what does the scientific evidence really show? Journal of the International Society of Sports Nutrition. 2021;18:13. doi.org/10.1186/s12970-021-00412-w
+
 - Longobardi I, et al. Creatine supplementation and kidney function: a narrative review. Nutrients. 2023. pmc.ncbi.nlm.nih.gov/articles/PMC10054094
+
+- Neeland IJ, et al. Changes in lean body mass with established and emerging GLP-1-based therapies and mitigation strategies. Diabetes, Obesity & Metabolism. 2024. doi.org/10.1111/dom.15728
 
 - Chilibeck PD, et al. Effect of creatine supplementation during resistance training on lean tissue mass and muscular strength in older adults: a meta-analysis. Open Access Journal of Sports Medicine. 2017. pmc.ncbi.nlm.nih.gov/articles/PMC5679696
 
 - LEAN Mass Preservation With Resistance Exercise and Protein During Semaglutide/Tirzepatide (LEAN-PREP). ClinicalTrials.gov NCT06885736. clinicaltrials.gov/study/NCT06885736
+
+- FDA approves Wegovy pill, the first oral GLP-1 to treat obesity. Healio Endocrinology. December 23, 2025. healio.com
+
+- U.S. Food and Drug Administration. FDA approves first new molecular entity under National Priority Voucher program (orforglipron, Foundayo). Press announcement, April 1, 2026. fda.gov
+
+- Wharton S, Aronne LJ, Stefanski A, et al. Orforglipron, an oral small-molecule GLP-1 receptor agonist for obesity treatment (ATTAIN-1). New England Journal of Medicine. 2025;393(18):1796–1806. doi.org/10.1056/NEJMoa2511774
 
 - Sardeli AV, et al. Resistance training prevents muscle loss induced by caloric restriction in obese elderly: a systematic review and meta-analysis. Nutrients. 2018;10(4):423. mdpi.com/2072-6643/10/4/423
 
