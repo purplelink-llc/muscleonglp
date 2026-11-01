@@ -139,6 +139,12 @@ export const PRODUCTS = {
     title: "GLP-1 & Muscle: Research Review, September 2026",
     file: "research-review-2026-09.pdf",
   },
+  "research-review-2026-10": {
+    envKey: "STRIPE_PRICE_RESEARCH_REVIEW_2026_10",
+    successPath: "/success/research-review-2026-10/",
+    title: "GLP-1 & Muscle: Research Review, October 2026",
+    file: "research-review-2026-10.pdf",
+  },
 };
 
 /**
