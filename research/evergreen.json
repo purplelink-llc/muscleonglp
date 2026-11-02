@@ -1,0 +1,96 @@
+{
+  "glp1-intermittent-fasting-muscle": [
+    {
+      "date": "2026-11-02",
+      "title": "Combined time-restricted feeding and resistance training enhance tirzepatide-induced improvements in adiposity and whole-body insulin sensitivity in female mice.",
+      "venue": "The Journal of physiology",
+      "is_preprint": false,
+      "pub_date": "2026-10-30",
+      "url": "https://doi.org/10.1113/JP291770",
+      "summary": "This mouse study (female Swiss mice with diet-induced obesity) tested tirzepatide alone or combined with time-restricted feeding (TRF) and/or resistance training over 8 weeks. Tirzepatide reduced body weight gain and feed efficiency; combining it with TRF and resistance training produced greater reductions in body weight and adiposity. Resistance training improved strength performance and increased skeletal muscle mass during tirzepatide-induced weight loss. Combined tirzepatide plus TRF improved glucose tolerance, and all interventions reduced hepatic lipid accumulation. This is an animal study and findings may not translate directly to humans.",
+      "why": "The study directly demonstrates, in an animal model, that resistance training preserves and increases skeletal muscle mass during tirzepatide-induced weight loss, while the drug-plus-exercise combination amplifies fat loss and metabolic benefits."
+    }
+  ],
+  "glp1-off-ramp-older-adults": [
+    {
+      "date": "2026-11-02",
+      "title": "Obesity Medications in Older Adults: A Geriatrics 5Ms Framework for Safe and Patient-Centered Prescribing.",
+      "venue": "Journal of the American Geriatrics Society",
+      "is_preprint": false,
+      "pub_date": "2026-10-29",
+      "url": "https://doi.org/10.1111/jgs.70769",
+      "summary": "This clinically oriented review applies the Geriatrics 5Ms Framework to guide GLP-1/GIP and related obesity medication prescribing in older adults. It highlights that a substantial proportion of medication-associated weight loss may result in loss of lean mass, raising particular concerns for older adults already at risk of sarcopenia and frailty. The authors identify resistance training, adequate protein intake, and ongoing functional monitoring as essential co-interventions, and call for age-stratified clinical trials that routinely include body composition and physical function outcomes.",
+      "why": "The paper directly addresses lean mass loss risk from GLP-1 therapies in the population most vulnerable to sarcopenia and frames resistance training, protein, and monitoring as non-negotiable components of safe prescribing."
+    },
+    {
+      "date": "2026-11-02",
+      "title": "The use of glucagon-like peptide-1 agonists as a treatment for obesity in older people: risks and benefits.",
+      "venue": "Current opinion in clinical nutrition and metabolic care",
+      "is_preprint": false,
+      "pub_date": "2026-10-27",
+      "url": "https://doi.org/10.1097/MCO.0000000000001262",
+      "summary": "This narrative review summarizes evidence on GLP-1 RA use in adults aged 65 and older. It reports that GLP-1 RAs produce clinically meaningful weight loss in older adults comparable to younger populations, along with cardiovascular benefits. Key concerns flagged include gastrointestinal intolerance, sarcopenia-related muscle loss, ophthalmologic complications, and hypoglycemia risk when combined with insulin or sulfonylureas. Polypharmacy and age-related physiological changes may also increase drug interaction risk.",
+      "why": "The review explicitly identifies sarcopenia-related muscle loss as a primary safety concern when prescribing GLP-1 RAs to older adults, a population where functional consequences of lean mass loss are most severe."
+    }
+  ],
+  "ozempic-muscle-loss": [
+    {
+      "date": "2026-11-02",
+      "title": "Skeletal Muscle in Vulnerable Populations Receiving Cardiorenal-Metabolic Therapies: SGLT2 Inhibitors, Incretin-Based Therapies, and the Challenge of Precision Medicine.",
+      "venue": "Advances in therapy",
+      "is_preprint": false,
+      "pub_date": "2026-10-26",
+      "url": "https://doi.org/10.1007/s12325-026-03829-4",
+      "summary": "This narrative review critically evaluates the effects of SGLT2 inhibitors and incretin-based therapies on skeletal muscle, drawing on randomized trials, observational studies, and mechanistic investigations. It concludes that both drug classes preferentially reduce adipose tissue, with accompanying lean tissue reductions generally proportional to the magnitude of weight loss. Importantly, the review states that current evidence does not consistently demonstrate clinically meaningful impairment in muscle strength or physical performance, though it cautions that vulnerable populations \u2014 older adults, those with frailty, sarcopenia, or chronic kidney disease \u2014 remain underrepresented in trials. Practical strategies highlighted include resistance exercise, adequate protein intake, and individualized monitoring.",
+      "why": "The review provides a comprehensive synthesis of the current evidence base on lean tissue changes with GLP-1 and SGLT2 therapies, directly addressing whether observed lean mass reductions translate to functional impairment and identifying who is most at risk."
+    }
+  ],
+  "glp1-muscle-loss-statistics": [
+    {
+      "date": "2026-11-02",
+      "title": "More than just adipose: the impact of GLP1RA on lean tissue.",
+      "venue": "American journal of physiology. Cell physiology",
+      "is_preprint": false,
+      "pub_date": "2026-10-06",
+      "url": "https://doi.org/10.1152/ajpcell.90062.2026",
+      "summary": "This review discusses evidence that GLP-1 receptor agonists, while producing robust weight loss, also result in reductions in lean tissue including skeletal muscle and bone. It covers approaches that have been studied to mitigate these changes and identifies important areas for future research. The abstract does not provide specific numerical estimates of lean tissue loss.",
+      "why": "The paper is directly focused on the lean tissue and bone consequences of GLP-1 RA treatment and mitigation strategies."
+    }
+  ],
+  "ozempic-vs-mounjaro-vs-zepbound-muscle": [
+    {
+      "date": "2026-11-02",
+      "title": "Real-world effectiveness of 6-month tirzepatide therapy on body weight and composition in adults with overweight and obesity.",
+      "venue": "Journal of diabetes and its complications",
+      "is_preprint": false,
+      "pub_date": "2026-09-25",
+      "url": "https://doi.org/10.1016/j.jdiacomp.2026.109419",
+      "summary": "This 24-week real-world retrospective study of 122 adults with overweight or obesity (without diabetes) receiving tirzepatide alongside a low-carbohydrate diet and tailored physical activity found mean body weight reduction of approximately 16%, with fat mass reduced by 35% and fat-free mass slightly decreased by 5%. Skeletal muscle mass was preserved (non-significant change). Metabolic parameters including HbA1c, fasting glucose, fasting insulin, and HOMA-IR also improved. The authors note the 16% weight loss at 24 weeks matched what was observed at 72 weeks in the SURMOUNT-1 trial, suggesting a comprehensive clinical approach may accelerate outcomes.",
+      "why": "The study reports skeletal muscle mass preservation alongside substantial fat loss during tirzepatide treatment combined with diet and physical activity in a real-world setting, directly relevant to the body composition question."
+    }
+  ],
+  "creatine-and-ozempic": [
+    {
+      "date": "2026-11-02",
+      "title": "Creatine for glucagon-like peptide-1-associated muscle loss.",
+      "venue": "Clinical nutrition (Edinburgh, Scotland)",
+      "is_preprint": false,
+      "pub_date": "2026-09-21",
+      "url": "https://doi.org/10.1016/j.clnu.2026.106805",
+      "summary": "This hypothesis paper proposes that rapid weight loss and associated reductions in energy and protein intake, mechanical loading, and potentially physical activity during GLP-1-based therapy may create conditions of increased skeletal muscle bioenergetic vulnerability. The authors hypothesize that creatine supplementation could be a biologically plausible adjunct to support muscle energetics and function in this setting. The paper explicitly states this is hypothesis-generating and that no randomized clinical trial has directly evaluated creatine supplementation during GLP-1-based pharmacological weight loss.",
+      "why": "The paper directly frames the mechanistic rationale for a specific muscle-preservation adjunct during GLP-1 therapy, while being transparent that clinical evidence is currently absent."
+    }
+  ],
+  "glp1-muscle-loss-women-over-50": [
+    {
+      "date": "2026-11-02",
+      "title": "Semaglutide in postmenopausal women: Clinical implications for weight loss, muscle health, and sleep-disordered breathing.",
+      "venue": "Maturitas",
+      "is_preprint": false,
+      "pub_date": "2026-09-14",
+      "url": "https://doi.org/10.1016/j.maturitas.2026.109129",
+      "summary": "This narrative mini-review examines semaglutide use in postmenopausal women, focusing on muscle health and sleep-disordered breathing. It notes that GLP-1 RA-induced weight loss is associated with decreases in lean body mass, though the functional consequences remain incompletely understood, and that reductions in lean body mass do not necessarily reflect clinically meaningful skeletal muscle loss. The review highlights that overcoming anabolic resistance through adequate protein and micronutrient intake and resistance exercise may help preserve musculoskeletal health, though evidence in semaglutide-treated postmenopausal women remains indirect.",
+      "why": "The paper addresses the intersection of GLP-1-induced lean mass changes and the heightened sarcopenia risk of postmenopause, a population where anabolic resistance makes muscle preservation particularly challenging."
+    }
+  ]
+}
