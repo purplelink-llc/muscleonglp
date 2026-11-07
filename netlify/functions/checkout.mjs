@@ -17,6 +17,8 @@
  *                       created in the SAME mode as this key: a test-mode
  *                       Price with a live key fails with "No such price".
  *   plus one STRIPE_PRICE_* per entry in lib/products.mjs.
+ *   New account (2026-11): STRIPE_SECRET_KEY_NEW plus STRIPE_PRICE_*_NEW; see
+ *   lib/stripe-keys.mjs. The old key stays for past buyers' downloads.
  * Optional:
  *   SITE_ORIGIN         Overrides the fallback origin used to build
  *                       success_url/cancel_url. See ALLOWED_ORIGINS.
@@ -40,6 +42,7 @@
 import { createHash } from "node:crypto";
 import { getStore } from "@netlify/blobs";
 import { PRODUCTS, TERMS_VERSION, TOS_STORE, tosKey } from "./lib/products.mjs";
+import { checkoutAccount } from "./lib/stripe-keys.mjs";
 
 const STRIPE_API = "https://api.stripe.com/v1";
 
@@ -127,8 +130,8 @@ export default async function handler(request) {
     return jsonResponse(429, { error: "rate_limited" });
   }
 
-  const secretKey = Netlify.env.get("STRIPE_SECRET_KEY");
-  const priceId = entry.amount ? null : Netlify.env.get(entry.envKey);
+  // New account when its key and this product's _NEW price are set, else the old account (lib/stripe-keys.mjs).
+  const { key: secretKey, priceId, isNew } = checkoutAccount(entry);
   if (!secretKey || (!entry.amount && !priceId)) {
     return jsonResponse(500, {
       error: "misconfigured",
@@ -153,7 +156,9 @@ export default async function handler(request) {
 
   const params = {
     mode: "payment",
-    "payment_method_types[0]": "card",
+    // The new account rejects payment_method_types ("no longer supported"; its methods come from the Dashboard).
+    // purplelink.llc hit this live on 2026-11-06.
+    ...(isNew ? {} : { "payment_method_types[0]": "card" }),
     ...(entry.amount
       ? {
           "line_items[0][price_data][currency]": "usd",

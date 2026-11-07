@@ -33,6 +33,7 @@
 import { createHmac, timingSafeEqual } from "node:crypto";
 import { getStore } from "@netlify/blobs";
 import { PRODUCTS, TERMS_VERSION, TOS_STORE, tosKey, downloadUrl, bonusDownloadUrl } from "./lib/products.mjs";
+import { webhookSecrets } from "./lib/stripe-keys.mjs";
 
 const RESEND_API_URL = "https://api.resend.com/emails";
 // Resend verifies domains exactly: `purplelink.llc` is verified, the
@@ -154,14 +155,16 @@ export default async function handler(request) {
     return jsonResponse(405, { error: "method_not_allowed" });
   }
 
-  const webhookSecret = Netlify.env.get("STRIPE_WEBHOOK_SECRET");
-  if (!webhookSecret) {
+  // Both accounts post here during the move: sessions opened on the old account before the switch can still be
+  // paid after it. Accept a signature from either endpoint's secret (lib/stripe-keys.mjs).
+  const secrets = webhookSecrets();
+  if (!secrets.length) {
     return jsonResponse(500, { error: "misconfigured", detail: "STRIPE_WEBHOOK_SECRET not set." });
   }
 
   const rawBody = await request.text();
   const signature = request.headers.get("stripe-signature");
-  if (!verifyStripeSignature(rawBody, signature, webhookSecret)) {
+  if (!secrets.some((s) => verifyStripeSignature(rawBody, signature, s))) {
     return jsonResponse(400, { error: "invalid_signature" });
   }
 

@@ -24,6 +24,7 @@
 
 import { getStore } from "@netlify/blobs";
 import { PRODUCTS, TOS_STORE, FILE_STORE, tosKey, MAGNET_PRODUCT, verifyMagnetToken } from "./lib/products.mjs";
+import { lookupKeys } from "./lib/stripe-keys.mjs";
 
 const STRIPE_API = "https://api.stripe.com/v1";
 
@@ -79,20 +80,31 @@ export default async function handler(request) {
     return fail(400, "bad_session_id", "Missing or malformed session_id.");
   }
 
-  const secretKey = Netlify.env.get("STRIPE_SECRET_KEY");
-  if (!secretKey) return fail(500, "misconfigured", "STRIPE_SECRET_KEY not set.");
+  // Try the new account first, then the old one: orders before the 2026-11 move only exist on the old account,
+  // and a session id unknown to an account is a 404 there.
+  const keys = lookupKeys();
+  if (!keys.length) return fail(500, "misconfigured", "STRIPE_SECRET_KEY not set.");
 
-  let session;
-  try {
-    const resp = await fetch(`${STRIPE_API}/checkout/sessions/${sessionId}`, {
-      headers: { Authorization: `Bearer ${secretKey}` },
-    });
-    if (!resp.ok) {
-      return fail(403, "session_not_found", "That download link is not valid for this store.");
+  let session = null;
+  let unreachable = null;
+  for (const secretKey of keys) {
+    try {
+      const resp = await fetch(`${STRIPE_API}/checkout/sessions/${sessionId}`, {
+        headers: { Authorization: `Bearer ${secretKey}` },
+      });
+      if (resp.ok) {
+        session = await resp.json();
+        break;
+      }
+      // 404 (or another account's 4xx): try the next key. A 5xx is Stripe trouble, not "no such order".
+      if (resp.status >= 500) unreachable = `stripe_http_${resp.status}`;
+    } catch (err) {
+      unreachable = String(err);
     }
-    session = await resp.json();
-  } catch (err) {
-    return fail(502, "stripe_unreachable", String(err));
+  }
+  if (!session) {
+    if (unreachable) return fail(502, "stripe_unreachable", unreachable);
+    return fail(403, "session_not_found", "That download link is not valid for this store.");
   }
 
   let acceptance = null;
