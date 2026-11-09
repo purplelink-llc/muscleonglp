@@ -13,6 +13,16 @@
   ],
   "glp1-off-ramp-older-adults": [
     {
+      "date": "2026-11-09",
+      "title": "Falls, fractures, lean mass and age with GLP-1receptor agonists and tirzepatide: meta-analysis of 162 placebo-controlled trials andage-subgroup data for adults aged 75 years orolder",
+      "venue": "Preprint",
+      "is_preprint": true,
+      "pub_date": "2026-11-04",
+      "url": "https://doi.org/10.21203/rs.3.rs-11601462/v1",
+      "summary": "This preprint meta-analysis of 162 placebo-controlled trials (over 83,000 participants on GLP-1 RAs or tirzepatide) found that serious falls, any serious fracture, and hip/femur fracture were not increased overall, and meta-regression found no association between trial mean age and fall or fracture risk. However, within the large SELECT trial, fracture risk rose with age: at 75 years or older, hip and pelvis fractures occurred in 17 of 703 treated participants versus 4 of 663 on placebo. Lean mass fell by a mean of 2.76 kg more than placebo across 9 DXA trials, and by 4.12 kg in semaglutide or tirzepatide trials specifically. Six-minute walk distance improved by a mean of 15.2 m. Notably, no placebo-controlled trial reported grip strength, gait speed, or the Short Physical Performance Battery. This is a preprint.",
+      "why": "This is the largest systematic synthesis to date of falls, fractures, and lean-mass loss with GLP-1 RAs and tirzepatide, and the age-stratified fracture signal in SELECT at 75+ years is a clinically important finding that has not previously been quantified at this scale."
+    },
+    {
       "date": "2026-11-02",
       "title": "Obesity Medications in Older Adults: A Geriatrics 5Ms Framework for Safe and Patient-Centered Prescribing.",
       "venue": "Journal of the American Geriatrics Society",
@@ -34,6 +44,16 @@
     }
   ],
   "ozempic-muscle-loss": [
+    {
+      "date": "2026-11-09",
+      "title": "GLP-1 and GIP receptor agonism does not directly drive skeletal muscle atrophy or impair myogenesis in primary human myotubes.",
+      "venue": "GeroScience",
+      "is_preprint": false,
+      "pub_date": "2026-11-04",
+      "url": "https://doi.org/10.1007/s11357-026-02625-w",
+      "summary": "This cell study used primary human myotubes isolated from older adults with obesity to test whether semaglutide or GIP peptide directly causes muscle atrophy. Neither drug altered atrophy-related gene expression, the muscle cell secretome, myotube thickness, or differentiation. Semaglutide modestly reduced glycolytic ATP production and lactate secretion, but mitochondrial parameters were unaffected; GIP actually increased myotube thickness after 8 days. The authors conclude that the lean-mass loss seen clinically with these drugs is likely an indirect consequence of caloric restriction and reduced mechanical loading rather than a direct pharmacological effect on muscle.",
+      "why": "This is the first primary human myotube study to directly test whether semaglutide or GIP cause muscle atrophy, and its finding that the mechanism appears indirect has important implications for whether behavioral countermeasures like resistance training and adequate protein intake could offset lean-mass loss."
+    },
     {
       "date": "2026-11-02",
       "title": "Skeletal Muscle in Vulnerable Populations Receiving Cardiorenal-Metabolic Therapies: SGLT2 Inhibitors, Incretin-Based Therapies, and the Challenge of Precision Medicine.",
@@ -91,6 +111,18 @@
       "url": "https://doi.org/10.1016/j.maturitas.2026.109129",
       "summary": "This narrative mini-review examines semaglutide use in postmenopausal women, focusing on muscle health and sleep-disordered breathing. It notes that GLP-1 RA-induced weight loss is associated with decreases in lean body mass, though the functional consequences remain incompletely understood, and that reductions in lean body mass do not necessarily reflect clinically meaningful skeletal muscle loss. The review highlights that overcoming anabolic resistance through adequate protein and micronutrient intake and resistance exercise may help preserve musculoskeletal health, though evidence in semaglutide-treated postmenopausal women remains indirect.",
       "why": "The paper addresses the intersection of GLP-1-induced lean mass changes and the heightened sarcopenia risk of postmenopause, a population where anabolic resistance makes muscle preservation particularly challenging."
+    }
+  ],
+  "signs-of-muscle-loss-glp1": [
+    {
+      "date": "2026-11-09",
+      "title": "Weaker or Just Lighter? Monitoring Strength and Function, Not Just Lean Mass, During GLP-1 Weight Loss.",
+      "venue": "Diabetes, obesity & metabolism",
+      "is_preprint": false,
+      "pub_date": "2026-11-08",
+      "url": "https://doi.org/10.1111/dom.71542",
+      "summary": "This narrative review argues that body-composition studies of GLP-1-based therapy report lean-mass changes but rarely measure whether patients are actually getting weaker. The review notes that in older adults, strength declines roughly three times faster than lean mass and predicts mortality where lean mass does not. A 2026 review of 35 body-composition trials found none that measured objective physical function. The authors propose a pragmatic (but explicitly unvalidated) monitoring schedule using grip strength, five-times chair-stand time, and usual gait speed at baseline, 3, 6, and 12 months, with particular attention to older adults, those with low baseline strength, frailty, or rapid weight loss.",
+      "why": "This review directly challenges the assumption that tracking lean mass is sufficient during GLP-1-based weight loss, proposing that functional strength measures may be a more meaningful and mortality-relevant signal."
     }
   ]
 }
