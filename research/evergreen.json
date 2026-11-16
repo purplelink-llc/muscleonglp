@@ -13,6 +13,16 @@
   ],
   "glp1-off-ramp-older-adults": [
     {
+      "date": "2026-11-16",
+      "title": "Aging exacerbates muscle loss induced by semaglutide treatment in female mice",
+      "venue": "Preprint",
+      "is_preprint": true,
+      "pub_date": "2026-11-13",
+      "url": "https://doi.org/10.64898/2026.11.11.766063",
+      "summary": "This preprint mouse study treated 21-month-old obese C57BL/6J mice with semaglutide for 3 weeks and assessed skeletal muscle mass and strength. Semaglutide induced dose-dependent weight loss in both sexes. Lean-mass loss was substantially greater in females (8.6\u20138.3%) than males (2.3\u20136.6%), and female mice showed up to 14.2% reduction in quadriceps mass at the higher dose. Muscle force-generating capacity was not compromised in females but was reduced by 19.2% in males at the higher dose. The authors note this contrasts with findings in young mice and highlight age as a potentially important modifier. As a preprint animal study, findings require confirmation in humans.",
+      "why": "Provides preclinical evidence that aging may amplify semaglutide-induced skeletal muscle loss and functional impairment, with notable sex differences, raising questions about risk in older adults on GLP-1 therapy."
+    },
+    {
       "date": "2026-11-09",
       "title": "Falls, fractures, lean mass and age with GLP-1receptor agonists and tirzepatide: meta-analysis of 162 placebo-controlled trials andage-subgroup data for adults aged 75 years orolder",
       "venue": "Preprint",
@@ -45,6 +55,16 @@
   ],
   "ozempic-muscle-loss": [
     {
+      "date": "2026-11-16",
+      "title": "Trevogrumab (anti-GDF8) with or without garetosmab (anti-activin A) for prevention of muscle loss during semaglutide-induced weight reduction in people with obesity (COURAGE): a two-part, phase 2, double-blind, placebo-controlled, randomised trial.",
+      "venue": "Lancet (London, England)",
+      "is_preprint": false,
+      "pub_date": "2026-11-11",
+      "url": "https://doi.org/10.1016/S0140-6736(26)01953-7",
+      "summary": "The COURAGE phase 2 RCT (975 participants with obesity, BMI \u226530) tested antibodies blocking myostatin (trevogrumab) and activin A (garetosmab) added to semaglutide 2.4 mg weekly for 26 weeks (Part A) or 52 weeks (Part B). In Part A, the semaglutide-plus-placebo group lost 6.6% of lean mass; trevogrumab at both doses attenuated this loss, with an estimated treatment difference of +3.1% (95% CI 1.9 to [truncated]) versus placebo. The combination of trevogrumab and garetosmab was also evaluated. This is a phase 2 trial; full efficacy and safety data are pending.",
+      "why": "This is the first large phase 2 RCT to quantify semaglutide-induced lean-mass loss and demonstrate that pharmacological blockade of negative muscle regulators can meaningfully attenuate it."
+    },
+    {
       "date": "2026-11-09",
       "title": "GLP-1 and GIP receptor agonism does not directly drive skeletal muscle atrophy or impair myogenesis in primary human myotubes.",
       "venue": "GeroScience",
@@ -66,6 +86,16 @@
     }
   ],
   "glp1-muscle-loss-statistics": [
+    {
+      "date": "2026-11-16",
+      "title": "Weight, Fat Mass, and Lean Mass Changes After Bariatric Surgery and GLP-1-Based Therapy: A Systematic Review and Meta-Analysis.",
+      "venue": "Obesity surgery",
+      "is_preprint": false,
+      "pub_date": "2026-11-13",
+      "url": "https://doi.org/10.1007/s11695-026-09024-2",
+      "summary": "This systematic review and meta-analysis of 31 studies (5,616 participants) compared body composition changes after metabolic/bariatric surgery versus GLP-1-based therapy at 12 months. Bariatric surgery was associated with greater total weight loss and absolute fat-mass loss than GLP-1-based therapy; greater absolute lean-mass loss accompanied the larger weight reduction with surgery, but the analysis did not establish poorer proportional lean-mass preservation for either approach. The authors note substantial heterogeneity and call for standardized comparative studies incorporating muscle strength and physical function.",
+      "why": "Directly quantifies absolute and proportional lean-mass loss with GLP-1-based therapy versus surgery, highlighting that absolute lean-mass loss is a real concern and that strength and function data are currently missing from the evidence base."
+    },
     {
       "date": "2026-11-02",
       "title": "More than just adipose: the impact of GLP1RA on lean tissue.",
@@ -103,6 +133,16 @@
   ],
   "glp1-muscle-loss-women-over-50": [
     {
+      "date": "2026-11-16",
+      "title": "Nutrition Care Strategies at the Intersection of Menopause and Obesity Pharmacotherapy.",
+      "venue": "The Journal of nutrition",
+      "is_preprint": false,
+      "pub_date": "2026-11-10",
+      "url": "https://doi.org/10.1016/j.tjnut.2026.101936",
+      "summary": "This narrative review examines nutritional risks for perimenopausal women using incretin mimetic pharmacotherapies. It identifies overlapping vulnerabilities: estrogen deficiency combined with GLP-1-driven appetite suppression, reduced energy intake, and gastrointestinal side effects that together heighten risk for sarcopenic obesity and osteoporosis. Clinical strategies discussed include protein optimization, micronutrient monitoring, menopausal hormone therapy for musculoskeletal health, and multidisciplinary care.",
+      "why": "Identifies perimenopausal women on GLP-1 therapy as a group with compounded risk for lean-mass and bone loss, and frames protein and micronutrient adequacy as central mitigation strategies."
+    },
+    {
       "date": "2026-11-02",
       "title": "Semaglutide in postmenopausal women: Clinical implications for weight loss, muscle health, and sleep-disordered breathing.",
       "venue": "Maturitas",
@@ -123,6 +163,42 @@
       "url": "https://doi.org/10.1111/dom.71542",
       "summary": "This narrative review argues that body-composition studies of GLP-1-based therapy report lean-mass changes but rarely measure whether patients are actually getting weaker. The review notes that in older adults, strength declines roughly three times faster than lean mass and predicts mortality where lean mass does not. A 2026 review of 35 body-composition trials found none that measured objective physical function. The authors propose a pragmatic (but explicitly unvalidated) monitoring schedule using grip strength, five-times chair-stand time, and usual gait speed at baseline, 3, 6, and 12 months, with particular attention to older adults, those with low baseline strength, frailty, or rapid weight loss.",
       "why": "This review directly challenges the assumption that tracking lean mass is sufficient during GLP-1-based weight loss, proposing that functional strength measures may be a more meaningful and mortality-relevant signal."
+    }
+  ],
+  "best-exercises-preserve-muscle-glp1": [
+    {
+      "date": "2026-11-16",
+      "title": "Resistance exercise to attenuate lean mass loss during tirzepatide therapy for obesity: a randomized controlled trial.",
+      "venue": "Nature medicine",
+      "is_preprint": false,
+      "pub_date": "2026-11-09",
+      "url": "https://doi.org/10.1038/s41591-026-04752-5",
+      "summary": "This two-arm RCT (120 adults with overweight or obesity, 40 weeks) randomized participants to tirzepatide alone or tirzepatide plus thrice-weekly resistance exercise training. Both groups achieved similar total weight loss (~22 kg). Resistance exercise did not significantly alter fat-mass loss but significantly reduced loss of total lean soft tissue mass (tirzepatide alone: \u22124.67 kg; tirzepatide plus resistance exercise: \u22123.57 kg; between-group difference 1.09 kg, 95% CI 0.43\u20131.75 kg). Upper and lower body muscle strength decreased with tirzepatide alone but increased with the addition of resistance exercise across all three measured exercises.",
+      "why": "This RCT provides direct, quantified evidence that resistance exercise training preserves lean mass and increases muscle strength during tirzepatide-induced weight loss, where tirzepatide alone reduced strength."
+    }
+  ],
+  "protein-on-glp1": [
+    {
+      "date": "2026-11-16",
+      "title": "Structured nutritional management of insulin resistance in women with PMOS (formerly PCOS) receiving GLP-1RA therapy.",
+      "venue": "Diabetes research and clinical practice",
+      "is_preprint": false,
+      "pub_date": "2026-11-13",
+      "url": "https://doi.org/10.1016/j.diabres.2026.113655",
+      "summary": "This structured review examined GLP-1 receptor agonist use in women with Polyendocrine Metabolic Ovarian Syndrome (PMOS, formerly PCOS). GLP-1RAs produced consistent reductions in weight, androgens, and fasting insulin, but insulin-resistance outcomes were heterogeneous and reversed after treatment withdrawal. The authors identify appetite suppression as a driver of inadequate protein intake and micronutrient depletion, and propose a three-phase clinical nutrition protocol emphasizing protein optimization, micronutrient repletion, and resistance exercise alongside GLP-1RA therapy.",
+      "why": "The review explicitly links GLP-1RA-induced appetite suppression to inadequate protein intake and lean-mass risk in a specific female population, and proposes structured nutritional and exercise countermeasures."
+    }
+  ],
+  "glp1-high-protein-meals-nausea": [
+    {
+      "date": "2026-11-16",
+      "title": "Nutritional Strategies for Managing Gastrointestinal Adverse Effects Associated with GLP-1 Receptor Agonist and Dual GIP/GLP-1 Receptor Agonist Therapy: A Narrative Review with Practical Recommendations",
+      "venue": "Preprint",
+      "is_preprint": true,
+      "pub_date": "2026-11-13",
+      "url": "https://doi.org/10.20944/preprints202611.1418.v1",
+      "summary": "This preprint narrative review examines gastrointestinal adverse effects of GLP-1 and dual GIP/GLP-1 receptor agonists \u2014 including nausea, vomiting, constipation, and bloating \u2014 and their impact on dietary quality and nutritional adequacy. The authors present symptom-specific dietary recommendations covering meal distribution, fat and fiber intake, hydration, and food choices. A key theme is that GI side effects can compromise protein intake, increase micronutrient deficiency risk, and threaten muscle mass preservation during treatment.",
+      "why": "Directly links GLP-1-induced gastrointestinal side effects to reduced protein intake and muscle-mass risk, and proposes practical nutritional strategies to mitigate these effects."
     }
   ]
 }
