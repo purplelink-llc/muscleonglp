@@ -55,6 +55,16 @@
   ],
   "ozempic-muscle-loss": [
     {
+      "date": "2026-11-23",
+      "title": "Liraglutide Therapy and Weight Control in Adolescents with Severe Obesity: A Real-World Experience.",
+      "venue": "Turkish archives of pediatrics",
+      "is_preprint": false,
+      "pub_date": "2026-11-19",
+      "url": "https://doi.org/10.65717/TurkArchPediatr.2026.26191",
+      "summary": "This retrospective real-world cohort study followed 29 adolescents (ages 12\u201319) with severe obesity treated with liraglutide. After 3 months, lean mass percentage increased and total fat percentage decreased (both p < 0.05), alongside significant reductions in BMI-SDS, total cholesterol, fasting insulin, and insulin resistance. Gastrointestinal adverse events were common, and three patients discontinued due to intolerance. The authors note this is a small, retrospective study and call for longer prospective work.",
+      "why": "The finding that lean mass percentage increased \u2014 not decreased \u2014 during liraglutide treatment in adolescents is notable for a population where muscle preservation during GLP-1-driven weight loss is a concern, though the small, retrospective design limits conclusions."
+    },
+    {
       "date": "2026-11-16",
       "title": "Trevogrumab (anti-GDF8) with or without garetosmab (anti-activin A) for prevention of muscle loss during semaglutide-induced weight reduction in people with obesity (COURAGE): a two-part, phase 2, double-blind, placebo-controlled, randomised trial.",
       "venue": "Lancet (London, England)",
@@ -167,6 +177,16 @@
   ],
   "best-exercises-preserve-muscle-glp1": [
     {
+      "date": "2026-11-23",
+      "title": "Effects of Anti-Diabetic Drugs on Satellite Cell Function: A Mini Review.",
+      "venue": "American journal of physiology. Cell physiology",
+      "is_preprint": false,
+      "pub_date": "2026-11-17",
+      "url": "https://doi.org/10.1152/ajpcell.90171.2026",
+      "summary": "This mini-review examines emerging evidence on whether metformin, GLP-1 receptor agonists, and SGLT2 inhibitors modulate satellite cell function in skeletal muscle. Satellite cells are muscle stem cells important for adaptation to stimuli such as exercise. The review notes that the mechanisms by which these drugs produce off-target effects on skeletal muscle \u2014 including potential satellite cell involvement \u2014 are not yet clear, and asks whether this represents a relevant therapeutic target.",
+      "why": "Understanding whether GLP-1 receptor agonists affect the muscle stem cells responsible for repair and adaptation to exercise is directly relevant to the question of how these drugs interact with resistance training outcomes."
+    },
+    {
       "date": "2026-11-16",
       "title": "Resistance exercise to attenuate lean mass loss during tirzepatide therapy for obesity: a randomized controlled trial.",
       "venue": "Nature medicine",
@@ -178,6 +198,26 @@
     }
   ],
   "protein-on-glp1": [
+    {
+      "date": "2026-11-23",
+      "title": "Nutrition in the Era of Incretin-Based Therapies: Clinical Strategies for Optimizing Care.",
+      "venue": "Current gastroenterology reports",
+      "is_preprint": false,
+      "pub_date": "2026-11-17",
+      "url": "https://doi.org/10.1007/s11894-026-01070-1",
+      "summary": "This narrative review summarizes current evidence and practical nutrition strategies for patients on GLP-1 receptor agonists and dual GIP/GLP-1 agonists. It identifies reduced oral intake, gastrointestinal side effects, lean mass loss, and potential micronutrient inadequacy as key concerns. The review covers individualized dietary approaches for gastrointestinal symptoms and special populations, and concludes that nutrition care is a critical component of incretin-based treatment to preserve lean body mass, optimize nutrient intake, and support long-term adherence.",
+      "why": "The paper directly addresses lean mass loss and nutritional adequacy as central management challenges during GLP-1 therapy, with practical dietary framing."
+    },
+    {
+      "date": "2026-11-23",
+      "title": "Nutritional and lifestyle strategies in obesity management during incretin-based therapy: a narrative review with practical recommendations.",
+      "venue": "Nutrition (Burbank, Los Angeles County, Calif.)",
+      "is_preprint": false,
+      "pub_date": "2026-11-16",
+      "url": "https://doi.org/10.1016/j.nut.2026.113452",
+      "summary": "This narrative review, graded using Oxford Centre for Evidence-Based Medicine levels, synthesizes nutritional strategies for patients on GLP-1 and dual GLP-1/GIP receptor agonists. It identifies adequate protein intake (cited as 1.2\u20131.6 g/kg/day in the abstract), body composition monitoring, resistance exercise, hydration, and micronutrient surveillance as particularly relevant pillars. The authors propose three expert-derived frameworks \u2014 the Incretin Plate Model, the Metabolic Hourglass Model, and a muscle-preservation/deficiency-screening framework \u2014 while noting these have not yet been validated.",
+      "why": "This review directly synthesizes the nutritional and exercise evidence for preserving muscle mass during incretin-based therapy and proposes structured monitoring frameworks, though the frameworks themselves await prospective validation."
+    },
     {
       "date": "2026-11-16",
       "title": "Structured nutritional management of insulin resistance in women with PMOS (formerly PCOS) receiving GLP-1RA therapy.",
@@ -199,6 +239,42 @@
       "url": "https://doi.org/10.20944/preprints202611.1418.v1",
       "summary": "This preprint narrative review examines gastrointestinal adverse effects of GLP-1 and dual GIP/GLP-1 receptor agonists \u2014 including nausea, vomiting, constipation, and bloating \u2014 and their impact on dietary quality and nutritional adequacy. The authors present symptom-specific dietary recommendations covering meal distribution, fat and fiber intake, hydration, and food choices. A key theme is that GI side effects can compromise protein intake, increase micronutrient deficiency risk, and threaten muscle mass preservation during treatment.",
       "why": "Directly links GLP-1-induced gastrointestinal side effects to reduced protein intake and muscle-mass risk, and proposes practical nutritional strategies to mitigate these effects."
+    }
+  ],
+  "build-new-muscle-on-glp1": [
+    {
+      "date": "2026-11-23",
+      "title": "Testosterone Added to Incretin Therapy in Men With Overweight or Obesity: A Systematic Review of Body Composition Evidence and Gaps.",
+      "venue": "Diabetes, obesity & metabolism",
+      "is_preprint": false,
+      "pub_date": "2026-11-19",
+      "url": "https://doi.org/10.1111/dom.71565",
+      "summary": "This PROSPERO-registered systematic review searched seven databases for evidence on testosterone replacement therapy (TRT) added to incretin treatment in men with overweight or obesity and hypogonadism. Only two reports with very low certainty evidence were identified: a nonrandomized pilot (five men per group) showing a lean-mass difference of +2.70 kg (95% CI \u22121.75 to +7.15) and a randomized conference report attributing a smaller proportion of weight loss to fat-free mass with TRT versus without. No usable strength, function, or safety comparisons were found. The authors conclude that available evidence does not establish incremental TRT benefit for body composition or muscle outcomes, and that TRT solely for lean-tissue preservation is unsupported.",
+      "why": "This is a direct, rigorously conducted systematic review of whether adding testosterone to incretin therapy preserves muscle mass \u2014 a question highly relevant to men on GLP-1 medications \u2014 and it finds the evidence base is essentially absent."
+    }
+  ],
+  "dexa-inbody-scan-glp1": [
+    {
+      "date": "2026-11-23",
+      "title": "Body Composition Monitoring in Older Adults on GLP-1 Receptor Agonists A Narrative Review of Assessment Methods",
+      "venue": "Preprint",
+      "is_preprint": true,
+      "pub_date": "2026-11-17",
+      "url": "https://doi.org/10.20944/preprints202611.1747.v1",
+      "summary": "This preprint narrative review evaluated body composition assessment methods for monitoring older adults receiving GLP-1 receptor agonists, noting that a meaningful proportion of GLP-1-driven weight loss is lean tissue and that bone effects remain uncertain. DXA was identified as the most practical reference method but its precision declined with obesity. Bioelectrical impedance analysis was highly repeatable but accuracy varied widely between devices. Smartphone apps and 3D optical imaging were the most scalable but have not been validated in older adults or for tracking change, and none of the accessible methods measured bone. The authors conclude no current method is both valid and scalable for this population.",
+      "why": "This review directly addresses the practical challenge of monitoring muscle and lean mass loss in older adults on GLP-1 therapy \u2014 a core concern for this readership \u2014 and maps the limitations of available tools."
+    }
+  ],
+  "glp1-knee-osteoarthritis-pain": [
+    {
+      "date": "2026-11-23",
+      "title": "Clinical Considerations With GLP-1 Therapies for Obesity and Knee Osteoarthritis: A Focus on Musculoskeletal Health and Nutritional Concerns.",
+      "venue": "Osteoarthritis and cartilage",
+      "is_preprint": false,
+      "pub_date": "2026-11-22",
+      "url": "https://doi.org/10.1016/j.joca.2026.11.011",
+      "summary": "This narrative review examines the musculoskeletal and nutritional implications of GLP-1 therapy in the context of knee osteoarthritis. It highlights that weight loss with these agents carries risks of muscle and bone loss and malnutrition, and argues that success should be judged by improvements in physical function, body composition, and musculoskeletal health rather than weight loss magnitude alone. The authors call for combining pharmacotherapy with evidence-based nutrition and exercise strategies.",
+      "why": "The review directly addresses muscle and bone loss as inadvertent consequences of GLP-1-driven weight loss and frames exercise and nutrition as essential co-interventions."
     }
   ]
 }
